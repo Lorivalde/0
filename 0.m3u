@@ -1,6 +1,6 @@
 #EXTM3U
 "#EXTINF:-1 tvg-id=""casaecozinha.pt"" tvg-name=""Casa e Cozinha"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/d4ee9b446cc63844d9c2fbf86fded3d4.png"" group-title=""Portugal ➾ LifeStyle"",PT: Casa e Cozinha"
-http://37.49.225.197:8080/Dooby/VuKbLSZxPA5Y4ywHQWr39p/6097
+http://37.49.225.197:8080/Test2/25baa64f/6097
 "#EXTINF:-1 tvg-id="""" tvg-name=""Boomerang"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/871261a4089358903b96c27d13de2f1f.png"" group-title=""Portugal ➾ Kids"",Boomerang"
 http://37.49.225.197:8080/hanadomi/86199c6d/24529
 "#EXTINF:-1 tvg-id="""" tvg-name=""Canal Panda"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/29f1c10d6d10f0dba48ef1ab8f5650a1.png"" group-title=""Portugal ➾ Kids"",Canal Panda"
@@ -939,73 +939,31 @@ http://37.49.225.197:8080/hanadomi/86199c6d/300363
 http://37.49.225.197:8080/hanadomi/86199c6d/300364
 "#EXTINF:-1 tvg-id="""" tvg-name=""WinMax"" tvg-logo=""http://s3.i3ns.net:2052/cs/etc/blank-icon.png"" group-title=""France"",WinMax"
 http://37.49.225.197:8080/hanadomi/86199c6d/300365
-"#EXTINF:-1 tvg-id="""" tvg-name=""BENFICA TV FHD"" tvg-logo=""http://www.tv-logo.com/pt-data/uploads/images/logo/benfica_tv.jpg"" group-title=""Portugal Esportes"",BENFICA TV 1 FHD"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4651.ts
-#EXTINF:-1,BENFICA TV HD
-http://tlpires.com:8080/ganhar5/36282b8j68f/31
-#EXTINF:-1,BENFICA TV
-http://tlpires.com:8080/ganhar5/36282b8j68f/30
-"#EXTINF:-1 tvg-id=""eleven.sports.1.pt"" tvg-name=""Eleven Sports 1 FHD"" tvg-logo=""https://vtpi-logo.xyz/logos/4670.png"" group-title=""Portugal Esportes"",Eleven Sports 1 FHD (back up)"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4670.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.1.pt"" tvg-name=""Eleven Sports 1 FHD 1080"" tvg-logo=""https://vtpi-logo.xyz/logos/4669.png"" group-title=""Portugal Esportes"",Eleven Sports 1 FHD 1080"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4669.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.1.pt"" tvg-name=""Eleven Sports 1 HD 720"" tvg-logo=""https://vtpi-logo.xyz/logos/4671.png"" group-title=""Portugal Esportes"",Eleven Sports 1 HD 720"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4671.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.1.pt"" tvg-name=""Eleven Sports 1 SD"" tvg-logo=""https://vtpi-logo.xyz/logos/4672.png"" group-title=""Portugal Esportes"",Eleven Sports 1 SD"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4672.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.2.pt"" tvg-name=""Eleven Sports 2 FHD 1080"" tvg-logo=""https://vtpi-logo.xyz/logos/4673.png"" group-title=""Portugal Esportes"",Eleven Sports 2 FHD 1080"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4673.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.2.pt"" tvg-name=""Eleven Sports 2 HD"" tvg-logo=""https://vtpi-logo.xyz/logos/4674.png"" group-title=""Portugal Esportes"",Eleven Sports 2 HD"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4674.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.2.pt"" tvg-name=""Eleven Sports 2 HD 720"" tvg-logo=""https://vtpi-logo.xyz/logos/4675.png"" group-title=""Portugal Esportes"",Eleven Sports 2 HD 720"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4675.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.2.pt"" tvg-name=""Eleven Sports 2 SD"" tvg-logo=""https://vtpi-logo.xyz/logos/4676.png"" group-title=""Portugal Esportes"",Eleven Sports 2 SD"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4676.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.3.pt"" tvg-name=""Eleven Sports 3 FHD 1080"" tvg-logo=""https://vtpi-logo.xyz/logos/4677.png"" group-title=""Portugal Esportes"",Eleven Sports 3 FHD 1080"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4677.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.3.pt"" tvg-name=""Eleven Sports 3 HD 720"" tvg-logo=""https://vtpi-logo.xyz/logos/4678.png"" group-title=""Portugal Esportes"",Eleven Sports 3 HD 720"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4678.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.3.pt"" tvg-name=""Eleven Sports 3 SD"" tvg-logo=""https://vtpi-logo.xyz/logos/4679.png"" group-title=""Portugal Esportes"",Eleven Sports 3 SD"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4679.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.3.pt"" tvg-name=""Eleven Sports 3 SD"" tvg-logo=""https://vtpi-logo.xyz/logos/4680.png"" group-title=""Portugal Esportes"",Eleven Sports 3 SD (back up)"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4680.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.4.pt"" tvg-name=""Eleven Sports 4 FHD 1080"" tvg-logo=""https://vtpi-logo.xyz/logos/4682.png"" group-title=""Portugal Esportes"",Eleven Sports 4 FHD 1080"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4682.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.4.pt"" tvg-name=""Eleven Sports 4 HD 720"" tvg-logo=""https://vtpi-logo.xyz/logos/4683.png"" group-title=""Portugal Esportes"",Eleven Sports 4 HD 720"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4683.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.4.pt"" tvg-name=""Eleven Sports 4 SD"" tvg-logo=""https://vtpi-logo.xyz/logos/4684.png"" group-title=""Portugal Esportes"",Eleven Sports 4 SD"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4684.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.4.pt"" tvg-name=""Eleven Sports 4 SD"" tvg-logo=""https://vtpi-logo.xyz/logos/4685.png"" group-title=""Portugal Esportes"",Eleven Sports 4 SD (back up)"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4685.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.5.pt"" tvg-name=""Eleven Sports 5 FHD 1080"" tvg-logo=""https://vtpi-logo.xyz/logos/4686.png"" group-title=""Portugal Esportes"",Eleven Sports 5 FHD 1080"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4686.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.5.pt"" tvg-name=""Eleven Sports 5 HD 720"" tvg-logo=""https://vtpi-logo.xyz/logos/4687.png"" group-title=""Portugal Esportes"",Eleven Sports 5 HD 720"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4687.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.5.pt"" tvg-name=""Eleven Sports 5 SD"" tvg-logo=""https://vtpi-logo.xyz/logos/4688.png"" group-title=""Portugal Esportes"",Eleven Sports 5 SD"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4688.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.6.pt"" tvg-name=""Eleven Sports 6 FHD 1080"" tvg-logo=""https://vtpi-logo.xyz/logos/4689.png"" group-title=""Portugal Esportes"",Eleven Sports 6 FHD 1080"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4689.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.6.pt"" tvg-name=""Eleven Sports 6 HD 720"" tvg-logo=""https://vtpi-logo.xyz/logos/4690.png"" group-title=""Portugal Esportes"",Eleven Sports 6 HD 720"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4690.ts
-"#EXTINF:-1 tvg-id=""eleven.sports.6.pt"" tvg-name=""Eleven Sports 6 SD"" tvg-logo=""https://vtpi-logo.xyz/logos/4681.png"" group-title=""Portugal Esportes"",Eleven Sports 6 SD"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4681.ts
-"#EXTINF:-1 tvg-id=""sport.tv1.pt"" tvg-name=""Sport TV 1"" tvg-logo=""https://vtpi-logo.xyz/logos/4662.png"" group-title=""Portugal Esportes"",Sport TV 1"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4662.ts
-"#EXTINF:-1 tvg-id=""sport.tv1.pt"" tvg-name=""Sport TV 1 FHD"" tvg-logo=""https://vtpi-logo.xyz/logos/4660.png"" group-title=""Portugal Esportes"",Sport TV 1 FHD"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4660.ts
-"#EXTINF:-1 tvg-id=""sport.tv.1.pt"" tvg-name=""SPORT TV 1 HD"" tvg-logo=""https://vtpi-logo.xyz/logos/4661.png"" group-title=""Portugal Esportes"",SPORT TV 1 HD (720P)"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4661.ts
-"#EXTINF:-1 tvg-id=""sport.tv2.pt"" tvg-name=""Sport TV 2"" tvg-logo=""https://vtpi-logo.xyz/logos/4664.png"" group-title=""Portugal Esportes"",Sport TV 2"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4664.ts
-"#EXTINF:-1 tvg-id=""sport.tv2.pt"" tvg-name=""Sport TV 2 FHD"" tvg-logo=""https://vtpi-logo.xyz/logos/4663.png"" group-title=""Portugal Esportes"",Sport TV 2 FHD"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4663.ts
-"#EXTINF:-1 tvg-id=""sport.tv3.pt"" tvg-name=""Sport TV 3"" tvg-logo=""https://vtpi-logo.xyz/logos/4666.png"" group-title=""Portugal Esportes"",Sport TV 3"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4666.ts
-"#EXTINF:-1 tvg-id=""sport.tv3.pt"" tvg-name=""Sport TV 3 FHD"" tvg-logo=""https://vtpi-logo.xyz/logos/4665.png"" group-title=""Portugal Esportes"",Sport TV 3 FHD"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4665.ts
-"#EXTINF:-1 tvg-id=""sport.tv4.pt"" tvg-name=""Sport TV 4"" tvg-logo=""https://vtpi-logo.xyz/logos/4667.png"" group-title=""Portugal Esportes"",Sport TV 4"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4667.ts
-"#EXTINF:-1 tvg-id=""sport.tv5.pt"" tvg-name=""Sport TV 5"" tvg-logo=""https://vtpi-logo.xyz/logos/4668.png"" group-title=""Portugal Esportes"",Sport TV 5"
-http://ultra-iptv.xyz:8080/live/7vVdFSZUU3/u4GwNAY76d/4668.ts
-#EXTINF:-1,Sport TV 6
-http://tlpires.com:8080/ganhar5/36282b8j68f/32
+"#EXTINF:-1 tvg-id="""" tvg-name=""Benfica TV"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png"" group-title=""Portugal ➾ Football"",Benfica TV"
+http://37.49.225.197:8080/Test2/25baa64f/1497
+"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 1"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 1"
+http://37.49.225.197:8080/Test2/25baa64f/1499
+"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 2"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 2"
+http://37.49.225.197:8080/Test2/25baa64f/1503
+"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 3"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 3"
+http://37.49.225.197:8080/Test2/25baa64f/1506
+"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 4"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 4"
+http://37.49.225.197:8080/Test2/25baa64f/1509
+"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 5"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 5"
+http://37.49.225.197:8080/Test2/25baa64f/1512
+"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 6"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 6"
+http://37.49.225.197:8080/Test2/25baa64f/1515
+"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV +"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png"" group-title=""Portugal ➾ Sports"",SPORT TV +"
+http://37.49.225.197:8080/Test2/25baa64f/1481
+"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV 1"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png"" group-title=""Portugal ➾ Sports"",SPORT TV 1"
+http://37.49.225.197:8080/Test2/25baa64f/1483
+"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV 2"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png"" group-title=""Portugal ➾ Sports"",SPORT TV 2"
+http://37.49.225.197:8080/Test2/25baa64f/1486
+"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV 3"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png"" group-title=""Portugal ➾ Sports"",SPORT TV 3"
+http://37.49.225.197:8080/Test2/25baa64f/1489
+"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV 4"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png"" group-title=""Portugal ➾ Sports"",SPORT TV 4"
+http://37.49.225.197:8080/Test2/25baa64f/1492
+"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV 5"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png"" group-title=""Portugal ➾ Sports"",SPORT TV 5"
+http://37.49.225.197:8080/Test2/25baa64f/1495
+"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV 6"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png"" group-title=""Portugal ➾ Sports"",SPORT TV 6"
+http://37.49.225.197:8080/Test2/25baa64f/281487
