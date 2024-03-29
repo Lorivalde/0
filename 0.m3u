@@ -941,31 +941,25 @@ http://37.49.225.197:8080/hanadomi/86199c6d/300364
 http://37.49.225.197:8080/hanadomi/86199c6d/300365
 #EXTINF:-1,Benfica TV HD
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112010
-"#EXTINF:-1 tvg-id="""" tvg-name=""Benfica TV"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/ce7c9696313070a9238ade6d0b8c6c67.png"" group-title=""Portugal ➾ Football"",Benfica TV"
-http://37.49.225.197:8080/Test2/25baa64f/1497
-"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 1"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 1"
-http://37.49.225.197:8080/Test2/25baa64f/1499
-"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 2"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 2"
-http://37.49.225.197:8080/Test2/25baa64f/1503
-"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 3"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 3"
-http://37.49.225.197:8080/Test2/25baa64f/1506
-"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 4"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 4"
-http://37.49.225.197:8080/Test2/25baa64f/1509
-"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 5"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 5"
-http://37.49.225.197:8080/Test2/25baa64f/1512
-"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 6"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 6"
-http://37.49.225.197:8080/Test2/25baa64f/1515
-"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV +"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png"" group-title=""Portugal ➾ Sports"",SPORT TV +"
-http://37.49.225.197:8080/Test2/25baa64f/1481
-"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV 1"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png"" group-title=""Portugal ➾ Sports"",SPORT TV 1"
-http://37.49.225.197:8080/Test2/25baa64f/1483
-"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV 2"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png"" group-title=""Portugal ➾ Sports"",SPORT TV 2"
-http://37.49.225.197:8080/Test2/25baa64f/1486
-"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV 3"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png"" group-title=""Portugal ➾ Sports"",SPORT TV 3"
-http://37.49.225.197:8080/Test2/25baa64f/1489
-"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV 4"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png"" group-title=""Portugal ➾ Sports"",SPORT TV 4"
-http://37.49.225.197:8080/Test2/25baa64f/1492
-"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV 5"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png"" group-title=""Portugal ➾ Sports"",SPORT TV 5"
-http://37.49.225.197:8080/Test2/25baa64f/1495
-"#EXTINF:-1 tvg-id="""" tvg-name=""SPORT TV 6"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png"" group-title=""Portugal ➾ Sports"",SPORT TV 6"
-http://37.49.225.197:8080/Test2/25baa64f/281487
+#EXTINF:-1,Eleven Sport 1 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/273450
+#EXTINF:-1,Eleven Sport 2 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/273451
+#EXTINF:-1,Eleven Sport 3 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/273452
+#EXTINF:-1,Eleven Sport 5 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/273453
+#EXTINF:-1,Eleven Sport 6 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/273454
+#EXTINF:-1,SportTV 1 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/111995
+#EXTINF:-1,SportTV 2 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/111998
+#EXTINF:-1,SportTV 3 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112000
+#EXTINF:-1,SportTV 4 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112002
+#EXTINF:-1,SportTV 5 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112004
+#EXTINF:-1,SportTV 6 HD
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112006
