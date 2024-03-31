@@ -939,6 +939,12 @@ http://37.49.225.197:8080/hanadomi/86199c6d/300363
 http://37.49.225.197:8080/hanadomi/86199c6d/300364
 "#EXTINF:-1 tvg-id="""" tvg-name=""WinMax"" tvg-logo=""http://s3.i3ns.net:2052/cs/etc/blank-icon.png"" group-title=""France"",WinMax"
 http://37.49.225.197:8080/hanadomi/86199c6d/300365
+#EXTINF:-1 tvg-id="BenficaTV1.pt" tvg-name="BENFICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:AUGdWCqV7FR445qeZN7NtgrX5Xzox2jzXJ_6qyrVHO6x8XUiTlOSAeEnwH0JVYTL&s" group-title="PORTUGAL",BENFICA TV HD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58877.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BENFICA TV FHD" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="PORTUGAL",BENFICA TV FHD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/95819.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BENFICA TV" tvg-logo="http://one-iptv.com/imageslogo/BenficaTV1.pt.png" group-title="PORTUGAL",BENFICA TV
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58876.ts
 #EXTINF:-1,PT - Benfica TV
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61981
 #EXTINF:-1,PT - Benfica TV SD
@@ -947,6 +953,26 @@ http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/61984
 http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/61984
 #EXTINF:-1,PT - Benfica TV HD
 http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/61981
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="SPORT TV 1" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",|.PT.S.O| SPORT TV 1
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58879.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="SPORT TV 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV1.pt.png" group-title="PORTUGAL",|.PT.S.O| SPORT TV 1 HD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/31368.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 2
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58881.ts
+#EXTINF:-1 tvg-id="SportTV2.pt" tvg-name="SPORT TV 2 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV2.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 2 HD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58880.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="PORTUGAL",|.PT.S.O| SPORT TV 3
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58883.ts
+#EXTINF:-1 tvg-id="SportTV3.pt" tvg-name="SPORT TV 3 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV3.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 3 HD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58882.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 4
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58885.ts
+#EXTINF:-1 tvg-id="SportTV4.pt" tvg-name="SPORT TV 4 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV4.pt.png" group-title="PORTUGAL",|.PT.S.O| SPORT TV 4 HD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58884.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="PORTUGAL",|.PT.S.O| SPORT TV 5
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58887.ts
+#EXTINF:-1 tvg-id="SportTV5.pt" tvg-name="SPORT TV 5 HD" tvg-logo="http://one-iptv.com/imageslogo/SportTV5.pt.png" group-title="PORTUGAL",|.PT.S.| SPORT TV 5 HD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58886.ts
 #EXTINF:-1,PT - SPORT TV 1
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62071
 #EXTINF:-1,PT - SPORT TV 1 HD
@@ -963,15 +989,15 @@ http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62074
 http://2hubs.ddns.net:25461/Faucon1tvMT/g8pHKUYxwDhx/62082
 #EXTINF:-1,PT - Sport TV 5 HD
 http://2hubs.ddns.net:25461/solidtv/0elrXWdEdl/62082
-"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 1"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/dbe88e53a72f505010f15f778a3fd4c9.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 1"
-http://37.49.225.197:8080/hanadomi/86199c6d/1499
-"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 2"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/61327badbbea898c7c700b7fe81c55d8.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 2"
-http://37.49.225.197:8080/hanadomi/86199c6d/1503
-"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 3"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/b9c02901087946bb37b047d33f24a208.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 3"
-http://37.49.225.197:8080/hanadomi/86199c6d/1506
-"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 4"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/c17ab7ee9a7e3e32117fb1368ffb284c.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 4"
-http://37.49.225.197:8080/hanadomi/86199c6d/1509
-"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 5"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/c5409550875e0e1b4d38c0167efbf339.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 5"
-http://37.49.225.197:8080/hanadomi/86199c6d/1512
-"#EXTINF:-1 tvg-id="""" tvg-name=""ELEVEN SPORTS 6"" tvg-logo=""http://s3.i3ns.net:2052/portal/picon/2021-09/089df823b4a66ca080d161cdd412ff1b.png"" group-title=""Portugal ➾ Football"",ELEVEN SPORTS 6"
-http://37.49.225.197:8080/hanadomi/86199c6d/1515
+#EXTINF:-1 tvg-id="ElevenSports1.pt" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports1.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 1 HD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58888.ts
+#EXTINF:-1 tvg-id="ElevenSports2.pt" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports2.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 2 HD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58889.ts
+#EXTINF:-1 tvg-id="ElevenSports3.pt" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports3.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 3 HD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58890.ts
+#EXTINF:-1 tvg-id="ElevenSports4.pt" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 4 HD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58891.ts
+#EXTINF:-1 tvg-id="ElevenSports5.pt" tvg-name="ELEVEN SPORTS 5 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 5 HD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58892.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="ELEVEN SPORTS 6 HD" tvg-logo="http://one-iptv.com/imageslogo/ElevenSports4.pt.png" group-title="PORTUGAL",ELEVEN SPORTS 6 HD
+http://ipro.webvps.de:25443/live/V196unhQS7yeG/BMF7zk2wDg/58893.ts
