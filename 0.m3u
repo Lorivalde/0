@@ -810,7 +810,7 @@ http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1761&exten
 #EXTINF:-1 tvg-id="" tvg-name="Cine+ Frisson\u1d34\u1d30" group-title="FRENCH",Cine+ Frisson\u1d34\u1d30
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://37.49.225.197:8080/hanadomi/86199c6d/1895
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1762&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="Cine+ Emotion\u1d34\u1d30" group-title="FRENCH",Cine+ Emotion\u1d34\u1d30
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
