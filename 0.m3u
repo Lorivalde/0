@@ -1,4 +1,108 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 1\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145873&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 1\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145872&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 2\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145871&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 2\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145870&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 3\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145869&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 4\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145868&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 4\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145867&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 5\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145866&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 5\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145865&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 6\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145864&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV +\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV +\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145863&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 1\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145861&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 1\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145860&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 2\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145859&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 2\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145858&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 3\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145857&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 3\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145856&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 4\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145855&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 4\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145854&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 5\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145853&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 5\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145852&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 6\u1da0\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145851&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 6\u1d34\u1d30
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145850&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BENFICA TV" group-title="PORTUGUESE",BENFICA TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145849&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="Benfica TV" group-title="PORTUGUESE",Benfica TV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145820&extension=ts
+#EXTINF:-1 tvg-id="" tvg-name="BenficaTV" group-title="PORTUGUESE",BenficaTV
+#EXTVLCOPT:cache=17238
+#EXTVLCOPT:http-user-agent=Lavf53.32.100
+http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145819&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="PT: ZAP Viva HD" group-title="PORTUGAL",PT: ZAP Viva HD
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
