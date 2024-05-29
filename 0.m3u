@@ -423,11 +423,11 @@ http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145822&ext
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145821&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BTV 1\u1da0\u1d34\u1d30" group-title="PORTUGUESE",BTV 1\u1da0\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="Benfica TV" group-title="PORTUGUESE",Benfica TV
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145820&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BTV 1\u1d34\u1d30" group-title="PORTUGUESE",BTV 1\u1d34\u1d30
+#EXTINF:-1 tvg-id="" tvg-name="BenficaTV" group-title="PORTUGUESE",BenficaTV
 #EXTVLCOPT:cache=17238
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145819&extension=ts
