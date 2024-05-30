@@ -1,1168 +1,688 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CASA E COZINHA\u1da0\u1d34\u1d30" group-title="PORTUGUESE",CASA E COZINHA\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145836&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 1\u1da0\u1d34\u1d30" group-title="PORTUGUESE",RTP 1\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145926&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 1\u1d34\u1d30" group-title="PORTUGUESE",RTP 1\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145925&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 2\u1da0\u1d34\u1d30" group-title="PORTUGUESE",RTP 2\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145924&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 2\u1d34\u1d30" group-title="PORTUGUESE",RTP 2\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145923&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP 3\u1da0\u1d34\u1d30" group-title="PORTUGUESE",RTP 3\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145922&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP Arena\u1da0\u1d34\u1d30" group-title="PORTUGUESE",RTP Arena\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145921&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP AFRICA" group-title="PORTUGUESE",RTP AFRICA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145920&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP ACORES" group-title="PORTUGUESE",RTP ACORES
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145919&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP MADEIRA" group-title="PORTUGUESE",RTP MADEIRA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145918&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RTP MEMORIA" group-title="PORTUGUESE",RTP MEMORIA
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145917&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CNN PORTUGAL\u1da0\u1d34\u1d30" group-title="PORTUGUESE",CNN PORTUGAL\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145916&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE ACTION\u1da0\u1d34\u1d30" group-title="PORTUGUESE",TV CINE ACTION\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145915&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE ACTION\u1d34\u1d30" group-title="PORTUGUESE",TV CINE ACTION\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145914&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE EDITION\u1da0\u1d34\u1d30" group-title="PORTUGUESE",TV CINE EDITION\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145913&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE EDITION\u1d34\u1d30" group-title="PORTUGUESE",TV CINE EDITION\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145912&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE EMOTION\u1da0\u1d34\u1d30" group-title="PORTUGUESE",TV CINE EMOTION\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145911&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE EMOTION\u1d34\u1d30" group-title="PORTUGUESE",TV CINE EMOTION\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145910&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE TOP\u1da0\u1d34\u1d30" group-title="PORTUGUESE",TV CINE TOP\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145909&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINE TOP\u1d34\u1d30" group-title="PORTUGUESE",TV CINE TOP\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145908&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV CINES+\u1d34\u1d30" group-title="PORTUGUESE",TV CINES+\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145907&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI\u1da0\u1d34\u1d30" group-title="PORTUGUESE",TVI\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145906&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI\u1d34\u1d30" group-title="PORTUGUESE",TVI\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145905&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SIC\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145904&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC RADICAL\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SIC RADICAL\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145903&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC K\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SIC K\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145902&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC OPTO\u1d34\u1d30" group-title="PORTUGUESE",SIC OPTO\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145901&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC MULHER\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SIC MULHER\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145900&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC NOTICIAS\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SIC NOTICIAS\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145899&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC ADVANCE\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SIC ADVANCE\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145898&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SIC CARAS\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SIC CARAS\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145897&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI FICCAO\u1da0\u1d34\u1d30" group-title="PORTUGUESE",TVI FICCAO\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145896&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY\u1da0\u1d34\u1d30" group-title="PORTUGUESE",TVI REALITY\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145895&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Globo\u1d34\u1d30" group-title="PORTUGUESE",Globo\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145894&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 11\u1da0\u1d34\u1d30" group-title="PORTUGUESE",CANAL 11\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145893&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CINEMUNDO\u1da0\u1d34\u1d30" group-title="PORTUGUESE",CINEMUNDO\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145892&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="E!\u1da0\u1d34\u1d30" group-title="PORTUGUESE",E!\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145891&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX COMEDY\u1da0\u1d34\u1d30" group-title="PORTUGUESE",FOX COMEDY\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145890&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES\u1da0\u1d34\u1d30" group-title="PORTUGUESE",FOX MOVIES\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145889&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NOW\u1da0\u1d34\u1d30" group-title="PORTUGUESE",GLOBO NOW\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145888&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CANAL NOS\u1da0\u1d34\u1d30" group-title="PORTUGUESE",CANAL NOS\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145887&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN\u1da0\u1d34\u1d30" group-title="PORTUGUESE",AXN\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145886&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE\u1da0\u1d34\u1d30" group-title="PORTUGUESE",AXN WHITE\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145885&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN MOVIES\u1da0\u1d34\u1d30" group-title="PORTUGUESE",AXN MOVIES\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145884&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX CRIME\u1da0\u1d34\u1d30" group-title="PORTUGUESE",FOX CRIME\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145883&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE\u1da0\u1d34\u1d30" group-title="PORTUGUESE",FOX LIFE\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145882&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD\u1da0\u1d34\u1d30" group-title="PORTUGUESE",HOLLYWOOD\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145881&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL CHANNEL\u1da0\u1d34\u1d30" group-title="PORTUGUESE",TRAVEL CHANNEL\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145880&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK\u1da0\u1d34\u1d30" group-title="PORTUGUESE",AMC BREAK\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145879&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CM TV\u1da0\u1d34\u1d30" group-title="PORTUGUESE",CM TV\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145878&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ODISSEIA\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ODISSEIA\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145877&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Amc crime\u1da0\u1d34\u1d30" group-title="PORTUGUESE",Amc crime\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145876&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT NETWORK\u1da0\u1d34\u1d30" group-title="PORTUGUESE",FIGHT NETWORK\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145875&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORTING TV\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORTING TV\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145874&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 1\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145873&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 1\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145872&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 2\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145871&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 2\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145870&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 3\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145869&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 4\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145868&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 4\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145867&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 5\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145866&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 5\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145865&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV 6\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145864&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV +\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV +\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145863&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV NBA\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SPORT TV NBA\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145862&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 1\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145861&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 1\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145860&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 2\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145859&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 2\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145858&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 3\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145857&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 3\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145856&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 4\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145855&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 4\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 4\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145854&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 5\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145853&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 5\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 5\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145852&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 6\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145851&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 6\u1d34\u1d30" group-title="PORTUGUESE",ELEVEN SPORTS 6\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145850&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BENFICA TV\u1da0\u1d34\u1d30" group-title="PORTUGUESE",BENFICA TV\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145849&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="WRC\u1d34\u1d30" group-title="PORTUGUESE",WRC\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145848&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MOTORVISION\u1d34\u1d30" group-title="PORTUGUESE",MOTORVISION\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145847&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1\u1da0\u1d34\u1d30" group-title="PORTUGUESE",EUROSPORT 1\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145846&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2\u1da0\u1d34\u1d30" group-title="PORTUGUESE",EUROSPORT 2\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145845&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY\u1da0\u1d34\u1d30" group-title="PORTUGUESE",INVESTIGATION DISCOVERY\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145844&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC\u1da0\u1d34\u1d30" group-title="PORTUGUESE",NATIONAL GEOGRAPHIC\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145843&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC WILD\u1da0\u1d34\u1d30" group-title="PORTUGUESE",NATIONAL GEOGRAPHIC WILD\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145842&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ID INVESTIGATION DISCOVERY\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ID INVESTIGATION DISCOVERY\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145841&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DOG TV\u1da0\u1d34\u1d30" group-title="PORTUGUESE",DOG TV\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145840&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="CACA E PESCA\u1da0\u1d34\u1d30" group-title="PORTUGUESE",CACA E PESCA\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145839&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA\u1da0\u1d34\u1d30" group-title="PORTUGUESE",HISTORIA\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145838&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="24 KITCHEN\u1da0\u1d34\u1d30" group-title="PORTUGUESE",24 KITCHEN\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145837&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FUEL TV\u1da0\u1d34\u1d30" group-title="PORTUGUESE",FUEL TV\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145835&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="A BOLA\u1da0\u1d34\u1d30" group-title="PORTUGUESE",A BOLA\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145834&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="SAUDE+\u1da0\u1d34\u1d30" group-title="PORTUGUESE",SAUDE+\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145833&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV RECORD\u1da0\u1d34\u1d30" group-title="PORTUGUESE",TV RECORD\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145832&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PANDA BIGGS" group-title="PORTUGUESE",PANDA BIGGS
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145831&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick +\u1d34\u1d30" group-title="PORTUGUESE",Nick +\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145830&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids\u1da0\u1d34\u1d30" group-title="PORTUGUESE",Lolly Kids\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145829&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal Panda\u1da0\u1d34\u1d30" group-title="PORTUGUESE",Canal Panda\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145828&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY+\u1d34\u1d30" group-title="PORTUGUESE",DISNEY+\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145827&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="JIM JAM\u1d34\u1d30" group-title="PORTUGUESE",JIM JAM\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145826&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY STAR WARS\u1d34\u1d30" group-title="PORTUGUESE",DISNEY STAR WARS\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145825&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY PIXAR\u1d34\u1d30" group-title="PORTUGUESE",DISNEY PIXAR\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145824&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY MARVEL\u1d34\u1d30" group-title="PORTUGUESE",DISNEY MARVEL\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145823&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MARVEL\u1d34\u1d30" group-title="PORTUGUESE",MARVEL\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145822&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NOS STUDIOS\u1da0\u1d34\u1d30" group-title="PORTUGUESE",NOS STUDIOS\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145821&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Benfica TV" group-title="PORTUGUESE",Benfica TV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145820&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BenficaTV" group-title="PORTUGUESE",BenficaTV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145819&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PORTO CANAL\u1da0\u1d34\u1d30" group-title="PORTUGUESE",PORTO CANAL\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145818&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="KBS WORLD\u1d34\u1d30" group-title="PORTUGUESE",KBS WORLD\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145817&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN\u1da0\u1d34\u1d30" group-title="PORTUGUESE",TRACE URBAN\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145816&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="ZAP VIVA\u1da0\u1d34\u1d30" group-title="PORTUGUESE",ZAP VIVA\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145815&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Mezzo Live\u1da0\u1d34\u1d30" group-title="PORTUGUESE",Mezzo Live\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145814&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Stingray Iconcerts\u1da0\u1d34\u1d30" group-title="PORTUGUESE",Stingray Iconcerts\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145813&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="I Concerts\u1da0\u1d34\u1d30" group-title="PORTUGUESE",I Concerts\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145812&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AlmaLusa\u1da0\u1d34\u1d30" group-title="PORTUGUESE",AlmaLusa\u1da0\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145811&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MCM POP\u1d34\u1d30" group-title="PORTUGUESE",MCM POP\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145810&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV PORTUGAL\u1d34\u1d30" group-title="PORTUGUESE",MTV PORTUGAL\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145809&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV 00's\u1d34\u1d30" group-title="PORTUGUESE",MTV 00's\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145808&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TRACE TOCA\u1d34\u1d30" group-title="PORTUGUESE",TRACE TOCA\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145807&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TRACE URBAN\u1d34\u1d30" group-title="PORTUGUESE",TRACE URBAN\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145806&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AFRO MUSIC\u1d34\u1d30" group-title="PORTUGUESE",AFRO MUSIC\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145805&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PORTO CANAL\u1d34\u1d30" group-title="PORTUGUESE",PORTO CANAL\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145804&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMARA 1\u1d34\u1d30" group-title="PORTUGUESE",TVI REALITY CAMARA 1\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145803&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMARA 2\u1d34\u1d30" group-title="PORTUGUESE",TVI REALITY CAMARA 2\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145802&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMARA 3\u1d34\u1d30" group-title="PORTUGUESE",TVI REALITY CAMARA 3\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145801&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY CAMARA 4\u1d34\u1d30" group-title="PORTUGUESE",TVI REALITY CAMARA 4\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=145800&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TF1\u1d34\u1d30" group-title="FRENCH",TF1\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1695&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u1d34\u1d30TF1\u1d41\u1d40\u1d9c\u207b\u2076" group-title="FRENCH",\u1d34\u1d30TF1\u1d41\u1d40\u1d9c\u207b\u2076
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1696&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TF1+\u1d34\u1d30" group-title="FRENCH",TF1+\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=221366&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="M6\u1d34\u1d30" group-title="FRENCH",M6\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1697&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u1d34\u1d30M6\u1d41\u1d40\u1d9c\u207b\u2076" group-title="FRENCH",\u1d34\u1d30M6\u1d41\u1d40\u1d9c\u207b\u2076
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1698&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="M6 International" group-title="FRENCH",M6 International
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=112972&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="France 1 Saint Pierre et Miquelon\u1d34\u1d30" group-title="FRENCH",France 1 Saint Pierre et Miquelon\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1701&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MARTINIQUE PREMI\u00caRE" group-title="FRENCH",MARTINIQUE PREMI\u00caRE
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=286391&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="France 2\u1d34\u1d30" group-title="FRENCH",France 2\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1702&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2" group-title="FRENCH",FRANCE 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=123481&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u1d34\u1d30France 2\u1d41\u1d40\u1d9c\u207b\u2076" group-title="FRENCH",\u1d34\u1d30France 2\u1d41\u1d40\u1d9c\u207b\u2076
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1703&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="France 3\u1d34\u1d30" group-title="FRENCH",France 3\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1704&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3" group-title="FRENCH",FRANCE 3
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=123581&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u1d34\u1d30France 3\u1d41\u1d40\u1d9c\u207b\u2076" group-title="FRENCH",\u1d34\u1d30France 3\u1d41\u1d40\u1d9c\u207b\u2076
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1705&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="France 4\u1d34\u1d30" group-title="FRENCH",France 4\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1706&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4" group-title="FRENCH",FRANCE 4
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=123582&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u1d34\u1d30France 4\u1d41\u1d40\u1d9c\u207b\u2076" group-title="FRENCH",\u1d34\u1d30France 4\u1d41\u1d40\u1d9c\u207b\u2076
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1707&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="France 5\u1d34\u1d30" group-title="FRENCH",France 5\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1708&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5" group-title="FRENCH",FRANCE 5
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=123583&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u1d34\u1d30France 5\u1d41\u1d40\u1d9c\u207b\u2076" group-title="FRENCH",\u1d34\u1d30France 5\u1d41\u1d40\u1d9c\u207b\u2076
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1709&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BFM\u1d34\u1d30" group-title="FRENCH",BFM\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1710&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="LCI\u1d34\u1d30" group-title="FRENCH",LCI\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1711&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Euronews\u1d34\u1d30" group-title="FRENCH",Euronews\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1712&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TV5 \u1d34\u1d30" group-title="FRENCH",TV5 \u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1713&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="France Info\u1d34\u1d30" group-title="FRENCH",France Info\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1714&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Cnews\u1d34\u1d30" group-title="FRENCH",Cnews\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1715&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="France 24 Francais" group-title="FRENCH",France 24 Francais
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1716&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="LCP News24" group-title="FRENCH",LCP News24
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=144016&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="BET\u1d34\u1d30" group-title="FRENCH",BET\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1718&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="C8\u1d34\u1d30" group-title="FRENCH",C8\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1719&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u1d34\u1d30C8\u1d41\u1d40\u1d9c\u207b\u2076" group-title="FRENCH",\u1d34\u1d30C8\u1d41\u1d40\u1d9c\u207b\u2076
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1720&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="W9\u1d34\u1d30" group-title="FRENCH",W9\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1721&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u1d34\u1d30W9\u1d41\u1d40\u1d9c\u207b\u2076" group-title="FRENCH",\u1d34\u1d30W9\u1d41\u1d40\u1d9c\u207b\u2076
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1722&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TF1 Serie Film\u1d34\u1d30" group-title="FRENCH",TF1 Serie Film\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1723&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="\u1d34\u1d30TF1 Serie Film\u1d41\u1d40\u1d9c\u207b\u2076" group-title="FRENCH",\u1d34\u1d30TF1 Serie Film\u1d41\u1d40\u1d9c\u207b\u2076
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=128499&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="6TER\u1d34\u1d30" group-title="FRENCH",6TER\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1724&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Paris Premiere\u1d34\u1d30" group-title="FRENCH",Paris Premiere\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1725&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="13Eme Rue\u1d34\u1d30" group-title="FRENCH",13Eme Rue\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1726&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TFX\u1d34\u1d30" group-title="FRENCH",TFX\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1727&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedie Plus\u1d34\u1d30" group-title="FRENCH",Comedie Plus\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1728&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Crime District\u1d34\u1d30" group-title="FRENCH",Crime District\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1729&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Syfy Francais\u1d34\u1d30" group-title="FRENCH",Syfy Francais\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1730&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Polar+\u1d34\u1d30" group-title="FRENCH",Polar+\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1732&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel\u1d34\u1d30" group-title="FRENCH",Paramount Channel\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1733&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Decale\u1d34\u1d30" group-title="FRENCH",Paramount Decale\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1734&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Serie Club\u1d34\u1d30" group-title="FRENCH",Serie Club\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1735&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Warner\u1d34\u1d30" group-title="FRENCH",Warner\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1736&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Breizh\u1d34\u1d30" group-title="FRENCH",Breizh\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1737&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Novelas\u1d34\u1d30" group-title="FRENCH",Novelas\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1738&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Nollywood EPIC" group-title="FRENCH",Nollywood EPIC
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=18228&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="A+\u1d34\u1d30" group-title="FRENCH",A+\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1740&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TCM Cinema\u1d34\u1d30" group-title="FRENCH",TCM Cinema\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1741&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TMC\u1d34\u1d30" group-title="FRENCH",TMC\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1742&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Teva\u1d34\u1d30" group-title="FRENCH",Teva\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1743&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Nauticle Channel\u1d34\u1d30" group-title="FRENCH",Nauticle Channel\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=143061&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC Story\u1d34\u1d30" group-title="FRENCH",RMC Story\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1744&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="AB1\u1d34\u1d30" group-title="FRENCH",AB1\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1745&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Cstar\u1d34\u1d30" group-title="FRENCH",Cstar\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1746&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Action\u1d34\u1d30" group-title="FRENCH",Action\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1747&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="E!\u1d34\u1d30" group-title="FRENCH",E!\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1748&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Cherie 25\u1d34\u1d30" group-title="FRENCH",Cherie 25\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1749&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NRJ 12\u1d34\u1d30" group-title="FRENCH",NRJ 12\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1751&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="OCS Geants\u1d34\u1d30" group-title="FRENCH",OCS Geants\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1753&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="OCS Choc\u1d34\u1d30" group-title="FRENCH",OCS Choc\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1754&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="OCS Max\u1d34\u1d30" group-title="FRENCH",OCS Max\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1755&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="OCS City\u1d34\u1d30" group-title="FRENCH",OCS City\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1756&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Docs\u1d34\u1d30" group-title="FRENCH",Canal+ Docs\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=122690&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+\u1d34\u1d30" group-title="FRENCH",Canal+\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1757&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Cinema\u1d34\u1d30" group-title="FRENCH",Canal+ Cinema\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=126851&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Decale\u1d34\u1d30" group-title="FRENCH",Canal+ Decale\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1758&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Serie\u1d34\u1d30" group-title="FRENCH",Canal+ Serie\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1759&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Family\u1d34\u1d30" group-title="FRENCH",Canal+ Family\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1760&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Canal+ Foot\u1d34\u1d30" group-title="FRENCH",Canal+ Foot\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=155193&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="C+ Grand Ecran\u1d34\u1d30" group-title="FRENCH",C+ Grand Ecran\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=132834&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Premier\u1d34\u1d30" group-title="FRENCH",Cine+ Premier\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1761&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Frisson\u1d34\u1d30" group-title="FRENCH",Cine+ Frisson\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1762&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Emotion\u1d34\u1d30" group-title="FRENCH",Cine+ Emotion\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1763&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Classic\u1d34\u1d30" group-title="FRENCH",Cine+ Classic\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1764&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Famiz\u1d34\u1d30" group-title="FRENCH",Cine+ Famiz\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1765&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Cine+ Club\u1d34\u1d30" group-title="FRENCH",Cine+ Club\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1766&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Arte\u1d34\u1d30" group-title="FRENCH",Arte\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1767&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Ushuaia\u1d34\u1d30" group-title="FRENCH",Ushuaia\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1768&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic\u1d34\u1d30" group-title="FRENCH",National Geographic\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1770&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="National Wild\u1d34\u1d30" group-title="FRENCH",National Wild\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1771&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel\u1d34\u1d30" group-title="FRENCH",Discovery Channel\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1772&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery ID\u1d34\u1d30" group-title="FRENCH",Discovery ID\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1773&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery SC\u1d34\u1d30" group-title="FRENCH",Discovery SC\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1775&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Seasons\u1d34\u1d30" group-title="FRENCH",Seasons\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1777&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Chasse & Peche\u1d34\u1d30" group-title="FRENCH",Chasse & Peche\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1778&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Animaux\u1d34\u1d30" group-title="FRENCH",Animaux\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1779&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Planet +\u1d34\u1d30" group-title="FRENCH",Planet +\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1780&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Planet CI\u1d34\u1d30" group-title="FRENCH",Planet CI\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1781&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Planet A et E\u1d34\u1d30" group-title="FRENCH",Planet A et E\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1782&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Science et Vie\u1d34\u1d30" group-title="FRENCH",Science et Vie\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1783&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC Decouverte\u1d34\u1d30" group-title="FRENCH",RMC Decouverte\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1784&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Toute Lhistoire\u1d34\u1d30" group-title="FRENCH",Toute Lhistoire\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1785&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Histoire\u1d34\u1d30" group-title="FRENCH",Histoire\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1786&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Cstar Hits France" group-title="FRENCH",Cstar Hits France
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=54824&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Trek\u1d34\u1d30" group-title="FRENCH",Trek\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1787&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RFM\u1d34\u1d30 Francais" group-title="FRENCH",RFM\u1d34\u1d30 Francais
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1788&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV\u1d34\u1d30" group-title="FRENCH",MTV\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1789&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Djazz\u1d34\u1d30" group-title="FRENCH",Djazz\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1790&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MCM\u1d34\u1d30" group-title="FRENCH",MCM\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1791&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="NRJ Hits\u1d34\u1d30" group-title="FRENCH",NRJ Hits\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1793&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MTV Hits\u1d34\u1d30" group-title="FRENCH",MTV Hits\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1794&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="M6 Music\u1d34\u1d30" group-title="FRENCH",M6 Music\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1795&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="**Amazon Prime Lige 1**" group-title="SPORTS FR/EN/AR",**Amazon Prime Lige 1**
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=129778&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 1: Amazon Prime 1" group-title="SPORTS FR/EN/AR",Lige 1: Amazon Prime 1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=120830&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 1: Amazon Prime 2" group-title="SPORTS FR/EN/AR",Lige 1: Amazon Prime 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=120846&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 1: Amazon Prime 3" group-title="SPORTS FR/EN/AR",Lige 1: Amazon Prime 3
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=120847&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 1: Amazon Prime 4" group-title="SPORTS FR/EN/AR",Lige 1: Amazon Prime 4
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=120848&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 1: Amazon Prime 5" group-title="SPORTS FR/EN/AR",Lige 1: Amazon Prime 5
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=120849&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 1: Amazon Prime 6" group-title="SPORTS FR/EN/AR",Lige 1: Amazon Prime 6
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=120850&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 1: Amazon Prime 7" group-title="SPORTS FR/EN/AR",Lige 1: Amazon Prime 7
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=120851&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 1: Amazon Prime 8" group-title="SPORTS FR/EN/AR",Lige 1: Amazon Prime 8
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=120852&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Prime Multiplex" group-title="SPORTS FR/EN/AR",Amazon Prime Multiplex
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=121464&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Amazon Dimanche Soir Football" group-title="SPORTS FR/EN/AR",Amazon Dimanche Soir Football
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=120845&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="**Amazon Prime Lige 2**" group-title="SPORTS FR/EN/AR",**Amazon Prime Lige 2**
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=151790&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 2: Amazon Prime 1" group-title="SPORTS FR/EN/AR",Lige 2: Amazon Prime 1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=151798&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 2: Amazon Prime 2" group-title="SPORTS FR/EN/AR",Lige 2: Amazon Prime 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=151797&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 2: Amazon Prime 3" group-title="SPORTS FR/EN/AR",Lige 2: Amazon Prime 3
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=151796&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 2: Amazon Prime 4" group-title="SPORTS FR/EN/AR",Lige 2: Amazon Prime 4
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=151795&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 2: Amazon Prime 5" group-title="SPORTS FR/EN/AR",Lige 2: Amazon Prime 5
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=151794&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 2: Amazon Prime 6" group-title="SPORTS FR/EN/AR",Lige 2: Amazon Prime 6
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=151793&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 2: Amazon Prime 7" group-title="SPORTS FR/EN/AR",Lige 2: Amazon Prime 7
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=151792&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 2: Amazon Prime 8" group-title="SPORTS FR/EN/AR",Lige 2: Amazon Prime 8
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=151791&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Lige 2: Amazon Prime Multiplex" group-title="SPORTS FR/EN/AR",Lige 2: Amazon Prime Multiplex
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=151799&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="*****Premier League*****" group-title="SPORTS FR/EN/AR",*****Premier League*****
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=156872&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Premier League 1" group-title="SPORTS FR/EN/AR",EPL: Premier League 1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=156862&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Premier League 2" group-title="SPORTS FR/EN/AR",EPL: Premier League 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=156848&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Premier League 3" group-title="SPORTS FR/EN/AR",EPL: Premier League 3
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=156837&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Premier League 4" group-title="SPORTS FR/EN/AR",EPL: Premier League 4
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=156836&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Premier League 5" group-title="SPORTS FR/EN/AR",EPL: Premier League 5
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=156835&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Premier League 7" group-title="SPORTS FR/EN/AR",EPL: Premier League 7
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=156820&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Premier League 6" group-title="SPORTS FR/EN/AR",EPL: Premier League 6
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=156834&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="EPL: Premier League 8" group-title="SPORTS FR/EN/AR",EPL: Premier League 8
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=156819&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 1" group-title="SPORTS FR/EN/AR",Now Sports 1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=156805&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 2" group-title="SPORTS FR/EN/AR",Now Sports 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=156863&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 3" group-title="SPORTS FR/EN/AR",Now Sports 3
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=229832&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 4" group-title="SPORTS FR/EN/AR",Now Sports 4
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=229833&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 5" group-title="SPORTS FR/EN/AR",Now Sports 5
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=229834&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 6" group-title="SPORTS FR/EN/AR",Now Sports 6
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=229835&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 7" group-title="SPORTS FR/EN/AR",Now Sports 7
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=229836&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1\u1d34\u1d30" group-title="SPORTS FR/EN/AR",RMC Sport 1\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1841&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2\u1d34\u1d30" group-title="SPORTS FR/EN/AR",RMC Sport 2\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1842&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 1" group-title="SPORTS FR/EN/AR",MULTISPORTS 1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=109731&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 2" group-title="SPORTS FR/EN/AR",MULTISPORTS 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=109732&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 3" group-title="SPORTS FR/EN/AR",MULTISPORTS 3
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=109733&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 4" group-title="SPORTS FR/EN/AR",MULTISPORTS 4
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=109734&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 5" group-title="SPORTS FR/EN/AR",MULTISPORTS 5
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=109735&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="MULTISPORTS 6" group-title="SPORTS FR/EN/AR",MULTISPORTS 6
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=109736&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 3\u1d34\u1d30" group-title="SPORTS FR/EN/AR",RMC Sport 3\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1843&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4\u1d34\u1d30" group-title="SPORTS FR/EN/AR",RMC Sport 4\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1844&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Infosport+\u1d34\u1d30" group-title="SPORTS FR/EN/AR",Infosport+\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1831&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Golf+\u1d34\u1d30" group-title="SPORTS FR/EN/AR",Golf+\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1832&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Foot+ 24/24\u1d34\u1d30" group-title="SPORTS FR/EN/AR",Foot+ 24/24\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1833&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1\u1d34\u1d30" group-title="SPORTS FR/EN/AR",Eurosport 1\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1834&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2\u1d34\u1d30" group-title="SPORTS FR/EN/AR",Eurosport 2\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1835&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Auto Moto\u1d34\u1d30" group-title="SPORTS FR/EN/AR",Auto Moto\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1836&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Equipe 21\u1d34\u1d30" group-title="SPORTS FR/EN/AR",Equipe 21\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1837&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="Equidia\u1d34\u1d30" group-title="SPORTS FR/EN/AR",Equidia\u1d34\u1d30
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1840&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PickleTV" group-title="SPORTS FR/EN/AR",PickleTV
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=280426&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TVA Sport 1" group-title="SPORTS FR/EN/AR",TVA Sport 1
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1855&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="TVA Sport 2" group-title="SPORTS FR/EN/AR",TVA Sport 2
-#EXTVLCOPT:cache=17238
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://diablo-pro.com:2095/play/live.php?mac=00:1A:79:C7:30:37&stream=1856&extension=ts
+"#EXTINF:-1 tvg-id=""rtp.1.pt"" tvg-name=""PT051:RTP 1"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT051RTP1.png"" group-title=""PT General"",PT051:RTP 1"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3199
+"#EXTINF:-1 tvg-id=""rtp.2.pt"" tvg-name=""PT052:RTP 2"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT052RTP2.png"" group-title=""PT General"",PT052:RTP 2"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3198
+"#EXTINF:-1 tvg-id=""rtp.3.pt"" tvg-name=""PT053:RTP 3"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT053RTP3.png"" group-title=""PT General"",PT053:RTP 3"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3197
+"#EXTINF:-1 tvg-id=""sic.pt"" tvg-name=""PT054:SIC"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT054Sic.png"" group-title=""PT General"",PT054:SIC"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3196
+"#EXTINF:-1 tvg-id=""sic.mulher.pt"" tvg-name=""PT055:SIC Mulher"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT055SICMulher.png"" group-title=""PT General"",PT055:SIC Mulher"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3195
+"#EXTINF:-1 tvg-id=""sic.noticias.pt"" tvg-name=""PT056:SIC Noticias"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT056SICNoticias.png"" group-title=""PT General"",PT056:SIC Noticias"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3194
+"#EXTINF:-1 tvg-id=""sic.radical.pt"" tvg-name=""PT057:SIC Radical"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT057SICRadical.png"" group-title=""PT General"",PT057:SIC Radical"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3193
+"#EXTINF:-1 tvg-id=""sic.caras.pt"" tvg-name=""PT153:SIC Caras"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT153SIC CARAS FHD.png"" group-title=""PT General"",PT153:SIC Caras"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29337
+"#EXTINF:-1 tvg-id=""syfy.pt"" tvg-name=""PT065:SYFY"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT065SYFY.png"" group-title=""PT General"",PT065:SYFY"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3185
+"#EXTINF:-1 tvg-id=""tlc.pt"" tvg-name=""PT066:TLC"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT066TLC.png"" group-title=""PT General"",PT066:TLC"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3184
+"#EXTINF:-1 tvg-id=""travel.pt"" tvg-name=""PT068:Travel Channel"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT068TravelChannel.png"" group-title=""PT General"",PT068:Travel Channel"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3182
+"#EXTINF:-1 tvg-id=""tv.galicia.pt"" tvg-name=""PT073:TV Galicia"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT073TVGalicia.png"" group-title=""PT General"",PT073:TV Galicia"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3177
+"#EXTINF:-1 tvg-id=""record.pt"" tvg-name=""PT075:TV Record"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT075TVRecord.png"" group-title=""PT General"",PT075:TV Record"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3175
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT076:Fashion TV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT076"" group-title=""PT General"",PT076:Fashion TV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3174
+"#EXTINF:-1 tvg-id=""tvi.pt"" tvg-name=""PT077:TVI"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT077TVI.png"" group-title=""PT General"",PT077:TVI"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3173
+"#EXTINF:-1 tvg-id=""tvi24.pt"" tvg-name=""PT078:TVI 24"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT078TVI24.png"" group-title=""PT General"",PT078:TVI 24"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3172
+"#EXTINF:-1 tvg-id=""tvi.reality.pt"" tvg-name=""PT081:TVI Reality"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT081TVIREALITY.png"" group-title=""PT General"",PT081:TVI Reality"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29409
+"#EXTINF:-1 tvg-id=""tvi.ficcao.pt"" tvg-name=""PT109:TVI Ficcao HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT109TVI FICCAO.png"" group-title=""PT General"",PT109:TVI Ficcao HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29381
+"#EXTINF:-1 tvg-id=""vh1.pt"" tvg-name=""PT079:VH1"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT079VH1.png"" group-title=""PT General"",PT079:VH1"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3171
+"#EXTINF:-1 tvg-id=""vh1.pt"" tvg-name=""PT080:VH1 Classic"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT080VH1Classic.png"" group-title=""PT General"",PT080:VH1 Classic"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3170
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT082:TVC HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT082TVC.png"" group-title=""PT General"",PT082:TVC HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29408
+"#EXTINF:-1 tvg-id=""food.network.pt"" tvg-name=""PT083:Foods Network"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT083FoodsNetwork.png"" group-title=""PT General"",PT083:Foods Network"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29407
+"#EXTINF:-1 tvg-id=""clubbing.pt"" tvg-name=""PT084:Clubbing TV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT084"" group-title=""PT General"",PT084:Clubbing TV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29406
+"#EXTINF:-1 tvg-id=""rtp.memoria.pt"" tvg-name=""PT085:BomSom"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT085"" group-title=""PT General"",PT085:BomSom"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29405
+"#EXTINF:-1 tvg-id=""rtp.africa.pt"" tvg-name=""PT086:RTP Africa"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT086RTPáFRICA.png"" group-title=""PT General"",PT086:RTP Africa"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29404
+"#EXTINF:-1 tvg-id=""rtp.acores.pt"" tvg-name=""PT087:RTP ACORES"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT087RTPACORES.png"" group-title=""PT General"",PT087:RTP ACORES"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29403
+"#EXTINF:-1 tvg-id=""rtp.madeira.pt"" tvg-name=""PT088:RTP MADEIRA"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT088RTPMADEIRA.png"" group-title=""PT General"",PT088:RTP MADEIRA"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29402
+"#EXTINF:-1 tvg-id=""cmtv.pt"" tvg-name=""PT094:Azores TV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT09"" group-title=""PT General"",PT094:Azores TV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29396
+"#EXTINF:-1 tvg-id=""panda.pt"" tvg-name=""PT095:Galeria"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT095"" group-title=""PT General"",PT095:Galeria"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29395
+"#EXTINF:-1 tvg-id=""canal.q.pt"" tvg-name=""PT096:CANAL Q"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT096CANALQ.png"" group-title=""PT General"",PT096:CANAL Q"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29394
+"#EXTINF:-1 tvg-id=""24.kitchen.pt"" tvg-name=""PT097:24 Kitchen"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT09724KITCHEN.png"" group-title=""PT General"",PT097:24 Kitchen"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29393
+"#EXTINF:-1 tvg-id=""bloomberg.pt"" tvg-name=""PT107:Bloomberg"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT107BLOOMBERG.png"" group-title=""PT General"",PT107:Bloomberg"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29383
+"#EXTINF:-1 tvg-id=""mcm.pop.pt"" tvg-name=""PT110:MCM POP"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT110MCM POP.png"" group-title=""PT General"",PT110:MCM POP"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29380
+"#EXTINF:-1 tvg-id=""trace.urban.pt"" tvg-name=""PT111:Trace Urban"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT111Trace Urban.png"" group-title=""PT General"",PT111:Trace Urban"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29379
+"#EXTINF:-1 tvg-id=""cmtv.pt"" tvg-name=""PT113:CMTV FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT113CMTVFHD.png"" group-title=""PT General"",PT113:CMTV FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29377
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT115:CNN"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/"" group-title=""PT General"",PT115:CNN"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29375
+"#EXTINF:-1 tvg-id=""clubbing.pt"" tvg-name=""PT118:TPA"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT118TPA.png"" group-title=""PT General"",PT118:TPA"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29372
+"#EXTINF:-1 tvg-id=""sky.news.pt"" tvg-name=""PT125:DOG TV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT125DOGTV.png"" group-title=""PT General"",PT125:DOG TV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29365
+"#EXTINF:-1 tvg-id=""euronews.pt"" tvg-name=""PT126:FOX NEWS"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT126FOXNEWS.png"" group-title=""PT General"",PT126:FOX NEWS"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29364
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT128:Dizi Channel"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT128"" group-title=""PT General"",PT128:Dizi Channel"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29362
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT129:CGTN"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT129RTP INTERNACIONAL.png"" group-title=""PT General"",PT129:CGTN"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29361
+"#EXTINF:-1 tvg-id=""euronews.pt"" tvg-name=""PT130:Euronews"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT130Euronews.png"" group-title=""PT General"",PT130:Euronews"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29360
+"#EXTINF:-1 tvg-id=""trace.toca.pt"" tvg-name=""PT137:Alma Lusa"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT137"" group-title=""PT General"",PT137:Alma Lusa"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29353
+"#EXTINF:-1 tvg-id=""mezzo.pt"" tvg-name=""PT138:MEZZO HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT138MEZZOHD.png"" group-title=""PT General"",PT138:MEZZO HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29352
+"#EXTINF:-1 tvg-id=""mtv.live.pt"" tvg-name=""PT139:Sol Musica"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT139"" group-title=""PT General"",PT139:Sol Musica"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29351
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT140:Zap Viva HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT140ZAP VIVA.png"" group-title=""PT General"",PT140:Zap Viva HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29350
+"#EXTINF:-1 tvg-id=""localvisao.pt"" tvg-name=""PT142:Localvisao"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT142Localvisao.png"" group-title=""PT General"",PT142:Localvisao"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29348
+"#EXTINF:-1 tvg-id=""a.e.br"" tvg-name=""PT143:Record News"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT143Globo TV.png"" group-title=""PT General"",PT143:Record News"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29347
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT147:CBS Reality"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT147CBSReality.png"" group-title=""PT General"",PT147:CBS Reality"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29343
+"#EXTINF:-1 tvg-id=""afro.music.pt"" tvg-name=""PT150:BVN"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT150"" group-title=""PT General"",PT150:BVN"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29340
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT152:NLO TV 2"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT152"" group-title=""PT General"",PT152:NLO TV 2"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29338
+"#EXTINF:-1 tvg-id=""tv.globo.panorama.br"" tvg-name=""PT074:Globo Now"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT074TVGloboPremium.png"" group-title=""PT General"",PT074:Globo Now"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3176
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT154:Game Toon"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT154SIC Kids.png"" group-title=""PT General"",PT154:Game Toon"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29336
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT:-----|SPORTS|--------------------------------------"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT-----|SPORTS|--------------------------------------.png"" group-title=""PT Sports"",PT:-----|SPORTS|--------------------------------------"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/60650
+"#EXTINF:-1 tvg-id=""a.bola.pt"" tvg-name=""PT002:A Bola TV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT002ABolaTV.png"" group-title=""PT Sports"",PT002:A Bola TV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3248
+"#EXTINF:-1 tvg-id=""btv1.pt"" tvg-name=""PT011:Benfica TV 1 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT011BenficaTV1FHD.png"" group-title=""PT Sports"",PT011:Benfica TV 1 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3239
+"#EXTINF:-1 tvg-id=""btv1.pt"" tvg-name=""PT012:Benfica TV 1 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT012BenficaTV1HD.png"" group-title=""PT Sports"",PT012:Benfica TV 1 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3238
+"#EXTINF:-1 tvg-id=""btv.pt"" tvg-name=""PT013:Benfica TV 1 SD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT013BenficaTV1SD.png"" group-title=""PT Sports"",PT013:Benfica TV 1 SD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3237
+"#EXTINF:-1 tvg-id=""eurosport.1.pt"" tvg-name=""PT025:Euro Sport 1"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT025EuroSport1.png"" group-title=""PT Sports"",PT025:Euro Sport 1"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3225
+"#EXTINF:-1 tvg-id=""eurosport.2.pt"" tvg-name=""PT026:Euro Sport 2"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT026EuroSport2.png"" group-title=""PT Sports"",PT026:Euro Sport 2"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3224
+"#EXTINF:-1 tvg-id=""motors.es"" tvg-name=""PT040:Motors TV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT040MotorsTV.png"" group-title=""PT Sports"",PT040:Motors TV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3210
+"#EXTINF:-1 tvg-id=""motorvision.pt"" tvg-name=""PT041:Motorvision"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT041MotorVision.png"" group-title=""PT Sports"",PT041:Motorvision"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3209
+"#EXTINF:-1 tvg-id=""pfc.pt"" tvg-name=""PT049:PFC"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT049PFC.png"" group-title=""PT Sports"",PT049:PFC"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3201
+"#EXTINF:-1 tvg-id=""sport.tv1.pt"" tvg-name=""PT058:Sport TV 1 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT058SportTV1.png"" group-title=""PT Sports"",PT058:Sport TV 1 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3192
+"#EXTINF:-1 tvg-id=""sport.tv2.pt"" tvg-name=""PT059:Sport TV 2 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT059SportTV2.png"" group-title=""PT Sports"",PT059:Sport TV 2 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3191
+"#EXTINF:-1 tvg-id=""sport.tv3.pt"" tvg-name=""PT060:Sport TV 3 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT060SportTV3.png"" group-title=""PT Sports"",PT060:Sport TV 3 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3190
+"#EXTINF:-1 tvg-id=""sport.tv4.pt"" tvg-name=""PT061:Sport TV 4 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT061SportTV4.png"" group-title=""PT Sports"",PT061:Sport TV 4 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3189
+"#EXTINF:-1 tvg-id=""sport.tv5.pt"" tvg-name=""PT062:Sport TV 5 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT062SportTV5.png"" group-title=""PT Sports"",PT062:Sport TV 5 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3188
+"#EXTINF:-1 tvg-id=""a.e.br"" tvg-name=""PT148:SPORT TV 6 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT148CHELSEATV.png"" group-title=""PT Sports"",PT148:SPORT TV 6 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29342
+"#EXTINF:-1 tvg-id=""sport.plus.pt"" tvg-name=""PT063:SPORT TV+"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT063SportTV.png"" group-title=""PT Sports"",PT063:SPORT TV+"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3187
+"#EXTINF:-1 tvg-id=""sporting.pt"" tvg-name=""PT064:Sporting TV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT064SportingTV.png"" group-title=""PT Sports"",PT064:Sporting TV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3186
+"#EXTINF:-1 tvg-id=""toros.pt"" tvg-name=""PT067:Toros TV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT067TorosTV.png"" group-title=""PT Sports"",PT067:Toros TV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3183
+"#EXTINF:-1 tvg-id=""sport.tv1.pt"" tvg-name=""PT098:SPORT TV 1 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT098SPORTTV1FHD.png"" group-title=""PT Sports"",PT098:SPORT TV 1 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29392
+"#EXTINF:-1 tvg-id=""sport.tv2.pt"" tvg-name=""PT099:SPORT TV 2 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT099SPORTTV2FHD.png"" group-title=""PT Sports"",PT099:SPORT TV 2 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29391
+"#EXTINF:-1 tvg-id=""sport.tv3.pt"" tvg-name=""PT100:SPORT TV 3 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT100SPORTTV3FHD.png"" group-title=""PT Sports"",PT100:SPORT TV 3 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29390
+"#EXTINF:-1 tvg-id=""sport.tv4.pt"" tvg-name=""PT101:SPORT TV 4 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT101SPORTTV4FHD.png"" group-title=""PT Sports"",PT101:SPORT TV 4 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29389
+"#EXTINF:-1 tvg-id=""sport.tv5.pt"" tvg-name=""PT158:SPORT TV 5 FHD"" tvg-logo="""" group-title=""PT Sports"",PT158:SPORT TV 5 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/49958
+"#EXTINF:-1 tvg-id=""fight.sports.pt"" tvg-name=""PT132:Fight Network"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT132"" group-title=""PT Sports"",PT132:Fight Network"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29358
+"#EXTINF:-1 tvg-id=""canal.11.pt"" tvg-name=""PT112:Canal 11"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT112Canal11.png"" group-title=""PT Sports"",PT112:Canal 11"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29378
+"#EXTINF:-1 tvg-id=""cancao.nova.pt"" tvg-name=""PT114:Cancao Nova"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT114Cancao Nova.png"" group-title=""PT Sports"",PT114:Cancao Nova"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29376
+"#EXTINF:-1 tvg-id=""eleven.sports.1.pt"" tvg-name=""PT157:Eleven Sports 1 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT119ELEVENSPORTS1FHD.png"" group-title=""PT Sports"",PT157:Eleven Sports 1 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/49966
+"#EXTINF:-1 tvg-id=""eleven.sports.2.pt"" tvg-name=""PT159:Eleven Sports 2 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png"" group-title=""PT Sports"",PT159:Eleven Sports 2 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/49032
+"#EXTINF:-1 tvg-id=""eleven.sports.3.pt"" tvg-name=""PT119:Eleven Sports 3 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png"" group-title=""PT Sports"",PT119:Eleven Sports 3 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29371
+"#EXTINF:-1 tvg-id=""eleven.sports.4.pt"" tvg-name=""PT120:Eleven Sports 4 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png"" group-title=""PT Sports"",PT120:Eleven Sports 4 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29370
+"#EXTINF:-1 tvg-id=""eleven.sports.6.pt"" tvg-name=""PT122:Eleven Sports 6 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/"" group-title=""PT Sports"",PT122:Eleven Sports 6 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29368
+"#EXTINF:-1 tvg-id=""eleven.5.pt"" tvg-name=""PT156:Eleven Sports 1 SD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT156"" group-title=""PT Sports"",PT156:Eleven Sports 1 SD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29334
+"#EXTINF:-1 tvg-id=""eleven.sports.2.pt"" tvg-name=""PT134:Eleven Sports 2 SD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT120ELEVENSPORTS2FHD.png"" group-title=""PT Sports"",PT134:Eleven Sports 2 SD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29356
+"#EXTINF:-1 tvg-id=""eleven.sports.3.pt"" tvg-name=""PT145:Eleven Sports 3 SD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT121ELEVENSPORTS3FHD.png"" group-title=""PT Sports"",PT145:Eleven Sports 3 SD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29345
+"#EXTINF:-1 tvg-id=""eleven.sports.4.pt"" tvg-name=""PT146:Eleven Sports 4 SD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT122ELEVENSPORTS4FHD.png"" group-title=""PT Sports"",PT146:Eleven Sports 4 SD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29344
+"#EXTINF:-1 tvg-id=""eleven.sports.3.pt"" tvg-name=""PT121:Eleven Sports 5 SD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT156Eleven Sports 5.png"" group-title=""PT Sports"",PT121:Eleven Sports 5 SD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29369
+"#EXTINF:-1 tvg-id=""sport.nba.pt"" tvg-name=""PT124:Sport TV NBA"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT124Sport TV NBA.png"" group-title=""PT Sports"",PT124:Sport TV NBA"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29366
+"#EXTINF:-1 tvg-id=""nba.pt"" tvg-name=""PT141:NBA FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT141NBAFHD.png"" group-title=""PT Sports"",PT141:NBA FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29349
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT:-----|MOVIES|--------------------------------------"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT-----|MOVIES|--------------------------------------.png"" group-title=""PT Movies"",PT:-----|MOVIES|--------------------------------------"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/60648
+"#EXTINF:-1 tvg-id=""a.e.br"" tvg-name=""PT001:A&E"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT001A&E.png"" group-title=""PT Movies"",PT001:A&E"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3249
+"#EXTINF:-1 tvg-id=""amc.pt"" tvg-name=""PT004:AMC"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT004AMC.png"" group-title=""PT Movies"",PT004:AMC"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3246
+"#EXTINF:-1 tvg-id=""axn.pt"" tvg-name=""PT006:AXN"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT006AXN.png"" group-title=""PT Movies"",PT006:AXN"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3244
+"#EXTINF:-1 tvg-id=""a.e.br"" tvg-name=""PT007:AXN Black"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT007AXNBlack.png"" group-title=""PT Movies"",PT007:AXN Black"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3243
+"#EXTINF:-1 tvg-id=""axn.white.pt"" tvg-name=""PT008:AXN White"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT008AXNWhite.png"" group-title=""PT Movies"",PT008:AXN White"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3242
+"#EXTINF:-1 tvg-id=""cinemundo.pt"" tvg-name=""PT019:Cine Mundo"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT019CineMundo.png"" group-title=""PT Movies"",PT019:Cine Mundo"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3231
+"#EXTINF:-1 tvg-id=""fox.comedy.pt"" tvg-name=""PT028:Fox Comedy"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT028FoxComedy.png"" group-title=""PT Movies"",PT028:Fox Comedy"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3222
+"#EXTINF:-1 tvg-id=""fox.crime.pt"" tvg-name=""PT029:Fox Crime"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT029FoxCrime.png"" group-title=""PT Movies"",PT029:Fox Crime"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3221
+"#EXTINF:-1 tvg-id=""fox.pt"" tvg-name=""PT030:Fox"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT030Fox.png"" group-title=""PT Movies"",PT030:Fox"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3220
+"#EXTINF:-1 tvg-id=""fox.movies.pt"" tvg-name=""PT032:Fox Movies"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT032FoxMovies.png"" group-title=""PT Movies"",PT032:Fox Movies"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3218
+"#EXTINF:-1 tvg-id=""hollywood.pt"" tvg-name=""PT036:Hollywood"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT036Hollywood.png"" group-title=""PT Movies"",PT036:Hollywood"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3214
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT039:MOV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT039MOV.png"" group-title=""PT Movies"",PT039:MOV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3211
+"#EXTINF:-1 tvg-id=""tvcine.top.pt"" tvg-name=""PT069:TV Cine Top"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT069TVCine1.png"" group-title=""PT Movies"",PT069:TV Cine Top"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3181
+"#EXTINF:-1 tvg-id=""tvcine.emotion.pt"" tvg-name=""PT070:TV Cine Emotion"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT070TVCine2.png"" group-title=""PT Movies"",PT070:TV Cine Emotion"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3180
+"#EXTINF:-1 tvg-id=""tvcine.action.pt"" tvg-name=""PT071:TV Cine Action"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT071TVCine3.png"" group-title=""PT Movies"",PT071:TV Cine Action"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3179
+"#EXTINF:-1 tvg-id=""tvcine.edition.pt"" tvg-name=""PT072:TV Cine Edition"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT072TVCine4.png"" group-title=""PT Movies"",PT072:TV Cine Edition"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3178
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT092:NOS Studios"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT092NOSStudios.png"" group-title=""PT Movies"",PT092:NOS Studios"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29398
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT131:A3 Cine"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT131TVCINE1.png"" group-title=""PT Movies"",PT131:A3 Cine"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29359
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT155:A3 Series"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT155TVCINE 4.png"" group-title=""PT Movies"",PT155:A3 Series"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29335
+"#EXTINF:-1 tvg-id="""" tvg-name=""PT:-----|DOCUMENTARY|---------------------------------"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT-----|DOCUMENTARY|---------------------------------.png"" group-title=""PT Doc"",PT:-----|DOCUMENTARY|---------------------------------"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/60649
+"#EXTINF:-1 tvg-id=""discovery.pt"" tvg-name=""PT020:Discovery Channel"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT020DiscoveryChannel.png"" group-title=""PT Doc"",PT020:Discovery Channel"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3230
+"#EXTINF:-1 tvg-id=""discovery.hd.showcase.se"" tvg-name=""PT021:Discovery Showcase"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT021DiscoveryShowcase.png"" group-title=""PT Doc"",PT021:Discovery Showcase"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3229
+"#EXTINF:-1 tvg-id=""historia.pt"" tvg-name=""PT035:Historia"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT035Historia.png"" group-title=""PT Doc"",PT035:Historia"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3215
+"#EXTINF:-1 tvg-id=""national.geographic.wild.pt"" tvg-name=""PT044:NAT GEO Wild"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT044NATGEOWild.png"" group-title=""PT Doc"",PT044:NAT GEO Wild"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3206
+"#EXTINF:-1 tvg-id=""national.geographic.pt"" tvg-name=""PT045:NAT GEO"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT045NATGEO.png"" group-title=""PT Doc"",PT045:NAT GEO"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3205
+"#EXTINF:-1 tvg-id=""odisseia.pt"" tvg-name=""PT047:Odisseia"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT047Odisseia.png"" group-title=""PT Doc"",PT047:Odisseia"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/3203
+"#EXTINF:-1 tvg-id=""somos.pt"" tvg-name=""PT090:Somos"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT090"" group-title=""PT Doc"",PT090:Somos"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29400
+"#EXTINF:-1 tvg-id=""blaze.pt"" tvg-name=""PT106:Blaze"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT106Blaze.png"" group-title=""PT Doc"",PT106:Blaze"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29384
+"#EXTINF:-1 tvg-id=""caca.e.pesca.pt"" tvg-name=""PT108:Caca E Pesca"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT108CACA E PESCA.png"" group-title=""PT Doc"",PT108:Caca E Pesca"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29382
+"#EXTINF:-1 tvg-id=""crime.plus.investigation.pt"" tvg-name=""PT116:Crime & Investigation"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT116CrimeInvestigation.png"" group-title=""PT Doc"",PT116:Crime & Investigation"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29374
+"#EXTINF:-1 tvg-id=""eleven.sports.6.pt"" tvg-name=""PT123:Investigation Discovery HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT123INVESTIGATIONDISCOVERYHD.png"" group-title=""PT Doc"",PT123:Investigation Discovery HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29367
+"#EXTINF:-1 tvg-id=""cacavision.pt"" tvg-name=""PT127:Caca Vision"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT127"" group-title=""PT Doc"",PT127:Caca Vision"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29363
+"#EXTINF:-1 tvg-id=""a.e.br"" tvg-name=""PT144:Canal Cocina"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/PT/PT144PFC INTERNACIONAL.png"" group-title=""PT Doc"",PT144:Canal Cocina"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/29346
+"#EXTINF:-1 tvg-id=""13e.rue.fr"" tvg-name=""FR001:13EME RUE HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR00113EmeRue.png"" group-title=""FR Ent"",FR001:13EME RUE HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2865
+"#EXTINF:-1 tvg-id=""6ter.fr"" tvg-name=""FR002:6 TER HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR0026Ter.png"" group-title=""FR Ent"",FR002:6 TER HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2864
+"#EXTINF:-1 tvg-id=""ab.1.fr"" tvg-name=""FR014:AB 1 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR014BeinSport8Max.png"" group-title=""FR Ent"",FR014:AB 1 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2852
+"#EXTINF:-1 tvg-id=""ab3.fr"" tvg-name=""FR015:AB 3 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR015BeinSport9Max.png"" group-title=""FR Ent"",FR015:AB 3 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2851
+"#EXTINF:-1 tvg-id=""bein.sports.hd1.fr"" tvg-name=""FR016:AB EXPLORE HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR017BeinSport1.png"" group-title=""FR Ent"",FR016:AB EXPLORE HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2850
+"#EXTINF:-1 tvg-id=""altice.studio.fr"" tvg-name=""FR018:ALTICE STUDIO HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR016BeinSport3.png"" group-title=""FR Ent"",FR018:ALTICE STUDIO HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2848
+"#EXTINF:-1 tvg-id=""animaux.fr"" tvg-name=""FR026:ANIMAUX"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR026CanalSeries.png"" group-title=""FR Ent"",FR026:ANIMAUX"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2840
+"#EXTINF:-1 tvg-id=""arte.fr"" tvg-name=""FR027:ARTE FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR027CanalSport.png"" group-title=""FR Ent"",FR027:ARTE FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2839
+"#EXTINF:-1 tvg-id=""automoto.la.chaine.fr"" tvg-name=""FR028:AUTOMOTO LA CHAINE FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR028Canal.png"" group-title=""FR Ent"",FR028:AUTOMOTO LA CHAINE FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2838
+"#EXTINF:-1 tvg-id=""bet.fr"" tvg-name=""FR030:BET HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR030CartoonNetwork.png"" group-title=""FR Ent"",FR030:BET HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2836
+"#EXTINF:-1 tvg-id=""bfm.business.fr"" tvg-name=""FR031:BFM BUSINESS FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR031ChasseetPache.png"" group-title=""FR Ent"",FR031:BFM BUSINESS FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2835
+"#EXTINF:-1 tvg-id=""bfm.paris.ile.france.fr"" tvg-name=""FR033:BFM PARIS FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR033CineClass.png"" group-title=""FR Ent"",FR033:BFM PARIS FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2833
+"#EXTINF:-1 tvg-id=""boing.fr"" tvg-name=""FR034:BOING FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR034CineEmotion.png"" group-title=""FR Ent"",FR034:BOING FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2832
+"#EXTINF:-1 tvg-id=""boomerang.fr"" tvg-name=""FR035:BOOMERANG FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR035CineFamiz.png"" group-title=""FR Ent"",FR035:BOOMERANG FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2831
+"#EXTINF:-1 tvg-id=""cstar.fr"" tvg-name=""FR047:C STAR FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR047DisneyXDFR.png"" group-title=""FR Ent"",FR047:C STAR FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2819
+"#EXTINF:-1 tvg-id=""c8.fr"" tvg-name=""FR048:C8 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR048EquidiaeLive.png"" group-title=""FR Ent"",FR048:C8 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2818
+"#EXTINF:-1 tvg-id=""canal.alpha.ne.fr"" tvg-name=""FR049:CANAL ALPHA FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR049EuroNews.png"" group-title=""FR Ent"",FR049:CANAL ALPHA FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2817
+"#EXTINF:-1 tvg-id=""canal.j.fr"" tvg-name=""FR050:CANAL J FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR050EuroSport1FR.png"" group-title=""FR Ent"",FR050:CANAL J FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2816
+"#EXTINF:-1 tvg-id=""canal.plus.fr"" tvg-name=""FR079:CANAL+"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR079Seasons.png"" group-title=""FR Ent"",FR079:CANAL+"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2787
+"#EXTINF:-1 tvg-id=""chasse.et.peche.fr"" tvg-name=""FR080:CHASSE & PECHE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR080Ligue1Prime7.png"" group-title=""FR Ent"",FR080:CHASSE & PECHE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2786
+"#EXTINF:-1 tvg-id=""cherie.25.fr"" tvg-name=""FR081:CHERIE 25 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR081Ligue1Prime8.png"" group-title=""FR Ent"",FR081:CHERIE 25 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2785
+"#EXTINF:-1 tvg-id=""tv.breizh.fr"" tvg-name=""FR090:CLIQUE TV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR090TVBreizh.png"" group-title=""FR Ent"",FR090:CLIQUE TV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2776
+"#EXTINF:-1 tvg-id=""comedie.plus.fr"" tvg-name=""FR092:COMEDIE+ HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR092Voyage.png"" group-title=""FR Ent"",FR092:COMEDIE+ HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2774
+"#EXTINF:-1 tvg-id=""comedy.central.fr"" tvg-name=""FR093:COMEDY CENTRAL"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR093W9.png"" group-title=""FR Ent"",FR093:COMEDY CENTRAL"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2773
+"#EXTINF:-1 tvg-id=""crime.district.fr"" tvg-name=""FR094:CRIME DISTRICT"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR09"" group-title=""FR Ent"",FR094:CRIME DISTRICT"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28215
+"#EXTINF:-1 tvg-id=""discovery.fr"" tvg-name=""FR095:DISCOVERY CHANNEL"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR095"" group-title=""FR Ent"",FR095:DISCOVERY CHANNEL"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28214
+"#EXTINF:-1 tvg-id=""discovery.f.fr"" tvg-name=""FR096:DISCOVERY FAMILY"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR096NRJ12HD.png"" group-title=""FR Ent"",FR096:DISCOVERY FAMILY"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28213
+"#EXTINF:-1 tvg-id=""discovery.investigation.fr"" tvg-name=""FR098:DISCOVERY INVESTIGATION"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR098"" group-title=""FR Ent"",FR098:DISCOVERY INVESTIGATION"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28211
+"#EXTINF:-1 tvg-id=""hd8.english.bein"" tvg-name=""FR099:DISCOVERY SCI-FI"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR101D8.png"" group-title=""FR Ent"",FR099:DISCOVERY SCI-FI"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28208
+"#EXTINF:-1 tvg-id=""discovery.science.fr"" tvg-name=""FR100:DISCOVERY SCIENCE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR102CANALPLAY1.png"" group-title=""FR Ent"",FR100:DISCOVERY SCIENCE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28207
+"#EXTINF:-1 tvg-id=""dreamworks.fr"" tvg-name=""FR107:DREAMWORK"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR110"" group-title=""FR Ent"",FR107:DREAMWORK"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28199
+"#EXTINF:-1 tvg-id=""e.fr"" tvg-name=""FR108:E! ENTERTAINMENT"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR113AmazonPrime9.png"" group-title=""FR Ent"",FR108:E! ENTERTAINMENT"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28196
+"#EXTINF:-1 tvg-id=""elle.girl.fr"" tvg-name=""FR109:ELLE GIRL"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR114LaDeux.png"" group-title=""FR Ent"",FR109:ELLE GIRL"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28195
+"#EXTINF:-1 tvg-id=""equidia.fr"" tvg-name=""FR110:EQUIDIA HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR115LauneBE.png"" group-title=""FR Ent"",FR110:EQUIDIA HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28194
+"#EXTINF:-1 tvg-id=""fashion.fr"" tvg-name=""FR116:FASHION TV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR121RMCSport5.png"" group-title=""FR Ent"",FR116:FASHION TV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28188
+"#EXTINF:-1 tvg-id=""france.2.fr"" tvg-name=""FR117:FRANCE 2 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR122Eurosport3601.png"" group-title=""FR Ent"",FR117:FRANCE 2 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28187
+"#EXTINF:-1 tvg-id=""france.3.fr"" tvg-name=""FR118:FRANCE 3 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR123rmcdecouverte.png"" group-title=""FR Ent"",FR118:FRANCE 3 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28186
+"#EXTINF:-1 tvg-id=""france.4.fr"" tvg-name=""FR119:FRANCE 4 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR124"" group-title=""FR Ent"",FR119:FRANCE 4 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28185
+"#EXTINF:-1 tvg-id=""france.5.fr"" tvg-name=""FR120:FRANCE 5 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR125RTSUn.png"" group-title=""FR Ent"",FR120:FRANCE 5 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28184
+"#EXTINF:-1 tvg-id=""france.o.fr"" tvg-name=""FR121:FRANCE O HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/"" group-title=""FR Ent"",FR121:FRANCE O HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28183
+"#EXTINF:-1 tvg-id=""france.24.fr"" tvg-name=""FR122:FRANCE 24 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR127"" group-title=""FR Ent"",FR122:FRANCE 24 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28182
+"#EXTINF:-1 tvg-id=""tiji.fr"" tvg-name=""FR123:FRANCE INFO HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR128Tiji.png"" group-title=""FR Ent"",FR123:FRANCE INFO HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28181
+"#EXTINF:-1 tvg-id=""game.one.fr"" tvg-name=""FR124:GAME ONE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR129RMCSport7.png"" group-title=""FR Ent"",FR124:GAME ONE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28180
+"#EXTINF:-1 tvg-id=""gong.fr"" tvg-name=""FR127:GONG"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR132Ligue1Prime2.png"" group-title=""FR Ent"",FR127:GONG"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28177
+"#EXTINF:-1 tvg-id=""gulli.fr"" tvg-name=""FR128:GULLI"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR133A.LA.CARTE.1.png"" group-title=""FR Ent"",FR128:GULLI"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28176
+"#EXTINF:-1 tvg-id=""histoire.fr"" tvg-name=""FR129:HISTOIRE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR135Ligue1Prime3.png"" group-title=""FR Ent"",FR129:HISTOIRE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28174
+"#EXTINF:-1 tvg-id=""j.one.fr"" tvg-name=""FR132:J ONE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR138TMCHD(1080P).png"" group-title=""FR Ent"",FR132:J ONE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28171
+"#EXTINF:-1 tvg-id=""kto.fr"" tvg-name=""FR133:KTO"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR139NT1.png"" group-title=""FR Ent"",FR133:KTO"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28170
+"#EXTINF:-1 tvg-id=""lequipe.fr"" tvg-name=""FR134:L EQUIPE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR140TCMCINEMA.png"" group-title=""FR Ent"",FR134:L EQUIPE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28169
+"#EXTINF:-1 tvg-id=""tmc.plus.1.fr"" tvg-name=""FR135:LA CHAINE NORMANDE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR141"" group-title=""FR Ent"",FR135:LA CHAINE NORMANDE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28168
+"#EXTINF:-1 tvg-id=""la.trois.fr"" tvg-name=""FR136:LA TROIS"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR142TREKHD.png"" group-title=""FR Ent"",FR136:LA TROIS"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28167
+"#EXTINF:-1 tvg-id=""la.une.fr"" tvg-name=""FR137:LA UNE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR143Eurosport3602.png"" group-title=""FR Ent"",FR137:LA UNE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28166
+"#EXTINF:-1 tvg-id=""lci.fr"" tvg-name=""FR138:LCI"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR144"" group-title=""FR Ent"",FR138:LCI"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28165
+"#EXTINF:-1 tvg-id=""lcp.fr"" tvg-name=""FR139:LCP"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR145SundanceTV.png"" group-title=""FR Ent"",FR139:LCP"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28164
+"#EXTINF:-1 tvg-id=""m6.fr"" tvg-name=""FR140:M6 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR146TraceMziki.png"" group-title=""FR Ent"",FR140:M6 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28163
+"#EXTINF:-1 tvg-id=""mangas.fr"" tvg-name=""FR141:MANGAS"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR147"" group-title=""FR Ent"",FR141:MANGAS"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28162
+"#EXTINF:-1 tvg-id=""mcm.fr"" tvg-name=""FR142:MCM"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR148OrangeCinema1HD.png"" group-title=""FR Ent"",FR142:MCM"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28161
+"#EXTINF:-1 tvg-id=""mcm.top.fr"" tvg-name=""FR143:MCM TOP"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR149TraceToca.png"" group-title=""FR Ent"",FR143:MCM TOP"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28160
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR144:MONACO INFO"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR150OrangeCinema3HD.png"" group-title=""FR Ent"",FR144:MONACO INFO"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28159
+"#EXTINF:-1 tvg-id=""mtv.fr"" tvg-name=""FR145:MTV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR151OrangeCinema4HD.png"" group-title=""FR Ent"",FR145:MTV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28158
+"#EXTINF:-1 tvg-id=""mtv.hits.fr"" tvg-name=""FR146:MTV HITS"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR152OrangeCinema5HD.png"" group-title=""FR Ent"",FR146:MTV HITS"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28157
+"#EXTINF:-1 tvg-id=""museum.fr"" tvg-name=""FR147:MUSEUM"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR153Ligue1Prime4.png"" group-title=""FR Ent"",FR147:MUSEUM"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28156
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR148:MY COMEDY"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR154OrangeCinemaAventureHD.png"" group-title=""FR Ent"",FR148:MY COMEDY"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28155
+"#EXTINF:-1 tvg-id=""my.cuisine.fr"" tvg-name=""FR149:MY CUISINE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR155Ligue1Prime5.png"" group-title=""FR Ent"",FR149:MY CUISINE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28154
+"#EXTINF:-1 tvg-id=""national.geographic.fr"" tvg-name=""FR150:NAT GEO"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR156TraceTropical.png"" group-title=""FR Ent"",FR150:NAT GEO"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28153
+"#EXTINF:-1 tvg-id=""national.geographic.wild.fr"" tvg-name=""FR151:NAT GEO WILD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR157TRACEKITOKO.png"" group-title=""FR Ent"",FR151:NAT GEO WILD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28152
+"#EXTINF:-1 tvg-id=""nrj.12.fr"" tvg-name=""FR155:NRJ 12"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR161BET.png"" group-title=""FR Ent"",FR155:NRJ 12"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28148
+"#EXTINF:-1 tvg-id=""nrj.hits.fr"" tvg-name=""FR156:NRJ HITS"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR162JOne.png"" group-title=""FR Ent"",FR156:NRJ HITS"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28147
+"#EXTINF:-1 tvg-id=""paris.premiere.fr"" tvg-name=""FR162:PARIS PREMIERE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR168Science VieHD.png"" group-title=""FR Ent"",FR162:PARIS PREMIERE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28141
+"#EXTINF:-1 tvg-id=""piwi.plus.fr"" tvg-name=""FR163:PIWI+"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR169CRIMEDISTRICTHD.png"" group-title=""FR Ent"",FR163:PIWI+"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28140
+"#EXTINF:-1 tvg-id=""planete.plus.fr"" tvg-name=""FR164:PLANETE+"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR170E!Entertainment.png"" group-title=""FR Ent"",FR164:PLANETE+"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28139
+"#EXTINF:-1 tvg-id=""planete.plus.aventure.fr"" tvg-name=""FR165:PLANETE+ AVENTURE HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR171BFMbusiness.png"" group-title=""FR Ent"",FR165:PLANETE+ AVENTURE HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28138
+"#EXTINF:-1 tvg-id=""planete.plus.crime.fr"" tvg-name=""FR166:PLANETE+ CRIME HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR172DiscoveryInvestigationHD.png"" group-title=""FR Ent"",FR166:PLANETE+ CRIME HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28137
+"#EXTINF:-1 tvg-id=""planete.plus.fr"" tvg-name=""FR167:PLANETE+ FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR173BECURIOUSTVHD(1080P).png"" group-title=""FR Ent"",FR167:PLANETE+ FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28136
+"#EXTINF:-1 tvg-id=""rmc.decouverte.fr"" tvg-name=""FR168:RMC DECOUVERTE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR174Eurosport3603.png"" group-title=""FR Ent"",FR168:RMC DECOUVERTE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28135
+"#EXTINF:-1 tvg-id=""rmc.story.fr"" tvg-name=""FR180:RMC STORY"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR186ALACARTE5.png"" group-title=""FR Ent"",FR180:RMC STORY"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28123
+"#EXTINF:-1 tvg-id=""rouge.fr"" tvg-name=""FR181:ROUGE TV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR188ALACARTE7.png"" group-title=""FR Ent"",FR181:ROUGE TV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28121
+"#EXTINF:-1 tvg-id=""rt.france.gb"" tvg-name=""FR182:RT FRANCE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR189ALACARTE8.png"" group-title=""FR Ent"",FR182:RT FRANCE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28120
+"#EXTINF:-1 tvg-id=""rtl.9.fr"" tvg-name=""FR183:RTL 9"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR190ALACARTE9.png"" group-title=""FR Ent"",FR183:RTL 9"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28119
+"#EXTINF:-1 tvg-id=""rts.deux.fr"" tvg-name=""FR184:RTS DEUX"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR191ALACARTE10.png"" group-title=""FR Ent"",FR184:RTS DEUX"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28118
+"#EXTINF:-1 tvg-id=""rts.un.fr"" tvg-name=""FR185:RTS UNE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR192AmazonPrime1.png"" group-title=""FR Ent"",FR185:RTS UNE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28117
+"#EXTINF:-1 tvg-id=""science.et.vie.fr"" tvg-name=""FR186:SCIENCE & VIE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR193"" group-title=""FR Ent"",FR186:SCIENCE & VIE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28116
+"#EXTINF:-1 tvg-id=""seasons.fr"" tvg-name=""FR187:SEASON"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR194AmazonPrime2.png"" group-title=""FR Ent"",FR187:SEASON"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28115
+"#EXTINF:-1 tvg-id=""serie.club.fr"" tvg-name=""FR188:SERIE CLUB FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR195VOSGESTV.png"" group-title=""FR Ent"",FR188:SERIE CLUB FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28114
+"#EXTINF:-1 tvg-id=""teletoon.plus.fr"" tvg-name=""FR192:TELETOON+"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR203BFMPARISHD.png"" group-title=""FR Ent"",FR192:TELETOON+"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28106
+"#EXTINF:-1 tvg-id=""teva.fr"" tvg-name=""FR193:TEVA"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR204BlackClassic.png"" group-title=""FR Ent"",FR193:TEVA"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28105
+"#EXTINF:-1 tvg-id=""tf1.serie.films.fr"" tvg-name=""FR194:TF1 SERIES & FILM HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR205RMCSPORTNEWS.png"" group-title=""FR Ent"",FR194:TF1 SERIES & FILM HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28104
+"#EXTINF:-1 tvg-id=""tf1.fr"" tvg-name=""FR195:TFI"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR206LCP.png"" group-title=""FR Ent"",FR195:TFI"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28103
+"#EXTINF:-1 tvg-id=""tiji.fr"" tvg-name=""FR196:TIJI"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR207"" group-title=""FR Ent"",FR196:TIJI"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28102
+"#EXTINF:-1 tvg-id=""tipik.fr"" tvg-name=""FR197:TIPIK"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR208COMEDYCENTRALHD.png"" group-title=""FR Ent"",FR197:TIPIK"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28101
+"#EXTINF:-1 tvg-id=""tmc.fr"" tvg-name=""FR198:TMC"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR209VIRGIN.png"" group-title=""FR Ent"",FR198:TMC"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28100
+"#EXTINF:-1 tvg-id=""toonami.fr"" tvg-name=""FR199:TOONAMI"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR211GOLFHD.png"" group-title=""FR Ent"",FR199:TOONAMI"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28098
+"#EXTINF:-1 tvg-id=""toute.lhistoire.fr"" tvg-name=""FR200:TOUTE L HISTOIRE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR212Bblack!Caribbean.png"" group-title=""FR Ent"",FR200:TOUTE L HISTOIRE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28097
+"#EXTINF:-1 tvg-id=""trace.urban.fr"" tvg-name=""FR201:TRACE URBAN"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR213CPAC.png"" group-title=""FR Ent"",FR201:TRACE URBAN"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28096
+"#EXTINF:-1 tvg-id=""trek.fr"" tvg-name=""FR202:TREK"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR214NRJHITSBELGIQUE.png"" group-title=""FR Ent"",FR202:TREK"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28095
+"#EXTINF:-1 tvg-id=""tv.breizh.fr"" tvg-name=""FR203:TV BREIZH"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR215FRANCEINFO.png"" group-title=""FR Ent"",FR203:TV BREIZH"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28094
+"#EXTINF:-1 tvg-id=""tv5.monde.fr"" tvg-name=""FR204:TV5 MONDE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR216SerieClub.png"" group-title=""FR Ent"",FR204:TV5 MONDE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28093
+"#EXTINF:-1 tvg-id=""m6.boutique.fr"" tvg-name=""FR205:TV5 MONDE INFO"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR217M6BoutiqueHD.png"" group-title=""FR Ent"",FR205:TV5 MONDE INFO"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28092
+"#EXTINF:-1 tvg-id=""m6.music.fr"" tvg-name=""FR206:TV7 Colmar"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR218M6MusicHits.png"" group-title=""FR Ent"",FR206:TV7 Colmar"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28091
+"#EXTINF:-1 tvg-id=""ushuaia.fr"" tvg-name=""FR208:USHUAIA"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR220RTSLADEUXHD.png"" group-title=""FR Ent"",FR208:USHUAIA"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28089
+"#EXTINF:-1 tvg-id=""voyage.fr"" tvg-name=""FR209:VOYAGE"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR221AlsaceTV.png"" group-title=""FR Ent"",FR209:VOYAGE"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28088
+"#EXTINF:-1 tvg-id=""w9.fr"" tvg-name=""FR210:W9 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR222SyFyUniversalHD.png"" group-title=""FR Ent"",FR210:W9 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28087
+"#EXTINF:-1 tvg-id=""olympia.fr"" tvg-name=""FR212:OLYMPIA"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR224"" group-title=""FR Ent"",FR212:OLYMPIA"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28085
+"#EXTINF:-1 tvg-id=""lucky.jack.fr"" tvg-name=""FR214:LUCKY JACK TV"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR226CanalPlay2.png"" group-title=""FR Ent"",FR214:LUCKY JACK TV"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28083
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR215:NOVELAS HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR227CanalPlay3.png"" group-title=""FR Ent"",FR215:NOVELAS HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28082
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR216:TRACE AFRICA"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR228CanalPlay4.png"" group-title=""FR Ent"",FR216:TRACE AFRICA"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28081
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR217:TRACE CARIBBEAN"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR229CanalPlay5.png"" group-title=""FR Ent"",FR217:TRACE CARIBBEAN"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28080
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR218:TRACE GOSPEL"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR230CanalPlay6.png"" group-title=""FR Ent"",FR218:TRACE GOSPEL"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28079
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR219:TRACE SPORT STARS HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR231CanalPlay7.png"" group-title=""FR Ent"",FR219:TRACE SPORT STARS HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28078
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR220:TRACE NAIJA"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR232CanalPlay8.png"" group-title=""FR Ent"",FR220:TRACE NAIJA"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28077
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR:-----|SPORT|------------------------------"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR-----|SPORT|------------------------------.png"" group-title=""FR Sports"",FR:-----|SPORT|------------------------------"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/60618
+"#EXTINF:-1 tvg-id=""bfm.fr"" tvg-name=""FR019:AMAZON PRIME 1 (MATCH TIME)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR019BFMTV.png"" group-title=""FR Sports"",FR019:AMAZON PRIME 1 (MATCH TIME)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2847
+"#EXTINF:-1 tvg-id=""boing.fr"" tvg-name=""FR020:AMAZON PRIME 2 (MATCH TIME)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR020Boing.png"" group-title=""FR Sports"",FR020:AMAZON PRIME 2 (MATCH TIME)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2846
+"#EXTINF:-1 tvg-id=""boomerang.fr"" tvg-name=""FR021:AMAZON PRIME 3 (MATCH TIME)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR021Boomerang.png"" group-title=""FR Sports"",FR021:AMAZON PRIME 3 (MATCH TIME)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2845
+"#EXTINF:-1 tvg-id=""c8.fr"" tvg-name=""FR022:AMAZON PRIME 4 (MATCH TIME)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR022C8.png"" group-title=""FR Sports"",FR022:AMAZON PRIME 4 (MATCH TIME)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2844
+"#EXTINF:-1 tvg-id=""a.e.br"" tvg-name=""FR023:AMAZON PRIME 5 (MATCH TIME)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR023CanalCinema.png"" group-title=""FR Sports"",FR023:AMAZON PRIME 5 (MATCH TIME)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2843
+"#EXTINF:-1 tvg-id=""a.e.br"" tvg-name=""FR024:AMAZON PRIME 6 (MATCH TIME)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR024CanalDecale.png"" group-title=""FR Sports"",FR024:AMAZON PRIME 6 (MATCH TIME)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2842
+"#EXTINF:-1 tvg-id=""a.e.br"" tvg-name=""FR025:AMAZON PRIME 7 (MATCH TIME)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR025CanalFamily.png"" group-title=""FR Sports"",FR025:AMAZON PRIME 7 (MATCH TIME)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2841
+"#EXTINF:-1 tvg-id=""bein.sports.1.fr"" tvg-name=""FR036:BEIN SPORTS 1 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR036CineFrisson.png"" group-title=""FR Sports"",FR036:BEIN SPORTS 1 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2830
+"#EXTINF:-1 tvg-id=""bein.sports.2.fr"" tvg-name=""FR037:BEIN SPORTS 2 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR037"" group-title=""FR Sports"",FR037:BEIN SPORTS 2 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2829
+"#EXTINF:-1 tvg-id=""bein.sports.3.fr"" tvg-name=""FR038:BEIN SPORTS 3 FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR038CinePolar.png"" group-title=""FR Sports"",FR038:BEIN SPORTS 3 FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2828
+"#EXTINF:-1 tvg-id=""bein.sports.max.10.fr"" tvg-name=""FR039:BEIN SPORTS MAX 10 FHD (EVENT ONLY)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR039CinePermier.png"" group-title=""FR Sports"",FR039:BEIN SPORTS MAX 10 FHD (EVENT ONLY)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2827
+"#EXTINF:-1 tvg-id=""bein.sports.max.4.fr"" tvg-name=""FR040:BEIN SPORTS MAX 4 FHD (EVENT ONLY)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR040ComediePlus.png"" group-title=""FR Sports"",FR040:BEIN SPORTS MAX 4 FHD (EVENT ONLY)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2826
+"#EXTINF:-1 tvg-id=""bein.sports.max.5.fr"" tvg-name=""FR041:BEIN SPORTS MAX 5 HD (EVENT ONLY)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR041CStar.png"" group-title=""FR Sports"",FR041:BEIN SPORTS MAX 5 HD (EVENT ONLY)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2825
+"#EXTINF:-1 tvg-id=""bein.sports.max.6.fr"" tvg-name=""FR042:BEIN SPORTS MAX 6 HD (EVENT ONLY)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR042Discovery.png"" group-title=""FR Sports"",FR042:BEIN SPORTS MAX 6 HD (EVENT ONLY)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2824
+"#EXTINF:-1 tvg-id=""bein.sports.max.7.fr"" tvg-name=""FR043:BEIN SPORTS MAX 7 HD (EVENT ONLY)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR043DiscoveryScience.png"" group-title=""FR Sports"",FR043:BEIN SPORTS MAX 7 HD (EVENT ONLY)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2823
+"#EXTINF:-1 tvg-id=""bein.sports.max.8.fr"" tvg-name=""FR044:BEIN SPORTS MAX 8 HD (EVENT ONLY)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR044DisneyFR.png"" group-title=""FR Sports"",FR044:BEIN SPORTS MAX 8 HD (EVENT ONLY)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2822
+"#EXTINF:-1 tvg-id=""bein.sports.max.9.fr"" tvg-name=""FR045:BEIN SPORTS MAX 9 HD (EVENT ONLY)"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR045DisneyCinema.png"" group-title=""FR Sports"",FR045:BEIN SPORTS MAX 9 HD (EVENT ONLY)"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2821
+"#EXTINF:-1 tvg-id=""canal.plus.motogp.fr"" tvg-name=""FR073:CANAL+ MOTOGP"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR073PairsPermiere.png"" group-title=""FR Sports"",FR073:CANAL+ MOTOGP"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2793
+"#EXTINF:-1 tvg-id=""canal.plus.sport360.fr"" tvg-name=""FR077:CANAL+ SPORT 360"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR077PlaneteCI.png"" group-title=""FR Sports"",FR077:CANAL+ SPORT 360"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2789
+"#EXTINF:-1 tvg-id=""canal.plus.sport.fr"" tvg-name=""FR076:CANAL+ SPORT FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR076PlaneteA&E.png"" group-title=""FR Sports"",FR076:CANAL+ SPORT FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2790
+"#EXTINF:-1 tvg-id=""canal.plus.sport.fr"" tvg-name=""FR091:CANAL+ SPORT 1"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR091TV5Monde.png"" group-title=""FR Sports"",FR091:CANAL+ SPORT 1"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2775
+"#EXTINF:-1 tvg-id=""cnews.fr"" tvg-name=""FR157:CANAL+ SPORT 2"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR163CNewsHD.png"" group-title=""FR Sports"",FR157:CANAL+ SPORT 2"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28146
+"#EXTINF:-1 tvg-id=""tvm.fr"" tvg-name=""FR207:CANAL+ SPORT 3"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/"" group-title=""FR Sports"",FR207:CANAL+ SPORT 3"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28090
+"#EXTINF:-1 tvg-id=""cine.plus.classic.fr"" tvg-name=""FR221:CANAL+ SPORT 4"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/"" group-title=""FR Sports"",FR221:CANAL+ SPORT 4"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28076
+"#EXTINF:-1 tvg-id=""cine+.classic.fr"" tvg-name=""FR222:CANAL+ SPORT 5"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/"" group-title=""FR Sports"",FR222:CANAL+ SPORT 5"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28075
+"#EXTINF:-1 tvg-id=""eurosport.1.fr"" tvg-name=""FR112:EUROSPORT 1"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR117OCSCHOCHD.png"" group-title=""FR Sports"",FR112:EUROSPORT 1"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28192
+"#EXTINF:-1 tvg-id=""eurosport.2.fr"" tvg-name=""FR113:EUROSPORT 2"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR118OCSCITY.png"" group-title=""FR Sports"",FR113:EUROSPORT 2"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28191
+"#EXTINF:-1 tvg-id=""eurosport.360.2.fr"" tvg-name=""FR114:EUROSPORT 360 2"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR119OCSGEANT.png"" group-title=""FR Sports"",FR114:EUROSPORT 360 2"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28190
+"#EXTINF:-1 tvg-id=""extreme.sports.fr"" tvg-name=""FR115:EXTREME SPORTS"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR120OCSMAX.png"" group-title=""FR Sports"",FR115:EXTREME SPORTS"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28189
+"#EXTINF:-1 tvg-id=""golf.plus.fr"" tvg-name=""FR125:GOLF+ CHANNEL"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR130RMCSport8.png"" group-title=""FR Sports"",FR125:GOLF+ CHANNEL"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28179
+"#EXTINF:-1 tvg-id=""golf.fr"" tvg-name=""FR126:GOLF CHANNEL"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR131Ligue1Prime.png"" group-title=""FR Sports"",FR126:GOLF CHANNEL"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28178
+"#EXTINF:-1 tvg-id=""sundance.fr"" tvg-name=""FR189:CANAL+ F1"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR198VICELANDHD.png"" group-title=""FR Sports"",FR189:CANAL+ F1"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28111
+"#EXTINF:-1 tvg-id=""infosport.plus.fr"" tvg-name=""FR131:INFOSPORT+"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR137"" group-title=""FR Sports"",FR131:INFOSPORT+"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28172
+"#EXTINF:-1 tvg-id=""rmc.sport.1.fr"" tvg-name=""FR169:RMC SPORT 1"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR175EQUIDIALIFE.png"" group-title=""FR Sports"",FR169:RMC SPORT 1"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28134
+"#EXTINF:-1 tvg-id=""rmc.sport.2.fr"" tvg-name=""FR170:RMC SPORT 2"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR176GOLF.png"" group-title=""FR Sports"",FR170:RMC SPORT 2"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28133
+"#EXTINF:-1 tvg-id=""rmc.sport.3.fr"" tvg-name=""FR171:RMC SPORT 3"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR177BFMSPORT.png"" group-title=""FR Sports"",FR171:RMC SPORT 3"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28132
+"#EXTINF:-1 tvg-id=""rmc.sport.4.fr"" tvg-name=""FR172:RMC SPORT 4"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR178Eurosport3604.png"" group-title=""FR Sports"",FR172:RMC SPORT 4"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28131
+"#EXTINF:-1 tvg-id=""rmc.sport.live.5.fr"" tvg-name=""FR173:RMC SPORT 5"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/"" group-title=""FR Sports"",FR173:RMC SPORT 5"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28130
+"#EXTINF:-1 tvg-id=""rmc.sport.live.6.fr"" tvg-name=""FR174:RMC SPORT 6"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR180"" group-title=""FR Sports"",FR174:RMC SPORT 6"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28129
+"#EXTINF:-1 tvg-id=""rmc.sport.live.7.fr"" tvg-name=""FR175:RMC SPORT 7"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR181FRANCE24.png"" group-title=""FR Sports"",FR175:RMC SPORT 7"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28128
+"#EXTINF:-1 tvg-id=""rmc.sport.live.8.fr"" tvg-name=""FR176:RMC SPORT 8"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR182ALACARTE1.png"" group-title=""FR Sports"",FR176:RMC SPORT 8"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28127
+"#EXTINF:-1 tvg-id=""rmc.sport.live.9.fr"" tvg-name=""FR177:RMC SPORT 9"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR183ALACARTE2.png"" group-title=""FR Sports"",FR177:RMC SPORT 9"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28126
+"#EXTINF:-1 tvg-id=""rmc.sport.live.10.fr"" tvg-name=""FR178:RMC SPORT 10"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR184ALACARTE3.png"" group-title=""FR Sports"",FR178:RMC SPORT 10"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28125
+"#EXTINF:-1 tvg-id=""foot.plus.24.24.fr"" tvg-name=""FR213:FOOT+ 24/24 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR225CanalPlay1.png"" group-title=""FR Sports"",FR213:FOOT+ 24/24 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28084
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR:-----|CINEMA|-----------------------------"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR-----|CINEMA|-----------------------------.png"" group-title=""FR Cinema"",FR:-----|CINEMA|-----------------------------"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/60619
+"#EXTINF:-1 tvg-id=""ab.moteurs.fr"" tvg-name=""FR003:A LA CARTE 1 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR003ABMoteur.png"" group-title=""FR Cinema"",FR003:A LA CARTE 1 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2863
+"#EXTINF:-1 tvg-id=""ab.1.fr"" tvg-name=""FR004:A LA CARTE 2 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR004AB1.png"" group-title=""FR Cinema"",FR004:A LA CARTE 2 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2862
+"#EXTINF:-1 tvg-id=""ab3.fr"" tvg-name=""FR005:A LA CARTE 3 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR005AB3.png"" group-title=""FR Cinema"",FR005:A LA CARTE 3 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2861
+"#EXTINF:-1 tvg-id=""action.fr"" tvg-name=""FR006:A LA CARTE 4 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR006Action.png"" group-title=""FR Cinema"",FR006:A LA CARTE 4 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2860
+"#EXTINF:-1 tvg-id=""animaux.fr"" tvg-name=""FR007:A LA CARTE 5 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR007Animaux.png"" group-title=""FR Cinema"",FR007:A LA CARTE 5 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2859
+"#EXTINF:-1 tvg-id=""arte.fr"" tvg-name=""FR008:A LA CARTE 6 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR008Arte.png"" group-title=""FR Cinema"",FR008:A LA CARTE 6 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2858
+"#EXTINF:-1 tvg-id=""bein.sports.4max.fr"" tvg-name=""FR009:A LA CARTE 7 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR009BeinSport4Max.png"" group-title=""FR Cinema"",FR009:A LA CARTE 7 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2857
+"#EXTINF:-1 tvg-id=""bein.sports.10max.fr"" tvg-name=""FR010:A LA CARTE 8 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR010BeinSport10Max.png"" group-title=""FR Cinema"",FR010:A LA CARTE 8 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2856
+"#EXTINF:-1 tvg-id=""bein.sports.5max.fr"" tvg-name=""FR011:A LA CARTE 9 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR011BeinSport5Max.png"" group-title=""FR Cinema"",FR011:A LA CARTE 9 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2855
+"#EXTINF:-1 tvg-id=""bein.sports.6max.fr"" tvg-name=""FR012:A LA CARTE 10 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR012BeinSport6Max.png"" group-title=""FR Cinema"",FR012:A LA CARTE 10 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2854
+"#EXTINF:-1 tvg-id=""bein.sports.7max.fr"" tvg-name=""FR013:A LA CARTE 13 HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR013BeinSport7Max.png"" group-title=""FR Cinema"",FR013:A LA CARTE 13 HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2853
+"#EXTINF:-1 tvg-id=""action.fr"" tvg-name=""FR017:ACTION FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR018BeinSport2.png"" group-title=""FR Cinema"",FR017:ACTION FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2849
+"#EXTINF:-1 tvg-id=""eurosport.2.fr"" tvg-name=""FR051:CANAL PLAY 1"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR051EuroSport2FR.png"" group-title=""FR Cinema"",FR051:CANAL PLAY 1"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2815
+"#EXTINF:-1 tvg-id=""france.2.fr"" tvg-name=""FR052:CANAL PLAY 2"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR052France2.png"" group-title=""FR Cinema"",FR052:CANAL PLAY 2"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2814
+"#EXTINF:-1 tvg-id=""france.24.fr"" tvg-name=""FR053:CANAL PLAY 3"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR053France24.png"" group-title=""FR Cinema"",FR053:CANAL PLAY 3"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2813
+"#EXTINF:-1 tvg-id=""france.3.fr"" tvg-name=""FR054:CANAL PLAY 4"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR054France3.png"" group-title=""FR Cinema"",FR054:CANAL PLAY 4"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2812
+"#EXTINF:-1 tvg-id=""france.4.fr"" tvg-name=""FR055:CANAL PLAY 5"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR055France4.png"" group-title=""FR Cinema"",FR055:CANAL PLAY 5"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2811
+"#EXTINF:-1 tvg-id=""france.5.fr"" tvg-name=""FR056:CANAL PLAY 6"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR056France5.png"" group-title=""FR Cinema"",FR056:CANAL PLAY 6"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2810
+"#EXTINF:-1 tvg-id=""france.o.fr"" tvg-name=""FR057:CANAL PLAY 7"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR057FranceO.png"" group-title=""FR Cinema"",FR057:CANAL PLAY 7"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2809
+"#EXTINF:-1 tvg-id=""game.one.fr"" tvg-name=""FR058:CANAL PLAY 8"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR058GameOne.png"" group-title=""FR Cinema"",FR058:CANAL PLAY 8"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2808
+"#EXTINF:-1 tvg-id=""gulli.fr"" tvg-name=""FR059:CANAL PLAY 9"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR059GULLI.png"" group-title=""FR Cinema"",FR059:CANAL PLAY 9"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2807
+"#EXTINF:-1 tvg-id=""a.e.br"" tvg-name=""FR060:CANAL PLAY 10"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR060HD1.png"" group-title=""FR Cinema"",FR060:CANAL PLAY 10"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2806
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR061:CANAL PLAY 13"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR061iTele.png"" group-title=""FR Cinema"",FR061:CANAL PLAY 13"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2805
+"#EXTINF:-1 tvg-id=""a.e.br"" tvg-name=""FR062:CANAL PLAY 15"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR062InfoSport.png"" group-title=""FR Cinema"",FR062:CANAL PLAY 15"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2804
+"#EXTINF:-1 tvg-id=""lequipe.fr"" tvg-name=""FR063:CANAL PLAY 16"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR063L'EQUIPE21.png"" group-title=""FR Cinema"",FR063:CANAL PLAY 16"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2803
+"#EXTINF:-1 tvg-id=""lci.fr"" tvg-name=""FR064:CANAL PLAY 17"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR064LCI.png"" group-title=""FR Cinema"",FR064:CANAL PLAY 17"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2802
+"#EXTINF:-1 tvg-id=""m6.fr"" tvg-name=""FR065:CANAL PLAY 18"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR065M6.png"" group-title=""FR Cinema"",FR065:CANAL PLAY 18"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2801
+"#EXTINF:-1 tvg-id=""canal.plus.cinema.fr"" tvg-name=""FR066:CANAL+ CINEMA FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR066Mangas.png"" group-title=""FR Cinema"",FR066:CANAL+ CINEMA FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2800
+"#EXTINF:-1 tvg-id=""canal.plus.decale.fr"" tvg-name=""FR067:CANAL+ DECALE FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR067NATGEO.png"" group-title=""FR Cinema"",FR067:CANAL+ DECALE FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2799
+"#EXTINF:-1 tvg-id=""canal.plus.docs.fr"" tvg-name=""FR068:CANAL+ DOCS FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR068NATGEOWILD.png"" group-title=""FR Cinema"",FR068:CANAL+ DOCS FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2798
+"#EXTINF:-1 tvg-id=""canal.plus.family.fr"" tvg-name=""FR069:CANAL+ FAMILY"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR069NICKELODEON.png"" group-title=""FR Cinema"",FR069:CANAL+ FAMILY"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2797
+"#EXTINF:-1 tvg-id=""canal.plus.foot.fr"" tvg-name=""FR070:CANAL+ FOOT"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR070NRJHits.png"" group-title=""FR Cinema"",FR070:CANAL+ FOOT"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2796
+"#EXTINF:-1 tvg-id=""canal.plus.grand.ecran.fr"" tvg-name=""FR071:CANAL+ GRAND ECRAN"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR071TFX.png"" group-title=""FR Cinema"",FR071:CANAL+ GRAND ECRAN"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2795
+"#EXTINF:-1 tvg-id=""canal.plus.polynesie.fr"" tvg-name=""FR074:CANAL+ PL"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR074PIWI.png"" group-title=""FR Cinema"",FR074:CANAL+ PL"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2792
+"#EXTINF:-1 tvg-id=""canal.plus.series.fr"" tvg-name=""FR075:CANAL+ SERIES"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR075Planete.png"" group-title=""FR Cinema"",FR075:CANAL+ SERIES"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2791
+"#EXTINF:-1 tvg-id=""canal.plus.top14.fr"" tvg-name=""FR078:CANAL+ TOP 14"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR078RTL9.png"" group-title=""FR Cinema"",FR078:CANAL+ TOP 14"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2788
+"#EXTINF:-1 tvg-id=""cine.polar.fr"" tvg-name=""FR082:CINE+ POLAR"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR082Ligue1Prime9.png"" group-title=""FR Cinema"",FR082:CINE+ POLAR"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2784
+"#EXTINF:-1 tvg-id=""cine.plus.classic.fr"" tvg-name=""FR083:CINE+ CLASSIC HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/"" group-title=""FR Cinema"",FR083:CINE+ CLASSIC HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2783
+"#EXTINF:-1 tvg-id=""cine.plus.club.fr"" tvg-name=""FR084:CINE+ CLUB HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR084SyfyFR.png"" group-title=""FR Cinema"",FR084:CINE+ CLUB HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2782
+"#EXTINF:-1 tvg-id=""cine.plus.emotion.fr"" tvg-name=""FR085:CINE+ EMOTION"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR085Teva.png"" group-title=""FR Cinema"",FR085:CINE+ EMOTION"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2781
+"#EXTINF:-1 tvg-id=""cine.plus.famiz.fr"" tvg-name=""FR086:CINE+ FAMIZ FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR086SeriesClub.png"" group-title=""FR Cinema"",FR086:CINE+ FAMIZ FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2780
+"#EXTINF:-1 tvg-id=""cine.plus.frisson.fr"" tvg-name=""FR087:CINE+ FRISSON FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR087TF1.png"" group-title=""FR Cinema"",FR087:CINE+ FRISSON FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2779
+"#EXTINF:-1 tvg-id=""cine.fx.fr"" tvg-name=""FR088:CINE+ FX HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR088TouteLhistoire.png"" group-title=""FR Cinema"",FR088:CINE+ FX HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2778
+"#EXTINF:-1 tvg-id=""cine.plus.premier.fr"" tvg-name=""FR089:CINE+ PREMIER FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR089TraceUrban.png"" group-title=""FR Cinema"",FR089:CINE+ PREMIER FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2777
+"#EXTINF:-1 tvg-id=""disney.plus.1.fr"" tvg-name=""FR104:DISNEY CHANNEL+1"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR106CANALPLAY5.png"" group-title=""FR Cinema"",FR104:DISNEY CHANNEL+1"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28203
+"#EXTINF:-1 tvg-id=""disney.cinema.fr"" tvg-name=""FR105:DISNEY CINEMA"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR107CANALPLAY6.png"" group-title=""FR Cinema"",FR105:DISNEY CINEMA"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28202
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR106:DISNEY CINEMAGIC"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR108CANALPLAY7.png"" group-title=""FR Cinema"",FR106:DISNEY CINEMAGIC"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28201
+"#EXTINF:-1 tvg-id=""ocs.choc.fr"" tvg-name=""FR158:OCS CHOC HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR164FOOT24.png"" group-title=""FR Cinema"",FR158:OCS CHOC HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28145
+"#EXTINF:-1 tvg-id=""ocs.geants.fr"" tvg-name=""FR159:OCS GEANTS"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR165TV5Style.png"" group-title=""FR Cinema"",FR159:OCS GEANTS"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28144
+"#EXTINF:-1 tvg-id=""ocs.max.fr"" tvg-name=""FR160:OCS MAX HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR166MCM.png"" group-title=""FR Cinema"",FR160:OCS MAX HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28143
+"#EXTINF:-1 tvg-id=""paramount.fr"" tvg-name=""FR161:PARAMOUNT CHANNEL"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR167MCMTOP.png"" group-title=""FR Cinema"",FR161:PARAMOUNT CHANNEL"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28142
+"#EXTINF:-1 tvg-id=""syfy.fr"" tvg-name=""FR190:SYFY"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR199USHUAIAHD.png"" group-title=""FR Cinema"",FR190:SYFY"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28110
+"#EXTINF:-1 tvg-id=""tcm.cinema.fr"" tvg-name=""FR191:TCM CINEMA"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR200"" group-title=""FR Cinema"",FR191:TCM CINEMA"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28109
+"#EXTINF:-1 tvg-id=""warner.fr"" tvg-name=""FR211:WARNER"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR223AmazonPrime3.png"" group-title=""FR Cinema"",FR211:WARNER"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28086
+"#EXTINF:-1 tvg-id="""" tvg-name=""FR:-----|NEWS|-------------------------------"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR-----|NEWS|-------------------------------.png"" group-title=""FR News"",FR:-----|NEWS|-------------------------------"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/60620
+"#EXTINF:-1 tvg-id=""bfm.fr"" tvg-name=""FR032:BFM HD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR032Cherie25.png"" group-title=""FR News"",FR032:BFM HD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2834
+"#EXTINF:-1 tvg-id=""cnews.fr"" tvg-name=""FR046:C NEWS FHD"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR046DisneyJrFr.png"" group-title=""FR News"",FR046:C NEWS FHD"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/2820
+"#EXTINF:-1 tvg-id=""euronews.fr"" tvg-name=""FR111:EURONEWS"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR116NUMERO23HD.png"" group-title=""FR News"",FR111:EURONEWS"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28193
+"#EXTINF:-1 tvg-id=""i24.news.fr"" tvg-name=""FR130:I24 NEWS"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR136Persiana1.png"" group-title=""FR News"",FR130:I24 NEWS"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28173
+"#EXTINF:-1 tvg-id=""rmc.sport.news.fr"" tvg-name=""FR179:RMC SPORT NEWS"" tvg-logo=""http://www.tvboxgroup.com/iptv/logo/FR/FR185ALACARTE4.png"" group-title=""FR News"",FR179:RMC SPORT NEWS"
+http://152.89.62.76:8880/3ca7123n11/ewfr543ds/28124
 "#EXTINF:-1 tvg-id="""" tvg-name=""BR: A&E FHD"" tvg-logo=""http://xplatinmedia.com:8080/images/4b830b5eecfd1994f39549ba1bac193f.png"" group-title=""BRAZIL"",BR: A&E FHD"
 http://jmrk.xyz:3050/b12patcb022@gmail.com/UP2PSe5xCK/610398
 "#EXTINF:-1 tvg-id="""" tvg-name=""BR: A&E HD"" tvg-logo=""http://xplatinmedia.com:8080/images/4b830b5eecfd1994f39549ba1bac193f.png"" group-title=""BRAZIL"",BR: A&E HD"
@@ -2403,20 +1923,6 @@ http://jmrk.xyz:3050/b12patcb022@gmail.com/UP2PSe5xCK/611032
 http://jmrk.xyz:3050/b12patcb022@gmail.com/UP2PSe5xCK/611033
 "#EXTINF:-1 tvg-id="""" tvg-name=""BR: Warner TV SD"" tvg-logo=""http://xplatinmedia.com:8080/images/7e24ba66a736d5b13fd88641394be740.png"" group-title=""BRAZIL"",BR: Warner TV SD"
 http://jmrk.xyz:3050/b12patcb022@gmail.com/UP2PSe5xCK/611034
-"#EXTINF:-1 tvg-id="""" tvg-name=""BR: Woohoo FHD"" tvg-logo=""http://xplatinmedia.com:8080/images/5e74dbe5aabda37becff7f34055f5050.png"" group-title=""BRAZIL"",BR: Woohoo FHD"
-http://jmrk.xyz:3050/b12patcb022@gmail.com/UP2PSe5xCK/611035
-"#EXTINF:-1 tvg-id="""" tvg-name=""BR: Woohoo HD"" tvg-logo=""http://xplatinmedia.com:8080/images/5e74dbe5aabda37becff7f34055f5050.png"" group-title=""BRAZIL"",BR: Woohoo HD"
-http://jmrk.xyz:3050/b12patcb022@gmail.com/UP2PSe5xCK/611036
-"#EXTINF:-1 tvg-id="""" tvg-name=""BR: Woohoo SD"" tvg-logo=""http://xplatinmedia.com:8080/images/5e74dbe5aabda37becff7f34055f5050.png"" group-title=""BRAZIL"",BR: Woohoo SD"
-http://jmrk.xyz:3050/b12patcb022@gmail.com/UP2PSe5xCK/611037
-"#EXTINF:-1 tvg-id="""" tvg-name=""BR: Yeeaah! HD"" tvg-logo=""http://xplatinmedia.com:8080/images/8f07884087e7f1fbbdf40fcfea1a6e7a.png"" group-title=""BRAZIL"",BR: Yeeaah! HD"
-http://jmrk.xyz:3050/b12patcb022@gmail.com/UP2PSe5xCK/611038
-"#EXTINF:-1 tvg-id="""" tvg-name=""BR: Zoomoo FHD"" tvg-logo=""http://xplatinmedia.com:8080/images/0d667cef9858d5859677da5172641c00.png"" group-title=""BRAZIL"",BR: Zoomoo FHD"
-http://jmrk.xyz:3050/b12patcb022@gmail.com/UP2PSe5xCK/611039
-"#EXTINF:-1 tvg-id="""" tvg-name=""BR: Zoomoo HD"" tvg-logo=""http://xplatinmedia.com:8080/images/0d667cef9858d5859677da5172641c00.png"" group-title=""BRAZIL"",BR: Zoomoo HD"
-http://jmrk.xyz:3050/b12patcb022@gmail.com/UP2PSe5xCK/611040
-"#EXTINF:-1 tvg-id="""" tvg-name=""BR: Zoomoo SD"" tvg-logo=""http://xplatinmedia.com:8080/images/0d667cef9858d5859677da5172641c00.png"" group-title=""BRAZIL"",BR: Zoomoo SD"
-http://jmrk.xyz:3050/b12patcb022@gmail.com/UP2PSe5xCK/611041
 #EXTINF:-1 tvg-id="" tvg-name="Amc+ Original info ᴴᴰ" tvg-logo="https://iili.io/PZrZWN.md.png" group-title="EXCLUSIVE",Amc+ Original info ᴴᴰ
 http://jmrk.xyz:3050/b12patcb022@gmail.com/UP2PSe5xCK/566941
 #EXTINF:-1 tvg-id="" tvg-name="Amc+ Original 1 ᴴᴰ" tvg-logo="https://iili.io/PZrZWN.md.png" group-title="EXCLUSIVE",Amc+ Original 1 ᴴᴰ
