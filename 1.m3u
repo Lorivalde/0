@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,RTP 1
+http://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
