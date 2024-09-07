@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,PT: NOW
-https://www.youtube.com/watch?v=dewKn99gs9o
+https://streamable.com/vwejd1
 #EXTINF:-1 timeshift="2" xui-id="2" tvg-id="RTP 1" tvg-name="PT: RTP 1 FHD" tvg-logo="https://od.lk/s/M18yNTQ5ODY4Njdf/RTP1%20HD.png" group-title="Portugal",PT: RTP 1 FHD
 http://stl.crowservic.live:80/play/UltENUBpQcNabz3sdLbTbgCijrZhZDgAIMPRwsBx223K4plxEmBN7qLzdLQJK-sr
 #EXTINF:-1 xui-id="3" tvg-id="RTPxx1" tvg-name="PT: RTP 1" tvg-logo="https://od.lk/s/M18yNTQ5ODY5ODVf/RTP1.png" group-title="Portugal",PT: RTP 1
