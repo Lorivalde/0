@@ -489,528 +489,1014 @@ http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461295&exte
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461298&extension=ts
 #EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/iconcerts.png" group-title="PT| Música",PT| ICONCERTS
 http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461300&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="FR: Wildside TV" tvg-logo="" group-title="۩ Franta ۩",FR: Wildside TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286528
-#EXTINF:-1 tvg-id="" tvg-name="FR: Weo TV" tvg-logo="" group-title="۩ Franta ۩",FR: Weo TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/15360
-#EXTINF:-1 tvg-id="" tvg-name="FR: Warner TV" tvg-logo="" group-title="۩ Franta ۩",FR: Warner TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/13360
-#EXTINF:-1 tvg-id="" tvg-name="FR: W9" tvg-logo="" group-title="۩ Franta ۩",FR: W9
-http://iptvtree.net:8080/romaniamedia/178cdde57b/160
-#EXTINF:-1 tvg-id="" tvg-name="FR: Vosges TV" tvg-logo="" group-title="۩ Franta ۩",FR: Vosges TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/23460
-#EXTINF:-1 tvg-id="" tvg-name="FR: ViaOccitanie" tvg-logo="" group-title="۩ Franta ۩",FR: ViaOccitanie
-http://iptvtree.net:8080/romaniamedia/178cdde57b/194295
-#EXTINF:-1 tvg-id="" tvg-name="FR: ViaMirabelle TV" tvg-logo="" group-title="۩ Franta ۩",FR: ViaMirabelle TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/75550
-#EXTINF:-1 tvg-id="" tvg-name="FR: Ushuaïa TV" tvg-logo="" group-title="۩ Franta ۩",FR: Ushuaïa TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/190
-#EXTINF:-1 tvg-id="" tvg-name="FR: TVR (Bretagne)" tvg-logo="" group-title="۩ Franta ۩",FR: TVR (Bretagne)
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286524
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV8 Mont Blanc" tvg-logo="" group-title="۩ Franta ۩",FR: TV8 Mont Blanc
-http://iptvtree.net:8080/romaniamedia/178cdde57b/23464
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV78" tvg-logo="" group-title="۩ Franta ۩",FR: TV78
-http://iptvtree.net:8080/romaniamedia/178cdde57b/275295
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV7 Colmar" tvg-logo="" group-title="۩ Franta ۩",FR: TV7 Colmar
-http://iptvtree.net:8080/romaniamedia/178cdde57b/15359
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV5Monde Maghreb Orient" tvg-logo="" group-title="۩ Franta ۩",FR: TV5Monde Maghreb Orient
-http://iptvtree.net:8080/romaniamedia/178cdde57b/302414
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV5Monde Info" tvg-logo="" group-title="۩ Franta ۩",FR: TV5Monde Info
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286522
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV5Monde France Belgique Suisse Monaco" tvg-logo="" group-title="۩ Franta ۩",FR: TV5Monde France Belgique Suisse Monaco
-http://iptvtree.net:8080/romaniamedia/178cdde57b/879
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV5Monde Europe" tvg-logo="" group-title="۩ Franta ۩",FR: TV5Monde Europe
-http://iptvtree.net:8080/romaniamedia/178cdde57b/146307
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV Pitchoun" tvg-logo="" group-title="۩ Franta ۩",FR: TV Pitchoun
-http://iptvtree.net:8080/romaniamedia/178cdde57b/300844
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV Francophonie" tvg-logo="" group-title="۩ Franta ۩",FR: TV Francophonie
-http://iptvtree.net:8080/romaniamedia/178cdde57b/6252
-#EXTINF:-1 tvg-id="" tvg-name="FR: TV Breizh" tvg-logo="" group-title="۩ Franta ۩",FR: TV Breizh
-http://iptvtree.net:8080/romaniamedia/178cdde57b/166
-#EXTINF:-1 tvg-id="" tvg-name="FR: Trek" tvg-logo="" group-title="۩ Franta ۩",FR: Trek
-http://iptvtree.net:8080/romaniamedia/178cdde57b/194
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN" tvg-logo="" group-title="۩ Franta ۩",FR: TRACE URBAN
-http://iptvtree.net:8080/romaniamedia/178cdde57b/225
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Toca" tvg-logo="" group-title="۩ Franta ۩",FR: TRACE Toca
-http://iptvtree.net:8080/romaniamedia/178cdde57b/7560
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Sport Stars" tvg-logo="" group-title="۩ Franta ۩",FR: TRACE Sport Stars
-http://iptvtree.net:8080/romaniamedia/178cdde57b/12002
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Mziki" tvg-logo="" group-title="۩ Franta ۩",FR: TRACE Mziki
-http://iptvtree.net:8080/romaniamedia/178cdde57b/12000
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Latina" tvg-logo="" group-title="۩ Franta ۩",FR: TRACE Latina
-http://iptvtree.net:8080/romaniamedia/178cdde57b/32392
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Kitoko" tvg-logo="" group-title="۩ Franta ۩",FR: TRACE Kitoko
-http://iptvtree.net:8080/romaniamedia/178cdde57b/3685
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Gospel" tvg-logo="" group-title="۩ Franta ۩",FR: TRACE Gospel
-http://iptvtree.net:8080/romaniamedia/178cdde57b/11999
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Ayiti" tvg-logo="" group-title="۩ Franta ۩",FR: TRACE Ayiti
-http://iptvtree.net:8080/romaniamedia/178cdde57b/290664
-#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE Africa" tvg-logo="" group-title="۩ Franta ۩",FR: TRACE Africa
-http://iptvtree.net:8080/romaniamedia/178cdde57b/4311
-#EXTINF:-1 tvg-id="" tvg-name="FR: Toute Histoire" tvg-logo="" group-title="۩ Franta ۩",FR: Toute Histoire
-http://iptvtree.net:8080/romaniamedia/178cdde57b/200
-#EXTINF:-1 tvg-id="" tvg-name="FR: TMC" tvg-logo="" group-title="۩ Franta ۩",FR: TMC
-http://iptvtree.net:8080/romaniamedia/178cdde57b/865
-#EXTINF:-1 tvg-id="" tvg-name="FR: Tiji" tvg-logo="" group-title="۩ Franta ۩",FR: Tiji
-http://iptvtree.net:8080/romaniamedia/178cdde57b/215
-#EXTINF:-1 tvg-id="" tvg-name="FR: TFX" tvg-logo="" group-title="۩ Franta ۩",FR: TFX
-http://iptvtree.net:8080/romaniamedia/178cdde57b/164
-#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 ULTRA 4K" tvg-logo="" group-title="۩ Franta ۩",FR: TF1 ULTRA 4K
-http://iptvtree.net:8080/romaniamedia/178cdde57b/302774
-#EXTINF:-1 tvg-id="" tvg-name="FR: TF 1 Series Films" tvg-logo="" group-title="۩ Franta ۩",FR: TF 1 Series Films
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1898
-#EXTINF:-1 tvg-id="" tvg-name="FR: TF 1" tvg-logo="" group-title="۩ Franta ۩",FR: TF 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/153
-#EXTINF:-1 tvg-id="" tvg-name="FR: Teva" tvg-logo="" group-title="۩ Franta ۩",FR: Teva
-http://iptvtree.net:8080/romaniamedia/178cdde57b/866
-#EXTINF:-1 tvg-id="" tvg-name="FR: TeleToon+" tvg-logo="" group-title="۩ Franta ۩",FR: TeleToon+
-http://iptvtree.net:8080/romaniamedia/178cdde57b/218
-#EXTINF:-1 tvg-id="" tvg-name="FR: Teletoon +1" tvg-logo="" group-title="۩ Franta ۩",FR: Teletoon +1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/295274
-#EXTINF:-1 tvg-id="" tvg-name="FR: Tech & Co" tvg-logo="" group-title="۩ Franta ۩",FR: Tech & Co
-http://iptvtree.net:8080/romaniamedia/178cdde57b/304460
-#EXTINF:-1 tvg-id="" tvg-name="FR: TCM Cinema" tvg-logo="" group-title="۩ Franta ۩",FR: TCM Cinema
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1902
-#EXTINF:-1 tvg-id="" tvg-name="FR: SYFY" tvg-logo="" group-title="۩ Franta ۩",FR: SYFY
-http://iptvtree.net:8080/romaniamedia/178cdde57b/867
-#EXTINF:-1 tvg-id="" tvg-name="FR: Stingray CMusic" tvg-logo="" group-title="۩ Franta ۩",FR: Stingray CMusic
-http://iptvtree.net:8080/romaniamedia/178cdde57b/281784
-#EXTINF:-1 tvg-id="" tvg-name="FR: Stingray Classica" tvg-logo="" group-title="۩ Franta ۩",FR: Stingray Classica
-http://iptvtree.net:8080/romaniamedia/178cdde57b/281897
-#EXTINF:-1 tvg-id="" tvg-name="FR: Sport" tvg-logo="" group-title="۩ Franta ۩",FR: Sport
-http://iptvtree.net:8080/romaniamedia/178cdde57b/187484
-#EXTINF:-1 tvg-id="" tvg-name="FR: Serie Club" tvg-logo="" group-title="۩ Franta ۩",FR: Serie Club
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1903
-#EXTINF:-1 tvg-id="" tvg-name="FR: Seasons" tvg-logo="" group-title="۩ Franta ۩",FR: Seasons
-http://iptvtree.net:8080/romaniamedia/178cdde57b/195
-#EXTINF:-1 tvg-id="" tvg-name="FR: Science & Vie TV" tvg-logo="" group-title="۩ Franta ۩",FR: Science & Vie TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/199
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTS 2" tvg-logo="" group-title="۩ Franta ۩",FR: RTS 2
-http://iptvtree.net:8080/romaniamedia/178cdde57b/267241
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTS 1" tvg-logo="" group-title="۩ Franta ۩",FR: RTS 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/298483
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTL 9" tvg-logo="" group-title="۩ Franta ۩",FR: RTL 9
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1178
-#EXTINF:-1 tvg-id="" tvg-name="FR: RTJ Music" tvg-logo="" group-title="۩ Franta ۩",FR: RTJ Music
-http://iptvtree.net:8080/romaniamedia/178cdde57b/281436
-#EXTINF:-1 tvg-id="" tvg-name="FR: RT France" tvg-logo="" group-title="۩ Franta ۩",FR: RT France
-http://iptvtree.net:8080/romaniamedia/178cdde57b/296211
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Story" tvg-logo="" group-title="۩ Franta ۩",FR: RMC Story
-http://iptvtree.net:8080/romaniamedia/178cdde57b/162
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 16" tvg-logo="" group-title="۩ Franta ۩",FR: RMC SPORT 16
-http://iptvtree.net:8080/romaniamedia/178cdde57b/95687
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 9" tvg-logo="" group-title="۩ Franta ۩",FR: RMC SPORT 9
-http://iptvtree.net:8080/romaniamedia/178cdde57b/20885
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 8" tvg-logo="" group-title="۩ Franta ۩",FR: RMC SPORT 8
-http://iptvtree.net:8080/romaniamedia/178cdde57b/20884
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 7" tvg-logo="" group-title="۩ Franta ۩",FR: RMC SPORT 7
-http://iptvtree.net:8080/romaniamedia/178cdde57b/20883
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 5" tvg-logo="" group-title="۩ Franta ۩",FR: RMC SPORT 5
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1940
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4" tvg-logo="" group-title="۩ Franta ۩",FR: RMC SPORT 4
-http://iptvtree.net:8080/romaniamedia/178cdde57b/279752
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3" tvg-logo="" group-title="۩ Franta ۩",FR: RMC SPORT 3
-http://iptvtree.net:8080/romaniamedia/178cdde57b/279991
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2" tvg-logo="" group-title="۩ Franta ۩",FR: RMC SPORT 2
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1938
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1" tvg-logo="" group-title="۩ Franta ۩",FR: RMC SPORT 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1937
-#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Decouverte" tvg-logo="" group-title="۩ Franta ۩",FR: RMC Decouverte
-http://iptvtree.net:8080/romaniamedia/178cdde57b/198
-#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV" tvg-logo="" group-title="۩ Franta ۩",FR: RFM TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/6238
-#EXTINF:-1 tvg-id="" tvg-name="FR: Public Senat" tvg-logo="" group-title="۩ Franta ۩",FR: Public Senat
-http://iptvtree.net:8080/romaniamedia/178cdde57b/50056
-#EXTINF:-1 tvg-id="" tvg-name="FR: POLAR+" tvg-logo="" group-title="۩ Franta ۩",FR: POLAR+
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1202
-#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ CI" tvg-logo="" group-title="۩ Franta ۩",FR: PLANETE+ CI
-http://iptvtree.net:8080/romaniamedia/178cdde57b/192
-#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ A&E" tvg-logo="" group-title="۩ Franta ۩",FR: PLANETE+ A&E
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1181
-#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+" tvg-logo="" group-title="۩ Franta ۩",FR: PLANETE+
-http://iptvtree.net:8080/romaniamedia/178cdde57b/191
-#EXTINF:-1 tvg-id="" tvg-name="FR: Piwi+" tvg-logo="" group-title="۩ Franta ۩",FR: Piwi+
-http://iptvtree.net:8080/romaniamedia/178cdde57b/4377
-#EXTINF:-1 tvg-id="" tvg-name="FR: People are Awesome" tvg-logo="" group-title="۩ Franta ۩",FR: People are Awesome
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286484
-#EXTINF:-1 tvg-id="" tvg-name="FR: Paris Premiere" tvg-logo="" group-title="۩ Franta ۩",FR: Paris Premiere
-http://iptvtree.net:8080/romaniamedia/178cdde57b/868
-#EXTINF:-1 tvg-id="" tvg-name="FR: Paramount Channel Decale" tvg-logo="" group-title="۩ Franta ۩",FR: Paramount Channel Decale
-http://iptvtree.net:8080/romaniamedia/178cdde57b/295171
-#EXTINF:-1 tvg-id="" tvg-name="FR: Paramount Channel" tvg-logo="" group-title="۩ Franta ۩",FR: Paramount Channel
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1183
-#EXTINF:-1 tvg-id="" tvg-name="FR: Olympia TV" tvg-logo="" group-title="۩ Franta ۩",FR: Olympia TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/281599
-#EXTINF:-1 tvg-id="" tvg-name="FR: OLPLAY" tvg-logo="" group-title="۩ Franta ۩",FR: OLPLAY
-http://iptvtree.net:8080/romaniamedia/178cdde57b/304147
-#EXTINF:-1 tvg-id="" tvg-name="FR: okoo TV" tvg-logo="" group-title="۩ Franta ۩",FR: okoo TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/283282
-#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ Hits" tvg-logo="" group-title="۩ Franta ۩",FR: NRJ Hits
-http://iptvtree.net:8080/romaniamedia/178cdde57b/221
-#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ 12" tvg-logo="" group-title="۩ Franta ۩",FR: NRJ 12
-http://iptvtree.net:8080/romaniamedia/178cdde57b/226
-#EXTINF:-1 tvg-id="" tvg-name="FR: Novelas TV" tvg-logo="" group-title="۩ Franta ۩",FR: Novelas TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/27960
-#EXTINF:-1 tvg-id="" tvg-name="FR: Notele" tvg-logo="" group-title="۩ Franta ۩",FR: Notele
-http://iptvtree.net:8080/romaniamedia/178cdde57b/281435
-#EXTINF:-1 tvg-id="" tvg-name="FR: nickelodeon Teen" tvg-logo="" group-title="۩ Franta ۩",FR: nickelodeon Teen
-http://iptvtree.net:8080/romaniamedia/178cdde57b/206
-#EXTINF:-1 tvg-id="" tvg-name="FR: nickelodeon Junior" tvg-logo="" group-title="۩ Franta ۩",FR: nickelodeon Junior
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1186
-#EXTINF:-1 tvg-id="" tvg-name="FR: nickelodeon +1" tvg-logo="" group-title="۩ Franta ۩",FR: nickelodeon +1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/63585
-#EXTINF:-1 tvg-id="" tvg-name="FR: nickelodeon" tvg-logo="" group-title="۩ Franta ۩",FR: nickelodeon
-http://iptvtree.net:8080/romaniamedia/178cdde57b/204
-#EXTINF:-1 tvg-id="" tvg-name="FR: NAT GEO Wild" tvg-logo="" group-title="۩ Franta ۩",FR: NAT GEO Wild
-http://iptvtree.net:8080/romaniamedia/178cdde57b/278459
-#EXTINF:-1 tvg-id="" tvg-name="FR: NAT GEO" tvg-logo="" group-title="۩ Franta ۩",FR: NAT GEO
-http://iptvtree.net:8080/romaniamedia/178cdde57b/187
-#EXTINF:-1 tvg-id="" tvg-name="FR: MyZen TV" tvg-logo="" group-title="۩ Franta ۩",FR: MyZen TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/78544
-#EXTINF:-1 tvg-id="" tvg-name="FR: Museum" tvg-logo="" group-title="۩ Franta ۩",FR: Museum
-http://iptvtree.net:8080/romaniamedia/178cdde57b/267860
-#EXTINF:-1 tvg-id="" tvg-name="FR: MTV Hits France" tvg-logo="" group-title="۩ Franta ۩",FR: MTV Hits France
-http://iptvtree.net:8080/romaniamedia/178cdde57b/47249
-#EXTINF:-1 tvg-id="" tvg-name="FR: MTV France" tvg-logo="" group-title="۩ Franta ۩",FR: MTV France
-http://iptvtree.net:8080/romaniamedia/178cdde57b/220
-#EXTINF:-1 tvg-id="" tvg-name="FR: MTV 80s" tvg-logo="" group-title="۩ Franta ۩",FR: MTV 80s
-http://iptvtree.net:8080/romaniamedia/178cdde57b/300843
-#EXTINF:-1 tvg-id="" tvg-name="FR: MTV 00s" tvg-logo="" group-title="۩ Franta ۩",FR: MTV 00s
-http://iptvtree.net:8080/romaniamedia/178cdde57b/300842
-#EXTINF:-1 tvg-id="" tvg-name="FR: Motorvision TV" tvg-logo="" group-title="۩ Franta ۩",FR: Motorvision TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/268514
-#EXTINF:-1 tvg-id="" tvg-name="FR: Monaco Info" tvg-logo="" group-title="۩ Franta ۩",FR: Monaco Info
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286746
-#EXTINF:-1 tvg-id="" tvg-name="FR: Mezzo Live" tvg-logo="" group-title="۩ Franta ۩",FR: Mezzo Live
-http://iptvtree.net:8080/romaniamedia/178cdde57b/8099
-#EXTINF:-1 tvg-id="" tvg-name="FR: Mezzo" tvg-logo="" group-title="۩ Franta ۩",FR: Mezzo
-http://iptvtree.net:8080/romaniamedia/178cdde57b/5355
-#EXTINF:-1 tvg-id="" tvg-name="FR: Melody" tvg-logo="" group-title="۩ Franta ۩",FR: Melody
-http://iptvtree.net:8080/romaniamedia/178cdde57b/27959
-#EXTINF:-1 tvg-id="" tvg-name="FR: MDL" tvg-logo="" group-title="۩ Franta ۩",FR: MDL
-http://iptvtree.net:8080/romaniamedia/178cdde57b/275294
-#EXTINF:-1 tvg-id="" tvg-name="FR: MCM TOP" tvg-logo="" group-title="۩ Franta ۩",FR: MCM TOP
-http://iptvtree.net:8080/romaniamedia/178cdde57b/223
-#EXTINF:-1 tvg-id="" tvg-name="FR: MCM Pop" tvg-logo="" group-title="۩ Franta ۩",FR: MCM Pop
-http://iptvtree.net:8080/romaniamedia/178cdde57b/8027
-#EXTINF:-1 tvg-id="" tvg-name="FR: MCM" tvg-logo="" group-title="۩ Franta ۩",FR: MCM
-http://iptvtree.net:8080/romaniamedia/178cdde57b/4355
-#EXTINF:-1 tvg-id="" tvg-name="FR: MAX" tvg-logo="" group-title="۩ Franta ۩",FR: MAX
-http://iptvtree.net:8080/romaniamedia/178cdde57b/304972
-#EXTINF:-1 tvg-id="" tvg-name="FR: Matele" tvg-logo="" group-title="۩ Franta ۩",FR: Matele
-http://iptvtree.net:8080/romaniamedia/178cdde57b/75552
-#EXTINF:-1 tvg-id="" tvg-name="FR: Mangas" tvg-logo="" group-title="۩ Franta ۩",FR: Mangas
-http://iptvtree.net:8080/romaniamedia/178cdde57b/214
-#EXTINF:-1 tvg-id="" tvg-name="FR: Maison & Travaux TV" tvg-logo="" group-title="۩ Franta ۩",FR: Maison & Travaux TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/304145
-#EXTINF:-1 tvg-id="" tvg-name="FR: M6 Music" tvg-logo="" group-title="۩ Franta ۩",FR: M6 Music
-http://iptvtree.net:8080/romaniamedia/178cdde57b/224
-#EXTINF:-1 tvg-id="" tvg-name="FR: M6" tvg-logo="" group-title="۩ Franta ۩",FR: M6
-http://iptvtree.net:8080/romaniamedia/178cdde57b/158
-#EXTINF:-1 tvg-id="" tvg-name="FR: Lucky Jack TV" tvg-logo="" group-title="۩ Franta ۩",FR: Lucky Jack TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/91819
-#EXTINF:-1 tvg-id="" tvg-name="FR: LN 24" tvg-logo="" group-title="۩ Franta ۩",FR: LN 24
-http://iptvtree.net:8080/romaniamedia/178cdde57b/281434
-#EXTINF:-1 tvg-id="" tvg-name="FR: Les Nouveaux Detectives" tvg-logo="" group-title="۩ Franta ۩",FR: Les Nouveaux Detectives
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286475
-#EXTINF:-1 tvg-id="" tvg-name="FR: Le Figaro" tvg-logo="" group-title="۩ Franta ۩",FR: Le Figaro
-http://iptvtree.net:8080/romaniamedia/178cdde57b/304459
-#EXTINF:-1 tvg-id="" tvg-name="FR: LCP Assemblee Nationale" tvg-logo="" group-title="۩ Franta ۩",FR: LCP Assemblee Nationale
-http://iptvtree.net:8080/romaniamedia/178cdde57b/6258
-#EXTINF:-1 tvg-id="" tvg-name="FR: LCN" tvg-logo="" group-title="۩ Franta ۩",FR: LCN
-http://iptvtree.net:8080/romaniamedia/178cdde57b/284460
-#EXTINF:-1 tvg-id="" tvg-name="FR: LCI" tvg-logo="" group-title="۩ Franta ۩",FR: LCI
-http://iptvtree.net:8080/romaniamedia/178cdde57b/4342
-#EXTINF:-1 tvg-id="" tvg-name="FR: La Chaine Meteo" tvg-logo="" group-title="۩ Franta ۩",FR: La Chaine Meteo
-http://iptvtree.net:8080/romaniamedia/178cdde57b/168914
-#EXTINF:-1 tvg-id="" tvg-name="FR: L Equipe Live 2" tvg-logo="" group-title="۩ Franta ۩",FR: L Equipe Live 2
-http://iptvtree.net:8080/romaniamedia/178cdde57b/298758
-#EXTINF:-1 tvg-id="" tvg-name="FR: L Equipe Live 1" tvg-logo="" group-title="۩ Franta ۩",FR: L Equipe Live 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/298757
-#EXTINF:-1 tvg-id="" tvg-name="FR: L Equipe" tvg-logo="" group-title="۩ Franta ۩",FR: L Equipe
-http://iptvtree.net:8080/romaniamedia/178cdde57b/147
-#EXTINF:-1 tvg-id="" tvg-name="FR: KTO" tvg-logo="" group-title="۩ Franta ۩",FR: KTO
-http://iptvtree.net:8080/romaniamedia/178cdde57b/14085
-#EXTINF:-1 tvg-id="" tvg-name="FR: Juste pour Rire" tvg-logo="" group-title="۩ Franta ۩",FR: Juste pour Rire
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286446
-#EXTINF:-1 tvg-id="" tvg-name="FR: J One" tvg-logo="" group-title="۩ Franta ۩",FR: J One
-http://iptvtree.net:8080/romaniamedia/178cdde57b/202
-#EXTINF:-1 tvg-id="" tvg-name="FR: Investigation Discovery" tvg-logo="" group-title="۩ Franta ۩",FR: Investigation Discovery
-http://iptvtree.net:8080/romaniamedia/178cdde57b/4376
-#EXTINF:-1 tvg-id="" tvg-name="FR: Instant Saga" tvg-logo="" group-title="۩ Franta ۩",FR: Instant Saga
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286445
-#EXTINF:-1 tvg-id="" tvg-name="FR: InfoSport+" tvg-logo="" group-title="۩ Franta ۩",FR: InfoSport+
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1190
-#EXTINF:-1 tvg-id="" tvg-name="FR: IMEARTH" tvg-logo="" group-title="۩ Franta ۩",FR: IMEARTH
-http://iptvtree.net:8080/romaniamedia/178cdde57b/298756
-#EXTINF:-1 tvg-id="" tvg-name="FR: ILTV" tvg-logo="" group-title="۩ Franta ۩",FR: ILTV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1912
-#EXTINF:-1 tvg-id="" tvg-name="FR: i24 News" tvg-logo="" group-title="۩ Franta ۩",FR: i24 News
-http://iptvtree.net:8080/romaniamedia/178cdde57b/280291
-#EXTINF:-1 tvg-id="" tvg-name="FR: Histoire TV" tvg-logo="" group-title="۩ Franta ۩",FR: Histoire TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/201
-#EXTINF:-1 tvg-id="" tvg-name="FR: Helene & les garcons" tvg-logo="" group-title="۩ Franta ۩",FR: Helene & les garcons
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286468
-#EXTINF:-1 tvg-id="" tvg-name="FR: Gulli" tvg-logo="" group-title="۩ Franta ۩",FR: Gulli
-http://iptvtree.net:8080/romaniamedia/178cdde57b/216
-#EXTINF:-1 tvg-id="" tvg-name="FR: GONG MAX" tvg-logo="" group-title="۩ Franta ۩",FR: GONG MAX
-http://iptvtree.net:8080/romaniamedia/178cdde57b/10151
-#EXTINF:-1 tvg-id="" tvg-name="FR: GONG" tvg-logo="" group-title="۩ Franta ۩",FR: GONG
-http://iptvtree.net:8080/romaniamedia/178cdde57b/298761
-#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+" tvg-logo="" group-title="۩ Franta ۩",FR: GOLF+
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1934
-#EXTINF:-1 tvg-id="" tvg-name="FR: Golf Channel" tvg-logo="" group-title="۩ Franta ۩",FR: Golf Channel
-http://iptvtree.net:8080/romaniamedia/178cdde57b/279613
-#EXTINF:-1 tvg-id="" tvg-name="FR: Generations TV" tvg-logo="" group-title="۩ Franta ۩",FR: Generations TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286514
-#EXTINF:-1 tvg-id="" tvg-name="FR: Game One +1" tvg-logo="" group-title="۩ Franta ۩",FR: Game One +1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/304144
-#EXTINF:-1 tvg-id="" tvg-name="FR: Game One" tvg-logo="" group-title="۩ Franta ۩",FR: Game One
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1930
-#EXTINF:-1 tvg-id="" tvg-name="FR: Franceinfo" tvg-logo="" group-title="۩ Franta ۩",FR: Franceinfo
-http://iptvtree.net:8080/romaniamedia/178cdde57b/159
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 24" tvg-logo="" group-title="۩ Franta ۩",FR: FRANCE 24
-http://iptvtree.net:8080/romaniamedia/178cdde57b/870
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5" tvg-logo="" group-title="۩ Franta ۩",FR: FRANCE 5
-http://iptvtree.net:8080/romaniamedia/178cdde57b/157
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 4" tvg-logo="" group-title="۩ Franta ۩",FR: FRANCE 4
-http://iptvtree.net:8080/romaniamedia/178cdde57b/156
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3" tvg-logo="" group-title="۩ Franta ۩",FR: FRANCE 3
-http://iptvtree.net:8080/romaniamedia/178cdde57b/155
-#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 2" tvg-logo="" group-title="۩ Franta ۩",FR: FRANCE 2
-http://iptvtree.net:8080/romaniamedia/178cdde57b/154
-#EXTINF:-1 tvg-id="" tvg-name="FR: Foot+" tvg-logo="" group-title="۩ Franta ۩",FR: Foot+
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1193
-#EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV Paris FASHION NEWS" tvg-logo="" group-title="۩ Franta ۩",FR: Fashion TV Paris FASHION NEWS
-http://iptvtree.net:8080/romaniamedia/178cdde57b/146554
-#EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV FASHION MAGAZINES" tvg-logo="" group-title="۩ Franta ۩",FR: Fashion TV FASHION MAGAZINES
-http://iptvtree.net:8080/romaniamedia/178cdde57b/163399
-#EXTINF:-1 tvg-id="" tvg-name="FR: Fashion TV" tvg-logo="" group-title="۩ Franta ۩",FR: Fashion TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/146555
-#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 2" tvg-logo="" group-title="۩ Franta ۩",FR: Eurosport 2
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1195
-#EXTINF:-1 tvg-id="" tvg-name="FR: Eurosport 1" tvg-logo="" group-title="۩ Franta ۩",FR: Eurosport 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/151
-#EXTINF:-1 tvg-id="" tvg-name="FR: euronews" tvg-logo="" group-title="۩ Franta ۩",FR: euronews
-http://iptvtree.net:8080/romaniamedia/178cdde57b/169
-#EXTINF:-1 tvg-id="" tvg-name="FR: Euro Channel" tvg-logo="" group-title="۩ Franta ۩",FR: Euro Channel
-http://iptvtree.net:8080/romaniamedia/178cdde57b/52215
-#EXTINF:-1 tvg-id="" tvg-name="FR: Ere TV" tvg-logo="" group-title="۩ Franta ۩",FR: Ere TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/295261
-#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia Pro" tvg-logo="" group-title="۩ Franta ۩",FR: Equidia Pro
-http://iptvtree.net:8080/romaniamedia/178cdde57b/297555
-#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia" tvg-logo="" group-title="۩ Franta ۩",FR: Equidia
-http://iptvtree.net:8080/romaniamedia/178cdde57b/276130
-#EXTINF:-1 tvg-id="" tvg-name="FR: E!" tvg-logo="" group-title="۩ Franta ۩",FR: E!
-http://iptvtree.net:8080/romaniamedia/178cdde57b/2978
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney+" tvg-logo="" group-title="۩ Franta ۩",FR: Disney+
-http://iptvtree.net:8080/romaniamedia/178cdde57b/207
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney XD" tvg-logo="" group-title="۩ Franta ۩",FR: Disney XD
-http://iptvtree.net:8080/romaniamedia/178cdde57b/208
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Junior" tvg-logo="" group-title="۩ Franta ۩",FR: Disney Junior
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1197
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Cinema" tvg-logo="" group-title="۩ Franta ۩",FR: Disney Cinema
-http://iptvtree.net:8080/romaniamedia/178cdde57b/304042
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel +1" tvg-logo="" group-title="۩ Franta ۩",FR: Disney Channel +1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1927
-#EXTINF:-1 tvg-id="" tvg-name="FR: Disney Channel" tvg-logo="" group-title="۩ Franta ۩",FR: Disney Channel
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1198
-#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery World" tvg-logo="" group-title="۩ Franta ۩",FR: Discovery World
-http://iptvtree.net:8080/romaniamedia/178cdde57b/185
-#EXTINF:-1 tvg-id="" tvg-name="FR: Discovery Science" tvg-logo="" group-title="۩ Franta ۩",FR: Discovery Science
-http://iptvtree.net:8080/romaniamedia/178cdde57b/186
-#EXTINF:-1 tvg-id="" tvg-name="FR: Digital Black Music (DBM)" tvg-logo="" group-title="۩ Franta ۩",FR: Digital Black Music (DBM)
-http://iptvtree.net:8080/romaniamedia/178cdde57b/165042
-#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 4 LEAUGE 1" tvg-logo="" group-title="۩ Franta ۩",FR: DAZN 4 LEAUGE 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/305484
-#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 3 LEAUGE 1" tvg-logo="" group-title="۩ Franta ۩",FR: DAZN 3 LEAUGE 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/305486
-#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 2 LEAUGE 1" tvg-logo="" group-title="۩ Franta ۩",FR: DAZN 2 LEAUGE 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/305487
-#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 1 LEAUGE 1" tvg-logo="" group-title="۩ Franta ۩",FR: DAZN 1 LEAUGE 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/305485
-#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN 1" tvg-logo="" group-title="۩ Franta ۩",FR: DAZN 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/54437
-#EXTINF:-1 tvg-id="" tvg-name="FR: Dating" tvg-logo="" group-title="۩ Franta ۩",FR: Dating
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286462
-#EXTINF:-1 tvg-id="" tvg-name="FR: Crime District" tvg-logo="" group-title="۩ Franta ۩",FR: Crime District
-http://iptvtree.net:8080/romaniamedia/178cdde57b/6223
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cribs Maisons De Star" tvg-logo="" group-title="۩ Franta ۩",FR: Cribs Maisons De Star
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286444
-#EXTINF:-1 tvg-id="" tvg-name="FR: Comedy Central" tvg-logo="" group-title="۩ Franta ۩",FR: Comedy Central
-http://iptvtree.net:8080/romaniamedia/178cdde57b/280292
-#EXTINF:-1 tvg-id="" tvg-name="FR: Comedie+" tvg-logo="" group-title="۩ Franta ۩",FR: Comedie+
-http://iptvtree.net:8080/romaniamedia/178cdde57b/180
-#EXTINF:-1 tvg-id="" tvg-name="FR: Clubbing TV" tvg-logo="" group-title="۩ Franta ۩",FR: Clubbing TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/11018
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Premier" tvg-logo="" group-title="۩ Franta ۩",FR: CINE+ Premier
-http://iptvtree.net:8080/romaniamedia/178cdde57b/176
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Frisson" tvg-logo="" group-title="۩ Franta ۩",FR: CINE+ Frisson
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1895
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Famiz" tvg-logo="" group-title="۩ Franta ۩",FR: CINE+ Famiz
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1896
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Emotion" tvg-logo="" group-title="۩ Franta ۩",FR: CINE+ Emotion
-http://iptvtree.net:8080/romaniamedia/178cdde57b/876
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Club" tvg-logo="" group-title="۩ Franta ۩",FR: CINE+ Club
-http://iptvtree.net:8080/romaniamedia/178cdde57b/179
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Classic" tvg-logo="" group-title="۩ Franta ۩",FR: CINE+ Classic
-http://iptvtree.net:8080/romaniamedia/178cdde57b/175
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+ Black Pills" tvg-logo="" group-title="۩ Franta ۩",FR: CINE+ Black Pills
-http://iptvtree.net:8080/romaniamedia/178cdde57b/298743
-#EXTINF:-1 tvg-id="" tvg-name="FR: CINE+" tvg-logo="" group-title="۩ Franta ۩",FR: CINE+
-http://iptvtree.net:8080/romaniamedia/178cdde57b/296203
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cherie 25" tvg-logo="" group-title="۩ Franta ۩",FR: Cherie 25
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1911
-#EXTINF:-1 tvg-id="" tvg-name="FR: Chasse & Peche" tvg-logo="" group-title="۩ Franta ۩",FR: Chasse & Peche
-http://iptvtree.net:8080/romaniamedia/178cdde57b/196
-#EXTINF:-1 tvg-id="" tvg-name="FR: CGTN Français" tvg-logo="" group-title="۩ Franta ۩",FR: CGTN Français
-http://iptvtree.net:8080/romaniamedia/178cdde57b/301173
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoonito" tvg-logo="" group-title="۩ Franta ۩",FR: Cartoonito
-http://iptvtree.net:8080/romaniamedia/178cdde57b/300625
-#EXTINF:-1 tvg-id="" tvg-name="FR: Cartoon Network" tvg-logo="" group-title="۩ Franta ۩",FR: Cartoon Network
-http://iptvtree.net:8080/romaniamedia/178cdde57b/210
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 360" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Sport 360
-http://iptvtree.net:8080/romaniamedia/178cdde57b/297378
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 5" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Sport 5
-http://iptvtree.net:8080/romaniamedia/178cdde57b/291178
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 4" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Sport 4
-http://iptvtree.net:8080/romaniamedia/178cdde57b/297381
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 3" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Sport 3
-http://iptvtree.net:8080/romaniamedia/178cdde57b/291177
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 2" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Sport 2
-http://iptvtree.net:8080/romaniamedia/178cdde57b/298742
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport 1" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Sport 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/291175
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Sport" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Sport
-http://iptvtree.net:8080/romaniamedia/178cdde57b/143
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Series" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Series
-http://iptvtree.net:8080/romaniamedia/178cdde57b/173
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Premier League" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Premier League
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286794
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Kids" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Kids
-http://iptvtree.net:8080/romaniamedia/178cdde57b/281601
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Grand Ecran" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Grand Ecran
-http://iptvtree.net:8080/romaniamedia/178cdde57b/298741
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Foot" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Foot
-http://iptvtree.net:8080/romaniamedia/178cdde57b/297371
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Family" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Family
-http://iptvtree.net:8080/romaniamedia/178cdde57b/305489
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Elles" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Elles
-http://iptvtree.net:8080/romaniamedia/178cdde57b/297370
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Docs" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Docs
-http://iptvtree.net:8080/romaniamedia/178cdde57b/298737
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Decale" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Decale
-http://iptvtree.net:8080/romaniamedia/178cdde57b/171
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Cinema" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+ Cinema
-http://iptvtree.net:8080/romaniamedia/178cdde57b/172
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ Box Office" tvg-logo="" group-title="۩ Franta ۩",FR: Canal+ Box Office
-http://iptvtree.net:8080/romaniamedia/178cdde57b/301684
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal+ 4K Ultra HD" tvg-logo="" group-title="۩ Franta ۩",FR: Canal+ 4K Ultra HD
-http://iptvtree.net:8080/romaniamedia/178cdde57b/302361
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL+
-http://iptvtree.net:8080/romaniamedia/178cdde57b/170
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Savoir" tvg-logo="" group-title="۩ Franta ۩",FR: Canal Savoir
-http://iptvtree.net:8080/romaniamedia/178cdde57b/9296
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 10" tvg-logo="" group-title="۩ Franta ۩",FR: Canal Play 10
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1890
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 9" tvg-logo="" group-title="۩ Franta ۩",FR: Canal Play 9
-http://iptvtree.net:8080/romaniamedia/178cdde57b/13724
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 7" tvg-logo="" group-title="۩ Franta ۩",FR: Canal Play 7
-http://iptvtree.net:8080/romaniamedia/178cdde57b/230
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 6" tvg-logo="" group-title="۩ Franta ۩",FR: Canal Play 6
-http://iptvtree.net:8080/romaniamedia/178cdde57b/13722
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 5" tvg-logo="" group-title="۩ Franta ۩",FR: Canal Play 5
-http://iptvtree.net:8080/romaniamedia/178cdde57b/13603
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 4" tvg-logo="" group-title="۩ Franta ۩",FR: Canal Play 4
-http://iptvtree.net:8080/romaniamedia/178cdde57b/229
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 3" tvg-logo="" group-title="۩ Franta ۩",FR: Canal Play 3
-http://iptvtree.net:8080/romaniamedia/178cdde57b/228
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play 2" tvg-logo="" group-title="۩ Franta ۩",FR: Canal Play 2
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1887
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Play" tvg-logo="" group-title="۩ Franta ۩",FR: Canal Play
-http://iptvtree.net:8080/romaniamedia/178cdde57b/163135
-#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL J" tvg-logo="" group-title="۩ Franta ۩",FR: CANAL J
-http://iptvtree.net:8080/romaniamedia/178cdde57b/212
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal D" tvg-logo="" group-title="۩ Franta ۩",FR: Canal D
-http://iptvtree.net:8080/romaniamedia/178cdde57b/486
-#EXTINF:-1 tvg-id="" tvg-name="FR: Canal Alpha Jura" tvg-logo="" group-title="۩ Franta ۩",FR: Canal Alpha Jura
-http://iptvtree.net:8080/romaniamedia/178cdde57b/298475
-#EXTINF:-1 tvg-id="" tvg-name="FR: C8" tvg-logo="" group-title="۩ Franta ۩",FR: C8
-http://iptvtree.net:8080/romaniamedia/178cdde57b/161
-#EXTINF:-1 tvg-id="" tvg-name="FR: C Star Hits France" tvg-logo="" group-title="۩ Franta ۩",FR: C Star Hits France
-http://iptvtree.net:8080/romaniamedia/178cdde57b/281600
-#EXTINF:-1 tvg-id="" tvg-name="FR: C Star" tvg-logo="" group-title="۩ Franta ۩",FR: C Star
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1900
-#EXTINF:-1 tvg-id="" tvg-name="FR: C News" tvg-logo="" group-title="۩ Franta ۩",FR: C News
-http://iptvtree.net:8080/romaniamedia/178cdde57b/168
-#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 9" tvg-logo="" group-title="۩ Franta ۩",FR: Box Office 9
-http://iptvtree.net:8080/romaniamedia/178cdde57b/57256
-#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 8" tvg-logo="" group-title="۩ Franta ۩",FR: Box Office 8
-http://iptvtree.net:8080/romaniamedia/178cdde57b/42226
-#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 7" tvg-logo="" group-title="۩ Franta ۩",FR: Box Office 7
-http://iptvtree.net:8080/romaniamedia/178cdde57b/15408
-#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 6" tvg-logo="" group-title="۩ Franta ۩",FR: Box Office 6
-http://iptvtree.net:8080/romaniamedia/178cdde57b/15407
-#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 5" tvg-logo="" group-title="۩ Franta ۩",FR: Box Office 5
-http://iptvtree.net:8080/romaniamedia/178cdde57b/15406
-#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 4" tvg-logo="" group-title="۩ Franta ۩",FR: Box Office 4
-http://iptvtree.net:8080/romaniamedia/178cdde57b/15405
-#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 3" tvg-logo="" group-title="۩ Franta ۩",FR: Box Office 3
-http://iptvtree.net:8080/romaniamedia/178cdde57b/15404
-#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 2" tvg-logo="" group-title="۩ Franta ۩",FR: Box Office 2
-http://iptvtree.net:8080/romaniamedia/178cdde57b/15402
-#EXTINF:-1 tvg-id="" tvg-name="FR: Box Office 1" tvg-logo="" group-title="۩ Franta ۩",FR: Box Office 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/15401
-#EXTINF:-1 tvg-id="" tvg-name="FR: Boomerang" tvg-logo="" group-title="۩ Franta ۩",FR: Boomerang
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1931
-#EXTINF:-1 tvg-id="" tvg-name="FR: Boing" tvg-logo="" group-title="۩ Franta ۩",FR: Boing
-http://iptvtree.net:8080/romaniamedia/178cdde57b/213
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bob leponge" tvg-logo="" group-title="۩ Franta ۩",FR: Bob leponge
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286452
-#EXTINF:-1 tvg-id="" tvg-name="FR: Bip TV" tvg-logo="" group-title="۩ Franta ۩",FR: Bip TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/75540
-#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV" tvg-logo="" group-title="۩ Franta ۩",FR: BFM TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/279628
-#EXTINF:-1 tvg-id="" tvg-name="FR: BFM Paris" tvg-logo="" group-title="۩ Franta ۩",FR: BFM Paris
-http://iptvtree.net:8080/romaniamedia/178cdde57b/167
-#EXTINF:-1 tvg-id="" tvg-name="FR: BFM Lyon" tvg-logo="" group-title="۩ Franta ۩",FR: BFM Lyon
-http://iptvtree.net:8080/romaniamedia/178cdde57b/286500
-#EXTINF:-1 tvg-id="" tvg-name="FR: BFM Lille TV" tvg-logo="" group-title="۩ Franta ۩",FR: BFM Lille TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/201231
-#EXTINF:-1 tvg-id="" tvg-name="FR: BFM Business" tvg-logo="" group-title="۩ Franta ۩",FR: BFM Business
-http://iptvtree.net:8080/romaniamedia/178cdde57b/1919
-#EXTINF:-1 tvg-id="" tvg-name="FR: BET" tvg-logo="" group-title="۩ Franta ۩",FR: BET
-http://iptvtree.net:8080/romaniamedia/178cdde57b/184
-#EXTINF:-1 tvg-id="" tvg-name="FR: Berbere TV" tvg-logo="" group-title="۩ Franta ۩",FR: Berbere TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/33099
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 10" tvg-logo="" group-title="۩ Franta ۩",FR: beIN Sports Max 10
-http://iptvtree.net:8080/romaniamedia/178cdde57b/6088
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 8" tvg-logo="" group-title="۩ Franta ۩",FR: beIN Sports Max 8
-http://iptvtree.net:8080/romaniamedia/178cdde57b/4370
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 7" tvg-logo="" group-title="۩ Franta ۩",FR: beIN Sports Max 7
-http://iptvtree.net:8080/romaniamedia/178cdde57b/4369
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 6" tvg-logo="" group-title="۩ Franta ۩",FR: beIN Sports Max 6
-http://iptvtree.net:8080/romaniamedia/178cdde57b/4368
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 5" tvg-logo="" group-title="۩ Franta ۩",FR: beIN Sports Max 5
-http://iptvtree.net:8080/romaniamedia/178cdde57b/6083
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports Max 4" tvg-logo="" group-title="۩ Franta ۩",FR: beIN Sports Max 4
-http://iptvtree.net:8080/romaniamedia/178cdde57b/3599
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 3" tvg-logo="" group-title="۩ Franta ۩",FR: beIN Sports 3
-http://iptvtree.net:8080/romaniamedia/178cdde57b/146
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 2" tvg-logo="" group-title="۩ Franta ۩",FR: beIN Sports 2
-http://iptvtree.net:8080/romaniamedia/178cdde57b/145
-#EXTINF:-1 tvg-id="" tvg-name="FR: beIN Sports 1" tvg-logo="" group-title="۩ Franta ۩",FR: beIN Sports 1
-http://iptvtree.net:8080/romaniamedia/178cdde57b/144
-#EXTINF:-1 tvg-id="" tvg-name="FR: BBC Drama" tvg-logo="" group-title="۩ Franta ۩",FR: BBC Drama
-http://iptvtree.net:8080/romaniamedia/178cdde57b/299701
-#EXTINF:-1 tvg-id="" tvg-name="FR: Baby TV" tvg-logo="" group-title="۩ Franta ۩",FR: Baby TV
-http://iptvtree.net:8080/romaniamedia/178cdde57b/51323
-#EXTINF:-1 tvg-id="" tvg-name="FR: Automoto" tvg-logo="" group-title="۩ Franta ۩",FR: Automoto
-http://iptvtree.net:8080/romaniamedia/178cdde57b/148
-#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE" tvg-logo="" group-title="۩ Franta ۩",FR: ARTE
-http://iptvtree.net:8080/romaniamedia/178cdde57b/163
-#EXTINF:-1 tvg-id="" tvg-name="FR: ANIMAUX" tvg-logo="" group-title="۩ Franta ۩",FR: ANIMAUX
-http://iptvtree.net:8080/romaniamedia/178cdde57b/193
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE2.png" group-title="┃FR┃ FRANCE HD",┃FR┃ FRANCE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773041&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE3.png" group-title="┃FR┃ FRANCE HD",┃FR┃ FRANCE 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773042&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE4.png" group-title="┃FR┃ FRANCE HD",┃FR┃ FRANCE 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773043&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE5.png" group-title="┃FR┃ FRANCE HD",┃FR┃ FRANCE 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773044&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/ARTE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ ARTE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773081&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/M6.png" group-title="┃FR┃ FRANCE HD",┃FR┃ M6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773046&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/1CLASSIC.png" group-title="┃FR┃ FRANCE HD",┃FR┃ 6TER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773045&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/W9.png" group-title="┃FR┃ FRANCE HD",┃FR┃ W9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773080&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NRJ12.png" group-title="┃FR┃ FRANCE HD",┃FR┃ NRJ 12 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773251&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TFX.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TFX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773048&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TF1SERIEFILMS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TF1 SERIES FILMS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773047&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/C8.png" group-title="┃FR┃ FRANCE HD",┃FR┃ C8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773079&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CSTAR.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CSTAR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773083&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TMC.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TMC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773067&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TMC.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TMC +1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773068&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSTORY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ RMC STORY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773252&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CHERIE25.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CHERIE 25 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773253&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE HD",☰☰☰☰  ┃FR┃ MY CANAL+ ┃HD┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773462&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773142&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOXOFFICE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL+ BOX OFFICE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773143&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL+ CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773144&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL+ SERIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773145&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUSGRANDECRAN.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL+ GRAND ECRAN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773146&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE HD",☰☰☰☰ ┃FR┃ CINEMA ┃HD┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773463&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINEPREMIER.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CINE+ PREMIER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773151&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINEFRISSON.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CINE+ FRISSON HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773155&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINEEMOTION.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CINE+ EMOTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773154&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINEFAMIZ.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CINE+ FAMIZ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773153&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINECLUB.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CINE+ CLUB HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773152&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINECLASSIC.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CINE+ CLASSIC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773156&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/WARNERTV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ WARNER TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773259&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/WARNERTV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ WARNER TV NEXT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773260&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NOVELASTV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ NOVELAS TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773082&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/POLAR.png" group-title="┃FR┃ FRANCE HD",┃FR┃ POLAR+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773246&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CRIMEDISTRICK.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CRIME DISTRICT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773257&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PARAMOUNT.png" group-title="┃FR┃ FRANCE HD",┃FR┃ PARAMOUNT CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773203&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PARAMOUNTDECALE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ PARAMOUNT DECALE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773224&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/ACTION.png" group-title="┃FR┃ FRANCE HD",┃FR┃ ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773147&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TCMCINEMA.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TCM CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773225&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE HD",☰☰☰☰ ┃FR┃ BOX OFFICE ┃HD┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775913&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOXOFFICE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ BOX OFFICE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775919&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOXOFFICE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ BOX OFFICE 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775920&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOXOFFICE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ BOX OFFICE 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775921&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOXOFFICE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ BOX OFFICE 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775922&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE HD",☰☰☰☰ ┃FR┃ CANAL PLAY ┃4K┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775923&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLAY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL PLAY 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775924&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLAY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL PLAY 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775925&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLAY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL PLAY 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775926&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLAY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL PLAY 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775927&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLAY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL PLAY 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775928&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLAY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL PLAY 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775929&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLAY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL PLAY 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775930&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLAY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL PLAY 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775931&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLAY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL PLAY 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775932&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLAY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL PLAY 10 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775933&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE HD",☰☰☰☰ ┃FR┃ DIVERTISSEMENT ┃HD┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773464&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/COMEDIEPLUS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ COMEDIE+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773254&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SYFY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ SYFY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773249&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/e-entertainment-television-llc-logo-vector.png" group-title="┃FR┃ FRANCE HD",┃FR┃ E! HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773258&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/MTV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ MTV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773434&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/13EMERUE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ 13EME RUE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773248&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TEVA.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TEVA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773050&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RTL9.png" group-title="┃FR┃ FRANCE HD",┃FR┃ RTL 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773049&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/AB1.png" group-title="┃FR┃ FRANCE HD",┃FR┃ AB1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773261&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SERIECLUB.png" group-title="┃FR┃ FRANCE HD",┃FR┃ SERIE CLUB HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773247&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PARISPREMIERE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ PARIS PREMIERE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773256&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BREIZHTV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TV BREIZH HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773250&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BET.png" group-title="┃FR┃ FRANCE HD",┃FR┃ BET HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773266&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LUCKY_JACK.png" group-title="┃FR┃ FRANCE HD",┃FR┃ LUCKY JACK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773457&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/COMEDYCENTRAL.png" group-title="┃FR┃ FRANCE HD",┃FR┃ COMEDY CENTRAL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773255&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE HD",☰☰☰☰ ┃FR┃ DECOUVERTE ┃HD┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773465&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUSDOCS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL+ DOCS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773377&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PLANETPLUS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ PLANETE+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773385&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PLANETEPLUSAE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ PLANETE+ AVENTURE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773387&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PLANETEPLUSCI.png" group-title="┃FR┃ FRANCE HD",┃FR┃ PLANETE+ CRIME HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773386&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGC.png" group-title="┃FR┃ FRANCE HD",┃FR┃ NAT GEO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773381&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGCWILD.png" group-title="┃FR┃ FRANCE HD",┃FR┃ NAT GEO WILD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773382&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISCOVERYCHANNEL.png" group-title="┃FR┃ FRANCE HD",┃FR┃ DISCOVERY CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773378&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Investigation_Discovery.png" group-title="┃FR┃ FRANCE HD",┃FR┃ DISCOVERY ID HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773380&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISCOVERYSCIENCE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ DISCOVERY SCIENCE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773379&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TREK.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TREK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773388&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/HISTOIRE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ HISTOIRE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773383&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TOUTELHISTOIRE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TOUTE L HISTOIRE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773384&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SEASONS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ SEASON HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773389&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SCIENCEVIETV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ SCIENCE ET VIE TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773390&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCDECOUERTE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ RMC DECOUVERTE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773391&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/USHUAIA.png" group-title="┃FR┃ FRANCE HD",┃FR┃ USHUAIA TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773392&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/ANIMAUX.png" group-title="┃FR┃ FRANCE HD",┃FR┃ ANIMAUX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773393&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CHEESEPECHE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CHASSE ET PECHE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773394&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nautical_Channel_29.png" group-title="┃FR┃ FRANCE HD",┃FR┃ NAUTICAL CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773397&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MUSEUMPURESCREENS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ THE MUSEUM CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773395&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE HD",☰☰☰☰ ┃FR┃ JEUNESSE ┃HD┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773466&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUSKIDS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL+ KIDS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773398&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISNEYCHANNEL.png" group-title="┃FR┃ FRANCE HD",┃FR┃ DISNEY CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773399&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISNEYCHANNEL.png" group-title="┃FR┃ FRANCE HD",┃FR┃ DISNEY CHANNEL +1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773400&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISNEYJUNIOR.png" group-title="┃FR┃ FRANCE HD",┃FR┃ DISNEY JUNIOR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773401&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NICKELODEONHD.png" group-title="┃FR┃ FRANCE HD",┃FR┃ NICKELODEON HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773402&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NICKELODEONHD.png" group-title="┃FR┃ FRANCE HD",┃FR┃ NICKELODEON +1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773403&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NICKELODEON.png" group-title="┃FR┃ FRANCE HD",┃FR┃ NICKELODEON JUNIOR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773404&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NICKELODEON4TEEN.png" group-title="┃FR┃ FRANCE HD",┃FR┃ NICKELODEON TEEN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773405&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CARTOONNETWORK.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CARTOON NETWORK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773406&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CARTOONITO.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CARTOONITO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773407&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOOMERANG.png" group-title="┃FR┃ FRANCE HD",┃FR┃ BOOMERANG HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773408&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOOMERANG.png" group-title="┃FR┃ FRANCE HD",┃FR┃ BOOMERANG +1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773409&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/DreamWorks_Channel_Logo.svg.png" group-title="┃FR┃ FRANCE HD",┃FR┃ DREAMWORKS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773410&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PIWIPLUS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ PIWI+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773411&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TIJI.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TIJI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773412&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TELETOON.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TELETOON+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773413&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TELETOON.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TELETOON+ 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773414&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/WARNERTV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ WARNER NEXT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773415&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/GULLI.png" group-title="┃FR┃ FRANCE HD",┃FR┃ GULLI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773416&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALJ.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL J HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773417&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/GAMEONE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ GAME ONE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773418&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MANGAS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ MANGAS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773419&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/JONE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ J-ONE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773420&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE HD",☰☰☰☰ ┃FR┃ MUSIQUE ┃HD┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773467&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CSTAR.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CSTAR HITS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773450&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TraceUrban.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TRACE URBAN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773442&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TRACELATINA.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TRACE LATINA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773446&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TRACECARIBBEAN.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TRACE CARRABEAN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773448&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TRACEKITOKO.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TRACE KITOKO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773447&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TRACETOCA.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TRACE TOCA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773445&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TRACEGOSPEL.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TRACE GOSPEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773444&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/M6.png" group-title="┃FR┃ FRANCE HD",┃FR┃ M6 MUSIC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773453&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MELODY.png" group-title="┃FR┃ FRANCE HD",┃FR┃ MELODY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773438&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NRJHITS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ NRJ HITS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773441&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MCM.png" group-title="┃FR┃ FRANCE HD",┃FR┃ MCM HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773436&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MCM.png" group-title="┃FR┃ FRANCE HD",┃FR┃ MCM TOP HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773437&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVHITSHD.png" group-title="┃FR┃ FRANCE HD",┃FR┃ MTV HITS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773435&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RFMTV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ RFM TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773449&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MEZZOLIVEHD.png" group-title="┃FR┃ FRANCE HD",┃FR┃ MEZZO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773439&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MEZZOLIVEHD.png" group-title="┃FR┃ FRANCE HD",┃FR┃ MEZZO LIVE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773440&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/DJAZZSTINGRAYHD.png" group-title="┃FR┃ FRANCE HD",┃FR┃ STINGRAY DJAZZ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773451&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/OLYMPIA.png" group-title="┃FR┃ FRANCE HD",┃FR┃ OLYMPIA TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773137&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE HD",☰☰☰☰ ┃FR┃ AFRIQUE ┃HD┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773468&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NOLLYWOODTV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ NOLLYWOOD TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773263&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NOLLYWOODTV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ NOLLYWOOD EPIC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773264&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TRACEAFRICA.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TRACE AFRICA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773443&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE HD",☰☰☰☰ ┃FR┃ INFOS ┃HD┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773469&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LACHAINEMETEO.png" group-title="┃FR┃ FRANCE HD",┃FR┃ LA CHAINE METEO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773139&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LACHAINEMETEO.png" group-title="┃FR┃ FRANCE HD",┃FR┃ LA CHAINE METEO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773433&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CNEWS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CNEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773423&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCEINFO.png" group-title="┃FR┃ FRANCE HD",┃FR┃ FRANCE INFO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773421&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BFMTV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ BFM HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773425&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BFMBUSINESS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ BFM BUSINESS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773426&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BFMPARIS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ BFM PARIS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773427&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LCI.png" group-title="┃FR┃ FRANCE HD",┃FR┃ LCI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773428&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LCP.png" group-title="┃FR┃ FRANCE HD",┃FR┃ LCP HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773429&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/I24NEWS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ I24 NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773430&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TV5MONDE.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TV5 MONDE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773262&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE24.png" group-title="┃FR┃ FRANCE HD",┃FR┃ FRANCE 24 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773422&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/EURONEWS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ EURONEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773424&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE HD",☰☰☰☰ ┃FR┃ LOCALES ┃HD┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773470&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/IDF1.png" group-title="┃FR┃ FRANCE HD",┃FR┃ IDF 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773461&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/AURIENNETV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ MAURIENNE TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773140&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SQOOL.png" group-title="┃FR┃ FRANCE HD",┃FR┃ SQOOL TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773141&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MGGFAST.png" group-title="┃FR┃ FRANCE HD",┃FR┃ MGG FAST HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773460&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MGGFAST.png" group-title="┃FR┃ FRANCE HD",┃FR┃ MGG TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773459&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TVPI.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TVPI HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773458&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PITCHOUN_TV_2018.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TV PITCHOUN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773456&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/GOURMANDTV.png" group-title="┃FR┃ FRANCE HD",┃FR┃ GOURMAND TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773455&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CGTNFRANCAIS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CGTN FRANÇAIS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773454&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/FRF3PARIS.png" group-title="┃FR┃ FRANCE HD",┃FR┃ F3 PARIS IDF HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773265&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANAL32.png" group-title="┃FR┃ FRANCE HD",┃FR┃ CANAL 32 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773432&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TV78.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TV78 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773431&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TV8MONTBLANC.png" group-title="┃FR┃ FRANCE HD",┃FR┃ TV8 MONT-BLANC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773396&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TF1.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TF1 4K UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774105&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TF1.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TF1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774106&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TF1PLUS1.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TF1 +1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774116&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE2.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ FRANCE 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774107&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE3.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ FRANCE 3 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774108&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE4.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ FRANCE 4 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774109&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE5.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ FRANCE 5 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774110&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/ARTE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ ARTE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774111&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/M6.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ M6 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774112&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/W9.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ W9 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774113&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NRJ12.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ NRJ12 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774114&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TFX.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TFX 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774115&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TF1SERIEFILMS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TF1 SERIES FILMS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774117&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/C8.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ C8 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774118&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CSTAR.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CSTAR 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774119&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TMC.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TMC 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774120&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TMC.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TMC +1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774121&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSTORY.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ RMC STORY 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774122&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CHERIE25.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CHERIE 25 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774123&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE 4K ULTRA",☰☰☰☰ ┃FR┃ MY CANAL+ ┃4K ULTRA┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774124&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL+ 4K UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774125&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL+ LDC 4K UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774127&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOXOFFICE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL+ BOX OFFICE 4K UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774126&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE 4K ULTRA",☰☰☰☰ ┃FR┃ MY CANAL+ ┃4K┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774128&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL+ 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774129&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL+ LDC 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774130&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOXOFFICE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL+ BOX OFFICE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774131&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL+ CINEMA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774132&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL+ SERIES 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774133&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUSGRANDECRAN.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL+ GRAND ECRAN 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774134&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE 4K ULTRA",☰☰☰☰ ┃FR┃ CINEMA ┃4K┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774135&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINEPREMIER.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CINE+ PREMIER 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774136&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINEFRISSON.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CINE+ FRISSON 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774137&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINEEMOTION.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CINE+ EMOTION 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774138&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINEFAMIZ.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CINE+ FAMIZ 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774139&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINECLUB.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CINE+ CLUB 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774140&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINECLASSIC.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CINE+ CLASSIC 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774141&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/WARNERTV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ WARNER TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774145&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/WARNERTV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ WARNER TV NEXT 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774146&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NOVELASTV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ NOVELAS TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774147&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/POLAR.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ POLAR+ 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774148&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CRIMEDISTRICK.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CRIME+ DISTRICT 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774149&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PARAMOUNT.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ PARAMOUNT CHANNEL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774150&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PARAMOUNTDECALE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ PARAMOUNT DECALE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774151&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/ACTION.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ ACTION 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774152&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TCMCINEMA.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TCM CINEMA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774153&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE 4K ULTRA",☰☰☰☰ ┃FR┃ DIVERTISSEMENT ┃4K┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774154&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/COMEDIEPLUS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ COMEDIE+ 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774155&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SYFY.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ SYFY 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774156&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/e-entertainment-television-llc-logo-vector.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ E! 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774157&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/MTV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ MTV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774158&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/13EMERUE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ 13EME RUE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774159&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TEVA.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TEVA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774160&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RTL9.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ RTL 9 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774161&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/AB1.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ AB1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774162&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SERIECLUB.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ SERIE CLUB 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774163&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PARISPREMIERE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ PARIS PREMIERE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774164&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BREIZHTV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TV BREIZH 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774165&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BET.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ BET 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774166&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/COMEDYCENTRAL.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ COMEDY CENTRAL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774168&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LUCKY_JACK.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ LUCKY JACK 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774167&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE 4K ULTRA",]☰☰☰☰ ┃FR┃ DECOUVERTE ┃4K┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774169&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUSDOCS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL+ DOCS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774170&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PLANETPLUS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ PLANETE+ 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774171&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PLANETEPLUSAE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ PLANETE+ AVENTURE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774172&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PLANETEPLUSCI.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ PLANETE+ CRIME 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774173&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGC.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ NAT GEO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774174&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGCWILD.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ NAT GEO WILD 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774175&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISCOVERYCHANNEL.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ DISCOVERY CHANNEL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774176&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/TLCHD.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TLC 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774177&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISCOVERYSCIENCE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ DISCOVERY SCIENCE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774178&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TREK.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TREK 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774179&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TREK.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ HISTOIRE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774180&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TOUTELHISTOIRE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TOUTE L HISTOIRE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774181&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SEASONS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ SEASON 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774182&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SCIENCEVIETV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ SCIENCE ET VIE TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774183&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCDECOUERTE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ RMC DECOUVERTE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774184&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SCIENCEVIETV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ USHUAIA TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774185&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/ANIMAUX.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ ANIMAUX 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774186&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CHEESEPECHE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CHASSE ET PECHE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774187&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Nautical_Channel_29.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ NAUTICAL CHANNEL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774188&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MUSEUMPURESCREENS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ THE MUSEUM CHANNEL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774189&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE 4K ULTRA",☰☰☰☰ ┃FR┃ JEUNESSE ┃4K┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775686&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUSKIDS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL+ KIDS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775687&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISNEYCHANNEL.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ DISNEY CHANNEL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775688&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISNEYCHANNEL.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ DISNEY CHANNEL +1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775689&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISNEYJUNIOR.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ DISNEY JUNIOR 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775690&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NICKELODEONHD.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ NICKELODEON 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775691&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NICKELODEONHD.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ NICKELODEON +1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775692&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NICKELODEON.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ NICKELODEON JUNIOR 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775693&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NICKELODEON4TEEN.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ NICKELODEON TEEN 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775694&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CARTOONNETWORK.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CARTOON NETWORK 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775695&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CARTOONITO.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CARTOONITO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775696&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOOMERANG.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ BOOMERANG 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775697&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOOMERANG.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ BOOMERANG +1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775698&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/DreamWorks_Channel_Logo.svg.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ DREAMWORKS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775699&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PIWIPLUS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ PIWI+ 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775700&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TIJI.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TIJI 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775701&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TELETOON.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TELETOON+ 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775702&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TELETOON.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TELETOON+ 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775703&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/WARNERTV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ WARNER NEXT 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775704&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/GULLI.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ GULLI 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775705&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALJ.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL J 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775706&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/GAMEONE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ GAME ONE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775707&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MANGAS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ MANGAS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775708&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/JONE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ J-ONE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775709&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE 4K ULTRA",☰☰☰☰ ┃FR┃ MUSIQUE ┃4K┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775722&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CSTAR.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CSTAR HITS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775733&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TraceUrban.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TRACE URBAN 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775734&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TRACELATINA.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TRACE LATINA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775735&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TRACECARIBBEAN.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TRACE CARRABEAN 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775751&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TRACEKITOKO.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TRACE KITOKO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775752&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TRACETOCA.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TRACE TOCA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775753&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TRACEGOSPEL.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TRACE GOSPEL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775754&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/M6.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ M6 MUSIC 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775755&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MELODY.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ MELODY 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775756&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NRJHITS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ NRJ HITS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775772&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MCM.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ MCM 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775773&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MCM.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ MCM TOP 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775775&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/MTVHITSHD.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ MTV HITS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775774&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RFMTV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ RFM TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775784&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MEZZOLIVEHD.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ MEZZO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775785&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MEZZOLIVEHD.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ MEZZO LIVE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775793&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/DJAZZSTINGRAYHD.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ STINGRAY DJAZZ 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775786&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/OLYMPIA.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ OLYMPIA TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775794&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE 4K ULTRA",☰☰☰☰ ┃FR┃ AFRIQUE ┃4K┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775812&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NOLLYWOODTV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ NOLLYWOOD TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775813&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NOLLYWOODTV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ NOLLYWOOD EPIC 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775814&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TRACEAFRICA.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TRACE AFRICA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775822&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE 4K ULTRA",☰☰☰☰ ┃FR┃ INFOS ┃4K┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775823&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LACHAINEMETEO.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ LA CHAINE METEO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775824&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CNEWS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CNEWS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775825&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCEINFO.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ FRANCE INFO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775826&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BFMTV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ BFM 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775827&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BFMBUSINESS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ BFM BUSINESS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775828&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BFMPARIS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ BFM PARIS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775840&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LCI.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ LCI 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775841&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LCP.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ LCP 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775842&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/I24NEWS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ I24 NEWS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775843&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TV5MONDE.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TV5 MONDE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775844&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE24.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ FRANCE 24 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775845&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/EURONEWS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ EURONEWS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775846&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX4/franceflag.png" group-title="┃FR┃ FRANCE 4K ULTRA",☰☰☰☰ ┃FR┃ LOCALES┃4K┃ ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775852&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/IDF1.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ IDF 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775858&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/AURIENNETV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ MAURIENNE TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775859&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SQOOL.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ SQOOL TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775870&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MGGFAST.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ MGG TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775871&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MGGFAST.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ MGG FAST 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775872&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TVPI.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TVPI 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775873&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PITCHOUN_TV_2018.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TV PITCHOUN 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775874&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/GOURMANDTV.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ GOURMAND TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775882&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CGTNFRANCAIS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CGTN FRANÇAIS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775883&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/FRF3PARIS.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ F3 PARIS IDF 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775884&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANAL32.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ CANAL 32 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775889&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TV78.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TV78 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775890&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TV8MONTBLANC.png" group-title="┃FR┃ FRANCE 4K ULTRA",┃FR┃ TV8 MONT-BLANC 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=775891&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TF1.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ TF1 8K UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776002&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TF1.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ TF1 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776001&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE2.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ FRANCE 2 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776003&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE3.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ FRANCE 3 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776004&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE4.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ FRANCE 4 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776005&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE5.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ FRANCE 5 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776006&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/ARTE.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ ARTE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776007&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/M6.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ M6 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776008&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/6TER.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ 6TER 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776009&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/W9.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ W9 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776010&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NRJ12.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ NRJ 12 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776011&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TFX.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ TFX 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776012&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TF1SERIEFILMS.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ TF1 SERIES FILMS 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776013&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/C8.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ C8 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776014&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CSTAR.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ CSTAR 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776015&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TMC.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ TMC 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776016&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSTORY.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ RMC STORY 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776017&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CHERIE25.png" group-title="┃FR┃ TÉLÉVISION DE BASE+",┃FR┃ CHERIE 25 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776018&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ 8K UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776019&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ LDC 8K UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776020&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOXOFFICE.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ BOX OFFICE 8K UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776021&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776022&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ LDC 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776023&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOXOFFICE.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ BOX OFFICE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776024&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ CINEMA 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776025&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ SERIES 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776026&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUSGRANDECRAN.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CANAL+ GRAND ECRAN 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776027&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINEPREMIER.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ PREMIER 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776028&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINEFRISSON.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ FRISSON 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776029&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINEEMOTION.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ EMOTION 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776030&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINEFAMIZ.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ FAMIZ 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776031&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINECLUB.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ CLUB 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776032&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CINECLASSIC.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CINE+ CLASSIC 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776033&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/WARNERTV.png" group-title="┃FR┃ MY CANAL+",┃FR┃ WARNER TV 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776037&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/WARNERTV.png" group-title="┃FR┃ MY CANAL+",┃FR┃ WARNER TV NEXT 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776038&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NOVELASTV.png" group-title="┃FR┃ MY CANAL+",┃FR┃ NOVELAS TV 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776039&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/POLAR.png" group-title="┃FR┃ MY CANAL+",┃FR┃ POLAR+ 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776040&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CRIMEDISTRICK.png" group-title="┃FR┃ MY CANAL+",┃FR┃ CRIME+ DISTRICT 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776041&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PARAMOUNT.png" group-title="┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT CHANNEL 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776042&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PARAMOUNTDECALE.png" group-title="┃FR┃ MY CANAL+",┃FR┃ PARAMOUNT DECALE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776043&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/ACTION.png" group-title="┃FR┃ MY CANAL+",┃FR┃ ACTION 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776044&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TCMCINEMA.png" group-title="┃FR┃ MY CANAL+",┃FR┃ TCM CINEMA 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776045&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/COMEDIEPLUS.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ COMEDIE+ 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776986&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SYFY.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ SYFY 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776987&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/e-entertainment-television-llc-logo-vector.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ E! 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776988&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/MTV.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ MTV 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776989&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/13EMERUE.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ 13EME RUE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776990&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TEVA.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ TEVA 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776991&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RTL9.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ RTL 9 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776992&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/AB1.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ AB1 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776993&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SERIECLUB.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ SERIE CLUB 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776994&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PARISPREMIERE.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ PARIS PREMIERE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776995&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BREIZHTV.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ TV BREIZH 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776996&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BET.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ BET 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776997&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LUCKY_JACK.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ LUCKY JACK 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776998&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/COMEDYCENTRAL.png" group-title="┃FR┃ DIVERTISSEMENT",┃FR┃ COMEDY CENTRAL 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=776999&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUSDOCS.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ CANAL+ DOCS 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779439&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PLANETPLUS.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ PLANETE+ 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779440&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PLANETEPLUSAE.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ PLANETE+ AVENTURE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779441&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PLANETPLUS.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ PLANETE+ CRIME 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779442&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGC.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ NAT GEO 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779443&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGCWILD.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ NAT GEO WILD 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779444&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISCOVERYCHANNEL.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ DISCOVERY CHANNEL 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779446&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/POLONIA/Investigation_Discovery.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ DISCOVERY ID 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779447&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISCOVERYSCIENCE.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ DISCOVERY SCIENCE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779448&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TREK.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ TREK 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779449&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/HISTOIRE.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ HISTOIRE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779450&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TOUTELHISTOIRE.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ TOUTE L HISTOIRE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779451&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SEASONS.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ SEASON 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779452&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/SCIENCEVIETV.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ SCIENCE ET VIE TV 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779453&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCDECOUERTE.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ RMC DECOUVERTE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779454&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/USHUAIA.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ USHUAIA TV 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779455&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/ANIMAUX.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ ANIMAUX 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779456&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CHEESEPECHE.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ CHASSE ET PECHE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779457&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MUSEUMPURESCREENS.png" group-title="┃FR┃ DECOUVERTE",┃FR┃ MUSEUM CHANNEL 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779458&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUSKIDS.png" group-title="┃FR┃ JEUNESSE",┃FR┃ CANAL+ KIDS 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779459&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISNEYCHANNEL.png" group-title="┃FR┃ JEUNESSE",┃FR┃ DISNEY CHANNEL 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779460&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISNEYCHANNEL.png" group-title="┃FR┃ JEUNESSE",┃FR┃ DISNEY CHANNEL +1 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779461&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISNEYJUNIOR.png" group-title="┃FR┃ JEUNESSE",┃FR┃ DISNEY JUNIOR 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779462&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NICKELODEONHD.png" group-title="┃FR┃ JEUNESSE",┃FR┃ NICKELODEON 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779463&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/NICKELODEONHD.png" group-title="┃FR┃ JEUNESSE",┃FR┃ NICKELODEON +1 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779464&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NICKELODEON.png" group-title="┃FR┃ JEUNESSE",┃FR┃ NICK JUNIOR 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779465&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NICKELODEON4TEEN.png" group-title="┃FR┃ JEUNESSE",┃FR┃ NICKELODEON TEEN 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779466&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CARTOONNETWORK.png" group-title="┃FR┃ JEUNESSE",┃FR┃ CARTOON NETWORK 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779467&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/CARTOONITO.png" group-title="┃FR┃ JEUNESSE",┃FR┃ CARTOONITO 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779468&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/BOOMERANG.png" group-title="┃FR┃ JEUNESSE",┃FR┃ BOOMERANG 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779469&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/DreamWorks_Channel_Logo.svg.png" group-title="┃FR┃ JEUNESSE",┃FR┃ DREAMWORKS 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779470&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/PIWIPLUS.png" group-title="┃FR┃ JEUNESSE",┃FR┃ PIWI+ 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779471&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TIJI.png" group-title="┃FR┃ JEUNESSE",┃FR┃ TIJI 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779472&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TELETOON.png" group-title="┃FR┃ JEUNESSE",┃FR┃ TELETOON+ 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779473&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/TELETOON.png" group-title="┃FR┃ JEUNESSE",┃FR┃ TELETOON+ 1 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779474&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/WARNERTV.png" group-title="┃FR┃ JEUNESSE",┃FR┃ WARNER NEXT 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779475&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/GULLI.png" group-title="┃FR┃ JEUNESSE",┃FR┃ GULLI 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779476&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALJ.png" group-title="┃FR┃ JEUNESSE",┃FR┃ CANAL J 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779477&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/GAMEONE.png" group-title="┃FR┃ JEUNESSE",┃FR┃ GAME ONE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779478&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/MANGAS.png" group-title="┃FR┃ JEUNESSE",┃FR┃ MANGAS 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779479&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/JONE.png" group-title="┃FR┃ JEUNESSE",┃FR┃ J-ONE 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=779480&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ SPORT 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774279&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ SPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773271&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ SPORT 360 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774280&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ SPORT 360 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773272&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ FOOT 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774281&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ FOOT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773269&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ FOOT LDC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773270&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ TOP 14 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774283&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ TOP 14 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773279&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ PREMIER LEAGUE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774284&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ PREMIER LEAGUE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773276&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ LIGUE 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774285&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ LIGUE 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773273&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ FORMULA 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774286&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ FORMULA 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773277&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ MOTOGP 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774287&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/CANALPLUS.png" group-title="┃FR┃ MY CANAL+ SPORT",┃FR┃ CANAL+ MOTOGP HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773278&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT 4K UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774289&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774290&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773314&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774291&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773315&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 3 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774292&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773316&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 4 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774293&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774294&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 5 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774295&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774296&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 6 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774297&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774298&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 7 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774299&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774300&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 8 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774301&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774302&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 9 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774303&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774305&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 10 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774306&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 10 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774307&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 11 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774308&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 11 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774309&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 12 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774310&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 12 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774311&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 13 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774312&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 13 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774313&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 14 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774314&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/RMCSPORT.png" group-title="┃FR┃ RMC SPORT",┃FR┃ RMC SPORT LIVE 14 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774315&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 4K UHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774316&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774317&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773282&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774318&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773283&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 3 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774319&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773284&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 4 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774529&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",? BEIN SPORTS MAX 4 HD (C+)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773285&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 5 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774530&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773286&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 6 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774531&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773287&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 7 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774532&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 7 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773288&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 8 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774533&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 8 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773289&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 9 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774534&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 9 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773290&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 10 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774535&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ARABIA/BEINSPORTS/beinsports.png" group-title="┃FR┃ BEIN SPORTS",┃FR┃ BEIN SPORTS MAX 10 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773291&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃FR┃ SPORTS",┃FR┃ DAZN 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774539&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GERMANY/DAZNHD.png" group-title="┃FR┃ SPORTS",┃FR┃ DAZN 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773376&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LEQUIPE21.png" group-title="┃FR┃ SPORTS",┃FR┃ EQUIPE 21 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774540&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/LEQUIPE21.png" group-title="┃FR┃ SPORTS",┃FR┃ EQUIPE 21 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773318&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/INFOSPORT.png" group-title="┃FR┃ SPORTS",┃FR┃ INFOSPORT+ 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774541&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/INFOSPORT.png" group-title="┃FR┃ SPORTS",┃FR┃ INFOSPORT+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773317&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/EUROSPORT1HD.png" group-title="┃FR┃ SPORTS",┃FR┃ EUROSPORT 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774542&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/EUROSPORT1HD.png" group-title="┃FR┃ SPORTS",┃FR┃ EUROSPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773319&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/EUROSPORT2HD.png" group-title="┃FR┃ SPORTS",┃FR┃ EUROSPORT 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774543&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/EUROSPORT2HD.png" group-title="┃FR┃ SPORTS",┃FR┃ EUROSPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773320&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/EQUIDIA.png" group-title="┃FR┃ SPORTS",┃FR┃ EQUIDIA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774544&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/EQUIDIA.png" group-title="┃FR┃ SPORTS",┃FR┃ EQUIDIA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773321&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/AUTOMOTOLACHAINE.png" group-title="┃FR┃ SPORTS",┃FR┃ AUTOMOTO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774545&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/AUTOMOTOLACHAINE.png" group-title="┃FR┃ SPORTS",┃FR┃ AUTOMOTO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773375&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/GOLFPLUS.png" group-title="┃FR┃ SPORTS",┃FR┃ GOLF+ 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774546&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/GOLFPLUS.png" group-title="┃FR┃ SPORTS",┃FR┃ GOLF+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773322&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Golfchannel.png" group-title="┃FR┃ SPORTS",┃FR┃ GOLF CHANNEL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=774547&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/USA/Golfchannel.png" group-title="┃FR┃ SPORTS",┃FR┃ GOLF CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773323&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="BR: A&E FHD" tvg-logo="http://xplatinmedia.com:8080/images/4b830b5eecfd1994f39549ba1bac193f.png" group-title="LATIN AR-BR",BR: A&E FHD
 http://blazetv.link:8080/zeej903@gmail.com/NbfS5aqrNL/858709
 #EXTINF:-1 tvg-id="" tvg-name="BR: A&E HD" tvg-logo="http://xplatinmedia.com:8080/images/4b830b5eecfd1994f39549ba1bac193f.png" group-title="LATIN AR-BR",BR: A&E HD
