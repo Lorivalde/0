@@ -1,494 +1,864 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtp1.png" group-title="PT| PORTUGAL",PT| RTP 1
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57050&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtp1.png" group-title="PT| Generalistas",PT| RTP 1
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461076&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtp1.png" group-title="PT| Generalistas",PT| RTP 1 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461077&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtp2.png" group-title="PT| PORTUGAL",PT| RTP 2 FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57051&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtp2.png" group-title="PT| Generalistas",PT| RTP 2 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461079&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtp2.png" group-title="PT| PORTUGAL",PT| RTP 2
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57052&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtp2.png" group-title="PT| Generalistas",PT| RTP 2
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461078&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sic.png" group-title="PT| Generalistas",PT| SIC HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461081&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sic.png" group-title="PT| PORTUGAL",PT| SIC
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57116&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sic.png" group-title="PT| Generalistas",PT| SIC
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461080&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvi.png" group-title="PT| PORTUGAL",PT| TVI FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57062&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvi.png" group-title="PT| Generalistas",PT| TVI HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461083&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvi.png" group-title="PT| PORTUGAL",PT| TVI
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57063&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvi.png" group-title="PT| Generalistas",PT| TVI
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461082&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvireality.png" group-title="PT| Entretenimento",PT| TVI REALITY  HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461099&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvireality.png" group-title="PT| Entretenimento",PT| TVI REALITY
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461098&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvireality.png" group-title="PT| PORTUGAL",PT| TVI REALITY
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57066&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtpafrica.png" group-title="PT| Generalistas",PT| RTP AFRICA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461087&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtpafrica.png" group-title="PT| PORTUGAL",PT| RTP AFRICA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57058&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtpmemoria.png" group-title="PT| Entretenimento",PT| RTP MEMORIA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461105&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtpmemoria.png" group-title="PT| PORTUGAL",PT| RTP MEMORIA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57055&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtpmadeira.png" group-title="PT| Informação",PT| RTP MADEIRA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461148&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtpmadeira.png" group-title="PT| PORTUGAL",PT| RTP MADEIRA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57056&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtpacores.png" group-title="PT| PORTUGAL",PT| RTP ACORES
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57059&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtpacores.png" group-title="PT| Informação",PT| RTP ACORES
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461149&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtpinternacional.png" group-title="PT| PORTUGAL",PT| RTP Int.
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57057&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/canal180.png" group-title="PT| Generalistas",PT| CANAL 180
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461086&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvglobo.png" group-title="PT| PORTUGAL",PT| GLOBO News FULL HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57087&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/globonow.png" group-title="PT| PORTUGAL",PT| GLOBO NOW FULL HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57088&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/recordtv.png" group-title="PT| PORTUGAL",PT| TV RECORD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57072&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/entrepicon.png" group-title="PT| Internacionais",|| PORTUGAL Informação  ||
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461123&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cmtv.png" group-title="PT| PORTUGAL",PT| CMTV FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57084&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cmtv.png" group-title="PT| PORTUGAL",PT| CMTV HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57085&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cmtv.png" group-title="PT| Informação",PT| CMTV  HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461147&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cmtv.png" group-title="PT| Informação",PT| CMTV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461146&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sicnoticias.png" group-title="PT| PORTUGAL",PT| SIC NOTICIAS FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57123&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sicnoticias.png" group-title="PT| Informação",PT| SIC NOTICIAS HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461141&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sicnoticias.png" group-title="PT| PORTUGAL",PT| SIC NOTICIAS
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57124&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sicnoticias.png" group-title="PT| Informação",PT| SIC NOTICIAS
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461140&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtp3.png" group-title="PT| PORTUGAL",PT| RTP 3 FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57053&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtp3.png" group-title="PT| Informação",PT| RTP 3 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461143&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtp3.png" group-title="PT| Informação",PT| RTP 3
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461142&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtp3.png" group-title="PT| PORTUGAL",PT| RTP 3
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57054&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/recordtv.png" group-title="PT| Informação",PT| RECORD NEWS
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461151&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/artv.png" group-title="PT| Informação",PT| ARTV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461150&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/artv.png" group-title="PT| PORTUGAL",PT| ARTV PARLAMENTO
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57076&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/euronews.png" group-title="PT| Informação",PT| EURONEWS
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461152&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cnn.png" group-title="PT| Informação",PT| CNN
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461153&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cnn.png" group-title="PT| PORTUGAL",PT| CNN
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57226&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/bloomberg.png" group-title="PT| Informação",PT| BLOOMBERG
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461154&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/skynews.png" group-title="PT| PORTUGAL",PT| SKY News
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57217&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tveinternacional.png" group-title="PT| PORTUGAL",PT| TVE 24H
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57061&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/canalq.png" group-title="PT| PORTUGAL",PT| CANAL Q
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57082&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/entrepicon.png" group-title="PT| Infantis",||  PORTUGAL Infantis  ||
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461207&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/canalpanda.png" group-title="PT| Infantis",PT| Canal Panda HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461211&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/canalpanda.png" group-title="PT| Infantis",PT| Canal Panda
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461210&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/canalpanda.png" group-title="PT| PORTUGAL",PT| CANAL PANDA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57146&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/pandabiggs.png" group-title="PT| Infantis",PT| PANDA BIGGS
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461212&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/pandabiggs.png" group-title="PT| PORTUGAL",PT| PANDA BIGGS
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57150&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/babytv.png" group-title="PT| PORTUGAL",PT| BABY TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57143&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/babytv.png" group-title="PT| Infantis",PT| BABY TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461217&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/nickelodeon.png" group-title="PT| PORTUGAL",PT| NICKELODEON
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57149&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/nickelodeon.png" group-title="PT| Infantis",PT| NICKELODEON
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461209&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cartoonnetwork.png" group-title="PT| PORTUGAL",PT| CARTOON NETWORK
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57145&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cartoonnetwork.png" group-title="PT| Infantis",PT| CARTOON NETWORK
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461215&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/disneyjunior.png" group-title="PT| PORTUGAL",PT| DISNEY JUNIOR
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57147&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/disneyjunior.png" group-title="PT| Infantis",PT| DISNEY JUNIOR
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461213&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/disneychannel.png" group-title="PT| PORTUGAL",PT| DISNEY CHANNEL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57148&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/disneychannel.png" group-title="PT| Infantis",PT| DISNEY CHANNEL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461208&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sick.png" group-title="PT| Infantis",PT| SIC K HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461219&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sick.png" group-title="PT| PORTUGAL",PT| SIC K
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57122&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sick.png" group-title="PT| Infantis",PT| SIC K
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461218&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/entrepicon.png" group-title="PT| Desporto",||  PORTUGAL Desporto ||
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461163&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv1.png" group-title="PT| PORTUGAL",PT| SPORT TV 1 FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57177&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv1.png" group-title="PT| Desporto",PT| SPORT TV 1 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461174&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv1.png" group-title="PT| Desporto",PT| SPORT TV 1
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461173&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv1.png" group-title="PT| PORTUGAL",PT| SPORT TV 1
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57178&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv2.png" group-title="PT| PORTUGAL",PT| SPORT TV 2 FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57179&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv2.png" group-title="PT| Desporto",PT| SPORT TV 2 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461176&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv2.png" group-title="PT| Desporto",PT| SPORT TV 2
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461175&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv2.png" group-title="PT| PORTUGAL",PT| SPORT TV 2
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57180&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv3.png" group-title="PT| PORTUGAL",PT| SPORT TV 3 FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57181&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv3.png" group-title="PT| Desporto",PT| SPORT TV 3 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461178&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv3.png" group-title="PT| Desporto",PT| SPORT TV 3
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461177&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv3.png" group-title="PT| PORTUGAL",PT| SPORT TV 3
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57182&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv4.png" group-title="PT| Desporto",PT| SPORT TV 4 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461180&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv4.png" group-title="PT| PORTUGAL",PT| SPORT TV 4
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57183&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv4.png" group-title="PT| Desporto",PT| SPORT TV 4
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461179&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv5.png" group-title="PT| Desporto",PT| SPORT TV 5 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461182&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv5.png" group-title="PT| PORTUGAL",PT| SPORT TV 5
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57184&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv5.png" group-title="PT| Desporto",PT| SPORT TV 5
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461181&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttv5.png" group-title="PT| Desporto",PT| SPORT TV 6 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461183&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttvplus.png" group-title="PT| Desporto",PT| SPORT TV + HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461168&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttvplus.png" group-title="PT| PORTUGAL",PT| SPORT TV +
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57176&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sporttvplus.png" group-title="PT| Desporto",PT| SPORT TV +
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461167&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/nbatv.png" group-title="PT| Desporto",PT| SPORT TV NBA HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461184&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports4.png" group-title="PT| PORTUGAL",PT| ELEVEN SPORT 4 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57187&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports1.png" group-title="PT| Desporto",PT| ELEVEN SPORTS 1 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461186&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports1.png" group-title="PT| Desporto",PT| ELEVEN SPORTS 1
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461185&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports2.png" group-title="PT| PORTUGAL",PT| ELEVEN 2 FULL HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57189&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports2.png" group-title="PT| Desporto",PT| ELEVEN SPORTS 2 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461188&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports2.png" group-title="PT| Desporto",PT| ELEVEN SPORTS 2
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461187&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports3.png" group-title="PT| PORTUGAL",PT| ELEVEN 3 FULL HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57190&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports3.png" group-title="PT| Desporto",PT| ELEVEN SPORTS 3 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461190&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports3.png" group-title="PT| Desporto",PT| ELEVEN SPORTS 3
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461189&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports4.png" group-title="PT| PORTUGAL",PT| ELEVEN 4 FULL HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57191&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports4.png" group-title="PT| Desporto",PT| ELEVEN SPORTS 4 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461192&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports4.png" group-title="PT| Desporto",PT| ELEVEN SPORTS 4
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461191&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports5.png" group-title="PT| Desporto",PT| ELEVEN SPORTS 5 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461194&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports5.png" group-title="PT| PORTUGAL",PT| ELEVEN 5 FULL HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57192&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports5.png" group-title="PT| Desporto",PT| ELEVEN SPORTS 5
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461193&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports6.png" group-title="PT| PORTUGAL",PT| ELEVEN 6 FULL HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57193&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports6.png" group-title="PT| Desporto",PT| ELEVEN SPORTS 6 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461196&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/elevensports6.png" group-title="PT| Desporto",PT| ELEVEN SPORTS 6
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461195&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/Benfica TV.png" group-title="PT| Desporto",PT| Benfica TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=177336&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/btv.png" group-title="PT| PORTUGAL",PT| BTV 1 FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57078&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/btv.png" group-title="PT| Desporto",PT| BTV HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461170&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/btv.png" group-title="PT| Desporto",PT| BTV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461169&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/btv.png" group-title="PT| PORTUGAL",PT| BTV 1
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57079&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/canal11hd.png" group-title="PT| PORTUGAL",PT| CANAL 11 FULL HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57081&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/canal11hd.png" group-title="PT| Desporto",PT| CANAL 11 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461164&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/abolatv.png" group-title="PT| Desporto",PT| A BOLA HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461166&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/abolatv.png" group-title="PT| PORTUGAL",PT| ABOLA TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57074&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/abolatv.png" group-title="PT| Desporto",PT| A BOLA TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461165&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sportingtv.png" group-title="PT| Desporto",PT| SPORTING TV HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461172&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sportingtv.png" group-title="PT| Desporto",PT| SPORTING TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461171&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/portocanal.png" group-title="PT| Generalistas",PT| PORTO CANAL HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461085&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/portocanal.png" group-title="PT| Generalistas",PT| PORTO CANAL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461084&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/portocanal.png" group-title="PT| PORTUGAL",PT| PORTO CANAL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57068&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/eurosport.png" group-title="PT| PORTUGAL",PT| EUROSPORT
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57196&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/eurosport.png" group-title="PT| Desporto",PT| EUROSPORT 1
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461197&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/eurosport.png" group-title="PT| Desporto",PT| EUROSPORT 1 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461198&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/eurosport2.png" group-title="PT| Desporto",PT| EUROSPORT 2
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461199&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/eurosport2.png" group-title="PT| Desporto",PT| EUROSPORT 2 HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461200&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/motorvisiontvhd.png" group-title="PT| Desporto",PT| MOTORVISION
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461203&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/nbatv.png" group-title="PT| PORTUGAL",PT| NBA FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57204&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/entrepicon.png" group-title="PT| Documentários",|| PORTUGAL Documentários  ||
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461257&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/discoverychannelhd.png" group-title="PT| Documentários",PT| DISCOVERY CHANNEL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461259&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/discoverychannelhd.png" group-title="PT| PORTUGAL",PT| DISCOVERY
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57157&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/investigationdiscovery.png" group-title="PT| Documentários",PT| ID INVESTIGATION DISCOVERY HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461265&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/crimeandinvestigation.png" group-title="PT| Entretenimento",PT| CRIME INVESTIGATION
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461112&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/amc.png" group-title="PT| Internacionais",PT| AMC CRIME
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461287&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/nationalgeographic.png" group-title="PT| PORTUGAL",PT| NAT. GEOGRAPHIC FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57167&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/natgeowildhd.png" group-title="PT| Documentários",PT| NATIONAL GEOGRAPHIC HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461263&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/nationalgeographic.png" group-title="PT| Documentários",PT| NATIONAL GEOGRAPHIC
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461262&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/natgeowildhd.png" group-title="PT| Documentários",PT| NATIONAL GEOGRAPHIC WILD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461264&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/natgeowild.png" group-title="PT| PORTUGAL",PT| NAT GEO WILD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57169&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/amc.png" group-title="PT| Internacionais",PT| AMC BREAK
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461288&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/24kitchen.png" group-title="PT| PORTUGAL",PT| 24 KITCHEN FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57152&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/24kitchen.png" group-title="PT| Documentários",PT| 24 KITCHEN HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461268&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/rtpinternacional.png" group-title="PT| Documentários",PT| CASA E COZINHA HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461272&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/canalhistoria.png" group-title="PT| Documentários",PT| CANAL HISTORIA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461260&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/odisseia.png" group-title="PT| Documentários",PT| ODISSEIA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461261&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/odisseia.png" group-title="PT| PORTUGAL",PT| ODISSEIA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57171&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/travelchannelhd.png" group-title="PT| PORTUGAL",PT| TRAVEL CHANNEL FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57172&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/travelchannelhd.png" group-title="PT| Entretenimento",PT| TRAVEL CHANNEL  HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461121&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/travelchannelhd.png" group-title="PT| Entretenimento",PT| TRAVEL CHANNEL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461120&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/fueltvhd.png" group-title="PT| Entretenimento",PT| FUEL TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461111&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/eentertainmenthd.png" group-title="PT| Entretenimento",PT| E! ENTERTAINMENT
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461116&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/eentertainmenthd.png" group-title="PT| PORTUGAL",PT| E! ENTERTAINMENT
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57099&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cbsreality.png" group-title="PT| Entretenimento",PT| CBS REALITY
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461113&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/historia.png" group-title="PT| PORTUGAL",PT| CANAL HISTORIA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57153&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cacaepesca.png" group-title="PT| PORTUGAL",PT| CAZA E PESCA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57154&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cancaonova.png" group-title="PT| PORTUGAL",PT| CANCAO NOVA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57083&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="PT| Entretenimento",|| - PORTUGAL Entretenimento  - ||
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461088&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sicmulher.png" group-title="PT| PORTUGAL",PT| SIC MULHER FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57119&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sicmulher.png" group-title="PT| Entretenimento",PT| SIC MULHER  HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461091&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sicmulher.png" group-title="PT| Entretenimento",PT| SIC MULHER
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461090&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sicmulher.png" group-title="PT| PORTUGAL",PT| SIC MULHER
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57120&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sicradical.png" group-title="PT| Entretenimento",PT| SIC RADICAL HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461108&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sicradical.png" group-title="PT| Entretenimento",PT| SIC RADICAL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461107&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sicradical.png" group-title="PT| PORTUGAL",PT| SIC RADICAL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57126&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/siccaras.png" group-title="PT| Entretenimento",PT| SIC CARAS  HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461115&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/siccaras.png" group-title="PT| Entretenimento",PT| SIC CARAS
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461114&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/siccaras.png" group-title="PT| PORTUGAL",PT| SIC CARAS
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57118&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sic.png" group-title="PT| Entretenimento",PT| SIC OPTO
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461089&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvireality.png" group-title="PT| Entretenimento",PT| TVI REALITY * MOSAICO *
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461100&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/recordtv.png" group-title="PT| Entretenimento",PT| TV RECORD HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461118&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/recordtv.png" group-title="PT| Entretenimento",PT| TV RECORD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461117&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/canalq.png" group-title="PT| Entretenimento",PT| CANAL Q
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461106&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/entrepicon.png" group-title="PT| Filmes e séries",|| PORTUGAL Filmes e séries  ||
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461222&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvcine.png" group-title="PT| Filmes e séries",PT| TVCINE TOP HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461228&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvcine.png" group-title="PT| Filmes e séries",PT| TVCINE TOP
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461227&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvcine.png" group-title="PT| Filmes e séries",PT| TVCINE EDITION HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461230&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvcine.png" group-title="PT| Filmes e séries",PT| TVCINE EDITION
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461229&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvcine.png" group-title="PT| Filmes e séries",PT| TVCINE EMOTION HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461232&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvcine.png" group-title="PT| Filmes e séries",PT| TVCINE EMOTION
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461231&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvcine.png" group-title="PT| Filmes e séries",PT| TVCINE ACTION HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461234&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tvcine.png" group-title="PT| Filmes e séries",PT| TVCINE ACTION
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461233&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/hollywood.png" group-title="PT| Filmes e séries",PT| HOLLYWOOD HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461226&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/hollywood.png" group-title="PT| Filmes e séries",PT| HOLLYWOOD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461225&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/foxmovies.png" group-title="PT| Filmes e séries",PT| FOX MOVIES HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461236&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/foxmovies.png" group-title="PT| Filmes e séries",PT| FOX MOVIES
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461235&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cinemundo.png" group-title="PT| Filmes e séries",PT| CINEMUNDO HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461238&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cinemundo.png" group-title="PT| Filmes e séries",PT| CINEMUNDO
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461237&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cinemundo.png" group-title="PT| PORTUGAL",PT| CINEMUNDO
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57129&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/syfyhd.png" group-title="PT| Filmes e séries",PT| SYFY HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461256&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/syfyhd.png" group-title="PT| Filmes e séries",PT| SYFY
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461255&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/hollywood.png" group-title="PT| PORTUGAL",PT| HOLLYWOOD FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57109&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/hollywood.png" group-title="PT| PORTUGAL",PT| HOLLYWOOD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57110&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/fox.png" group-title="PT| Filmes e séries",PT| FOX HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461244&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/fox.png" group-title="PT| Filmes e séries",PT| FOX
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461243&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/foxlifehd.png" group-title="PT| Filmes e séries",PT| FOX LIFE HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461246&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/foxlifehd.png" group-title="PT| Filmes e séries",PT| FOX LIFE
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461245&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/foxcrimehd.png" group-title="PT| Filmes e séries",PT| FOX CRIME HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461248&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/foxcrimehd.png" group-title="PT| Filmes e séries",PT| FOX CRIME
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461247&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/foxcomedyhd.png" group-title="PT| PORTUGAL",PT| FOX COMEDY
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57102&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/foxcomedyhd.png" group-title="PT| Filmes e séries",PT| FOX COMEDY HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461250&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/foxcomedyhd.png" group-title="PT| Filmes e séries",PT| FOX COMEDY
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461249&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/foxmovies.png" group-title="PT| PORTUGAL",PT| FOX MOVIES
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57131&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/axnhd.png" group-title="PT| PORTUGAL",PT| AXN FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57095&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/axnhd.png" group-title="PT| Filmes e séries",PT| AXN HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461252&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/axnhd.png" group-title="PT| Filmes e séries",PT| AXN
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461251&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/axnwhitehd.png" group-title="PT| Filmes e séries",PT| AXN WHITE HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461254&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/axnwhitehd.png" group-title="PT| Filmes e séries",PT| AXN WHITE
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461253&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/axnwhitehd.png" group-title="PT| PORTUGAL",PT| AXN MOVIES FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57097&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/axnhd.png" group-title="PT| Filmes e séries",PT| AXN MOVIES HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461242&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/axnhd.png" group-title="PT| Filmes e séries",PT| AXN MOVIES
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461241&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/amc.png" group-title="PT| Filmes e séries",PT| AMC HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461240&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/amc.png" group-title="PT| Filmes e séries",PT| AMC
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461239&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/kuriakostv.png" group-title="PT| Documentários",PT| KURIAKOS TV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461269&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/entrepicon.png" group-title="PT| Internacionais",||  PORTUGAL Internacionais  ||
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461275&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/sic.png" group-title="PT| Internacionais",PT| SIC INTERNACIONAL  HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461277&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/bbcentertainment.png" group-title="PT| Internacionais",PT| BBC ENTERTAINMENT
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461281&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/cnbc.png" group-title="PT| Internacionais",PT| CNBC EUROPE
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461282&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tpainternacional.png" group-title="PT| Internacionais",PT| TPA INTERNACIONAL
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461284&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tveinternacional.png" group-title="PT| PORTUGAL",PT| TVE
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57060&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/tpainternacional.png" group-title="PT| PORTUGAL",PT| TPA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57071&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/localvisao.png" group-title="PT| PORTUGAL",PT| LOCAL VISAO
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57089&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/entrepicon.png" group-title="PT| Música",||  PORTUGAL Música  ||
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461289&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/mtv.png" group-title="PT| Entretenimento",PT| MTV Portugal
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461109&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/mtv.png" group-title="PT| PORTUGAL",PT| MTV
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57216&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/mtv.png" group-title="PT| Música",PT| MTV 00s
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461297&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/mcmtop.png" group-title="PT| Música",PT| MCM TOP
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461293&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/mcmtop.png" group-title="PT| PORTUGAL",PT| MCM POP
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57214&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/MCM POP.png" group-title="PT| Música",PT| MCM POP
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461292&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/traceurbanhd.png" group-title="PT| Música",PT| TRACE URBAN
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461290&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/traceurbanhd.png" group-title="PT| PORTUGAL",PT| TRACE URBAN
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57218&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/traceurbanhd.png" group-title="PT| Música",PT| TRACE TOCA
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461291&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/afromusic.png" group-title="PT| Música",PT| AFRO MUSIC
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461294&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/mezzohd.png" group-title="PT| PORTUGAL",PT| MEZZO FHD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=57213&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/mezzohd.png" group-title="PT| Música",PT| MEZZO LIVE HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461296&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/mezzohd.png" group-title="PT| Música",PT| MEZZO Live
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461295&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/bbcentertainment.png" group-title="PT| Música",PT| ALMA LUSA HD
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461298&extension=ts
-#EXTINF:-1 tvg-logo="http://covers.dynns.com/PICON/PORTUGAL/iconcerts.png" group-title="PT| Música",PT| ICONCERTS
-http://162.19.37.133:8080/play/live.php?mac=00:1A:79:4D:06:30&stream=461300&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842567&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP 2 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842566&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP 3 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842565&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SIC HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842564&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ GENERALITAS",┃PT┃ TVI HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842563&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ CNN PORTUGAL HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842562&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ NEWS NOW HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842561&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SIC NOTICIAS HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842560&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ CMTV HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842558&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ RTP AFRICA HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842557&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ RTP MADEIRA HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842556&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ RTP MEMORIA HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842555&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ RTP ACORES HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842554&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ PORTO CANAL HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842553&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ TVI V+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842552&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ TVE 24H HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842551&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ CNBC HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842550&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ CNBC EUROPE HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842549&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ EURONEWS HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842548&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ TV5 MONDE HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842547&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ BBC WORLD NEWS HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842546&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ CNN HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842545&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SKY NEWS HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842544&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ i24 NEWS HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842543&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ ORD NEWS HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842542&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ TVC NEWS HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842541&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",☰☰☰☰ ┃PT┃ FILMES | SERIES HD ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842593&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ TV CINE TOP HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842605&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ TV CINE ACTION HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842604&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ TV CINE EDITION HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842603&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ TV CINE EMOTION HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842602&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ CINEMUNDO HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842598&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ STAR HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842610&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ STAR MOVIES HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842607&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ STAR COMEDY HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842609&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ STAR CRIME HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842608&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ FOX LIFE HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842606&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ AXN HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842601&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ AXN MOVIES HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842599&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ AXN WHITE HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842600&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ AMC HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842595&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SYFY HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842594&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ NOS STUDIO HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842597&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ HOLLYWOOD HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842596&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",☰☰☰☰ ┃PT┃ ENTRETENIMENTO HD ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842611&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ MTV PORTUGAL HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842623&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ E! ENTERTAINMENT HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842622&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SIC CARAS HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842621&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SIC MULHER HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842620&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SIC RADICAL HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842618&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ TV GALICIA HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842619&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ CANAL Q HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842617&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ MYZEN TV HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842615&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ FTV HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842614&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ ONETORO HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842616&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ DOG TV HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842613&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ KURIAKOS TV HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842612&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",☰☰☰☰ ┃PT┃ DOCUMENTÁRIO HD ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842631&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ NATIONAL GEPGRAPHIC HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842645&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ NATIONAL GEOGRAPHIC WILD HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842644&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ DISCOVERY CHANNEL HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842646&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ ID INVESTIGATION DISCOVERY HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842647&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ HISTÓRIA HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842642&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ ODISSEIA HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842643&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ TLC HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842636&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ AMC CRIME 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842632&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ AMC BREAK HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842633&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ 24 KITCHEN HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842638&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ FOOD NETWORK HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842634&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ CASA E COZINHA HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842641&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ TRAVEL CHANNEL HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842639&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ TRAVEL XP HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842635&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ CASA VISION HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842637&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ CAÇA E PESCA HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=842640&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",☰☰☰☰ ┃PT┃ DESPORTO HD ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843434&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ CANAL 11 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843466&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SPORT TV + HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843465&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SPORT TV 1 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843464&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SPORT TV 2 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843463&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SPORT TV 3 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843462&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SPORT TV 4 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843461&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SPORT TV 5 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843460&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SPORT TV 6 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843459&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SPORT TV NBA HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843458&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ ELEVEN SPORTS 1 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843457&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ ELEVEN SPORTS 2 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843456&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ ELEVEN SPORTS 3 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843455&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ ELEVEN SPORTS 4 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843454&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ ELEVEN SPORTS 5 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843453&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ ELEVEN SPORTS 6 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843452&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ BTV 1 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843451&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ BTV MULTICAMERAS HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843450&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ SPORTING HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843449&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ FUEL TV HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843448&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ EUROSPORT 1 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843447&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ EUROSPORT 2 HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843446&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ A BOLA HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843445&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ NBA TV HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843444&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ FIGHT NETWORK HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843443&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ FIGHTBOX HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843442&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ MOTORVISION HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843441&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL HD | REPLAY ",┃PT┃ W-SPORT HD 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=843440&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851399&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP 2 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851398&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP 3 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851397&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SIC 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851396&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ GENERALITAS",┃PT┃ TVI FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851395&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ CNN PORTUGAL 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851394&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ NEWS NOW 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851393&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SIC NOTICIAS 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851392&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SIC NOVELAS 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851391&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ CMTV 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851390&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ RTP AFRICA 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851389&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ RTP MADEIRA 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851388&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ RTP MEMORIA 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851387&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ RTP ACORES 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851386&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ PORTO CANAL 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851385&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ GENERALITAS",┃PT┃ TVI V+ FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851384&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TVE 24H 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851383&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ CNBC 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851382&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ CNBC EUROPE 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851381&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ EURONEWS 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851380&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TV5 MONDE 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851379&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ BBC WORLD NEWS 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851378&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ CNN 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851377&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SKY NEWS 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851376&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ I24 NEWS 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851375&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ ORD NEWS 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851374&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TVC NEWS 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851373&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",☰☰☰☰ ┃PT┃ FILMES | SERIES 4K ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851413&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TV CINE TOP 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851430&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TV CINE ACTION 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851429&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TV CINE EDITION 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851428&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TV CINE EMOTION 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851427&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ CINEMUNDO 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851426&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ STAR 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851425&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ STAR MOVIES 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851424&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ STAR COMEDY 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851423&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ STAR CRIME 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851422&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ STAR LIFE 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851421&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ AXN 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851420&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ AXN MOVIES 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851419&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ AXN WHITE 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851418&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ AMC 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851417&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SYFY 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851416&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ NOS STUDIOS 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851415&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ HOLLYWOOD 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851414&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",☰☰☰☰ ┃PT┃ ENTRETENIMENTO 4K ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851431&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ MTV PORTUGAL 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851446&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ E! ENTERTAINMENT 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851445&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SIC CARAS 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851444&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SIC MULHER 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851443&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SIC RADICAL 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851442&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TV GALICIA 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851441&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ Canal Q 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851440&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ MYZEN TV 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851439&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ FTV 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851438&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ ONETOROO 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851437&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ DOG TV 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851436&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ KURIAKOS TV 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851435&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",☰☰☰☰ ┃PT┃ DOCUMENTARIO 4K ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851758&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ NATIONAL GEOGRAPHIC 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851781&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ NATIONAL GEOGRAPHIC WILD 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851780&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ DISCOVERY 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851779&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ ID INVESTIGATION DISCOVERY 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851778&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ HISTÓRIA 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851777&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ ODISSEIA 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851776&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TLC 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851775&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ AMC CRIME 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851774&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ AMC BREAK 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851773&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ 24 KITCHEN 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851772&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ FOOD NETWORK 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851771&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ CASA E COZINHA 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851770&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TRAVEL CHANNEL 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851769&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ TRAVEL XP 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851768&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ CASA VISION 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851767&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ CAÇA E PESCA 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851766&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",☰☰☰☰ ┃PT┃ DESPORTO 4K ☰☰☰☰
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851783&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ CANAL 11 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851829&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SPORT TV + 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851828&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SPORT TV 1 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851827&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SPORT TV 2 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851826&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SPORT TV 3 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851825&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SPORT TV 4 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851824&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SPORT TV 5 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851823&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SPORT TV 6 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851822&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SPORT TV NBA 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851821&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ ELEVEN SPORTS 1 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851820&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ ELEVEN SPORTS 2 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851819&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ ELEVEN SPORTS 3 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851818&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ ELEVEN SPORTS 4 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851817&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ ELEVEN SPORTS 5 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851816&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ ELEVEN SPORTS 6 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851815&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ BTV 1 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851814&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ BTV Multicamaras 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851813&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ SPORTING 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851812&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ FUEL TV 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851811&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ EUROSPORT 1 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851810&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ EUROSPORT 2 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851809&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ A BOLA TV 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851808&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ NBA TV 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851807&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ FIGHT NETWORK 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851806&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ FIGHTBOX 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851805&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ MOTORVISION 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851804&extension=ts
+#EXTINF:-1 tvg-logo="" group-title="┃PT┃ PORTUGAL 4K ULTRA",┃PT┃ W-Sport 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=851803&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/RTP1.png" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP 1 FHD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560971&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PTRTP2.png" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP 2 FHD HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560968&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PTRTP3.png" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP 3 FHD HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560966&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/PTRTP3.png" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561509&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SIC.png" group-title="┃PT┃ GENERALITAS",┃PT┃ SIC FHD HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560963&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SIC.png" group-title="┃PT┃ GENERALITAS",┃PT┃ SIC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561361&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVI.png" group-title="┃PT┃ GENERALITAS",┃PT┃ TVI FHD HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560960&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/CNNPORTUGAL.png" group-title="┃PT┃ GENERALITAS",┃PT┃ CNN PORTUGAL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560957&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/CNNPORTUGAL.png" group-title="┃PT┃ GENERALITAS",┃PT┃ CNN PORTUGAL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561511&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SICNOTICIAS.png" group-title="┃PT┃ GENERALITAS",┃PT┃ SIC NOTICIAS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560955&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/CMTV.png" group-title="┃PT┃ GENERALITAS",┃PT┃ CMTV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560953&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/CMTV.png" group-title="┃PT┃ GENERALITAS",┃PT┃ CMTV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561512&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/RTPAFRICA.png" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP AFRICA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560952&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/RTPMADEIRA.png" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP MADEIRA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560951&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/RTPMEMORIA.png" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP MEMORIA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560950&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/RTPACORES.png" group-title="┃PT┃ GENERALITAS",┃PT┃ RTP ACORES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560949&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/LogoPortoCanal.png" group-title="┃PT┃ GENERALITAS",┃PT┃ PORTO CANAL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560947&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVIFic%C3%A7%C3%A3o.png" group-title="┃PT┃ GENERALITAS",┃PT┃ TVI V+ FHD HEVC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560945&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVIFic%C3%A7%C3%A3o.png" group-title="┃PT┃ GENERALITAS",┃PT┃ TVI V+
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561513&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/tvimosaico.png" group-title="┃PT┃ GENERALITAS",┃PT┃ TVI MOSAICO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560944&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVE.png" group-title="┃PT┃ GENERALITAS",┃PT┃ TVE 24H
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560940&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/CanalQ.png" group-title="┃PT┃ GENERALITAS",┃PT┃ CANAL Q
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561363&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/CNNPORTUGAL.png" group-title="┃PT┃ GENERALITAS",┃PT┃ CNN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560942&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/CNBC.png" group-title="┃PT┃ GENERALITAS",┃PT┃ CNBC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560939&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SKYNEWS.png" group-title="┃PT┃ GENERALITAS",┃PT┃ SKY NEWS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560941&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/EURONEWS.png" group-title="┃PT┃ GENERALITAS",┃PT┃ EURONEWS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560938&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/BBCWORLDNEWS.png" group-title="┃PT┃ GENERALITAS",┃PT┃ BBC WORLD NEWS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560936&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TV5Monde.png" group-title="┃PT┃ GENERALITAS",┃PT┃ TV5 MONDE
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560937&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/BloombergTelevision.png" group-title="┃PT┃ GENERALITAS",┃PT┃ BLOOMBERG
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561350&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Canal11.png" group-title="┃PT┃ DESPORTO",┃PT┃ CANAL 11 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561017&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Canal11.png" group-title="┃PT┃ DESPORTO",┃PT┃ CANAL 11 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561016&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Canal11.png" group-title="┃PT┃ DESPORTO",┃PT┃ CANAL 11
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561514&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV+ 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561014&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV+ HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561015&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV+
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561516&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 1 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561010&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561517&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561012&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561013&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 2 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561008&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561518&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561519&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561009&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 3 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561005&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 3 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561520&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561006&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 3
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561007&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 4 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561003&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 4 4K 
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561521&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561522&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 4
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561523&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 5 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561002&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561524&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 5
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561004&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 6 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561515&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561366&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV 6
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561526&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORTTVNBA.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV NBA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560985&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SportTV+.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV NBA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561527&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORTTVNBA.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORT TV NBA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560976&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ElevenSports.png" group-title="┃PT┃ DESPORTO",┃PT┃ ELEVEN SPORTS 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561000&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ElevenSports.png" group-title="┃PT┃ DESPORTO",┃PT┃ ELEVEN SPORTS 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561001&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ElevenSports.png" group-title="┃PT┃ DESPORTO",┃PT┃ ELEVEN SPORTS 2 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560998&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ElevenSports.png" group-title="┃PT┃ DESPORTO",┃PT┃ ELEVEN SPORTS 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560999&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ElevenSports.png" group-title="┃PT┃ DESPORTO",┃PT┃ ELEVEN SPORTS  3 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560996&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ElevenSports.png" group-title="┃PT┃ DESPORTO",┃PT┃ ELEVEN SPORTS 3 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560997&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ElevenSports.png" group-title="┃PT┃ DESPORTO",┃PT┃ ELEVEN SPORTS 4 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560994&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ElevenSports.png" group-title="┃PT┃ DESPORTO",┃PT┃ ELEVEN SPORTS 4 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560995&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ElevenSports.png" group-title="┃PT┃ DESPORTO",┃PT┃ ELEVEN SPORTS 5 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560992&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ElevenSports.png" group-title="┃PT┃ DESPORTO",┃PT┃ ELEVEN SPORTS 5 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560993&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ElevenSports.png" group-title="┃PT┃ DESPORTO",┃PT┃ ELEVEN SPORTS 6 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560990&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ElevenSports.png" group-title="┃PT┃ DESPORTO",┃PT┃ ELEVEN SPORTS 6 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560991&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/BTV1.png" group-title="┃PT┃ DESPORTO",┃PT┃ BTV 1 8K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561528&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/BTV1.png" group-title="┃PT┃ DESPORTO",┃PT┃ BTV 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560988&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/BTV1.png" group-title="┃PT┃ DESPORTO",┃PT┃ BTV 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560989&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/BTV1.png" group-title="┃PT┃ DESPORTO",┃PT┃ BTV 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561529&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORTINGTV.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORTING TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560986&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SPORTINGTV.png" group-title="┃PT┃ DESPORTO",┃PT┃ SPORTING TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560987&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/REALMADRIDTV.png" group-title="┃PT┃ DESPORTO",┃PT┃ REAL MADRID TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561531&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/COMBATESPORT.png" group-title="┃PT┃ DESPORTO",┃PT┃ COMBATE SPORT HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560984&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FUELTV.png" group-title="┃PT┃ DESPORTO",┃PT┃ FUEL TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560983&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/EUROSPORT.png" group-title="┃PT┃ DESPORTO",┃PT┃ EUROSPORT 1 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560981&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/EUROSPORT.png" group-title="┃PT┃ DESPORTO",┃PT┃ EUROSPORT 1 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560982&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/EUROSPORT.png" group-title="┃PT┃ DESPORTO",┃PT┃ EUROSPORT 2
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560980&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/EUROSPORT.png" group-title="┃PT┃ DESPORTO",┃PT┃ EUROSPORT 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561530&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ABolaTV.png" group-title="┃PT┃ DESPORTO",┃PT┃ A BOLA TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560977&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ABolaTV.png" group-title="┃PT┃ DESPORTO",┃PT┃ A BOLA TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560979&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/PFC.png" group-title="┃PT┃ DESPORTO",┃PT┃ PFC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560978&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FIGHTNETWORK.png" group-title="┃PT┃ DESPORTO",┃PT┃ FIGHT NETWORK 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560975&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/MOTORVISION.png" group-title="┃PT┃ DESPORTO",┃PT┃ MOTORVISION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=560974&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TorosTV.png" group-title="┃PT┃ DESPORTO",┃PT┃ TOROS TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561365&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/RedBullTV.png" group-title="┃PT┃ DESPORTO",┃PT┃ RED BULL TV HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561532&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/RedBullTV.png" group-title="┃PT┃ DESPORTO",┃PT┃ RED BULL TV
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561533&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ DESPORTO",┃PT┃ ZONE+ RALYE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561401&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ DESPORTO",┃PT┃ ZONE+ MOTO GP HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561386&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCINETOP.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE TOP 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561041&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCINETOP.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE TOP HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561042&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCINETOP.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE TOP
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561534&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCineEDITION.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EDITION 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561039&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCineEDITION.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EDITION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561040&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCineEDITION.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EDITION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561034&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCineACTION.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE ACTION 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561035&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCineACTION.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE ACTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561036&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCineACTION.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE ACTION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561033&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCine-Emotion.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EMOTION 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561037&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCine-Emotion.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EMOTION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561038&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVCine-Emotion.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TVCINE EMOTION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561535&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/SPAIN/MPLUSSERIES.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ TV SERIES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561032&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/cinemundo.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ CINEMUNDO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561024&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/cinemundo.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ CINEMUNDO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561025&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FOX.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ FOX 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561050&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FOX.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ FOX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561051&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FOXMOVIES.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ FOX MOVIES 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561043&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FOXMOVIES.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ FOX MOVIES
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561044&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Foxcrime.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ FOX CRIME 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561047&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Foxcrime.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ FOX CRIME HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561048&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Foxlife.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ FOX LIFE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561045&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Foxlife.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ FOX LIFE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561046&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FOXCOMEDY.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ FOX COMEDY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561536&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FOXCOMEDY.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ FOX COMEDY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561049&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/axn.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ AXN 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561030&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/axn.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ AXN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561031&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/AXNMOVIE.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ AXN MOVIES 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561026&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/AXNMOVIE.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ AXN MOVIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561027&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/axnwhite.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ AXN WHITE 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561028&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/axnwhite.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ AXN WHITE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561029&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/AMC.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ AMC 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561353&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/AMC.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ AMC HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561354&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/AMC.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ AMC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561355&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SYFY.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ SYFY 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561351&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SYFY.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ SYFY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561352&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/hollywood.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ HOLLYWOOD 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561020&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/hollywood.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ HOLLYWOOD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561021&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/hollywood.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ HOLLYWOOD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561022&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/NOSSTUDIO.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ NOS STUDIO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561018&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/NOSSTUDIO.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ NOS STUDIO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561019&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/NOSSTUDIO.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ NOS STUDIO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561023&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ X-MEN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561408&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ ROCKY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561407&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ VELOCIDADE FURIOSA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561406&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ SENHOR DOS ANEIS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561405&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561404&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ NETFLIX HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561403&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ MARVEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561400&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ MARVEL 2 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561396&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ HARRY POTTER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561397&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ APAIXONADO SERIES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561395&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA AÇÃO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561394&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA COMEDIA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561392&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA ROMANCE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561389&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ STALLONE HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561388&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA FAMILIA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561380&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ STAR WARS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561379&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ JACKIE CHAN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561378&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ RESIDENT EVIL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561374&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ JAMES BOND 007 HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561373&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ POLICE ACADEMY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561372&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ INDIANA JONES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561371&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ GATO FEDORENTO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561384&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ TERROR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561382&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ FILMES | SERIES",┃PT┃ ZONE+ CINEMA PORTUGUES HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561381&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGC.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ NAT GEO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561068&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGC.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ NAT GEO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561069&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGCWILD.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ NAT GEO WILD 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561067&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/NGCWILD.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ NAT GEO WILD HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561537&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISCOVERYCHANNEL.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ DISCOVERY CHANNEL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561356&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/DISCOVERYCHANNEL.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ DISCOVERY CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561070&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/INVESTIGATIONDISCOVERY.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ ID 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561349&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/INVESTIGATIONDISCOVERY.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ ID HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561357&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/CRIME+INVESTIGATION.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ CRIME+ INVESTIGATION HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561066&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/UK/CRIME+INVESTIGATION.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ CRIME+ INVESTIGATION
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561538&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Historia.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ HISTORIA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561062&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Historia.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ HISTORIA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561063&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Odisseia.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ ODISSEIA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561064&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Odisseia.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ ODISSEIA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561065&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TLC.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ TLC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561360&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/travelxp.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ TRAVEL XP HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561539&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Travel_Channel_HD.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ TRAVEL CHANNEL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561056&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/GREECE/Travel_Channel_HD.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ TRAVEL CHANNEL HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561057&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/24Kitchen.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ 24 KITCHEN 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561054&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/24Kitchen.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ 24 KITCHEN HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561055&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/FOODNETWORK.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ FOOD NETWORK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561358&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/CASAECOZINHA.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ CASA E COZINHA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561060&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SICCARAS.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ SIC CARAS 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561052&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SICCARAS.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ SIC CARAS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561053&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/CAÇAepesca.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ CAÇA E PESCA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561359&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/CAÇAepesca.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ CAÇA E PESCA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561348&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/blaze.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ BLAZE TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561058&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/cbsreality.png" group-title="┃PT┃ DOCUMENTÁRIO",┃PT┃ CBS REALITY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561059&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/MTV%20(2).png" group-title="┃PT┃ MÚSICA",┃PT┃ MTV PORTUGAL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561085&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TraceUrban.png" group-title="┃PT┃ MÚSICA",┃PT┃ TRACE URBAN
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561080&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TraceToca.png" group-title="┃PT┃ MÚSICA",┃PT┃ TRACE TOCA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561081&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/afrotv.png" group-title="┃PT┃ MÚSICA",┃PT┃ AFRO MUSIC
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561082&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/MCMPOP.png" group-title="┃PT┃ MÚSICA",┃PT┃ MCM POP
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561086&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/MEZZO.png" group-title="┃PT┃ MÚSICA",┃PT┃ MEZZO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561087&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ MÚSICA",┃PT┃ ZONE+ PORTUGAL A RIR HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561402&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVIReality.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ TVI REALITY HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561325&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVIReality.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ TVI REALITY
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561326&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/E!ENTERTAINMENT.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ E! ENTERTAINMENT 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561323&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/E!ENTERTAINMENT.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ E! ENTERTAINMENT
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561324&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SICMulher.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ SIC MULHER 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561321&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SICMulher.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ SIC MULHER
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561322&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/SICRadical.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ SIC RADICAL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561318&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/break.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ BREAK HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561369&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/break.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ BREAK
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561370&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TelevisiondeGalicia.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ TV GALICIA
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561317&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/DOGTV.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ DOG TV 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561319&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ ZONE+ DESGARRADAS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561398&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/NEDERLAND/ZONEPLUSHD.png" group-title="┃PT┃ ENTRETENIMENTO",┃PT┃ ZONE+ JOAO KLEBER HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561399&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Record_logo.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ TV ORD 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561335&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/Record_logo.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ TV ORD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561341&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVRECORDNEWS.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ TV ORD NEWS HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561334&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TVRECORDNEWS.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ TV ORD NEWS
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561329&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/GLOBOPORTUGAL.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ GLOBO PORTUGAL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561339&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/GLOBOPORTUGAL.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ GLOBO HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561340&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/GLOBOPREMIUM.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ GLOBO PREMIUM
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561338&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/GLOBOPORTUGAL.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ GLOBO INTERNACIONAL 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561333&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/GLOBOPORTUGAL.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ TV GLOBO 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561328&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/GLOBOPORTUGAL.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ TV GLOBO
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561332&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/GLOBONOW.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ TV GLOBO NOW 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561331&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/GLOBONOW.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ TV GLOBO NOW
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561330&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ZAPVIVA.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ ZAP VIVA 4K
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561346&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/ZAPVIVA.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ ZAP VIVA HD
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561347&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PORTUGALIA/TPA1.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ TPA 1
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561345&extension=ts
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/AFRICA/CENTRALAFRICA/TPAINTERNATIONAL.png" group-title="┃PT┃ BRASIL | ÁFRICA",┃PT┃ TPA INTERNATIONAL
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:F5:34:6A&stream=561344&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE2.png" group-title="┃FR┃ FRANCE HD",┃FR┃ FRANCE 2 HD
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:33:1C:EF&stream=773041&extension=ts
 #EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/France/FRANCE3.png" group-title="┃FR┃ FRANCE HD",┃FR┃ FRANCE 3 HD
