@@ -1,540 +1,288 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP 1 HEVC" tvg-logo="http://103.176.90.118/piconsnew/rtp1hd.png" group-title="PT| GENERALISTAS",PT| RTP 1 HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118450&extension=ts&play_token=aEkuW1sb2f
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP 1" tvg-logo="http://103.176.90.118/piconsnew/rtp1hd.png" group-title="PT| GENERALISTAS",PT| RTP 1
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107452&extension=ts&play_token=wIZlvC0Szi
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP 2 HD" tvg-logo="http://103.176.90.118/piconsnew/rtp2hd.png" group-title="PT| GENERALISTAS",PT| RTP 2 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107449&extension=ts&play_token=i7U8DXEDqg
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP 2 HEVC" tvg-logo="http://103.176.90.118/piconsnew/rtp2hd.png" group-title="PT| GENERALISTAS",PT| RTP 2 HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118449&extension=ts&play_token=iLpIp5VNvn
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP 2" tvg-logo="http://103.176.90.118/piconsnew/rtp2hd.png" group-title="PT| GENERALISTAS",PT| RTP 2
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107450&extension=ts&play_token=LCWiaRbBoF
-#EXTINF:-1 tvg-id="" tvg-name="PT| FPTV (NA)" tvg-logo="http://103.176.90.118/piconsnew/FPTV.png" group-title="PT| GENERALISTAS",PT| FPTV (NA)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=708370&extension=ts&play_token=oaAoZUEXWV
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC HD" tvg-logo="http://103.176.90.118/piconsnew/sichd.png" group-title="PT| GENERALISTAS",PT| SIC HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107442&extension=ts&play_token=iThD2jiUWQ
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC HEVC" tvg-logo="http://103.176.90.118/piconsnew/sic.png" group-title="PT| GENERALISTAS",PT| SIC HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118448&extension=ts&play_token=nmlw2dJWjf
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC" tvg-logo="http://103.176.90.118/piconsnew/sic.png" group-title="PT| GENERALISTAS",PT| SIC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107444&extension=ts&play_token=Vi541mgc4A
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC (NA)" tvg-logo="http://103.176.90.118/piconsnew/sic.png" group-title="PT| GENERALISTAS",PT| SIC (NA)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=101868&extension=ts&play_token=Yydgd8Dv3o
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC INTERNATIONAL" tvg-logo="http://103.176.90.118/piconsnew/sicinternacional.png" group-title="PT| GENERALISTAS",PT| SIC INTERNATIONAL
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=863881&extension=ts&play_token=MwSudYtfj3
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC NOVELAS" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SIC-NOVELAS.png" group-title="PT| GENERALISTAS",PT| SIC NOVELAS
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1430557&extension=ts&play_token=FvdP3kaQOr
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI HD" tvg-logo="http://103.176.90.118/piconsnew/tvi.png" group-title="PT| GENERALISTAS",PT| TVI HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107525&extension=ts&play_token=Y1wiufxXqO
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI HEVC" tvg-logo="http://103.176.90.118/piconsnew/tvi.png" group-title="PT| GENERALISTAS",PT| TVI HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118467&extension=ts&play_token=Q3VVvbhlKo
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI" tvg-logo="http://103.176.90.118/piconsnew/tvi.png" group-title="PT| GENERALISTAS",PT| TVI
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107417&extension=ts&play_token=EKDDQ2xxAn
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI (NA)" tvg-logo="http://103.176.90.118/piconsnew/tvi.png" group-title="PT| GENERALISTAS",PT| TVI (NA)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=101869&extension=ts&play_token=NYewC6ScHo
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI INTERNATIONAL" tvg-logo="http://103.176.90.118/picons/logos/SPAIN/TVI-INTERNATIONAL.png" group-title="PT| GENERALISTAS",PT| TVI INTERNATIONAL
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107528&extension=ts&play_token=MsLGaFOa6d
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI AFRICA" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVI-AFRICA.png" group-title="PT| GENERALISTAS",PT| TVI AFRICA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1430558&extension=ts&play_token=OiAQRWagA4
-#EXTINF:-1 tvg-id="" tvg-name="PT| V+ HD" tvg-logo="http://103.176.90.118/picons/logos/USA/V-PLUS.png" group-title="PT| GENERALISTAS",PT| V+ HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1613947&extension=ts&play_token=8J6DHXJO2I
-#EXTINF:-1 tvg-id="" tvg-name="PT| V+" tvg-logo="http://103.176.90.118/picons/logos/USA/V-PLUS.png" group-title="PT| GENERALISTAS",PT| V+
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107415&extension=ts&play_token=vJ7VhrNKQP
-#EXTINF:-1 tvg-id="" tvg-name="PT| V+ FHD" tvg-logo="http://103.176.90.118/picons/logos/USA/V-PLUS.png" group-title="PT| GENERALISTAS",PT| V+ FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=378345&extension=ts&play_token=LRP9ZxL0J8
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI REALITY" tvg-logo="http://103.176.90.118/piconsnew/tvireality.png" group-title="PT| GENERALISTAS",PT| TVI REALITY
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107414&extension=ts&play_token=G5oal5ZaWy
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI REALITY HD" tvg-logo="http://103.176.90.118/piconsnew/tvireality.png" group-title="PT| GENERALISTAS",PT| TVI REALITY HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=122490&extension=ts&play_token=7KXdxpnwds
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI REALITY  MOSAICO" tvg-logo="http://103.176.90.118/piconsnew/tvirealitymosaico.png" group-title="PT| GENERALISTAS",PT| TVI REALITY  MOSAICO
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=378350&extension=ts&play_token=isLbjt2Uua
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI REALITY CAMERA 1" tvg-logo="http://103.176.90.118/picons/logos/logos/TVI-REALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY CAMERA 1
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1649980&extension=ts&play_token=z5uL0oNf2E
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI REALITY CAMERA 2" tvg-logo="http://103.176.90.118/picons/logos/logos/TVI-REALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY CAMERA 2
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1649979&extension=ts&play_token=ha94tBz8OJ
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI REALITY CAMERA 3" tvg-logo="http://103.176.90.118/picons/logos/logos/TVI-REALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY CAMERA 3
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1649978&extension=ts&play_token=8DtW1R2wbc
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVI REALITY CAMERA 4" tvg-logo="http://103.176.90.118/picons/logos/logos/TVI-REALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY CAMERA 4
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1649977&extension=ts&play_token=xUcqzoGygX
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC CARAS" tvg-logo="http://103.176.90.118/piconsnew/siccaras.png" group-title="PT| GENERALISTAS",PT| SIC CARAS
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107443&extension=ts&play_token=EFbEKRBupj
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC CARAS FHD" tvg-logo="http://103.176.90.118/piconsnew/siccaras.png" group-title="PT| GENERALISTAS",PT| SIC CARAS FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=379384&extension=ts&play_token=4xCX8bZMYO
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC MULHER" tvg-logo="http://103.176.90.118/piconsnew/sicmulher.png" group-title="PT| GENERALISTAS",PT| SIC MULHER
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107440&extension=ts&play_token=4M1x2X4v5z
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC MULHER HD" tvg-logo="http://103.176.90.118/piconsnew/sicmulher.png" group-title="PT| GENERALISTAS",PT| SIC MULHER HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=379383&extension=ts&play_token=TCN97oBrFJ
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC RADICAL" tvg-logo="http://103.176.90.118/piconsnew/sicradical.png" group-title="PT| GENERALISTAS",PT| SIC RADICAL
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107438&extension=ts&play_token=EL8U881fqD
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC RADICAL FHD" tvg-logo="http://103.176.90.118/piconsnew/sicradical.png" group-title="PT| GENERALISTAS",PT| SIC RADICAL FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=379382&extension=ts&play_token=eGQgmCoGCQ
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP AFRICA" tvg-logo="http://103.176.90.118/piconsnew/rtpafrica.png" group-title="PT| GENERALISTAS",PT| RTP AFRICA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107453&extension=ts&play_token=Dl7d7Q3ohf
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP INT. (AFR)" tvg-logo="http://103.176.90.118/piconsnew/rtpinternacional.png" group-title="PT| GENERALISTAS",PT| RTP INT. (AFR)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=970725&extension=ts&play_token=07XoE0FSBK
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP INTERNACIONAL HD" tvg-logo="http://103.176.90.118/piconsnew/rtpinternacional.png" group-title="PT| GENERALISTAS",PT| RTP INTERNACIONAL HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=970733&extension=ts&play_token=3o43JOL5aA
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP INT. (NA)" tvg-logo="http://103.176.90.118/piconsnew/rtpinternacional.png" group-title="PT| GENERALISTAS",PT| RTP INT. (NA)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107410&extension=ts&play_token=jKXElEfq0S
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP MADEIRA" tvg-logo="http://103.176.90.118/piconsnew/rtpmadeira.png" group-title="PT| GENERALISTAS",PT| RTP MADEIRA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107446&extension=ts&play_token=Xl7nsN89iv
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP MEMORIA" tvg-logo="http://103.176.90.118/piconsnew/rtpmemoria.png" group-title="PT| GENERALISTAS",PT| RTP MEMORIA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107445&extension=ts&play_token=9THg9JYCsZ
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP ACORES" tvg-logo="http://103.176.90.118/piconsnew/rtpacores.png" group-title="PT| GENERALISTAS",PT| RTP ACORES
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107447&extension=ts&play_token=d2U2ZblN0v
-#EXTINF:-1 tvg-id="" tvg-name="PT| AZORES TV" tvg-logo="http://103.176.90.118/piconsnew/AZORES-TV.png" group-title="PT| GENERALISTAS",PT| AZORES TV
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1112663&extension=ts&play_token=JqvcCm6Hov
-#EXTINF:-1 tvg-id="" tvg-name="PT| S PLUS HD" tvg-logo="http://103.176.90.118/piconsnew/splus.png" group-title="PT| GENERALISTAS",PT| S PLUS HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=378343&extension=ts&play_token=8tPo3A2wyW
-#EXTINF:-1 tvg-id="" tvg-name="PT| CASA E COZINHA HD" tvg-logo="http://103.176.90.118/piconsnew/casaecozinha.png" group-title="PT| GENERALISTAS",PT| CASA E COZINHA HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=379381&extension=ts&play_token=ZXO9y8ZnaH
-#EXTINF:-1 tvg-id="" tvg-name="PT| CANAL Q" tvg-logo="http://103.176.90.118/piconsnew/canalq.png" group-title="PT| GENERALISTAS",PT| CANAL Q
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107508&extension=ts&play_token=tHXdFmQzV1
-#EXTINF:-1 tvg-id="" tvg-name="PT| PORTO CANAL" tvg-logo="http://103.176.90.118/piconsnew/portocanal.png" group-title="PT| GENERALISTAS",PT| PORTO CANAL
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107454&extension=ts&play_token=kiYZ6KcrrQ
-#EXTINF:-1 tvg-id="" tvg-name="PT| PORTO CANAL HD" tvg-logo="http://103.176.90.118/piconsnew/portocanal.png" group-title="PT| GENERALISTAS",PT| PORTO CANAL HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=368056&extension=ts&play_token=myUBUeaSpE
-#EXTINF:-1 tvg-id="" tvg-name="##### PT NOTICIAS #####" tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| NOTICIAS",##### PT NOTICIAS #####
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118429&extension=ts&play_token=YjuIh7PJ8G
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC NOTICIAS" tvg-logo="http://103.176.90.118/piconsnew/sicnoticias.png" group-title="PT| NOTICIAS",PT| SIC NOTICIAS
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107439&extension=ts&play_token=xCbX0dAXmB
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC NOTICIAS HD" tvg-logo="http://103.176.90.118/piconsnew/sicnoticias.png" group-title="PT| NOTICIAS",PT| SIC NOTICIAS HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=368055&extension=ts&play_token=1V6aUjBvWB
-#EXTINF:-1 tvg-id="" tvg-name="PT| CNN PORTUGAL" tvg-logo="http://103.176.90.118/piconsnew/cnnportugal.png" group-title="PT| NOTICIAS",PT| CNN PORTUGAL
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107416&extension=ts&play_token=aHhbeLHiQT
-#EXTINF:-1 tvg-id="" tvg-name="PT| CNN PORTUGAL HD" tvg-logo="http://103.176.90.118/piconsnew/cnnportugal.png" group-title="PT| NOTICIAS",PT| CNN PORTUGAL HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=388012&extension=ts&play_token=NnrAocDTQp
-#EXTINF:-1 tvg-id="" tvg-name="PT| CMTV" tvg-logo="http://103.176.90.118/piconsnew/cmtvhd.png" group-title="PT| NOTICIAS",PT| CMTV
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107503&extension=ts&play_token=Y7LR4Sn1Mu
-#EXTINF:-1 tvg-id="" tvg-name="PT| CMTV HD" tvg-logo="http://103.176.90.118/piconsnew/cmtv.png" group-title="PT| NOTICIAS",PT| CMTV HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=368054&extension=ts&play_token=XbmmveFzuV
-#EXTINF:-1 tvg-id="" tvg-name="PT| NEWS NOW FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/NEWS-NOW.png" group-title="PT| NOTICIAS",PT| NEWS NOW FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1561508&extension=ts&play_token=pyVZ1oaqwK
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP 3" tvg-logo="http://103.176.90.118/piconsnew/rtp3.png" group-title="PT| NOTICIAS",PT| RTP 3
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107448&extension=ts&play_token=qDAeHcWhxE
-#EXTINF:-1 tvg-id="" tvg-name="PT| RTP 3 HD" tvg-logo="http://103.176.90.118/piconsnew/rtp3.png" group-title="PT| NOTICIAS",PT| RTP 3 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107529&extension=ts&play_token=TtX5q0rxHq
-#EXTINF:-1 tvg-id="" tvg-name="PT| EURONEWS HD" tvg-logo="http://103.176.90.118/piconsnew/euronews.png" group-title="PT| NOTICIAS",PT| EURONEWS HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107489&extension=ts&play_token=G2CMIOZa1j
-#EXTINF:-1 tvg-id="" tvg-name="PT| CNBC" tvg-logo="http://103.176.90.118/piconsnew/cnbc.png" group-title="PT| NOTICIAS",PT| CNBC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107502&extension=ts&play_token=2P4nD9yHhZ
-#EXTINF:-1 tvg-id="" tvg-name="PT| PARLAMENTO" tvg-logo="http://103.176.90.118/piconsnew/parlamento.png" group-title="PT| NOTICIAS",PT| PARLAMENTO
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107457&extension=ts&play_token=KaIufDTbgQ
-#EXTINF:-1 tvg-id="" tvg-name="PT| ARTV" tvg-logo="http://103.176.90.118/piconsnew/artv.png" group-title="PT| NOTICIAS",PT| ARTV
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107519&extension=ts&play_token=u8Mzmkdls9
-#EXTINF:-1 tvg-id="" tvg-name="PT| TV GALICIA" tvg-logo="http://103.176.90.118/piconsnew/tvgalicia.png" group-title="PT| NOTICIAS",PT| TV GALICIA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107425&extension=ts&play_token=Z7bgFozqcE
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVE 24H" tvg-logo="http://103.176.90.118/piconsnew/tve24h.png" group-title="PT| NOTICIAS",PT| TVE 24H
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107419&extension=ts&play_token=HwYzmO0wIL
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVE INTERNATIONAL" tvg-logo="http://103.176.90.118/piconsnew/tveinternacional.png" group-title="PT| NOTICIAS",PT| TVE INTERNATIONAL
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107418&extension=ts&play_token=LddvNR17DI
-#EXTINF:-1 tvg-id="" tvg-name="PT| BLOOMBERG" tvg-logo="http://103.176.90.118/piconsnew/bloomberg.png" group-title="PT| NOTICIAS",PT| BLOOMBERG
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107512&extension=ts&play_token=AJUYzI4reT
-#EXTINF:-1 tvg-id="" tvg-name="PT| PFC" tvg-logo="http://103.176.90.118/piconsnew/pfc.png" group-title="PT| NOTICIAS",PT| PFC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107456&extension=ts&play_token=OJPwVENBLu
-#EXTINF:-1 tvg-id="" tvg-name="PT| PFC (NA)" tvg-logo="http://103.176.90.118/piconsnew/pfc.png" group-title="PT| NOTICIAS",PT| PFC (NA)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=156351&extension=ts&play_token=8mThd8NyZX
-#EXTINF:-1 tvg-id="" tvg-name="##### PT DESPORTO #####" tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| DESPORTO",##### PT DESPORTO #####
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118430&extension=ts&play_token=zU42GpgOLq
-#EXTINF:-1 tvg-id="" tvg-name="PT| CANAL 11 HD" tvg-logo="http://103.176.90.118/piconsnew/canal11hd.png" group-title="PT| DESPORTO",PT| CANAL 11 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107524&extension=ts&play_token=ffudkTn8G8
-#EXTINF:-1 tvg-id="" tvg-name="PT| CANAL 11 HEVC" tvg-logo="http://103.176.90.118/piconsnew/canal11hd.png" group-title="PT| DESPORTO",PT| CANAL 11 HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118466&extension=ts&play_token=8fAz2ngbhU
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV + HD" tvg-logo="http://103.176.90.118/piconsnew/sporttvplus.png" group-title="PT| DESPORTO",PT| SPORT TV + HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107437&extension=ts&play_token=0wqrVDowE9
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV+ HEVC" tvg-logo="http://103.176.90.118/piconsnew/sporttvplus.png" group-title="PT| DESPORTO",PT| SPORT TV+ HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=368058&extension=ts&play_token=ZDUMqnmTst
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 HD" tvg-logo="http://103.176.90.118/piconsnew/sporttv1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107436&extension=ts&play_token=C1ZtFMxxsz
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 HEVC" tvg-logo="http://103.176.90.118/piconsnew/sporttv1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118447&extension=ts&play_token=WreSSPIDIS
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 SD" tvg-logo="http://103.176.90.118/piconsnew/sporttv1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=148671&extension=ts&play_token=bbx6w6sACC
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 HD" tvg-logo="http://103.176.90.118/piconsnew/sporttv2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107435&extension=ts&play_token=qpwZsw1dHg
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 HEVC" tvg-logo="http://103.176.90.118/piconsnew/sporttv2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118446&extension=ts&play_token=CsvpwuNkGz
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 2 SD" tvg-logo="http://103.176.90.118/piconsnew/sporttv2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=148670&extension=ts&play_token=hqIfXWWJrH
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 HD" tvg-logo="http://103.176.90.118/piconsnew/sporttv3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107434&extension=ts&play_token=S0kQOpP93G
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 HEVC" tvg-logo="http://103.176.90.118/piconsnew/sporttv3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118445&extension=ts&play_token=PzANjJoC19
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 3 SD" tvg-logo="http://103.176.90.118/piconsnew/sporttv3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=148669&extension=ts&play_token=kbTL2gWqDG
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4 HD" tvg-logo="http://103.176.90.118/piconsnew/sporttv4.png" group-title="PT| DESPORTO",PT| SPORT TV 4 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107433&extension=ts&play_token=wE7m4w7sXH
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 4 SD" tvg-logo="http://103.176.90.118/piconsnew/sporttv4.png" group-title="PT| DESPORTO",PT| SPORT TV 4 SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=148668&extension=ts&play_token=UdiMmV1R4Z
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 5 HD" tvg-logo="http://103.176.90.118/piconsnew/sporttv5.png" group-title="PT| DESPORTO",PT| SPORT TV 5 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=148667&extension=ts&play_token=Z3dHiwIjyy
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 6 FHD" tvg-logo="http://103.176.90.118/piconsnew/sporttv6hd.png" group-title="PT| DESPORTO",PT| SPORT TV 6 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=712739&extension=ts&play_token=nwWqb54zFX
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 7 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-TV-7.png" group-title="PT| DESPORTO",PT| SPORT TV 7 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1613387&extension=ts&play_token=Rp6xqDziFN
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV NBA HD" tvg-logo="http://103.176.90.118/piconsnew/sporttvnba.png" group-title="PT| DESPORTO",PT| SPORT TV NBA HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107431&extension=ts&play_token=KmaxXDJ5p8
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV NBA HEVC" tvg-logo="http://103.176.90.118/piconsnew/sporttvnba.png" group-title="PT| DESPORTO",PT| SPORT TV NBA HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118444&extension=ts&play_token=vjBye04lq9
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 1 HD" tvg-logo="http://103.176.90.118/piconsnew/elevensports1.png" group-title="PT| DESPORTO",PT| DAZN 1 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107495&extension=ts&play_token=ORYNTOVdn7
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 1 HEVC" tvg-logo="http://103.176.90.118/piconsnew/elevensports1.png" group-title="PT| DESPORTO",PT| DAZN 1 HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118459&extension=ts&play_token=TkTuR2UEtd
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 2 HD" tvg-logo="http://103.176.90.118/piconsnew/elevensports2.png" group-title="PT| DESPORTO",PT| DAZN 2 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107494&extension=ts&play_token=tUFAv2pHC1
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 2 HEVC" tvg-logo="http://103.176.90.118/piconsnew/elevensports2.png" group-title="PT| DESPORTO",PT| DAZN 2 HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118458&extension=ts&play_token=9I3FSeSxvX
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 3" tvg-logo="http://103.176.90.118/piconsnew/elevensports3.png" group-title="PT| DESPORTO",PT| DAZN 3
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107493&extension=ts&play_token=AttizZlVQc
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 3 HD" tvg-logo="http://103.176.90.118/piconsnew/elevensports3.png" group-title="PT| DESPORTO",PT| DAZN 3 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=122484&extension=ts&play_token=1Z2by8kzq2
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 4" tvg-logo="http://103.176.90.118/piconsnew/elevensports4.png" group-title="PT| DESPORTO",PT| DAZN 4
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107492&extension=ts&play_token=n7cbwyQNjr
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 4 HD" tvg-logo="http://103.176.90.118/piconsnew/elevensports4.png" group-title="PT| DESPORTO",PT| DAZN 4 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=122485&extension=ts&play_token=oJ3ZhAsvXy
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 5" tvg-logo="http://103.176.90.118/piconsnew/elevensports5.png" group-title="PT| DESPORTO",PT| DAZN 5
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107491&extension=ts&play_token=405m5jbBO8
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 5 HD" tvg-logo="http://103.176.90.118/piconsnew/elevensports5.png" group-title="PT| DESPORTO",PT| DAZN 5 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=122486&extension=ts&play_token=JsooSML0zr
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 6" tvg-logo="http://103.176.90.118/piconsnew/elevensports6.png" group-title="PT| DESPORTO",PT| DAZN 6
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107490&extension=ts&play_token=myGIuYCPJW
-#EXTINF:-1 tvg-id="" tvg-name="PT| A BOLA TV HD" tvg-logo="http://103.176.90.118/piconsnew/abolatv.png" group-title="PT| DESPORTO",PT| A BOLA TV HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107522&extension=ts&play_token=AshkQ4Wr3X
-#EXTINF:-1 tvg-id="" tvg-name="PT| BENFICA TV HD" tvg-logo="http://103.176.90.118/piconsnew/btvhd.png" group-title="PT| DESPORTO",PT| BENFICA TV HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=983567&extension=ts&play_token=QLvnzJdduI
-#EXTINF:-1 tvg-id="" tvg-name="PT| BTV 1 HD" tvg-logo="http://103.176.90.118/piconsnew/btv1.png" group-title="PT| DESPORTO",PT| BTV 1 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107511&extension=ts&play_token=pAVYvIAZQT
-#EXTINF:-1 tvg-id="" tvg-name="PT| BTV HEVC" tvg-logo="http://103.176.90.118/piconsnew/btvhd.png" group-title="PT| DESPORTO",PT| BTV HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118461&extension=ts&play_token=VZcpxJtJkY
-#EXTINF:-1 tvg-id="" tvg-name="PT| SPORTING TV" tvg-logo="http://103.176.90.118/piconsnew/sportingtv.png" group-title="PT| DESPORTO",PT| SPORTING TV
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107430&extension=ts&play_token=FRtgGuutRV
-#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 1 HD" tvg-logo="http://103.176.90.118/piconsnew/eurosport1.png" group-title="PT| DESPORTO",PT| EUROSPORT 1 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107488&extension=ts&play_token=iybg3E9l9a
-#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 1 HEVC" tvg-logo="http://103.176.90.118/piconsnew/eurosport1.png" group-title="PT| DESPORTO",PT| EUROSPORT 1 HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118457&extension=ts&play_token=LtEWsImXUL
-#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 2" tvg-logo="http://103.176.90.118/piconsnew/eurosport2.png" group-title="PT| DESPORTO",PT| EUROSPORT 2
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107487&extension=ts&play_token=C5EOOkBEgW
-#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/eurosport.png" group-title="PT| DESPORTO",PT| EUROSPORT FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1604044&extension=ts&play_token=BzK4ZfUbds
-#EXTINF:-1 tvg-id="" tvg-name="PT| EUROSPORT 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/eurosport.png" group-title="PT| DESPORTO",PT| EUROSPORT 2 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1604042&extension=ts&play_token=ea2EqUiuoO
-#EXTINF:-1 tvg-id="" tvg-name="PT| FUEL TV" tvg-logo="http://103.176.90.118/piconsnew/fueltv.png" group-title="PT| DESPORTO",PT| FUEL TV
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107479&extension=ts&play_token=t8pfvSKJXh
-#EXTINF:-1 tvg-id="" tvg-name="PT| MOTORVISION" tvg-logo="http://103.176.90.118/piconsnew/motorvision.png" group-title="PT| DESPORTO",PT| MOTORVISION
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107468&extension=ts&play_token=h1xOXHetyP
-#EXTINF:-1 tvg-id="" tvg-name="##### PT FILMES E SÉRIES #####" tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| FILMES E SÉRIES",##### PT FILMES E SÉRIES #####
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118431&extension=ts&play_token=fdV1ZjUaAa
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVCINE TOP HD" tvg-logo="http://103.176.90.118/piconsnew/tvcinetop.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE TOP HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107423&extension=ts&play_token=cgs9mb6bXj
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVCINE TOP HEVC" tvg-logo="http://103.176.90.118/piconsnew/tvcinetop.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE TOP HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118442&extension=ts&play_token=MbC294W7wg
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVCINE EDITION HD" tvg-logo="http://103.176.90.118/piconsnew/tvcineedition.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EDITION HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107422&extension=ts&play_token=CN5x64rkJw
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVCINE EDITION HEVC" tvg-logo="http://103.176.90.118/piconsnew/tvcineedition.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EDITION HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118441&extension=ts&play_token=do8dlrNTK6
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVCINE EMOTION HD" tvg-logo="http://103.176.90.118/piconsnew/tvcineemotion.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EMOTION HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107421&extension=ts&play_token=3Cyrdgqq4D
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVCINE EMOTION HEVC" tvg-logo="http://103.176.90.118/piconsnew/tvcineemotion.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EMOTION HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118440&extension=ts&play_token=8XV9gAA2OA
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVCINE ACTION HD" tvg-logo="http://103.176.90.118/piconsnew/tvcineaction.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE ACTION HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107420&extension=ts&play_token=oAWyxayliV
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVCINE ACTION HEVC" tvg-logo="http://103.176.90.118/piconsnew/tvcineaction.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE ACTION HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118439&extension=ts&play_token=CSHqENvFvo
-#EXTINF:-1 tvg-id="" tvg-name="PT| HOLLYWOOD HD" tvg-logo="http://103.176.90.118/piconsnew/hollywood.png" group-title="PT| FILMES E SÉRIES",PT| HOLLYWOOD HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107475&extension=ts&play_token=V4RsxnVBB7
-#EXTINF:-1 tvg-id="" tvg-name="PT| HOLLYWOOD HEVC" tvg-logo="http://103.176.90.118/piconsnew/hollywood.png" group-title="PT| FILMES E SÉRIES",PT| HOLLYWOOD HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118453&extension=ts&play_token=WRxeTvfega
-#EXTINF:-1 tvg-id="" tvg-name="PT| NOS STUDIOS HD" tvg-logo="http://103.176.90.118/piconsnew/nosstudios.png" group-title="PT| FILMES E SÉRIES",PT| NOS STUDIOS HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107459&extension=ts&play_token=d6QoJKqQ4d
-#EXTINF:-1 tvg-id="" tvg-name="PT| NOS STUDIOS HEVC" tvg-logo="http://103.176.90.118/piconsnew/nosstudios.png" group-title="PT| FILMES E SÉRIES",PT| NOS STUDIOS HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118451&extension=ts&play_token=ug9fJur0tt
-#EXTINF:-1 tvg-id="" tvg-name="PT| CINEMUNDO HD" tvg-logo="http://103.176.90.118/piconsnew/cinemundo.png" group-title="PT| FILMES E SÉRIES",PT| CINEMUNDO HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107504&extension=ts&play_token=ikbTSFmVG6
-#EXTINF:-1 tvg-id="" tvg-name="PT| AMC HD" tvg-logo="http://103.176.90.118/piconsnew/amc.png" group-title="PT| FILMES E SÉRIES",PT| AMC HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107520&extension=ts&play_token=N8InDWvbaY
-#EXTINF:-1 tvg-id="" tvg-name="PT| AMC HEVC" tvg-logo="http://103.176.90.118/piconsnew/amc.png" group-title="PT| FILMES E SÉRIES",PT| AMC HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=122487&extension=ts&play_token=HtWuSLRyhf
-#EXTINF:-1 tvg-id="" tvg-name="PT| STAR MOVIES" tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-MOVIES.png" group-title="PT| FILMES E SÉRIES",PT| STAR MOVIES
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107482&extension=ts&play_token=tqv7WIsrtt
-#EXTINF:-1 tvg-id="" tvg-name="PT| STAR HD" tvg-logo="http://103.176.90.118/picons/logos/logos/STAR.png" group-title="PT| FILMES E SÉRIES",PT| STAR HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107484&extension=ts&play_token=8pb5HyH5ZG
-#EXTINF:-1 tvg-id="" tvg-name="PT| STAR HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/STAR.png" group-title="PT| FILMES E SÉRIES",PT| STAR HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118455&extension=ts&play_token=bTIdDhOgpJ
-#EXTINF:-1 tvg-id="" tvg-name="PT| STAR CRIME HD" tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-CRIME.png" group-title="PT| FILMES E SÉRIES",PT| STAR CRIME HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107485&extension=ts&play_token=9sExuAVDg6
-#EXTINF:-1 tvg-id="" tvg-name="PT| STAR CRIME HEVC" tvg-logo="http://103.176.90.118/piconsnew/foxcrime.png" group-title="PT| FILMES E SÉRIES",PT| STAR CRIME HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118456&extension=ts&play_token=QIEsHB0yIE
-#EXTINF:-1 tvg-id="" tvg-name="PT| STAR LIFE HD" tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-LIFE.png" group-title="PT| FILMES E SÉRIES",PT| STAR LIFE HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107413&extension=ts&play_token=eJRXm74SQt
-#EXTINF:-1 tvg-id="" tvg-name="PT| STAR LIFE HEVC" tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-LIFE.png" group-title="PT| FILMES E SÉRIES",PT| STAR LIFE HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118454&extension=ts&play_token=F0sG2Y0nx4
-#EXTINF:-1 tvg-id="" tvg-name="PT| STAR COMEDY" tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-COMEDY.png" group-title="PT| FILMES E SÉRIES",PT| STAR COMEDY
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107486&extension=ts&play_token=0NXQztajR0
-#EXTINF:-1 tvg-id="" tvg-name="PT| STAR COMEDY HD" tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-COMEDY.png" group-title="PT| FILMES E SÉRIES",PT| STAR COMEDY HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=951549&extension=ts&play_token=edzBZEkvov
-#EXTINF:-1 tvg-id="" tvg-name="PT| AXN MOVIES HD" tvg-logo="http://103.176.90.118/piconsnew/axnmovieshd.png" group-title="PT| FILMES E SÉRIES",PT| AXN MOVIES HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1069313&extension=ts&play_token=HUVzZ49NqF
-#EXTINF:-1 tvg-id="" tvg-name="PT| AXN HD" tvg-logo="http://103.176.90.118/piconsnew/axn.png" group-title="PT| FILMES E SÉRIES",PT| AXN HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107517&extension=ts&play_token=723h1lR891
-#EXTINF:-1 tvg-id="" tvg-name="PT| AXN HEVC" tvg-logo="http://103.176.90.118/piconsnew/axn.png" group-title="PT| FILMES E SÉRIES",PT| AXN HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118463&extension=ts&play_token=mvhx5O7FAG
-#EXTINF:-1 tvg-id="" tvg-name="PT| AXN WHITE HD" tvg-logo="http://103.176.90.118/piconsnew/axnwhite.png" group-title="PT| FILMES E SÉRIES",PT| AXN WHITE HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107516&extension=ts&play_token=x5cp4pMTYm
-#EXTINF:-1 tvg-id="" tvg-name="PT| AXN WHITE HEVC" tvg-logo="http://103.176.90.118/piconsnew/axnwhite.png" group-title="PT| FILMES E SÉRIES",PT| AXN WHITE HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118462&extension=ts&play_token=XDBaV5cX5d
-#EXTINF:-1 tvg-id="" tvg-name="PT| SYFY" tvg-logo="http://103.176.90.118/piconsnew/syfy.png" group-title="PT| FILMES E SÉRIES",PT| SYFY
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107429&extension=ts&play_token=jj4V7p1cLx
-#EXTINF:-1 tvg-id="" tvg-name="PT| SYFY HD" tvg-logo="http://103.176.90.118/piconsnew/syfy.png" group-title="PT| FILMES E SÉRIES",PT| SYFY HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=122488&extension=ts&play_token=rRTfn6gKRr
-#EXTINF:-1 tvg-id="" tvg-name="PT| TVA HD" tvg-logo="http://103.176.90.118/piconsnew/tva.png" group-title="PT| FILMES E SÉRIES",PT| TVA HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1058186&extension=ts&play_token=HPnwSlDcvj
-#EXTINF:-1 tvg-id="" tvg-name="##### PT EXCLUSIVO #####" tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| 24/7",##### PT EXCLUSIVO #####
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=378327&extension=ts&play_token=s0vzxU3PRB
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE AÇÃO 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ACTION.png" group-title="PT| 24/7",PT| FILMES DE AÇÃO 1 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028870&extension=ts&play_token=B4TYVjuUTE
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE AÇÃO 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ACTION.png" group-title="PT| 24/7",PT| FILMES DE AÇÃO 2 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028871&extension=ts&play_token=OdIQowdTpB
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE HBO FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HBO.png" group-title="PT| 24/7",PT| FILMES DE HBO FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028884&extension=ts&play_token=JP6GJAxvZL
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE NETFLIX 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NETFLIX.png" group-title="PT| 24/7",PT| FILMES DE NETFLIX 1 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028885&extension=ts&play_token=6RNEuCrcmp
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE NETFLIX 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/NETFLIX.png" group-title="PT| 24/7",PT| FILMES DE NETFLIX 2 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028886&extension=ts&play_token=P1VZswdL8F
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE PRIME 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PRIME.png" group-title="PT| 24/7",PT| FILMES DE PRIME 1 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028887&extension=ts&play_token=LsrdDoKSHY
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE PRIME 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/PRIME.png" group-title="PT| 24/7",PT| FILMES DE PRIME 2 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028888&extension=ts&play_token=08iyNmqMvw
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE TERROR FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HORROR.png" group-title="PT| 24/7",PT| FILMES DE TERROR FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028889&extension=ts&play_token=Ge7EVPhkxf
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE FICÇÃO FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SCIENCE.png" group-title="PT| 24/7",PT| FILMES DE FICÇÃO FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028882&extension=ts&play_token=4eApRHzFZw
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE HARRY POTTER FHD" tvg-logo="http://103.176.90.118/picons/logos/PORTUGAL/HARRY-POTTER.png" group-title="PT| 24/7",PT| FILMES DE HARRY POTTER FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028883&extension=ts&play_token=X0BI1F0GMW
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE DOCUMENTÁRIA FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DOCUMENTARY.png" group-title="PT| 24/7",PT| FILMES DE DOCUMENTÁRIA FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028880&extension=ts&play_token=4BaCfKaL4K
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE DRAMÁTICA FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DRAMA.png" group-title="PT| 24/7",PT| FILMES DE DRAMÁTICA FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028881&extension=ts&play_token=EkGU7Dz3l4
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE ANIMAÇÃO 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KIDS.png" group-title="PT| 24/7",PT| FILMES DE ANIMAÇÃO 1 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028872&extension=ts&play_token=tBXhubd6uD
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE ANIMAÇÃO 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KIDS.png" group-title="PT| 24/7",PT| FILMES DE ANIMAÇÃO 2 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028873&extension=ts&play_token=fu52fDRhzX
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE APPLE 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/APPLE.png" group-title="PT| 24/7",PT| FILMES DE APPLE 1 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028874&extension=ts&play_token=k630eOGPvB
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE APPLE 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/APPLE.png" group-title="PT| 24/7",PT| FILMES DE APPLE 2 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028875&extension=ts&play_token=hKwBmOG4IB
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE COMÉDIA 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/COMEDY.png" group-title="PT| 24/7",PT| FILMES DE COMÉDIA 1 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028876&extension=ts&play_token=0KeMivBrNl
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE COMÉDIA 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/COMEDY.png" group-title="PT| 24/7",PT| FILMES DE COMÉDIA 2 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028877&extension=ts&play_token=pdO3OxVFtR
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE DISNEY 1 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DISNEY.png" group-title="PT| 24/7",PT| FILMES DE DISNEY 1 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028878&extension=ts&play_token=EMIZE0PjWT
-#EXTINF:-1 tvg-id="" tvg-name="PT| FILMES DE DISNEY 2 FHD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DISNEY.png" group-title="PT| 24/7",PT| FILMES DE DISNEY 2 FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1028879&extension=ts&play_token=rRJHqGYJhO
-#EXTINF:-1 tvg-id="" tvg-name="PT| APAIXONADOS POR SERIES (EX)" tvg-logo="http://103.176.90.118/piconsnew/APAIXONADOS-POR-SERIES.png" group-title="PT| 24/7",PT| APAIXONADOS POR SERIES (EX)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=425317&extension=ts&play_token=INKI3afZEn
-#EXTINF:-1 tvg-id="" tvg-name="PT| BOOBA (EX)" tvg-logo="http://103.176.90.118/piconsnew/BOOBA-.png" group-title="PT| 24/7",PT| BOOBA (EX)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=378332&extension=ts&play_token=BPcnyrJyWv
-#EXTINF:-1 tvg-id="" tvg-name="PT| FICÇÃO CIENTÍFICA (EX)" tvg-logo="http://103.176.90.118/piconsnew/tvificcao.png" group-title="PT| 24/7",PT| FICÇÃO CIENTÍFICA (EX)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=425319&extension=ts&play_token=WifqEjcjrR
-#EXTINF:-1 tvg-id="" tvg-name="PT| FOLCLORE-DESGARRADAS (EX)" tvg-logo="http://103.176.90.118/piconsnew/FOLCLORE-PORTUGAL.jpg" group-title="PT| 24/7",PT| FOLCLORE-DESGARRADAS (EX)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=425320&extension=ts&play_token=fyJ9861twJ
-#EXTINF:-1 tvg-id="" tvg-name="PT| JOAO KLEBER (EX)" tvg-logo="http://103.176.90.118/piconsnew/JOAO-KLEBER.jpeg" group-title="PT| 24/7",PT| JOAO KLEBER (EX)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=425321&extension=ts&play_token=HEvE73iDZ9
-#EXTINF:-1 tvg-id="" tvg-name="PT| LOCALVISAO HD" tvg-logo="http://103.176.90.118/piconsnew/localvisaotvhd.png" group-title="PT| 24/7",PT| LOCALVISAO HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=425316&extension=ts&play_token=jOvBac5dwz
-#EXTINF:-1 tvg-id="" tvg-name="##### PT DOCUMENTARIOS #####" tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| CULTURA",##### PT DOCUMENTARIOS #####
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118432&extension=ts&play_token=HfDvdRUWVK
-#EXTINF:-1 tvg-id="" tvg-name="PT| CACEA E PESCA" tvg-logo="http://103.176.90.118/piconsnew/cacaepesca.png" group-title="PT| CULTURA",PT| CACEA E PESCA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107510&extension=ts&play_token=Wi3GNwmUkX
-#EXTINF:-1 tvg-id="" tvg-name="PT| CRIME INVESTIGATION" tvg-logo="http://103.176.90.118/piconsnew/crimeinvestigation.png" group-title="PT| CULTURA",PT| CRIME INVESTIGATION
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107501&extension=ts&play_token=5VCbEltG3i
-#EXTINF:-1 tvg-id="" tvg-name="PT| DISCOVERY CHANNEL" tvg-logo="http://103.176.90.118/piconsnew/discoverychannel.png" group-title="PT| CULTURA",PT| DISCOVERY CHANNEL
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107500&extension=ts&play_token=XSBgbrviss
-#EXTINF:-1 tvg-id="" tvg-name="PT| DISCOVERY HD" tvg-logo="http://103.176.90.118/piconsnew/discoverychannel.png" group-title="PT| CULTURA",PT| DISCOVERY HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107499&extension=ts&play_token=xwYxcvl9Hc
-#EXTINF:-1 tvg-id="" tvg-name="PT| DISCOVERY HEVC" tvg-logo="http://103.176.90.118/piconsnew/discovery.png" group-title="PT| CULTURA",PT| DISCOVERY HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118460&extension=ts&play_token=yJGO8qzWJY
-#EXTINF:-1 tvg-id="" tvg-name="PT| HISTORIA" tvg-logo="http://103.176.90.118/piconsnew/historia.png" group-title="PT| CULTURA",PT| HISTORIA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107476&extension=ts&play_token=xZ964rIWWq
-#EXTINF:-1 tvg-id="" tvg-name="PT| ID HD" tvg-logo="http://103.176.90.118/piconsnew/id.png" group-title="PT| CULTURA",PT| ID HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107474&extension=ts&play_token=7VrdWQhOX0
-#EXTINF:-1 tvg-id="" tvg-name="PT| NAT GEO HD" tvg-logo="http://103.176.90.118/piconsnew/natgeo.png" group-title="PT| CULTURA",PT| NAT GEO HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107465&extension=ts&play_token=kP6952jVmE
-#EXTINF:-1 tvg-id="" tvg-name="PT| NAT GEO HEVC" tvg-logo="http://103.176.90.118/piconsnew/natgeo.png" group-title="PT| CULTURA",PT| NAT GEO HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118452&extension=ts&play_token=qvWktRHz9F
-#EXTINF:-1 tvg-id="" tvg-name="PT| NAT GEO WILD" tvg-logo="http://103.176.90.118/piconsnew/natgeowild.png" group-title="PT| CULTURA",PT| NAT GEO WILD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107464&extension=ts&play_token=eymkVS99F5
-#EXTINF:-1 tvg-id="" tvg-name="PT| ODISSEIA" tvg-logo="http://103.176.90.118/piconsnew/odisseia.png" group-title="PT| CULTURA",PT| ODISSEIA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107458&extension=ts&play_token=BHl1fdsrZx
-#EXTINF:-1 tvg-id="" tvg-name="##### PT  CRIANCAS #####" tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| CRIANCAS",##### PT  CRIANCAS #####
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118433&extension=ts&play_token=qvPULBH8Dt
-#EXTINF:-1 tvg-id="" tvg-name="PT| BABY TV" tvg-logo="http://103.176.90.118/piconsnew/babytv.png" group-title="PT| CRIANCAS",PT| BABY TV
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107515&extension=ts&play_token=FRO5gi4HzZ
-#EXTINF:-1 tvg-id="" tvg-name="PT| BABYTV (NA)" tvg-logo="http://103.176.90.118/piconsnew/babytv.png" group-title="PT| CRIANCAS",PT| BABYTV (NA)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1557298&extension=ts&play_token=fWrB9WruTV
-#EXTINF:-1 tvg-id="" tvg-name="PT| BIGGS" tvg-logo="http://103.176.90.118/piconsnew/biggs.png" group-title="PT| CRIANCAS",PT| BIGGS
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107514&extension=ts&play_token=9gznNF1tIn
-#EXTINF:-1 tvg-id="" tvg-name="PT| BOOMERANG" tvg-logo="http://103.176.90.118/piconsnew/boomerang.png" group-title="PT| CRIANCAS",PT| BOOMERANG
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=996540&extension=ts&play_token=XBoZdWiJ3M
-#EXTINF:-1 tvg-id="" tvg-name="PT| CANAL PANDA" tvg-logo="http://103.176.90.118/piconsnew/canalpanda.png" group-title="PT| CRIANCAS",PT| CANAL PANDA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107509&extension=ts&play_token=VtNbUpC7Fx
-#EXTINF:-1 tvg-id="" tvg-name="PT| CARTOONITO" tvg-logo="http://103.176.90.118/piconsnew/jimjam.png" group-title="PT| CRIANCAS",PT| CARTOONITO
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107473&extension=ts&play_token=0BDFQWhwUl
-#EXTINF:-1 tvg-id="" tvg-name="PT| CARTOON NETWORK" tvg-logo="http://103.176.90.118/piconsnew/cartoonnetwork.png" group-title="PT| CRIANCAS",PT| CARTOON NETWORK
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107506&extension=ts&play_token=nbcXCvqoLB
-#EXTINF:-1 tvg-id="" tvg-name="PT| DISNEY CHANNEL" tvg-logo="http://103.176.90.118/piconsnew/disneychannel.png" group-title="PT| CRIANCAS",PT| DISNEY CHANNEL
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107498&extension=ts&play_token=UaRsmKaxMN
-#EXTINF:-1 tvg-id="" tvg-name="PT| DISNEY JUNIOR" tvg-logo="http://103.176.90.118/piconsnew/disneyjunior.png" group-title="PT| CRIANCAS",PT| DISNEY JUNIOR
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107497&extension=ts&play_token=HuYXMpMFDJ
-#EXTINF:-1 tvg-id="" tvg-name="PT| NICKELODEON" tvg-logo="http://103.176.90.118/piconsnew/nickelodeon.png" group-title="PT| CRIANCAS",PT| NICKELODEON
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107460&extension=ts&play_token=JRq33FsBkk
-#EXTINF:-1 tvg-id="" tvg-name="PT| NICK JR." tvg-logo="http://103.176.90.118/piconsnew/nickj.png" group-title="PT| CRIANCAS",PT| NICK JR.
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107461&extension=ts&play_token=5hsKsPRAF9
-#EXTINF:-1 tvg-id="" tvg-name="PT| SIC K" tvg-logo="http://103.176.90.118/piconsnew/sick.png" group-title="PT| CRIANCAS",PT| SIC K
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107441&extension=ts&play_token=5y9tjl5jDt
-#EXTINF:-1 tvg-id="" tvg-name="##### PT LIFESTYLE #####" tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| INTRETENIMENTO",##### PT LIFESTYLE #####
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118434&extension=ts&play_token=FNWPOnDidn
-#EXTINF:-1 tvg-id="" tvg-name="PT| 24 KITCHEN HD" tvg-logo="http://103.176.90.118/piconsnew/24kitchen.png" group-title="PT| INTRETENIMENTO",PT| 24 KITCHEN HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107523&extension=ts&play_token=XQxxayxNWr
-#EXTINF:-1 tvg-id="" tvg-name="PT| 24 KITCHEN HEVC" tvg-logo="http://103.176.90.118/piconsnew/24kitchen.png" group-title="PT| INTRETENIMENTO",PT| 24 KITCHEN HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118465&extension=ts&play_token=pIOLUCpdfr
-#EXTINF:-1 tvg-id="" tvg-name="PT| AMC BREAK" tvg-logo="http://51.158.145.100/picons/logos/SPAIN/AMC-BREAK.png" group-title="PT| INTRETENIMENTO",PT| AMC BREAK
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107513&extension=ts&play_token=IN5Q7jULpi
-#EXTINF:-1 tvg-id="" tvg-name="PT| CBS REALITY" tvg-logo="http://103.176.90.118/piconsnew/cbsreality.png" group-title="PT| INTRETENIMENTO",PT| CBS REALITY
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107505&extension=ts&play_token=XzGp0pgN6z
-#EXTINF:-1 tvg-id="" tvg-name="PT| DIZI HD" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DIZI.png" group-title="PT| INTRETENIMENTO",PT| DIZI HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1369658&extension=ts&play_token=K3aUBAyOHg
-#EXTINF:-1 tvg-id="" tvg-name="PT| DOG TV HD" tvg-logo="http://103.176.90.118/picons/logos/USA/DOG-TV-HD.png" group-title="PT| INTRETENIMENTO",PT| DOG TV HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1430590&extension=ts&play_token=6EpGpqQy2t
-#EXTINF:-1 tvg-id="" tvg-name="PT| E! ENTERTAINMENT" tvg-logo="http://103.176.90.118/piconsnew/eentertainment.png" group-title="PT| INTRETENIMENTO",PT| E! ENTERTAINMENT
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107496&extension=ts&play_token=gxW24eGdPh
-#EXTINF:-1 tvg-id="" tvg-name="PT| FASHION TV" tvg-logo="http://103.176.90.118/piconsnew/fashion.png" group-title="PT| INTRETENIMENTO",PT| FASHION TV
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107480&extension=ts&play_token=lv0FVu73cZ
-#EXTINF:-1 tvg-id="" tvg-name="PT| SAUDE HD" tvg-logo="http://103.176.90.118/piconsnew/SAUDE-TV.png" group-title="PT| INTRETENIMENTO",PT| SAUDE HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=368053&extension=ts&play_token=bCi51eS9BK
-#EXTINF:-1 tvg-id="" tvg-name="PT| TLC" tvg-logo="http://103.176.90.118/piconsnew/tlc.png" group-title="PT| INTRETENIMENTO",PT| TLC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107428&extension=ts&play_token=uaTmbLiCoY
-#EXTINF:-1 tvg-id="" tvg-name="PT| TRAVEL CHANNEL HD" tvg-logo="http://103.176.90.118/piconsnew/travelchannel.png" group-title="PT| INTRETENIMENTO",PT| TRAVEL CHANNEL HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107426&extension=ts&play_token=9jD138ZICt
-#EXTINF:-1 tvg-id="" tvg-name="PT| TRAVEL CHANNEL HEVC" tvg-logo="http://103.176.90.118/piconsnew/travelchannel.png" group-title="PT| INTRETENIMENTO",PT| TRAVEL CHANNEL HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118443&extension=ts&play_token=1HX6s4BVrE
-#EXTINF:-1 tvg-id="" tvg-name="##### PT RELIGAO #####" tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| RELIGIAO",##### PT RELIGAO #####
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1287545&extension=ts&play_token=IAOlMhY1C5
-#EXTINF:-1 tvg-id="" tvg-name="PT| REDE VIDA HD" tvg-logo="http://103.176.90.118/picons/logos/redevida.png" group-title="PT| RELIGIAO",PT| REDE VIDA HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1722797&extension=ts&play_token=1XT7qfh2ln
-#EXTINF:-1 tvg-id="" tvg-name="PT| TV APARECIDA" tvg-logo="http://103.176.90.118/picons/logos/Aparecida.png" group-title="PT| RELIGIAO",PT| TV APARECIDA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1722784&extension=ts&play_token=snZW4LZbjz
-#EXTINF:-1 tvg-id="" tvg-name="PT| TV APARECIDA HD" tvg-logo="http://103.176.90.118/picons/logos/Aparecida.png" group-title="PT| RELIGIAO",PT| TV APARECIDA HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1722796&extension=ts&play_token=iKTAuDTVFG
-#EXTINF:-1 tvg-id="" tvg-name="PT| TV EVANGELIZAR" tvg-logo="http://103.176.90.118/picons/logos/TV-EVANGELIZAR.png" group-title="PT| RELIGIAO",PT| TV EVANGELIZAR
-https://tvevangelizar.brasilstream.com.br/hls/tvevangelizar/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PT| CANCAO NOVA HD" tvg-logo="http://103.176.90.118/piconsnew/cancaonova.png" group-title="PT| RELIGIAO",PT| CANCAO NOVA HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1722673&extension=ts&play_token=0rV4A4wb2q
-#EXTINF:-1 tvg-id="" tvg-name="PT| CANCAO NOVA" tvg-logo="http://103.176.90.118/piconsnew/cancaonova.png" group-title="PT| RELIGIAO",PT| CANCAO NOVA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107507&extension=ts&play_token=maBiY80lOO
-#EXTINF:-1 tvg-id="" tvg-name="PT| KURIAKOS TV" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KURIAKOS.png" group-title="PT| RELIGIAO",PT| KURIAKOS TV
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1455484&extension=ts&play_token=xgDAUK9iWJ
-#EXTINF:-1 tvg-id="" tvg-name="PT| REDE SECULO 21" tvg-logo="http://103.176.90.118/picons/logos/ASIA/REDE-SECULO-21.png" group-title="PT| RELIGIAO",PT| REDE SECULO 21
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1337531&extension=ts&play_token=kMTXr4IPxr
-#EXTINF:-1 tvg-id="" tvg-name="PT| TV FATIMA" tvg-logo="http://103.176.90.118/piconsnew/FATIMA-TV.png" group-title="PT| RELIGIAO",PT| TV FATIMA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107648&extension=ts&play_token=lRyam5Znes
-#EXTINF:-1 tvg-id="" tvg-name="##### PT MUSICA #####" tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| MUSICA",##### PT MUSICA #####
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118436&extension=ts&play_token=EfWX0Zxbvo
-#EXTINF:-1 tvg-id="" tvg-name="PT| AFRO MUSIC" tvg-logo="http://103.176.90.118/piconsnew/afromusic.png" group-title="PT| MUSICA",PT| AFRO MUSIC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107521&extension=ts&play_token=mT30lqHlTM
-#EXTINF:-1 tvg-id="" tvg-name="PT| KISS TV" tvg-logo="http://103.176.90.118/piconsnew/kiss.png" group-title="PT| MUSICA",PT| KISS TV
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=378329&extension=ts&play_token=SUA199rFoY
-#EXTINF:-1 tvg-id="" tvg-name="PT| MCM POP" tvg-logo="http://103.176.90.118/piconsnew/mcmpop.png" group-title="PT| MUSICA",PT| MCM POP
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107470&extension=ts&play_token=ssgaZEl7S5
-#EXTINF:-1 tvg-id="" tvg-name="PT| MEZZO" tvg-logo="http://103.176.90.118/piconsnew/mezzo.png" group-title="PT| MUSICA",PT| MEZZO
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107469&extension=ts&play_token=am3pDFGUeW
-#EXTINF:-1 tvg-id="" tvg-name="PT| MTV 00s" tvg-logo="http://103.176.90.118/picons/logos/logos/MTV-00s.png" group-title="PT| MUSICA",PT| MTV 00s
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1613353&extension=ts&play_token=u4sdZeZFU2
-#EXTINF:-1 tvg-id="" tvg-name="PT| MTV PORTUGAL" tvg-logo="http://103.176.90.118/piconsnew/mtvportugal.png" group-title="PT| MUSICA",PT| MTV PORTUGAL
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107467&extension=ts&play_token=5oxAKtW8u4
-#EXTINF:-1 tvg-id="" tvg-name="PT| TRACE BRASIL" tvg-logo="http://103.176.90.118/picons/logos/logos/TRACE-BRASIL.png" group-title="PT| MUSICA",PT| TRACE BRASIL
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1547061&extension=ts&play_token=yYF1JGondH
-#EXTINF:-1 tvg-id="" tvg-name="PT| TRACE TOCA" tvg-logo="http://103.176.90.118/piconsnew/tracetoca.png" group-title="PT| MUSICA",PT| TRACE TOCA
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107427&extension=ts&play_token=ApDdzMERvn
-#EXTINF:-1 tvg-id="" tvg-name="PT| VH1" tvg-logo="http://103.176.90.118/piconsnew/vh1.png" group-title="PT| MUSICA",PT| VH1
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107412&extension=ts&play_token=JE1RyIa4Ft
-#EXTINF:-1 tvg-id="" tvg-name="##### PT INTERNACIONAL #####" tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| INTERNACIONAL",##### PT INTERNACIONAL #####
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=118435&extension=ts&play_token=7eYrxRiEPR
-#EXTINF:-1 tvg-id="" tvg-name="PT| CACA VISION" tvg-logo="http://103.176.90.118/piconsnew/cacavision.png" group-title="PT| INTERNACIONAL",PT| CACA VISION
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=411826&extension=ts&play_token=Se2IvsfhXo
-#EXTINF:-1 tvg-id="" tvg-name="PT| GLOBO FHD" tvg-logo="http://103.176.90.118/piconsnew/tvglobo.png" group-title="PT| INTERNACIONAL",PT| GLOBO FHD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107409&extension=ts&play_token=FxoK8p0akj
-#EXTINF:-1 tvg-id="" tvg-name="PT| GLOBO INTERNATIONAL" tvg-logo="http://103.176.90.118/piconsnew/globo.png" group-title="PT| INTERNACIONAL",PT| GLOBO INTERNATIONAL
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=79655&extension=ts&play_token=DWeWivlcgr
-#EXTINF:-1 tvg-id="" tvg-name="PT| GLOBO MEO" tvg-logo="http://103.176.90.118/piconsnew/globo.png" group-title="PT| INTERNACIONAL",PT| GLOBO MEO
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107478&extension=ts&play_token=69vXwQCJjb
-#EXTINF:-1 tvg-id="" tvg-name="PT| GLOBO NEWS" tvg-logo="http://103.176.90.118/picons/logos/LATINO/GLOBO-NEWS.png" group-title="PT| INTERNACIONAL",PT| GLOBO NEWS
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1466296&extension=ts&play_token=TaiLVzlUeq
-#EXTINF:-1 tvg-id="" tvg-name="PT| RECORD NEWS" tvg-logo="http://103.176.90.118/picons/logos/record_news.png" group-title="PT| INTERNACIONAL",PT| RECORD NEWS
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1440881&extension=ts&play_token=ZPhx7ecuf9
-#EXTINF:-1 tvg-id="" tvg-name="PT| RECORD TV (NA)" tvg-logo="http://103.176.90.118/piconsnew/recordtv.png" group-title="PT| INTERNACIONAL",PT| RECORD TV (NA)
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=156352&extension=ts&play_token=pS3LUGon5m
-#EXTINF:-1 tvg-id="" tvg-name="PT| TCV CABO" tvg-logo="http://103.176.90.118/piconsnew/tcvinternacional.png" group-title="PT| INTERNACIONAL",PT| TCV CABO
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=86460&extension=ts&play_token=28mbzQJHK0
-#EXTINF:-1 tvg-id="" tvg-name="PT| TPA1" tvg-logo="http://103.176.90.118/piconsnew/TPA1-TV.jpeg" group-title="PT| INTERNACIONAL",PT| TPA1
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107526&extension=ts&play_token=XS8UAfhC63
-#EXTINF:-1 tvg-id="" tvg-name="PT| TPA INTERNATIOCAL" tvg-logo="http://103.176.90.118/piconsnew/tpahd.png" group-title="PT| INTERNACIONAL",PT| TPA INTERNATIOCAL
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=207198&extension=ts&play_token=Dt0VFcN0bI
-#EXTINF:-1 tvg-id="" tvg-name="PT| TV RECORD" tvg-logo="http://103.176.90.118/piconsnew/tvrecord.png" group-title="PT| INTERNACIONAL",PT| TV RECORD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107424&extension=ts&play_token=B8xLSKgJua
-#EXTINF:-1 tvg-id="" tvg-name="PT| ZAP VIVA HD" tvg-logo="http://103.176.90.118/piconsnew/zapvivahd.png" group-title="PT| INTERNACIONAL",PT| ZAP VIVA HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=107411&extension=ts&play_token=Wg7gCnj6pJ
-#EXTINF:-1 tvg-id="" tvg-name="PT| ZAP VIVA HEVC" tvg-logo="http://103.176.90.118/piconsnew/zapvivahd.png" group-title="PT| INTERNACIONAL",PT| ZAP VIVA HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=368057&extension=ts&play_token=LpaHp0uyI5
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 1 HD" tvg-logo="http://103.176.90.118/piconsnew/dazn1.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 1 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621293&extension=ts&play_token=rZ5lPREFeZ
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 2 HD" tvg-logo="http://103.176.90.118/piconsnew/dazn2.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 2 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621292&extension=ts&play_token=tVK1U3yCBt
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 3 HD" tvg-logo="http://103.176.90.118/piconsnew/dazn3.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 3 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621291&extension=ts&play_token=gXb9jZPMIF
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 4 HD" tvg-logo="http://103.176.90.118/piconsnew/dazn4.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 4 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621290&extension=ts&play_token=8kW0e5o5cu
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 5 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 5 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621289&extension=ts&play_token=BQ122e1r61
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 6 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 6 HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621288&extension=ts&play_token=YzVfWVfWsg
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN COMBAT HD" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN-COMBAT.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN COMBAT HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621287&extension=ts&play_token=a8LDZnvWUp
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN WOMEN'S FOOTBALL HD" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN-WOMENS-FOOTBAL.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN WOMEN'S FOOTBALL HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621286&extension=ts&play_token=1C8g2LmQx2
-#EXTINF:-1 tvg-id="" tvg-name="PT| NFL NETWORK HD" tvg-logo="http://103.176.90.118/piconsnew/nflnetwork.png" group-title="PT| DAZN EXCLUSIVE",PT| NFL NETWORK HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621285&extension=ts&play_token=IiVO6XHZe5
-#EXTINF:-1 tvg-id="" tvg-name="PT| PGA TOUR TV HD" tvg-logo="http://103.176.90.118/picons/logos/logos/PGA-TOUR.png" group-title="PT| DAZN EXCLUSIVE",PT| PGA TOUR TV HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621284&extension=ts&play_token=EzLKVMckFF
-#EXTINF:-1 tvg-id="" tvg-name="PT| RED BULL TV HD" tvg-logo="http://103.176.90.118/piconsnew/redbulltv.png" group-title="PT| DAZN EXCLUSIVE",PT| RED BULL TV HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621283&extension=ts&play_token=Eq3n27JpZE
-#EXTINF:-1 tvg-id="" tvg-name="PT| UNBEATEN: 24/7 GLOBAL SPORTS CHANNEL HD" tvg-logo="http://103.176.90.118/picons/logos/logos/UNBEATEN-CHANNEL.png" group-title="PT| DAZN EXCLUSIVE",PT| UNBEATEN: 24/7 GLOBAL SPORTS CHANNEL HD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621282&extension=ts&play_token=sBZXEyW69U
-#EXTINF:-1 tvg-id="" tvg-name="### DAZN EXCLUSIVE SD ###" tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| DAZN EXCLUSIVE",### DAZN EXCLUSIVE SD ###
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621281&extension=ts&play_token=jfSjFCqSRa
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 1 SD" tvg-logo="http://103.176.90.118/piconsnew/dazn1.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 1 SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621280&extension=ts&play_token=1BxvID48jN
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 2 SD" tvg-logo="http://103.176.90.118/piconsnew/dazn2.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 2 SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621279&extension=ts&play_token=0ziPs6micp
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 3 SD" tvg-logo="http://103.176.90.118/piconsnew/dazn3.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 3 SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621278&extension=ts&play_token=iKpKmVx4Jo
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 4 SD" tvg-logo="http://103.176.90.118/piconsnew/dazn4.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 4 SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621277&extension=ts&play_token=XRum6Aqjqc
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 5 SD" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 5 SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621276&extension=ts&play_token=npmebQjXeA
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN 6 SD" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 6 SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621275&extension=ts&play_token=zHug46YgUh
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN COMBAT SD" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN-COMBAT.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN COMBAT SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621274&extension=ts&play_token=GJ9VgiR3zR
-#EXTINF:-1 tvg-id="" tvg-name="PT| DAZN WOMEN'S FOOTBALL SD" tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN-WOMENS-FOOTBAL.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN WOMEN'S FOOTBALL SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621273&extension=ts&play_token=t5uER9nBHI
-#EXTINF:-1 tvg-id="" tvg-name="PT| NFL NETWORK SD" tvg-logo="http://103.176.90.118/piconsnew/nflnetwork.png" group-title="PT| DAZN EXCLUSIVE",PT| NFL NETWORK SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621272&extension=ts&play_token=qYjpHdn6vY
-#EXTINF:-1 tvg-id="" tvg-name="PT| PGA TOUR TV SD" tvg-logo="http://103.176.90.118/picons/logos/logos/PGA-TOUR.png" group-title="PT| DAZN EXCLUSIVE",PT| PGA TOUR TV SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621271&extension=ts&play_token=wMCAVI3z4i
-#EXTINF:-1 tvg-id="" tvg-name="PT| RED BULL TV SD" tvg-logo="http://103.176.90.118/piconsnew/redbulltv.png" group-title="PT| DAZN EXCLUSIVE",PT| RED BULL TV SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621270&extension=ts&play_token=PkX6IB74Ut
-#EXTINF:-1 tvg-id="" tvg-name="PT| UNBEATEN: 24/7 GLOBAL SPORTS CHANNEL SD" tvg-logo="http://103.176.90.118/picons/logos/logos/UNBEATEN-CHANNEL.png" group-title="PT| DAZN EXCLUSIVE",PT| UNBEATEN: 24/7 GLOBAL SPORTS CHANNEL SD
-http://23232.top:80/play/live.php?mac=00:1A:79:D8:A2:E8&stream=1621269&extension=ts&play_token=XQLzfdDn9s
+#EXTINF:-1 tvg-id="" tvg-name="PT: WWE NETWORK" tvg-logo="" group-title="۩ Portugalia ۩",PT: WWE NETWORK
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304035
+#EXTINF:-1 tvg-id="" tvg-name="PT: W-Sport" tvg-logo="" group-title="۩ Portugalia ۩",PT: W-Sport
+http://iptvtree.net:8080/romaniamedia/64a04705b5/303824
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Reality" tvg-logo="" group-title="۩ Portugalia ۩",PT: TVI Reality
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1423
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Ficção" tvg-logo="" group-title="۩ Portugalia ۩",PT: TVI Ficção
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1421
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI Africa" tvg-logo="" group-title="۩ Portugalia ۩",PT: TVI Africa
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304259
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="" group-title="۩ Portugalia ۩",PT: TVI
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1410
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Top" tvg-logo="" group-title="۩ Portugalia ۩",PT: TVCine Top
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1446
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Emotion" tvg-logo="" group-title="۩ Portugalia ۩",PT: TVCine Emotion
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1448
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Edition" tvg-logo="" group-title="۩ Portugalia ۩",PT: TVCine Edition
+http://iptvtree.net:8080/romaniamedia/64a04705b5/82254
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCine Action" tvg-logo="" group-title="۩ Portugalia ۩",PT: TVCine Action
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1452
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV Mana 1" tvg-logo="" group-title="۩ Portugalia ۩",PT: TV Mana 1
+http://iptvtree.net:8080/romaniamedia/64a04705b5/298811
+#EXTINF:-1 tvg-id="" tvg-name="PT: Travelxp" tvg-logo="" group-title="۩ Portugalia ۩",PT: Travelxp
+http://iptvtree.net:8080/romaniamedia/64a04705b5/301244
+#EXTINF:-1 tvg-id="" tvg-name="PT: Travel Channel" tvg-logo="" group-title="۩ Portugalia ۩",PT: Travel Channel
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1529
+#EXTINF:-1 tvg-id="" tvg-name="PT: Trace Urban" tvg-logo="" group-title="۩ Portugalia ۩",PT: Trace Urban
+http://iptvtree.net:8080/romaniamedia/64a04705b5/303870
+#EXTINF:-1 tvg-id="" tvg-name="PT: Trace Latina" tvg-logo="" group-title="۩ Portugalia ۩",PT: Trace Latina
+http://iptvtree.net:8080/romaniamedia/64a04705b5/303880
+#EXTINF:-1 tvg-id="" tvg-name="PT: Trace Brasil" tvg-logo="" group-title="۩ Portugalia ۩",PT: Trace Brasil
+http://iptvtree.net:8080/romaniamedia/64a04705b5/303879
+#EXTINF:-1 tvg-id="" tvg-name="PT: TPA Notícias" tvg-logo="" group-title="۩ Portugalia ۩",PT: TPA Notícias
+http://iptvtree.net:8080/romaniamedia/64a04705b5/298022
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC" tvg-logo="" group-title="۩ Portugalia ۩",PT: TLC
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1479
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY Portugal" tvg-logo="" group-title="۩ Portugalia ۩",PT: SYFY Portugal
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1475
+#EXTINF:-1 tvg-id="" tvg-name="PT: Stingray Retro" tvg-logo="" group-title="۩ Portugalia ۩",PT: Stingray Retro
+http://iptvtree.net:8080/romaniamedia/64a04705b5/303881
+#EXTINF:-1 tvg-id="" tvg-name="PT: STAR Movies" tvg-logo="" group-title="۩ Portugalia ۩",PT: STAR Movies
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1457
+#EXTINF:-1 tvg-id="" tvg-name="PT: STAR Life" tvg-logo="" group-title="۩ Portugalia ۩",PT: STAR Life
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1459
+#EXTINF:-1 tvg-id="" tvg-name="PT: STAR Crime" tvg-logo="" group-title="۩ Portugalia ۩",PT: STAR Crime
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1463
+#EXTINF:-1 tvg-id="" tvg-name="PT: STAR Comedy" tvg-logo="" group-title="۩ Portugalia ۩",PT: STAR Comedy
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1465
+#EXTINF:-1 tvg-id="" tvg-name="PT: STAR Channel" tvg-logo="" group-title="۩ Portugalia ۩",PT: STAR Channel
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1461
+#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: Sporting TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1519
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA" tvg-logo="" group-title="۩ Portugalia ۩",PT: SPORT TV NBA
+http://iptvtree.net:8080/romaniamedia/64a04705b5/2051
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 7" tvg-logo="" group-title="۩ Portugalia ۩",PT: SPORT TV 7
+http://iptvtree.net:8080/romaniamedia/64a04705b5/305284
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6" tvg-logo="" group-title="۩ Portugalia ۩",PT: SPORT TV 6
+http://iptvtree.net:8080/romaniamedia/64a04705b5/281487
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="" group-title="۩ Portugalia ۩",PT: SPORT TV 5
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1495
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="۩ Portugalia ۩",PT: SPORT TV 4
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1492
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="۩ Portugalia ۩",PT: SPORT TV 3
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1489
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="۩ Portugalia ۩",PT: SPORT TV 2
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1486
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="۩ Portugalia ۩",PT: SPORT TV 1
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1483
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +" tvg-logo="" group-title="۩ Portugalia ۩",PT: SPORT TV +
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1481
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Radical" tvg-logo="" group-title="۩ Portugalia ۩",PT: SIC Radical
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1429
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Novelas" tvg-logo="" group-title="۩ Portugalia ۩",PT: SIC Novelas
+http://iptvtree.net:8080/romaniamedia/64a04705b5/299727
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Noticias" tvg-logo="" group-title="۩ Portugalia ۩",PT: SIC Noticias
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1416
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Mulher" tvg-logo="" group-title="۩ Portugalia ۩",PT: SIC Mulher
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1427
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K" tvg-logo="" group-title="۩ Portugalia ۩",PT: SIC K
+http://iptvtree.net:8080/romaniamedia/64a04705b5/4021
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Internacional" tvg-logo="" group-title="۩ Portugalia ۩",PT: SIC Internacional
+http://iptvtree.net:8080/romaniamedia/64a04705b5/297535
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Caras" tvg-logo="" group-title="۩ Portugalia ۩",PT: SIC Caras
+http://iptvtree.net:8080/romaniamedia/64a04705b5/5910
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC" tvg-logo="" group-title="۩ Portugalia ۩",PT: SIC
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1408
+#EXTINF:-1 tvg-id="" tvg-name="PT: SAUDE+" tvg-logo="" group-title="۩ Portugalia ۩",PT: SAUDE+
+http://iptvtree.net:8080/romaniamedia/64a04705b5/81973
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP África" tvg-logo="" group-title="۩ Portugalia ۩",PT: RTP África
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1424
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Memória" tvg-logo="" group-title="۩ Portugalia ۩",PT: RTP Memória
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1425
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Madeira" tvg-logo="" group-title="۩ Portugalia ۩",PT: RTP Madeira
+http://iptvtree.net:8080/romaniamedia/64a04705b5/278558
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Internacional" tvg-logo="" group-title="۩ Portugalia ۩",PT: RTP Internacional
+http://iptvtree.net:8080/romaniamedia/64a04705b5/278418
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP Açores" tvg-logo="" group-title="۩ Portugalia ۩",PT: RTP Açores
+http://iptvtree.net:8080/romaniamedia/64a04705b5/2055
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3" tvg-logo="" group-title="۩ Portugalia ۩",PT: RTP 3
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1418
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2" tvg-logo="" group-title="۩ Portugalia ۩",PT: RTP 2
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1406
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1" tvg-logo="" group-title="۩ Portugalia ۩",PT: RTP 1
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1404
+#EXTINF:-1 tvg-id="" tvg-name="PT: Record TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: Record TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/298700
+#EXTINF:-1 tvg-id="" tvg-name="PT: Porto Canal" tvg-logo="" group-title="۩ Portugalia ۩",PT: Porto Canal
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1419
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA Kids" tvg-logo="" group-title="۩ Portugalia ۩",PT: PANDA Kids
+http://iptvtree.net:8080/romaniamedia/64a04705b5/290678
+#EXTINF:-1 tvg-id="" tvg-name="PT: OPTO" tvg-logo="" group-title="۩ Portugalia ۩",PT: OPTO
+http://iptvtree.net:8080/romaniamedia/64a04705b5/299728
+#EXTINF:-1 tvg-id="" tvg-name="PT: Odisseia" tvg-logo="" group-title="۩ Portugalia ۩",PT: Odisseia
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1532
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nos Studios" tvg-logo="" group-title="۩ Portugalia ۩",PT: Nos Studios
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1454
+#EXTINF:-1 tvg-id="" tvg-name="PT: nickelodeon" tvg-logo="" group-title="۩ Portugalia ۩",PT: nickelodeon
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1436
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nick Junior" tvg-logo="" group-title="۩ Portugalia ۩",PT: Nick Junior
+http://iptvtree.net:8080/romaniamedia/64a04705b5/9693
+#EXTINF:-1 tvg-id="" tvg-name="PT: Netflix Kids" tvg-logo="" group-title="۩ Portugalia ۩",PT: Netflix Kids
+http://iptvtree.net:8080/romaniamedia/64a04705b5/201051
+#EXTINF:-1 tvg-id="" tvg-name="PT: NBA TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: NBA TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/296750
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO Wild" tvg-logo="" group-title="۩ Portugalia ۩",PT: NAT GEO Wild
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1531
+#EXTINF:-1 tvg-id="" tvg-name="PT: NAT GEO" tvg-logo="" group-title="۩ Portugalia ۩",PT: NAT GEO
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1530
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV Portugal" tvg-logo="" group-title="۩ Portugalia ۩",PT: MTV Portugal
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1534
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV Classic" tvg-logo="" group-title="۩ Portugalia ۩",PT: MTV Classic
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304880
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV 00s" tvg-logo="" group-title="۩ Portugalia ۩",PT: MTV 00s
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304586
+#EXTINF:-1 tvg-id="" tvg-name="PT: Motorvision TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: Motorvision TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/4012
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEO Videoclube" tvg-logo="" group-title="۩ Portugalia ۩",PT: MEO Videoclube
+http://iptvtree.net:8080/romaniamedia/64a04705b5/265255
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEO Destaques" tvg-logo="" group-title="۩ Portugalia ۩",PT: MEO Destaques
+http://iptvtree.net:8080/romaniamedia/64a04705b5/265256
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TOP" tvg-logo="" group-title="۩ Portugalia ۩",PT: MCM TOP
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304585
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP" tvg-logo="" group-title="۩ Portugalia ۩",PT: MCM POP
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304584
+#EXTINF:-1 tvg-id="" tvg-name="PT: Local visão" tvg-logo="" group-title="۩ Portugalia ۩",PT: Local visão
+http://iptvtree.net:8080/romaniamedia/64a04705b5/10335
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: Kuriakos TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/9697
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kuriakos Kids" tvg-logo="" group-title="۩ Portugalia ۩",PT: Kuriakos Kids
+http://iptvtree.net:8080/romaniamedia/64a04705b5/10828
+#EXTINF:-1 tvg-id="" tvg-name="PT: Kanuca TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: Kanuca TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304879
+#EXTINF:-1 tvg-id="" tvg-name="PT: Investigation Discovery" tvg-logo="" group-title="۩ Portugalia ۩",PT: Investigation Discovery
+http://iptvtree.net:8080/romaniamedia/64a04705b5/5914
+#EXTINF:-1 tvg-id="" tvg-name="PT: Historia" tvg-logo="" group-title="۩ Portugalia ۩",PT: Historia
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1525
+#EXTINF:-1 tvg-id="" tvg-name="PT: HGTV" tvg-logo="" group-title="۩ Portugalia ۩",PT: HGTV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304031
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fuel TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: Fuel TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1521
+#EXTINF:-1 tvg-id="" tvg-name="PT: Food Network" tvg-logo="" group-title="۩ Portugalia ۩",PT: Food Network
+http://iptvtree.net:8080/romaniamedia/64a04705b5/2044
+#EXTINF:-1 tvg-id="" tvg-name="PT: FIREMAN SAM" tvg-logo="" group-title="۩ Portugalia ۩",PT: FIREMAN SAM
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304032
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fatima TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: Fatima TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/53924
+#EXTINF:-1 tvg-id="" tvg-name="PT: FASHIONTV" tvg-logo="" group-title="۩ Portugalia ۩",PT: FASHIONTV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/2656
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 6" tvg-logo="" group-title="۩ Portugalia ۩",PT: Eurosport 6
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304871
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 2" tvg-logo="" group-title="۩ Portugalia ۩",PT: Eurosport 2
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1518
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 1" tvg-logo="" group-title="۩ Portugalia ۩",PT: Eurosport 1
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1517
+#EXTINF:-1 tvg-id="" tvg-name="PT: euronews" tvg-logo="" group-title="۩ Portugalia ۩",PT: euronews
+http://iptvtree.net:8080/romaniamedia/64a04705b5/4007
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="" group-title="۩ Portugalia ۩",PT: ELEVEN SPORTS 6
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1515
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="" group-title="۩ Portugalia ۩",PT: ELEVEN SPORTS 5
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1512
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="" group-title="۩ Portugalia ۩",PT: ELEVEN SPORTS 4
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1509
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3" tvg-logo="" group-title="۩ Portugalia ۩",PT: ELEVEN SPORTS 3
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1506
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2" tvg-logo="" group-title="۩ Portugalia ۩",PT: ELEVEN SPORTS 2
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1503
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1" tvg-logo="" group-title="۩ Portugalia ۩",PT: ELEVEN SPORTS 1
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1499
+#EXTINF:-1 tvg-id="" tvg-name="PT: E!" tvg-logo="" group-title="۩ Portugalia ۩",PT: E!
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1526
+#EXTINF:-1 tvg-id="" tvg-name="PT: DOG TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: DOG TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/302763
+#EXTINF:-1 tvg-id="" tvg-name="PT: Dizi Channel" tvg-logo="" group-title="۩ Portugalia ۩",PT: Dizi Channel
+http://iptvtree.net:8080/romaniamedia/64a04705b5/300240
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney+" tvg-logo="" group-title="۩ Portugalia ۩",PT: Disney+
+http://iptvtree.net:8080/romaniamedia/64a04705b5/226084
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY PIXAR" tvg-logo="" group-title="۩ Portugalia ۩",PT: DISNEY PIXAR
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304583
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY MARVEL" tvg-logo="" group-title="۩ Portugalia ۩",PT: DISNEY MARVEL
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304582
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Junior" tvg-logo="" group-title="۩ Portugalia ۩",PT: Disney Junior
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1435
+#EXTINF:-1 tvg-id="" tvg-name="PT: Disney Channel" tvg-logo="" group-title="۩ Portugalia ۩",PT: Disney Channel
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1434
+#EXTINF:-1 tvg-id="" tvg-name="PT: Discovery World" tvg-logo="" group-title="۩ Portugalia ۩",PT: Discovery World
+http://iptvtree.net:8080/romaniamedia/64a04705b5/296226
+#EXTINF:-1 tvg-id="" tvg-name="PT: Crime+ Investigation" tvg-logo="" group-title="۩ Portugalia ۩",PT: Crime+ Investigation
+http://iptvtree.net:8080/romaniamedia/64a04705b5/5928
+#EXTINF:-1 tvg-id="" tvg-name="PT: Crime District" tvg-logo="" group-title="۩ Portugalia ۩",PT: Crime District
+http://iptvtree.net:8080/romaniamedia/64a04705b5/298636
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN Portugal" tvg-logo="" group-title="۩ Portugalia ۩",PT: CNN Portugal
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1414
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNBC" tvg-logo="" group-title="۩ Portugalia ۩",PT: CNBC
+http://iptvtree.net:8080/romaniamedia/64a04705b5/304046
+#EXTINF:-1 tvg-id="" tvg-name="PT: CM TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: CM TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1412
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cine Mundo" tvg-logo="" group-title="۩ Portugalia ۩",PT: Cine Mundo
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1477
+#EXTINF:-1 tvg-id="" tvg-name="PT: CBS Reality" tvg-logo="" group-title="۩ Portugalia ۩",PT: CBS Reality
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1528
+#EXTINF:-1 tvg-id="" tvg-name="PT: Caçavision" tvg-logo="" group-title="۩ Portugalia ۩",PT: Caçavision
+http://iptvtree.net:8080/romaniamedia/64a04705b5/13956
+#EXTINF:-1 tvg-id="" tvg-name="PT: Caza y Pesca" tvg-logo="" group-title="۩ Portugalia ۩",PT: Caza y Pesca
+http://iptvtree.net:8080/romaniamedia/64a04705b5/297997
+#EXTINF:-1 tvg-id="" tvg-name="PT: Casa e Cozinha" tvg-logo="" group-title="۩ Portugalia ۩",PT: Casa e Cozinha
+http://iptvtree.net:8080/romaniamedia/64a04705b5/6097
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cartoonito" tvg-logo="" group-title="۩ Portugalia ۩",PT: Cartoonito
+http://iptvtree.net:8080/romaniamedia/64a04705b5/300637
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cartoon Network" tvg-logo="" group-title="۩ Portugalia ۩",PT: Cartoon Network
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1440
+#EXTINF:-1 tvg-id="" tvg-name="PT: Cancao Nova" tvg-logo="" group-title="۩ Portugalia ۩",PT: Cancao Nova
+http://iptvtree.net:8080/romaniamedia/64a04705b5/290766
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Q" tvg-logo="" group-title="۩ Portugalia ۩",PT: Canal Q
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1430
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Panda" tvg-logo="" group-title="۩ Portugalia ۩",PT: Canal Panda
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1438
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Nos" tvg-logo="" group-title="۩ Portugalia ۩",PT: Canal Nos
+http://iptvtree.net:8080/romaniamedia/64a04705b5/278550
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Hollywood" tvg-logo="" group-title="۩ Portugalia ۩",PT: Canal Hollywood
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1455
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 180" tvg-logo="" group-title="۩ Portugalia ۩",PT: CANAL 180
+http://iptvtree.net:8080/romaniamedia/64a04705b5/146057
+#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 11" tvg-logo="" group-title="۩ Portugalia ۩",PT: Canal 11
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1480
+#EXTINF:-1 tvg-id="" tvg-name="PT: Campo Pequeno" tvg-logo="" group-title="۩ Portugalia ۩",PT: Campo Pequeno
+http://iptvtree.net:8080/romaniamedia/64a04705b5/28029
+#EXTINF:-1 tvg-id="" tvg-name="PT: C Music" tvg-logo="" group-title="۩ Portugalia ۩",PT: C Music
+http://iptvtree.net:8080/romaniamedia/64a04705b5/302761
+#EXTINF:-1 tvg-id="" tvg-name="PT: Boomerang" tvg-logo="" group-title="۩ Portugalia ۩",PT: Boomerang
+http://iptvtree.net:8080/romaniamedia/64a04705b5/24529
+#EXTINF:-1 tvg-id="" tvg-name="PT: BOM SOM" tvg-logo="" group-title="۩ Portugalia ۩",PT: BOM SOM
+http://iptvtree.net:8080/romaniamedia/64a04705b5/302759
+#EXTINF:-1 tvg-id="" tvg-name="PT: Bloomberg" tvg-logo="" group-title="۩ Portugalia ۩",PT: Bloomberg
+http://iptvtree.net:8080/romaniamedia/64a04705b5/5933
+#EXTINF:-1 tvg-id="" tvg-name="PT: Blaze" tvg-logo="" group-title="۩ Portugalia ۩",PT: Blaze
+http://iptvtree.net:8080/romaniamedia/64a04705b5/3996
+#EXTINF:-1 tvg-id="" tvg-name="PT: Biggs" tvg-logo="" group-title="۩ Portugalia ۩",PT: Biggs
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1439
+#EXTINF:-1 tvg-id="" tvg-name="PT: Benfica TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: Benfica TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1497
+#EXTINF:-1 tvg-id="" tvg-name="PT: Baby TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: Baby TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1441
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN White" tvg-logo="" group-title="۩ Portugalia ۩",PT: AXN White
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1467
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN Movies" tvg-logo="" group-title="۩ Portugalia ۩",PT: AXN Movies
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1471
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="" group-title="۩ Portugalia ۩",PT: AXN
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1469
+#EXTINF:-1 tvg-id="" tvg-name="PT: AR TV Canal Parlamento" tvg-logo="" group-title="۩ Portugalia ۩",PT: AR TV Canal Parlamento
+http://iptvtree.net:8080/romaniamedia/64a04705b5/300645
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Crime" tvg-logo="" group-title="۩ Portugalia ۩",PT: AMC Crime
+http://iptvtree.net:8080/romaniamedia/64a04705b5/302758
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC Break" tvg-logo="" group-title="۩ Portugalia ۩",PT: AMC Break
+http://iptvtree.net:8080/romaniamedia/64a04705b5/302757
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC" tvg-logo="" group-title="۩ Portugalia ۩",PT: AMC
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1473
+#EXTINF:-1 tvg-id="" tvg-name="PT: Alma Lusa" tvg-logo="" group-title="۩ Portugalia ۩",PT: Alma Lusa
+http://iptvtree.net:8080/romaniamedia/64a04705b5/264642
+#EXTINF:-1 tvg-id="" tvg-name="PT: Afro Music Channel" tvg-logo="" group-title="۩ Portugalia ۩",PT: Afro Music Channel
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1536
+#EXTINF:-1 tvg-id="" tvg-name="PT: A Bola TV" tvg-logo="" group-title="۩ Portugalia ۩",PT: A Bola TV
+http://iptvtree.net:8080/romaniamedia/64a04705b5/1420
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 Kitchen" tvg-logo="" group-title="۩ Portugalia ۩",PT: 24 Kitchen
+http://iptvtree.net:8080/romaniamedia/64a04705b5/2025
 #EXTINF:-1 tvg-id="13emerue.fr" tvg-name="FR: 13EME RUE FHD" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U_pz8ELvVtlNpO84LhzC0PF.png" group-title="France HEVC",FR: 13EME RUE FHD
 http://108624398542312674.ofxn1112.xyz:80/live/me513819/eHwYjuF33G@S/312674.ts
 #EXTINF:-1 tvg-id="ab1.fr" tvg-name="FR: AB1 FHD" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U_NuLMw0iX6JEBJFffXyQI7.png" group-title="France HEVC",FR: AB1 FHD
