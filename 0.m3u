@@ -67,428 +67,146 @@ http://vbn123.com:8080/A5zs461bmNjZ8rdZ/QjjXqChMUB/679931
 http://vbn123.com:8080/A5zs461bmNjZ8rdZ/QjjXqChMUB/679930
 #EXTINF:-1,|PT| BTV FHD
 http://vbn123.com:8080/A5zs461bmNjZ8rdZ/QjjXqChMUB/723582
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtp1hd.png" group-title="PT| GENERALISTAS",PT| RTP 1 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107451&extension=ts&play_token=szGOmMeHBK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtp1hd.png" group-title="PT| GENERALISTAS",PT| RTP 1 HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118450&extension=ts&play_token=mdya5l3zeY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtp1hd.png" group-title="PT| GENERALISTAS",PT| RTP 1
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107452&extension=ts&play_token=MlwNaLQOns
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtp2hd.png" group-title="PT| GENERALISTAS",PT| RTP 2 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107449&extension=ts&play_token=x95xXs6nh2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtp2hd.png" group-title="PT| GENERALISTAS",PT| RTP 2 HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118449&extension=ts&play_token=PGlBu1Ad1z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtp2hd.png" group-title="PT| GENERALISTAS",PT| RTP 2
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107450&extension=ts&play_token=IDu6jENhRn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/FPTV.png" group-title="PT| GENERALISTAS",PT| FPTV (NA)
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=708370&extension=ts&play_token=k7cBUWuhnr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sichd.png" group-title="PT| GENERALISTAS",PT| SIC HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107442&extension=ts&play_token=Szs6Tio46r
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sic.png" group-title="PT| GENERALISTAS",PT| SIC HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118448&extension=ts&play_token=l8EmF6d1UC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sic.png" group-title="PT| GENERALISTAS",PT| SIC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107444&extension=ts&play_token=5aCBBT44cZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sic.png" group-title="PT| GENERALISTAS",PT| SIC (NA)
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=101868&extension=ts&play_token=tBUy3pnVmZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sicinternacional.png" group-title="PT| GENERALISTAS",PT| SIC INTERNATIONAL
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=863881&extension=ts&play_token=jmkD2uGs9p
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/SIC-NOVELAS.png" group-title="PT| GENERALISTAS",PT| SIC NOVELAS
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1430557&extension=ts&play_token=U8xTPvbK8O
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvi.png" group-title="PT| GENERALISTAS",PT| TVI HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107525&extension=ts&play_token=MmIYanEGai
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvi.png" group-title="PT| GENERALISTAS",PT| TVI HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118467&extension=ts&play_token=OhgE9E2HUd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvi.png" group-title="PT| GENERALISTAS",PT| TVI
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107417&extension=ts&play_token=82ZbWcrS8c
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvi.png" group-title="PT| GENERALISTAS",PT| TVI (NA)
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=101869&extension=ts&play_token=me7bOnW8Gn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SPAIN/TVI-INTERNATIONAL.png" group-title="PT| GENERALISTAS",PT| TVI INTERNATIONAL
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107528&extension=ts&play_token=fzvQgogh11
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TVI-AFRICA.png" group-title="PT| GENERALISTAS",PT| TVI AFRICA
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1430558&extension=ts&play_token=6eeWg8JAcB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/V-PLUS.png" group-title="PT| GENERALISTAS",PT| V+ HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1613947&extension=ts&play_token=v4oPVf63ki
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/V-PLUS.png" group-title="PT| GENERALISTAS",PT| V+
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107415&extension=ts&play_token=fmNYyAuSvg
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/USA/V-PLUS.png" group-title="PT| GENERALISTAS",PT| V+ FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=378345&extension=ts&play_token=0QdX7PhoxW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvireality.png" group-title="PT| GENERALISTAS",PT| TVI REALITY
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107414&extension=ts&play_token=w3q4qcF1lc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvireality.png" group-title="PT| GENERALISTAS",PT| TVI REALITY HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=122490&extension=ts&play_token=dAocREJdk5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvirealitymosaico.png" group-title="PT| GENERALISTAS",PT| TVI REALITY  MOSAICO
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=378350&extension=ts&play_token=23jIUcatWo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TVI-REALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY CAMERA 1
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1649980&extension=ts&play_token=bSL9yZfVIc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TVI-REALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY CAMERA 2
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1649979&extension=ts&play_token=yxSeqM6mfK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TVI-REALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY CAMERA 3
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1649978&extension=ts&play_token=HfAzyv4LoE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TVI-REALITY.png" group-title="PT| GENERALISTAS",PT| TVI REALITY CAMERA 4
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1649977&extension=ts&play_token=RiyXtCSPU7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/siccaras.png" group-title="PT| GENERALISTAS",PT| SIC CARAS
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107443&extension=ts&play_token=XZ0RrG4cLs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/siccaras.png" group-title="PT| GENERALISTAS",PT| SIC CARAS FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=379384&extension=ts&play_token=XovmT0Ln1Y
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sicmulher.png" group-title="PT| GENERALISTAS",PT| SIC MULHER
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107440&extension=ts&play_token=EJ074xRagJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sicmulher.png" group-title="PT| GENERALISTAS",PT| SIC MULHER HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=379383&extension=ts&play_token=QBcfaYouoi
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sicradical.png" group-title="PT| GENERALISTAS",PT| SIC RADICAL
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107438&extension=ts&play_token=vdAsQrxdI1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sicradical.png" group-title="PT| GENERALISTAS",PT| SIC RADICAL FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=379382&extension=ts&play_token=fvAeeIPFvM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtpafrica.png" group-title="PT| GENERALISTAS",PT| RTP AFRICA
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107453&extension=ts&play_token=v3LUZq80mT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtpinternacional.png" group-title="PT| GENERALISTAS",PT| RTP INT. (AFR)
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=970725&extension=ts&play_token=A1rKc7Kziq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtpinternacional.png" group-title="PT| GENERALISTAS",PT| RTP INTERNACIONAL HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=970733&extension=ts&play_token=uTohwTnZ2y
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtpinternacional.png" group-title="PT| GENERALISTAS",PT| RTP INT. (NA)
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107410&extension=ts&play_token=LXzjQE67Lt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtpmadeira.png" group-title="PT| GENERALISTAS",PT| RTP MADEIRA
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107446&extension=ts&play_token=vbwezFTpmT
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtpmemoria.png" group-title="PT| GENERALISTAS",PT| RTP MEMORIA
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107445&extension=ts&play_token=IRsLQ3d8co
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtpacores.png" group-title="PT| GENERALISTAS",PT| RTP ACORES
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107447&extension=ts&play_token=TidyBRsOWB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/AZORES-TV.png" group-title="PT| GENERALISTAS",PT| AZORES TV
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1112663&extension=ts&play_token=qnaclikY2W
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/splus.png" group-title="PT| GENERALISTAS",PT| S PLUS HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=378343&extension=ts&play_token=95DQe5wmzX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/casaecozinha.png" group-title="PT| GENERALISTAS",PT| CASA E COZINHA HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=379381&extension=ts&play_token=kdjSmJZyi4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/canalq.png" group-title="PT| GENERALISTAS",PT| CANAL Q
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107508&extension=ts&play_token=8rdYGBaQcQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/portocanal.png" group-title="PT| GENERALISTAS",PT| PORTO CANAL
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107454&extension=ts&play_token=0rLJEeloqu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/portocanal.png" group-title="PT| GENERALISTAS",PT| PORTO CANAL HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=368056&extension=ts&play_token=baYKWXGipw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| NOTICIAS",##### PT NOTICIAS #####
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118429&extension=ts&play_token=xTeUTbCx0v
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sicnoticias.png" group-title="PT| NOTICIAS",PT| SIC NOTICIAS
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107439&extension=ts&play_token=CF29gk4aK9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sicnoticias.png" group-title="PT| NOTICIAS",PT| SIC NOTICIAS HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=368055&extension=ts&play_token=v9Ru6xHfAF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/cnnportugal.png" group-title="PT| NOTICIAS",PT| CNN PORTUGAL
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107416&extension=ts&play_token=U0Ab8QE9yj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/cnnportugal.png" group-title="PT| NOTICIAS",PT| CNN PORTUGAL HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=388012&extension=ts&play_token=5wVyVA8PWV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/cmtvhd.png" group-title="PT| NOTICIAS",PT| CMTV
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107503&extension=ts&play_token=jUP22fo0JC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/cmtv.png" group-title="PT| NOTICIAS",PT| CMTV HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=368054&extension=ts&play_token=XhvfyReP0y
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NEWS-NOW.png" group-title="PT| NOTICIAS",PT| NEWS NOW FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1561508&extension=ts&play_token=f8aEhoASUD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtp3.png" group-title="PT| NOTICIAS",PT| RTP 3
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107448&extension=ts&play_token=XphR4NJkXu
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/rtp3.png" group-title="PT| NOTICIAS",PT| RTP 3 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107529&extension=ts&play_token=UI3j3UKUrX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/euronews.png" group-title="PT| NOTICIAS",PT| EURONEWS HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107489&extension=ts&play_token=kAQXuaLd3w
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/cnbc.png" group-title="PT| NOTICIAS",PT| CNBC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107502&extension=ts&play_token=OcT9le5jMs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/parlamento.png" group-title="PT| NOTICIAS",PT| PARLAMENTO
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107457&extension=ts&play_token=469uN0Ymsv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/artv.png" group-title="PT| NOTICIAS",PT| ARTV
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107519&extension=ts&play_token=mLHfwTPKyZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvgalicia.png" group-title="PT| NOTICIAS",PT| TV GALICIA
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107425&extension=ts&play_token=LG2J03qcxD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tve24h.png" group-title="PT| NOTICIAS",PT| TVE 24H
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107419&extension=ts&play_token=e4Zvd93U9P
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tveinternacional.png" group-title="PT| NOTICIAS",PT| TVE INTERNATIONAL
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107418&extension=ts&play_token=DYAtY8CqTZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/bloomberg.png" group-title="PT| NOTICIAS",PT| BLOOMBERG
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107512&extension=ts&play_token=FjAziuToRp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/pfc.png" group-title="PT| NOTICIAS",PT| PFC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107456&extension=ts&play_token=NpUM74Bh63
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/pfc.png" group-title="PT| NOTICIAS",PT| PFC (NA)
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=156351&extension=ts&play_token=7Pb47oW3rk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| DESPORTO",##### PT DESPORTO #####
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118430&extension=ts&play_token=uzFPds8aES
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/canal11hd.png" group-title="PT| DESPORTO",PT| CANAL 11 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107524&extension=ts&play_token=qINAwdIVTc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/canal11hd.png" group-title="PT| DESPORTO",PT| CANAL 11 HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118466&extension=ts&play_token=dwoOvnEqbU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttvplus.png" group-title="PT| DESPORTO",PT| SPORT TV + HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107437&extension=ts&play_token=LhOJGzcQes
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttvplus.png" group-title="PT| DESPORTO",PT| SPORT TV+ HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=368058&extension=ts&play_token=aJvUW26UaM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107436&extension=ts&play_token=pekfLM1kKo
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118447&extension=ts&play_token=zjlzjJwzlB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv1.png" group-title="PT| DESPORTO",PT| SPORT TV 1 SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=148671&extension=ts&play_token=PYJ5PQlTAd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107435&extension=ts&play_token=zQpE3X9xmb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118446&extension=ts&play_token=P16IzVw9DH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv2.png" group-title="PT| DESPORTO",PT| SPORT TV 2 SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=148670&extension=ts&play_token=fZ7K8JHtN5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107434&extension=ts&play_token=WzATn7Som4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118445&extension=ts&play_token=tRz3or2DTa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv3.png" group-title="PT| DESPORTO",PT| SPORT TV 3 SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=148669&extension=ts&play_token=W0mRnsI49z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv4.png" group-title="PT| DESPORTO",PT| SPORT TV 4 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107433&extension=ts&play_token=Tll6FefHHD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv4.png" group-title="PT| DESPORTO",PT| SPORT TV 4 SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=148668&extension=ts&play_token=E89nY16x2h
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv5.png" group-title="PT| DESPORTO",PT| SPORT TV 5 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=148667&extension=ts&play_token=s7AR6V845w
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttv6hd.png" group-title="PT| DESPORTO",PT| SPORT TV 6 FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=712739&extension=ts&play_token=dIIvXSVsqz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SPORT-TV-7.png" group-title="PT| DESPORTO",PT| SPORT TV 7 FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1613387&extension=ts&play_token=1fm7SnCX6z
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttvnba.png" group-title="PT| DESPORTO",PT| SPORT TV NBA HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107431&extension=ts&play_token=7CTvNFhFpX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sporttvnba.png" group-title="PT| DESPORTO",PT| SPORT TV NBA HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118444&extension=ts&play_token=fs5FZ0l0hv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/elevensports1.png" group-title="PT| DESPORTO",PT| DAZN 1 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107495&extension=ts&play_token=dc5HXmlgde
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/elevensports1.png" group-title="PT| DESPORTO",PT| DAZN 1 HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118459&extension=ts&play_token=wA36oQj5Z1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/elevensports2.png" group-title="PT| DESPORTO",PT| DAZN 2 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107494&extension=ts&play_token=RpmFmvz6dI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/elevensports2.png" group-title="PT| DESPORTO",PT| DAZN 2 HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118458&extension=ts&play_token=7XDtlv5Z6C
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/elevensports3.png" group-title="PT| DESPORTO",PT| DAZN 3
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107493&extension=ts&play_token=HrprOb0fK8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/elevensports3.png" group-title="PT| DESPORTO",PT| DAZN 3 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=122484&extension=ts&play_token=k4uoGlV5EG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/elevensports4.png" group-title="PT| DESPORTO",PT| DAZN 4
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107492&extension=ts&play_token=j7smrpCjio
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/elevensports4.png" group-title="PT| DESPORTO",PT| DAZN 4 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=122485&extension=ts&play_token=Z5N19sp4Ee
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/elevensports5.png" group-title="PT| DESPORTO",PT| DAZN 5
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107491&extension=ts&play_token=FfcstetFK5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/elevensports5.png" group-title="PT| DESPORTO",PT| DAZN 5 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=122486&extension=ts&play_token=gfsDcUe3Mm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/elevensports6.png" group-title="PT| DESPORTO",PT| DAZN 6
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107490&extension=ts&play_token=8yU0J8269S
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/abolatv.png" group-title="PT| DESPORTO",PT| A BOLA TV HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107522&extension=ts&play_token=bDEG1HKPDz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/btvhd.png" group-title="PT| DESPORTO",PT| BENFICA TV HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=983567&extension=ts&play_token=BL9sagBfQF
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/btv1.png" group-title="PT| DESPORTO",PT| BTV 1 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107511&extension=ts&play_token=m5bU4WWb3w
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/btvhd.png" group-title="PT| DESPORTO",PT| BTV HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118461&extension=ts&play_token=ZcL9rJatRZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/sportingtv.png" group-title="PT| DESPORTO",PT| SPORTING TV
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107430&extension=ts&play_token=gO8XGuEqaz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/eurosport1.png" group-title="PT| DESPORTO",PT| EUROSPORT 1 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107488&extension=ts&play_token=umqMfrUDyt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/eurosport1.png" group-title="PT| DESPORTO",PT| EUROSPORT 1 HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118457&extension=ts&play_token=EOLKLYGtrO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/eurosport2.png" group-title="PT| DESPORTO",PT| EUROSPORT 2
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107487&extension=ts&play_token=QYMpbIdZxQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/eurosport.png" group-title="PT| DESPORTO",PT| EUROSPORT FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1604044&extension=ts&play_token=Qsvg1pV7xs
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/eurosport.png" group-title="PT| DESPORTO",PT| EUROSPORT 2 FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1604042&extension=ts&play_token=BQQFRvUvm9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/fueltv.png" group-title="PT| DESPORTO",PT| FUEL TV
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107479&extension=ts&play_token=W7jgRaDmgy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/motorvision.png" group-title="PT| DESPORTO",PT| MOTORVISION
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107468&extension=ts&play_token=zoJqrvd84O
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| FILMES E SÉRIES",##### PT FILMES E SÉRIES #####
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118431&extension=ts&play_token=WsAeHsRkn1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcinetop.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE TOP HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107423&extension=ts&play_token=PXC732fuj6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcinetop.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE TOP HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118442&extension=ts&play_token=hNJiPumeCR
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcineedition.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EDITION HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107422&extension=ts&play_token=KZxls0qWM7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcineedition.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EDITION HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118441&extension=ts&play_token=Kn1BcIqLhH
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcineemotion.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EMOTION HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107421&extension=ts&play_token=eAFa4Fbvgh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcineemotion.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EMOTION HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118440&extension=ts&play_token=cD2mVDY3bY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcineaction.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE ACTION HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107420&extension=ts&play_token=3OoMjqwlTy
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcineaction.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE ACTION HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118439&extension=ts&play_token=H3kWPYtkek
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/hollywood.png" group-title="PT| FILMES E SÉRIES",PT| HOLLYWOOD HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107475&extension=ts&play_token=oMN9ayQdIM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/hollywood.png" group-title="PT| FILMES E SÉRIES",PT| HOLLYWOOD HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118453&extension=ts&play_token=LJ6zKkR6bw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/nosstudios.png" group-title="PT| FILMES E SÉRIES",PT| NOS STUDIOS HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107459&extension=ts&play_token=gvboDV1dWf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/nosstudios.png" group-title="PT| FILMES E SÉRIES",PT| NOS STUDIOS HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118451&extension=ts&play_token=idkdf4cKXI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/cinemundo.png" group-title="PT| FILMES E SÉRIES",PT| CINEMUNDO HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107504&extension=ts&play_token=XHOaA3cRqG
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/amc.png" group-title="PT| FILMES E SÉRIES",PT| AMC HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107520&extension=ts&play_token=Rcae8Fw6I4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/amc.png" group-title="PT| FILMES E SÉRIES",PT| AMC HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=122487&extension=ts&play_token=a8xDUi6D7a
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-MOVIES.png" group-title="PT| FILMES E SÉRIES",PT| STAR MOVIES
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107482&extension=ts&play_token=u7tOQ8uGiJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR.png" group-title="PT| FILMES E SÉRIES",PT| STAR HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107484&extension=ts&play_token=cN7GVHrth4
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR.png" group-title="PT| FILMES E SÉRIES",PT| STAR HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118455&extension=ts&play_token=LZwefojwvU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-CRIME.png" group-title="PT| FILMES E SÉRIES",PT| STAR CRIME HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107485&extension=ts&play_token=Jh1a89Nkys
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/foxcrime.png" group-title="PT| FILMES E SÉRIES",PT| STAR CRIME HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118456&extension=ts&play_token=dbND7jN5RD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-LIFE.png" group-title="PT| FILMES E SÉRIES",PT| STAR LIFE HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107413&extension=ts&play_token=zlllf7Vj77
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-LIFE.png" group-title="PT| FILMES E SÉRIES",PT| STAR LIFE HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118454&extension=ts&play_token=f3zc1IuI3Q
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-COMEDY.png" group-title="PT| FILMES E SÉRIES",PT| STAR COMEDY
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107486&extension=ts&play_token=fJLH9bW010
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-COMEDY.png" group-title="PT| FILMES E SÉRIES",PT| STAR COMEDY HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=951549&extension=ts&play_token=r20FF8DsCf
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/axnmovieshd.png" group-title="PT| FILMES E SÉRIES",PT| AXN MOVIES HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1069313&extension=ts&play_token=zaRcwiSxLc
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/axn.png" group-title="PT| FILMES E SÉRIES",PT| AXN HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107517&extension=ts&play_token=MFcq0vRy3K
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/axn.png" group-title="PT| FILMES E SÉRIES",PT| AXN HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118463&extension=ts&play_token=GANiN8JbKO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/axnwhite.png" group-title="PT| FILMES E SÉRIES",PT| AXN WHITE HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107516&extension=ts&play_token=lpg2VCdko9
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/axnwhite.png" group-title="PT| FILMES E SÉRIES",PT| AXN WHITE HEVC
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=118462&extension=ts&play_token=aRXpCOV2Qm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/syfy.png" group-title="PT| FILMES E SÉRIES",PT| SYFY
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=107429&extension=ts&play_token=b1QMN3f6Ke
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/syfy.png" group-title="PT| FILMES E SÉRIES",PT| SYFY HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=122488&extension=ts&play_token=BuH8sMPzOl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tva.png" group-title="PT| FILMES E SÉRIES",PT| TVA HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1058186&extension=ts&play_token=g7iyegDe86
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| DAZN EXCLUSIVE",### DAZN EXCLUSIVE HD ###
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621294&extension=ts&play_token=WVW092cMVO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/dazn1.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 1 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621293&extension=ts&play_token=7FnYNmZphE
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/dazn2.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 2 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621292&extension=ts&play_token=N66TzcfO6Y
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/dazn3.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 3 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621291&extension=ts&play_token=XCbGgiLpzA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/dazn4.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 4 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621290&extension=ts&play_token=HkgRjaWpSx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 5 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621289&extension=ts&play_token=7n1DzcVptx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 6 HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621288&extension=ts&play_token=CbVIFwi8YO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN-COMBAT.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN COMBAT HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621287&extension=ts&play_token=1mBDa0UPEL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN-WOMENS-FOOTBAL.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN WOMEN'S FOOTBALL HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621286&extension=ts&play_token=FGkQXF30QD
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/nflnetwork.png" group-title="PT| DAZN EXCLUSIVE",PT| NFL NETWORK HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621285&extension=ts&play_token=rsl0lFbPj8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PGA-TOUR.png" group-title="PT| DAZN EXCLUSIVE",PT| PGA TOUR TV HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621284&extension=ts&play_token=tG0kWhwOlk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/redbulltv.png" group-title="PT| DAZN EXCLUSIVE",PT| RED BULL TV HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621283&extension=ts&play_token=y8gbSxVpz8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/UNBEATEN-CHANNEL.png" group-title="PT| DAZN EXCLUSIVE",PT| UNBEATEN: 24/7 GLOBAL SPORTS CHANNEL HD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621282&extension=ts&play_token=J1d3hBoDBa
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| DAZN EXCLUSIVE",### DAZN EXCLUSIVE SD ###
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621281&extension=ts&play_token=QdtkFwp1Hb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/dazn1.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 1 SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621280&extension=ts&play_token=CPtiTjOz0a
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/dazn2.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 2 SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621279&extension=ts&play_token=9HRJx4Tvpe
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/dazn3.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 3 SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621278&extension=ts&play_token=WN2Qu04jZz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/dazn4.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 4 SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621277&extension=ts&play_token=KIlAeuS7SN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 5 SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621276&extension=ts&play_token=cToOWZ4u6N
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 6 SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621275&extension=ts&play_token=4kLDYZsi1W
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN-COMBAT.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN COMBAT SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621274&extension=ts&play_token=VCZMnjKVDV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN-WOMENS-FOOTBAL.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN WOMEN'S FOOTBALL SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621273&extension=ts&play_token=ZcbanVwanC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/nflnetwork.png" group-title="PT| DAZN EXCLUSIVE",PT| NFL NETWORK SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621272&extension=ts&play_token=ppXI3FGzF7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PGA-TOUR.png" group-title="PT| DAZN EXCLUSIVE",PT| PGA TOUR TV SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621271&extension=ts&play_token=Q4cUEYX2r7
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/redbulltv.png" group-title="PT| DAZN EXCLUSIVE",PT| RED BULL TV SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621270&extension=ts&play_token=ubsPOTkoNC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/UNBEATEN-CHANNEL.png" group-title="PT| DAZN EXCLUSIVE",PT| UNBEATEN: 24/7 GLOBAL SPORTS CHANNEL SD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621269&extension=ts&play_token=KyrCr2VoZM
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PORTUGAL.png" group-title="PT| DAZN EXCLUSIVE",### DAZN EXCLUSIVE FHD ###
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621268&extension=ts&play_token=MJtATjXk8s
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/dazn1.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 1 FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621267&extension=ts&play_token=OuvmeaKiAC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/dazn2.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 2 FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621266&extension=ts&play_token=2NndczhuZj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/dazn3.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 3 FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621265&extension=ts&play_token=trOwIMdPgx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/dazn4.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 4 FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621264&extension=ts&play_token=avoZlXaRim
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 5 FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621263&extension=ts&play_token=02hUdVFOp0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN 6 FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621262&extension=ts&play_token=YyFCENTdbd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN-COMBAT.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN COMBAT FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621261&extension=ts&play_token=nBbystxlMn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DAZN-WOMENS-FOOTBAL.png" group-title="PT| DAZN EXCLUSIVE",PT| DAZN WOMEN'S FOOTBALL FHD
-http://mag.myox.me:80/play/live.php?mac=00:1A:79:AF:02:A9&stream=1621260&extension=ts&play_token=lu3G49OP7b
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcinetop.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE TOP HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107423&extension=ts&play_token=2cgzSwi1Sz
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcinetop.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE TOP HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=118442&extension=ts&play_token=PrybUGHoPh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcineedition.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EDITION HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107422&extension=ts&play_token=VMIna9ow3v
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcineedition.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EDITION HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=118441&extension=ts&play_token=NUINW6eqwZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcineemotion.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EMOTION HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107421&extension=ts&play_token=4zea8WtmfK
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcineemotion.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE EMOTION HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=118440&extension=ts&play_token=2Fxf9wCjjh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcineaction.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE ACTION HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107420&extension=ts&play_token=J1SyuSPwjx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/tvcineaction.png" group-title="PT| FILMES E SÉRIES",PT| TVCINE ACTION HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=118439&extension=ts&play_token=eayGS3aLa3
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/hollywood.png" group-title="PT| FILMES E SÉRIES",PT| HOLLYWOOD HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107475&extension=ts&play_token=8G2lTHAu5J
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/hollywood.png" group-title="PT| FILMES E SÉRIES",PT| HOLLYWOOD HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=118453&extension=ts&play_token=dvLKLD82mY
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/nosstudios.png" group-title="PT| FILMES E SÉRIES",PT| NOS STUDIOS HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107459&extension=ts&play_token=xGUIjkLv0A
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/nosstudios.png" group-title="PT| FILMES E SÉRIES",PT| NOS STUDIOS HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=118451&extension=ts&play_token=EuBUPHy7Zp
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/cinemundo.png" group-title="PT| FILMES E SÉRIES",PT| CINEMUNDO HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107504&extension=ts&play_token=OzzI8iYwfN
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/amc.png" group-title="PT| FILMES E SÉRIES",PT| AMC HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107520&extension=ts&play_token=zX4BQY6C8U
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/amc.png" group-title="PT| FILMES E SÉRIES",PT| AMC HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=122487&extension=ts&play_token=ldGq10G5ER
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-MOVIES.png" group-title="PT| FILMES E SÉRIES",PT| STAR MOVIES
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107482&extension=ts&play_token=m8VLHGyZ2y
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR.png" group-title="PT| FILMES E SÉRIES",PT| STAR HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107484&extension=ts&play_token=dDl4cOTsMn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR.png" group-title="PT| FILMES E SÉRIES",PT| STAR HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=118455&extension=ts&play_token=CROYGK9FX8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-CRIME.png" group-title="PT| FILMES E SÉRIES",PT| STAR CRIME HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107485&extension=ts&play_token=8UcoCce3bS
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/foxcrime.png" group-title="PT| FILMES E SÉRIES",PT| STAR CRIME HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=118456&extension=ts&play_token=WAwhx8GbQV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-LIFE.png" group-title="PT| FILMES E SÉRIES",PT| STAR LIFE HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107413&extension=ts&play_token=ozLIYSKIJI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-LIFE.png" group-title="PT| FILMES E SÉRIES",PT| STAR LIFE HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=118454&extension=ts&play_token=TaoVd2IFLr
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-COMEDY.png" group-title="PT| FILMES E SÉRIES",PT| STAR COMEDY
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107486&extension=ts&play_token=8GMgJd2IwL
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-COMEDY.png" group-title="PT| FILMES E SÉRIES",PT| STAR COMEDY HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=951549&extension=ts&play_token=v1FN3Tqqjv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/axnmovieshd.png" group-title="PT| FILMES E SÉRIES",PT| AXN MOVIES HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=1069313&extension=ts&play_token=VBqpJHecvA
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/axn.png" group-title="PT| FILMES E SÉRIES",PT| AXN HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107517&extension=ts&play_token=b8MS3sdlgZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/axn.png" group-title="PT| FILMES E SÉRIES",PT| AXN HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=118463&extension=ts&play_token=Jc7h09a7b8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/axnwhite.png" group-title="PT| FILMES E SÉRIES",PT| AXN WHITE HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107516&extension=ts&play_token=509zOe0pEO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/axnwhite.png" group-title="PT| FILMES E SÉRIES",PT| AXN WHITE HEVC
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=118462&extension=ts&play_token=cFBz2s1YRJ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/syfy.png" group-title="PT| FILMES E SÉRIES",PT| SYFY
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=107429&extension=ts&play_token=wkqYQs5ruv
-#EXTINF:-1 tvg-logo="http://103.176.90.118/piconsnew/syfy.png" group-title="PT| FILMES E SÉRIES",PT| SYFY HD
-http://23232.top:80/play/live.php?mac=00:1A:79:61:3F:AF&stream=122488&extension=ts&play_token=wnlSEyKRWo
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/412.ts
+#EXTINF:-1,PT: AMC HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/413.ts
+#EXTINF:-1,PT: AXN HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/876.ts
+#EXTINF:-1,PT: AXN Movies
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/1542.ts
+#EXTINF:-1,PT: AXN White
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/1541.ts
+#EXTINF:-1,PT: Baby TV
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/414.ts
+#EXTINF:-1,PT: Benfica TV HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/415.ts
+#EXTINF:-1,PT: Blaze
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/416.ts
+#EXTINF:-1,PT: CARTON NETWORK
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/418.ts
+#EXTINF:-1,PT: Cinemundo
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/3366.ts
+#EXTINF:-1,PT: CMTV HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/420.ts
+#EXTINF:-1,PT: Crime & Investigation
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/421.ts
+#EXTINF:-1,PT: Discovery Channel HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/422.ts
+#EXTINF:-1,PT: Disney Channel HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/423.ts
+#EXTINF:-1,PT: Disney Junior
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/424.ts
+#EXTINF:-1,PT: E! HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/425.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 1 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/426.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 2 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/427.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 3 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/428.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 4 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/429.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 5 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/430.ts
+#EXTINF:-1,PT: ELEVEN SPORTS 6 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/431.ts
+#EXTINF:-1,PT: EUROSPORT 1 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/433.ts
+#EXTINF:-1,PT: EUROSPORT 2
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/434.ts
+#EXTINF:-1,PT: Fox Comedy
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/3369.ts
+#EXTINF:-1,PT: FOX Crime HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/435.ts
+#EXTINF:-1,PT: Fox HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/3365.ts
+#EXTINF:-1,PT: FOX LIFE HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/436.ts
+#EXTINF:-1,PT: GLOBO
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/437.ts
+#EXTINF:-1,PT: HISTORIA CHANNEL
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/440.ts
+#EXTINF:-1,PT: Hollywood Hd
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/1540.ts
+#EXTINF:-1,PT: Investigation Discovery HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/442.ts
+#EXTINF:-1,PT: MTV Portugal
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/445.ts
+#EXTINF:-1,PT: Food Neftwork
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/446.ts
+#EXTINF:-1,PT: NAT GEO Wild HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/447.ts
+#EXTINF:-1,PT: National Geographic Hd
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/5953.ts
+#EXTINF:-1,PT: Panda Channel
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/448.ts
+#EXTINF:-1,PT: PFC
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/449.ts
+#EXTINF:-1,PT: PORTO CANAL HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/450.ts
+#EXTINF:-1,PT: RTP 1 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/452.ts
+#EXTINF:-1,PT: RTP 2 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/453.ts
+#EXTINF:-1,PT: RTP 3
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/454.ts
+#EXTINF:-1,PT: RTP Acores
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/878.ts
+#EXTINF:-1,PT: RTP AFRICA
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/455.ts
+#EXTINF:-1,PT: RTP Madeira
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/879.ts
+#EXTINF:-1,PT: RTP Memoria
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/456.ts
+#EXTINF:-1,PT: SIC CARAS HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/457.ts
+#EXTINF:-1,PT: SIC FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/458.ts
+#EXTINF:-1,PT: SIC Mulher FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/874.ts
+#EXTINF:-1,PT: SIC Noticias FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/873.ts
+#EXTINF:-1,PT: SIC Radical FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/875.ts
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/460.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/461.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/462.ts
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/463.ts
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/464.ts
+#EXTINF:-1,PT: SPORT TV Plus
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/459.ts
+#EXTINF:-1,PT: Sporting
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/3367.ts
+#EXTINF:-1,PT: SyFy FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/877.ts
+#EXTINF:-1,PT: TPA
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/3878.ts
+#EXTINF:-1,PT: Travel Channel HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/466.ts
+#EXTINF:-1,PT: TV Cine Action HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/470.ts
+#EXTINF:-1,PT: TV Cine Edition FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/468.ts
+#EXTINF:-1,PT: TV Cine Emotion FHD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/469.ts
+#EXTINF:-1,PT: TV Cine TOP HD
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/467.ts
+#EXTINF:-1,PT: TV Record
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/471.ts
+#EXTINF:-1,PT: TVI
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/472.ts
+#EXTINF:-1,PT: TVI 24
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/871.ts
+#EXTINF:-1,PT: TVI Ficcao
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/872.ts
+#EXTINF:-1,PT: TVI Reality
+http://latinapro.net:25461/CARLOSa61/rodriguez2CA/473.ts
 #EXTINF:-1 tvg-id="13emerue.fr" tvg-name="FR: 13EME RUE FHD" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U_pz8ELvVtlNpO84LhzC0PF.png" group-title="France HEVC",FR: 13EME RUE FHD
 http://108624398542312674.ofxn1112.xyz:80/live/me513819/eHwYjuF33G@S/312674.ts
 #EXTINF:-1 tvg-id="ab1.fr" tvg-name="FR: AB1 FHD" tvg-logo="http://live.phenixiptv.com:8080/images/2kwVnrbGxAlgO7e5bUUB4w2NbtFR7NVRmc3RgQl59U_NuLMw0iX6JEBJFffXyQI7.png" group-title="France HEVC",FR: AB1 FHD
