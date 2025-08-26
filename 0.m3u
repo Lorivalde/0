@@ -615,994 +615,2315 @@ http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=51432&extension
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=51451&extension=ts
 #EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/portugalvlag.png" group-title="PT : SPORTS",(PT) Canal 11 HD
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=51431&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/france2hd.png" group-title="FR - FRANCE",(FR) France 2 4K
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=44973&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/france3hd.png" group-title="FR - FRANCE",(FR) France 3 4K
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=44972&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/france4hd.png" group-title="FR - FRANCE",(FR) France 4 4K
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=44971&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/france5hd.png" group-title="FR - FRANCE",(FR) France 5 4K
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=44970&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/m6hd.png" group-title="FR - FRANCE",(FR) M6 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37782&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/m6hd.png" group-title="FR - FRANCE",(FR) M6 HD 4K
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=44969&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/artehd.png" group-title="FR - FRANCE",(FR) Arte HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37856&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/w9hd.png" group-title="FR - FRANCE",(FR) W9 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37728&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tmc.png" group-title="FR - FRANCE",(FR) TMC 4K
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=44967&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tmc.png" group-title="FR - FRANCE",(FR) TMC HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37739&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lci.png" group-title="FR - FRANCE",(FR) Lci HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37785&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/gulli.png" group-title="FR - FRANCE",(FR) Gulli 4K
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=44963&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/franceohd.png" group-title="FR - FRANCE",(FR) France O HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37793&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ab1.png" group-title="FR - FRANCE",(FR) AB1 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37860&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ab1.png" group-title="FR - FRANCE",(FR) 6ter HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37868&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rmcdecouverte.png" group-title="FR - FRANCE",(FR) RMC Decouverte HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37762&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cherie25.png" group-title="FR - FRANCE",(FR) Cherie 25 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37825&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tvbreizh.png" group-title="FR - FRANCE",(FR) TV Breizh
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37734&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/c8.png" group-title="FR - FRANCE",(FR) C8
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37836&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rtl9.png" group-title="FR - FRANCE",(FR) RTL 9 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37752&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cstar.png" group-title="FR - FRANCE",(FR) Cstar HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37815&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/teva.png" group-title="FR - FRANCE",(FR) Teva
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37744&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/bfmtv.png" group-title="FR - FRANCE",(FR) BFMTV HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37840&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cnews.png" group-title="FR - FRANCE",(FR) CNews HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37818&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/franceinfo.png" group-title="FR - FRANCE",(FR) France Info
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37794&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/comedieplus.png" group-title="FR - FRANCE",(FR) Comedie+ HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37817&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/teletoonplus.png" group-title="FR - FRANCE",(FR) Teletoon HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37745&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/ushuaiatv.png" group-title="FR - FRANCE",(FR) Ushuaia HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37731&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/tv5monde.png" group-title="FR - FRANCE",(FR) TV5 Monde
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37733&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/clubrtl.png" group-title="FR - FRANCE",(FR) Club RTL
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37819&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneychannel.png" group-title="FR - FRANCE",(FR) Disney Channel HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37812&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/disneyjunior.png" group-title="FR - FRANCE",(FR) Disney Junior HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37810&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/cartoonnetwork.png" group-title="FR - FRANCE",(FR) Cartoon Network HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37827&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalj.png" group-title="FR - FRANCE",(FR) Canal J HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37835&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/boomerang.png" group-title="FR - FRANCE",(FR) Boomerang HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37838&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/m6music.png" group-title="FR - FRANCE",(FR) M6 Music HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37781&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nickelodeon.png" group-title="FR - FRANCE",(FR) Nickelodeon HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37774&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/traceurban.png" group-title="FR - FRANCE",(FR) Trace Urban
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37773&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/nrj12.png" group-title="FR - FRANCE",(FR) NRJ 12 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37772&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeoushd.png" group-title="FR - FRANCE",(FR) Nat Geo HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37777&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/natgeowild.png" group-title="FR - FRANCE",(FR) Nat Geo Wild HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37776&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/planeteplusaventureexperience.png" group-title="FR - FRANCE",(FR) Planete A&E HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37764&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/animaux.png" group-title="FR - FRANCE",(FR) Animaux HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37857&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) Science & Vie HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37751&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/boing.png" group-title="FR - FRANCE",(FR) Boing HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37839&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Crime District HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37816&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Discovery HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37814&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Discovery Science HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37813&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) E!
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37808&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) AB3
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37807&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Equidia HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37806&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Game One HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37792&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) France 24 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37801&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Mezzo Live HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37779&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) KTO
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37778&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Piwi HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37765&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) TFX
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37741&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Tiji HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37740&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Toute l'Histoire
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37738&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Trace Africa
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37737&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Trace Tropical
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37736&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Trek
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37735&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) Viceland HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37730&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - FRANCE",(FR) AB EXPLORE
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37861&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lci.png" group-title="FR - FRANCE",(FR) LCI
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=44965&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/lcp.png" group-title="FR - FRANCE",(FR) LCP 4K
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=44964&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) Canal+ Cinema HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37833&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) Canal+ Family HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37832&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) Canal+ Decale HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37830&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) Canal+ Series HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37828&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) Ciné+ Classic
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37824&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) Ciné+ Emotion
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37823&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) Ciné+ Famiz HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37822&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) Ciné+ Frisson
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37821&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) Ciné+ Premier
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37820&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) A La Carte 1 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37867&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) A La Carte 2 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37866&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) A La Carte 3 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37865&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) A La Carte 4 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37864&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) A La Carte 5 4K+
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37863&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/francebayrak.gif" group-title="FR - CINEMA",(FR) Paris Premiere HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37766&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) 13éme Rue HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37869&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) Action HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37859&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) Canal+ HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37834&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) OCS City
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37770&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) OCS Géants
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37769&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) OCS Max
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37768&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/chasseetpeche.png" group-title="FR - CINEMA",(FR) Chasse & Peche
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37767&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) SEASONS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37750&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/serieclubhd.png" group-title="FR - CINEMA",(FR) Serie Club HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37749&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - CINEMA",(FR) SyFy HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37747&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-1-pl.png" group-title="FR - SPORTS",(FR) DAZN Event 1 FR VIP SPORTS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=161819&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-1-pl.png" group-title="FR - SPORTS",(FR) DAZN Event 2 FR VIP SPORTS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=161818&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-1-pl.png" group-title="FR - SPORTS",(FR) DAZN Event 3 FR VIP SPORTS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=161817&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-1-pl.png" group-title="FR - SPORTS",(FR) DAZN Event 4 FR VIP SPORTS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=161816&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-1-pl.png" group-title="FR - SPORTS",(FR) DAZN Event 5 FR VIP SPORTS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=161815&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-1-pl.png" group-title="FR - SPORTS",(FR) DAZN Event 6 FR VIP SPORTS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=161814&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-1-pl.png" group-title="FR - SPORTS",(FR) DAZN Event 7 FR VIP SPORTS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=161813&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-1-pl.png" group-title="FR - SPORTS",(FR) DAZN Event 8 FR VIP SPORTS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=161812&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-1-pl.png" group-title="FR - SPORTS",(FR) DAZN Event 9 FR VIP SPORTS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=161811&extension=ts
-#EXTINF:-1 tvg-logo="http://185.63.253.29/darklogo/DarkTVLogo/Logolar/logo-dazn-1-pl.png" group-title="FR - SPORTS",(FR) DAZN Event 10 FR VIP SPORTS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=161810&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - SPORTS",(FR) Téléfoot Stadium
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=93010&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - SPORTS",(FR) Téléfoot Stadium 1
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=91378&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - SPORTS",(FR) Téléfoot Stadium 2
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=91379&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - SPORTS",(FR) Téléfoot Stadium 3
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=91380&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - SPORTS",(FR) Téléfoot Stadium 4
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=91381&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - SPORTS",(FR) Téléfoot Stadium 5
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=91382&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - SPORTS",(FR) Téléfoot Stadium 6
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=91383&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - SPORTS",(FR) Téléfoot Stadium 7
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=91384&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/Flag/france.png" group-title="FR - SPORTS",(FR) Téléfoot Stadium 8
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=91385&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinsports1.png" group-title="FR - SPORTS",(FR) Bein Sports 1 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37853&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinsports2.png" group-title="FR - SPORTS",(FR) Bein Sports 2 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37852&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinsports3.png" group-title="FR - SPORTS",(FR) Bein Sports 3 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37851&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinsportsmax4.png" group-title="FR - SPORTS",(FR) Beinsports Max 4
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37849&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinsportsmax5.png" group-title="FR - SPORTS",(FR) Beinsports Max 5
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37848&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinsportsmax6.png" group-title="FR - SPORTS",(FR) Beinsports Max 6
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37847&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinsportsmax7.png" group-title="FR - SPORTS",(FR) Beinsports Max 7
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37846&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinsportsmax8.png" group-title="FR - SPORTS",(FR) Beinsports Max 8
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37845&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinsportsmax9.png" group-title="FR - SPORTS",(FR) Beinsports Max 9
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37844&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/beinsportsmax10.png" group-title="FR - SPORTS",(FR) Beinsports Max 10
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37850&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/planeteplus.png" group-title="FR - FRANCE",(FR) Planete+ HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37843&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/SFR_SPORT1.jpg" group-title="FR - SPORTS",(FR) SFR Sport 1 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37841&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/SFR_Sport_2.png" group-title="FR - SPORTS",(FR) SFR Sport 2 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37805&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/canalplusfrsport.png" group-title="FR - SPORTS",(FR) Canal+ Sport HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37831&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport1hd.png" group-title="FR - SPORTS",(FR) Eurosport 1 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37759&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/eurosport2hd.png" group-title="FR - SPORTS",(FR) Eurosport 2 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37804&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/francebayrak.gif" group-title="FR - SPORTS",(FR) Automoto HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37855&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/golfchannel.png" group-title="FR - SPORTS",(FR) Golf HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37791&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rmc-story.png" group-title="FR - SPORTS",(FR) RMC Story HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37754&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rmc-sport.png" group-title="FR - SPORTS",(FR) RMC Sport 1 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37760&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rmc-sport.png" group-title="FR - SPORTS",(FR) RMC Sport 2 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37758&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rmc-sport.png" group-title="FR - SPORTS",(FR) RMC Sport 3 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37757&extension=ts
-#EXTINF:-1 tvg-logo="http://62.210.222.188/MOVIE/darklogo/DarkTVLogo/Logolar/rmc-sport.png" group-title="FR - SPORTS",(FR) RMC Sport 4 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=37756&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO Mundi
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178335&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Gospel Movies Television
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178334&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TVE Bahia HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178333&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Zoomoo FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178332&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Zoomoo HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178331&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Zoomoo SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178330&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Woohoo SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178329&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Warner Channel HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178328&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Warner Channel SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178327&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) VH1 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178326&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Telecine Action HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178325&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Telecine Action SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178324&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Telecine Cult FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178323&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Telecine Cult SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178322&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Telecine Fun HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178321&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Telecine Fun SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178320&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Telecine Premium FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178319&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Telecine Premium SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178318&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Telecine Touch FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178317&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Telecine Touch SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178316&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Telecine Pipoca FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178315&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TNT Series FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178314&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TNT Series HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178313&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TNT FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178312&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TCM SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178311&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TBS FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178310&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TBS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178309&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TruTV SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178308&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TV Cultura FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178307&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TV Cultura HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178306&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TLC HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178305&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Tooncast SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178304&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Tooncast HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178303&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TV Ra Tim Bum SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178302&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TV Ra Tim Bum HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178301&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Travel Box FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178300&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Studio Universal SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178299&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Sony HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178298&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Sony SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178297&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SyFy FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178296&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Space HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178295&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SBT FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178294&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SBT SP HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178293&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SBT Parana SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178292&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SBT Interior SP
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178291&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SBT SP SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178290&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SBT Cidade Verde HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178289&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SBT TV Jornal HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178288&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Record FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178287&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Record TV SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178286&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Record News SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178285&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Record RS SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178284&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Record RJ SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178283&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Record Parana HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178282&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Record Ba HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178281&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Record Mg SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178280&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Record RJ HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178279&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Premier 7 SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178278&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Premiere 6 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178277&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Premier 5 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178276&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Premier 4 SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178275&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Premier 4 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178274&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Premier 3 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178273&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Premier 2 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178272&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Premier 1 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178271&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Premier 1 SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178270&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Paramount FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178269&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Paramount SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178268&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Off FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178267&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Off SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178266&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) NatGeo SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178265&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) NatGeo Wild SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178264&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Nickelodeon FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178263&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Nickelodeon SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178262&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Nick JR FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178261&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Nick Jr SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178260&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) NatGeo Kids FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178259&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) NatGeo Kids SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178258&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Megapix 4K
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178257&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Megapix SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178256&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Multishow FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178255&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Multishow HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178254&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Multishow SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178253&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Mais Globosat SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178252&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) MTV FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178251&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Lifetime FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178250&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Lifetime SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178249&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) ID Discovery HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178248&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) ID Discovery SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178247&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178246&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178245&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO Family FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178244&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO 2 SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178243&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO Plus SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178242&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO Signature HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178241&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO Signature SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178240&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) H2 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178239&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) H2 SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178238&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) History SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178237&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Globo FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178236&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Globo HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178235&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GNT FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178234&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GNT SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178233&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Gloobinho HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178232&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Gloob HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178231&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Globo News HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178230&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX Sports SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178229&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX Premium 2 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178228&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX Premium 1 SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178227&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX Premium 1 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178226&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178225&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Fox SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178224&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX Life FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178223&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX Life SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178222&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Fx HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178221&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Fx SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178220&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Food Network FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178219&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Food Network SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178218&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) ESPN 2 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178217&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) ESPNazil SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178216&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) ESPN Extra FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178215&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) ESPN Extra HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178214&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) ESPN Extra SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178213&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) E! SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178212&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery Channel FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178211&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery Channel SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178210&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery Science FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178209&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery H&H HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178208&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery H&H SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178207&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery Theater FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178206&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery Turbo FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178205&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery Turbo SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178204&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery World SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178203&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery World FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178202&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Disney XD SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178201&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Disney Jr HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178200&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Disney JR FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178199&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Disney Channel SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178198&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery Kids SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178197&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Dog TV FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178196&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Combate HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178195&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Combate SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178194&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Cinemax FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178193&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Cinemax SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178192&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Comedy Central HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178191&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Comedy Central SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178190&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Canalasil FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178189&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Canalasil SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178188&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) CNN Internacional SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178187&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Cartoon Network FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178186&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Cartoon Network SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178185&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Boomerang SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178184&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) BIS FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178183&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) BIS SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178182&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Band Campinas HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178181&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Band FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178180&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Band HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178179&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Band Sports FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178178&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Band News SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178177&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Baby TV SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178176&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) ALL SPORTS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178175&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Animal Planet SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178174&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) A&E SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178173&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Arte 1 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178172&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) AMC SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178171&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) AXN SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178170&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Fox Sports 2 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178169&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) PFC
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178168&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) WOOHOO FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178167&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) WARNER CHANNEL FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178166&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) VH1
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178165&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) UNIVERSAL TV FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178164&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Tooncast FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178163&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TV GAZETA FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178162&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBOASILIA
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178161&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TNT Series
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178160&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TNT
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178159&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Viva SD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178158&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Viva HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178157&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Viva FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178156&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TELECINE TOUCH HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178155&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TELECINE PREMIUM HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178154&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TELECINE PIPOCA HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178153&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TELECINE FUN FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178152&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TELECINE CULT HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178151&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TELECINE ACTION FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178150&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TCM HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178149&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TBS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178148&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SYFY HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178147&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) STUDIO UNIVERSAL FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178146&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SPACE
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178145&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SONY FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178144&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SBT TV CIDADE VERDE PIAUI HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178143&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SBT HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178142&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO EPTV RIBEIRÃO PRETO
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178141&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) REDE VIDA HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178140&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) REDE FAMILIA FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178139&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) RECORD SP HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178138&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) RECORD NORDESTE HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178137&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) RECORD NEWS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178136&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) RECORD MG HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178135&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) RECORD ESP. SANTO HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178134&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) RECORD CAMPINAS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178133&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) RECORD AMAZONAS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178132&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) RECORD HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178131&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) PREMIERE CLUBES HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178130&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) PARAMOUNT CHANNEL HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178129&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) OFF HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178128&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) NICKELODEON HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178127&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) NICK JR HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178126&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) NATIONAL GEOGRAPHIC HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178125&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) NAT GEO WILD HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178124&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) NAT GEO KIDS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178123&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) MUSIC BOXAZIL
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178122&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) MTV LIVE FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178121&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) MTV HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178120&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) MEGAPIX HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178119&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO POP HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178118&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO Xtreme FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178117&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) LIFETIME HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178116&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) ID FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178115&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO SIGNATURE FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178114&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO PLUS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178113&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO PLUS FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178112&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO FAMILY HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178111&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO 2 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178110&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) HBO HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178109&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) H2 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178108&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GNT HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178107&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOOB FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178106&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO TV VERDES MARES FORTALEZA HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178105&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO TV VANGUARDA S.J DOS CAMPOS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178104&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO TV TRIBUNA SANTOS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178103&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO TV BELEM
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178102&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO SP FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178101&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO RPC TV
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178100&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO RJ FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178099&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO RIO GRANDE DO NORTE HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178098&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO RIBEIR HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178097&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO RBS PORTO ALEGRE
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178096&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO NORDESTE HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178095&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO NEWS FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178094&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO INTERNACIONAL HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178093&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO EPTV SAO CARLOS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178092&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO EPTV RIBEIR
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178091&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO EPTV CAMPINAS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178090&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO CUIABA HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178089&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO BAHIA FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178088&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) GLOBO AMAZONAS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178087&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FX FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178086&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FUTURA HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178085&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX SPORTS 2 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178084&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX SPORTS FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178083&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX PREMIUM 2 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178082&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX PREMIUM 1 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178081&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX LIFE HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178080&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178079&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOOD NETWORK HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178078&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FISH TV HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178077&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) ESPN2 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178076&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) ESPNASIL HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178075&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) ESPN HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178074&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) E! HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178073&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) DISNEY XD HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178072&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) DISNEY Junior
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178071&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) DISNEY CHANNEL FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178070&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) DISCOVERY WORLD HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178069&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) DISCOVERY TLC HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178068&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) DISCOVERY SCIENCE HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178067&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) DISCOVERY KIDS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178066&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) DISCOVERY HOME & HEALTH FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178065&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) DISCOVERY CIVILIZATION HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178064&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) DISCOVERY CHANNEL HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178063&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) CURTA! HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178062&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) CULTURA HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178061&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) COMEDY CENTRAL FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178060&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) COMBATE FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178059&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) CINEMAX HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178058&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) CARTOON NETWORK HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178057&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Canalasil HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178056&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) BOOMERANG HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178055&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) BIS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178054&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) BAND NEWS FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178053&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) BAND CAMPINAS
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178052&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) BABY TV HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178051&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) AXN FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178050&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Arte 1 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178049&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) AMC HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178048&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Animal Planet FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178047&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) A&E FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178046&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery Turbo HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178045&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) PREMIERE 7 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178044&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) PREMIERE 6 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178043&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) PREMIERE 5 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178042&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) PREMIERE 4 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178041&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) PREMIERE 3 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178040&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) PREMIERE 2 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178039&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Premiere 1 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178038&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Warner TV
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178037&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) VH1 Mega Hits
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178036&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Woohoo HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178035&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Studio Universal HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178034&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Universal TV
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178033&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TV Globo Premium
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178032&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TV Globo
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178031&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TV Geral
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178030&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TV Gazeta HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178029&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TLC
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178028&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TV Diario
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178027&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TVasil Central
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178026&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TNT HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178025&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TC Pipoca HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178024&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TC Fun
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178023&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TC Cult
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178022&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) TC Action
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178021&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Syfy
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178020&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SporTV 3
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178019&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SporTV 3 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178018&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SporTV 3 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178017&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SporTV 2
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178016&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SporTV 2 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178015&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SporTV 2 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178014&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SporTV 1
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178013&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SporTV 1 HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178012&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) SporTV 1 FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178011&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Rede TV
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178010&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Rede Gospel
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178009&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Redeasil
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178008&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) RCTV
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178007&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) MegaPix TV
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178006&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) MegaPix
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178005&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Mais Globosat HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178004&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) MTV
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178003&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) History FHD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178002&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Gloob
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178001&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Globo SP HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=178000&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Globo SP
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177999&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Globo RJ HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177998&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Globo RJ
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177997&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Globo MINAS HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177996&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Globo Nordeste
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177995&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Globo News
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177994&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX Sports 2
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177993&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) FOX Sports HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177992&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Fish TV
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177991&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) DISCOVERY THEATER HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177990&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Discovery TV
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177989&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Band News HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177988&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Can
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177987&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Band Sport HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177986&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) AXN HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177985&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Arte 1
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177984&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) Animal Planet HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177983&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="BR : BRAZİL",(BR) AE HD
-http://m.devtv.biz:80/play/live.php?mac=00:1A:79:46:10:B5&stream=177982&extension=ts
-#EXTINF:-1 tvg-id="" tvg-name="PT BENFICA TV" tvg-logo="" group-title="Portugal",PT BENFICA TV
-http://cord-cutter.net:8080/anthonythagod2261@gmail.com/qU26PHLBkmcY68/136726
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1" tvg-logo="" group-title="Portugal",PT: SPORT TV 1
-http://cord-cutter.net:8080/anthonythagod2261@gmail.com/qU26PHLBkmcY68/167742
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2" tvg-logo="" group-title="Portugal",PT: SPORT TV 2
-http://cord-cutter.net:8080/anthonythagod2261@gmail.com/qU26PHLBkmcY68/167743
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="" group-title="Portugal",PT: SPORT TV 3
-http://cord-cutter.net:8080/anthonythagod2261@gmail.com/qU26PHLBkmcY68/167744
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="" group-title="Portugal",PT: SPORT TV 4
-http://cord-cutter.net:8080/anthonythagod2261@gmail.com/qU26PHLBkmcY68/167745
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
-http://cord-cutter.net:8080/anthonythagod2261@gmail.com/qU26PHLBkmcY68/167748
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
-http://cord-cutter.net:8080/anthonythagod2261@gmail.com/qU26PHLBkmcY68/167749
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
-http://cord-cutter.net:8080/anthonythagod2261@gmail.com/qU26PHLBkmcY68/167750
-
+#EXTINF:-1,PT: RTP 1
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2211
+#EXTINF:-1,PT: RTP 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/162611
+#EXTINF:-1,PT: RTP 1 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438344
+#EXTINF:-1,PT: RTP 2
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2212
+#EXTINF:-1,PT: RTP 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/205664
+#EXTINF:-1,PT: RTP 2 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438345
+#EXTINF:-1,PT: SIC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2216
+#EXTINF:-1,PT: SIC HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/169304
+#EXTINF:-1,PT: SIC H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438346
+#EXTINF:-1,PT: TVI
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2220
+#EXTINF:-1,PT: TVI HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/169303
+#EXTINF:-1,PT: TVI H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438347
+#EXTINF:-1,PT: CNN PORTUGAL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2221
+#EXTINF:-1,PT: CNN PORTUGAL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439720
+#EXTINF:-1,PT: CNN PORTUGAL H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439721
+#EXTINF:-1,PT: TVI V+
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136631
+#EXTINF:-1,PT: TVI V+ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439717
+#EXTINF:-1,PT: TVI V+ H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439718
+#EXTINF:-1,PT: TVI REALITY
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136659
+#EXTINF:-1,PT: TVI REALITY 1080
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439719
+#EXTINF:-1,PT: RTP 3
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136263
+#EXTINF:-1,PT: RTP 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/534812
+#EXTINF:-1,PT: RTP AFRICA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136684
+#EXTINF:-1,PT: RTP ACORES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2213
+#EXTINF:-1,PT: RTP MADEIRA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2215
+#EXTINF:-1,PT: RTP MEMORIA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2214
+#EXTINF:-1,PT: SIC NOTICIAS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2219
+#EXTINF:-1,PT: SIC NOTICIAS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/534814
+#EXTINF:-1,PT: SIC RADICAL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136264
+#EXTINF:-1,|PT: SIC RADICAL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/534813
+#EXTINF:-1,PT: SIC CARAS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136630
+#EXTINF:-1,PT: SIC MULHER
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2218
+#EXTINF:-1,PT: SIC MULHER HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/598043
+#EXTINF:-1,PT: SIC NOVELAS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/546742
+#EXTINF:-1,PT: CANAL S+
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/579673
+#EXTINF:-1,PT: CMTV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2204
+#EXTINF:-1,PT: CMTV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438348
+#EXTINF:-1,PT: CMTV H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438349
+#EXTINF:-1,PT: NOW NEWS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/532652
+#EXTINF:-1,PT: NOW NEWS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/532653
+#EXTINF:-1,PT: ZAP VIVA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/252147
+#EXTINF:-1,PT: ZAP VIVA H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/198367
+#EXTINF:-1,PT: ZAP VIVA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/252146
+#EXTINF:-1,PT: TCV CABO VERDE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/240454
+#EXTINF:-1,PT: CASA E COZINHA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/251728
+#EXTINF:-1,PT: CASA E COZINHA H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/251726
+#EXTINF:-1,PT: CASA E COZINHA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/251727
+#EXTINF:-1,PT: 24 KITCHEN.
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/234098
+#EXTINF:-1,PT: 24 KITCHEN H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2203
+#EXTINF:-1,PT: 24 KITCHEN HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/234099
+#EXTINF:-1,PT: CANÇAO NOVA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/165587
+#EXTINF:-1,PT: CANAL Q
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132901
+#EXTINF:-1,PT: CBS REALITY
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132903
+#EXTINF:-1,PT: E! 
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132910
+#EXTINF:-1,PT: FASHION TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136676
+#EXTINF:-1,PT: FOX NEWS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132917
+#EXTINF:-1,PT: GLOBO NOW
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132897
+#EXTINF:-1,PT: GLOBO PORTUGAL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2209
+#EXTINF:-1,PT: GLOBO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/440500
+#EXTINF:-1,PT: GLOBO H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/440499
+#EXTINF:-1,PT: TV FATIMA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548612
+#EXTINF:-1,PT: TV RECORD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2225
+#EXTINF:-1,PT: PORTO CANAL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2210
+#EXTINF:-1,PT: PORTO CANAL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/534811
+#EXTINF:-1,PT: TV ZIMBO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610939
+#EXTINF:-1,PT: ----- CINEMA / SERIES -----
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/139976
+#EXTINF:-1,PT: TVCINE TOP
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/194449
+#EXTINF:-1,PT: TVCINE TOP HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2234
+#EXTINF:-1,PT: TVCINE TOP  H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/207333
+#EXTINF:-1,PT: TVCINE EDITION
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/194450
+#EXTINF:-1,PT: TVCINE EDITION HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2235
+#EXTINF:-1,PT: TVCINE EDITION H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/207334
+#EXTINF:-1,PT: TVCINE EMOTION
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/194460
+#EXTINF:-1,PT: TVCINE EMOTION HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2236
+#EXTINF:-1,PT: TVCINE EMOTION H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/207342
+#EXTINF:-1,PT: TVCINE ACTION
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/194461
+#EXTINF:-1,PT: TVCINE ACTION HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2237
+#EXTINF:-1,PT: TVCINE ACTION H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/207343
+#EXTINF:-1,PT: NOS STUDIO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/202823
+#EXTINF:-1,PT: NOS STUDIOS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/205662
+#EXTINF:-1,PT: NOS STUDIOS H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/198788
+#EXTINF:-1,PT: AXN
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136668
+#EXTINF:-1,PT: AXN HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/205656
+#EXTINF:-1,PT: AXN H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2233
+#EXTINF:-1,PT: AXN WHITE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/167482
+#EXTINF:-1,PT: AXN WHITE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/205658
+#EXTINF:-1,PT: AXN WHITE H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132925
+#EXTINF:-1,PT: AXN MOVIES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/167481
+#EXTINF:-1,PT: AXN MOVIES HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/205657
+#EXTINF:-1,PT: AXN MOVIES H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132924
+#EXTINF:-1,PT: AMC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132923
+#EXTINF:-1,PT: AMC HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/209534
+#EXTINF:-1,PT: AMC H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/169311
+#EXTINF:-1,PT: HOLLYWOOD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132921
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/221898
+#EXTINF:-1,PT: HOLLYWOOD H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/196607
+#EXTINF:-1,PT: SYFY
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/169312
+#EXTINF:-1,PT: STAR
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/198366
+#EXTINF:-1,PT: STAR HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/205661
+#EXTINF:-1,PT: STAR H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2206
+#EXTINF:-1,PT: STAR COMEDY
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2208
+#EXTINF:-1,PT: STAR CRIME
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132913
+#EXTINF:-1,PT: STAR CRIME HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/209536
+#EXTINF:-1,PT: STAR CRIME H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132914
+#EXTINF:-1,PT: STAR LIFE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/167480
+#EXTINF:-1,PT: STAR LIFE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/233866
+#EXTINF:-1,PT: STAR LIFE H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132915
+#EXTINF:-1,PT: STAR MOVIES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2207
+#EXTINF:-1,PT: STAR MOVIES HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/374641
+#EXTINF:-1,PT: CINEMUNDO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132905
+#EXTINF:-1,PT: KURIAKOS CINE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/178147
+#EXTINF:-1,PT: X-MEN EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438289
+#EXTINF:-1,PT: ROCKY EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438288
+#EXTINF:-1,PT: VELOCIDADE FURIOSA EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438287
+#EXTINF:-1,PT: SENHOR DOS ANEIS EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438286
+#EXTINF:-1,PT: CINEMA 2022 EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438285
+#EXTINF:-1,PT: NETFLIX EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438284
+#EXTINF:-1,PT: PORTUGAL A RIR EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438283
+#EXTINF:-1,PT: RALYE EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438282
+#EXTINF:-1,PT: MARVEL EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438281
+#EXTINF:-1,PT: JOAO KLEBER EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438280
+#EXTINF:-1,PT: DESGARRADAS EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438279
+#EXTINF:-1,PT: HARRY POTTER EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438278
+#EXTINF:-1,PT: MARVEL 2 EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438277
+#EXTINF:-1,PT: APAIXONADO SERIES EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438274
+#EXTINF:-1,PT: CINEMA AÇÃO EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438273
+#EXTINF:-1,PT: CINEMA ANIMACAO EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438272
+#EXTINF:-1,PT: CINEMA COMEDIA EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438271
+#EXTINF:-1,PT: BARBIE EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438270
+#EXTINF:-1,PT: LUCAS NETO EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438269
+#EXTINF:-1,PT: CINEMA ROMANCE EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438268
+#EXTINF:-1,PT: STALLONE EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438267
+#EXTINF:-1,PT: LADY BUG EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438265
+#EXTINF:-1,PT: MOTO GP EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438263
+#EXTINF:-1,PT: NETFLIX KIDS EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438262
+#EXTINF:-1,PT: GATO FEDORENTO EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438260
+#EXTINF:-1,PT: CINEMA BRASIL EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438259
+#EXTINF:-1,PT: TERROR EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438257
+#EXTINF:-1,PT: CINEMA PORTUGUES EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438256
+#EXTINF:-1,PT: CINEMA FAMILIA EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438255
+#EXTINF:-1,PT: STAR WARS EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438253
+#EXTINF:-1,PT: JACKIE CHAN EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438252
+#EXTINF:-1,PT: BOOBA EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438251
+#EXTINF:-1,PT: TOM SAWYER EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438249
+#EXTINF:-1,PT: TIMON E PUMBA EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438248
+#EXTINF:-1,PT: RESIDENT EVIL EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438247
+#EXTINF:-1,PT: JAMES BOND 007 EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438246
+#EXTINF:-1,PT: POLICE ACADEMY EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438245
+#EXTINF:-1,PT: INDIANA JONES EXCLUSIVO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438244
+#EXTINF:-1,PT: ----- DESPORTO -----
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/139977
+#EXTINF:-1,PT: CANAL 11
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/203036
+#EXTINF:-1,PT: CANAL 11 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/205660
+#EXTINF:-1,PT: CANAL 11 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/203037
+#EXTINF:-1,PT: KOMBAT SPORT
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/546743
+#EXTINF:-1,PT: SPORT TV +
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/161969
+#EXTINF:-1,PT: SPORT TV + HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438350
+#EXTINF:-1,PT: SPORT TV + H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427060
+#EXTINF:-1,PT: SPORT TV 1
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/285911
+#EXTINF:-1,PT: SPORT TV 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/302761
+#EXTINF:-1,PT: SPORT TV 1 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427058
+#EXTINF:-1,PT: SPORT TV 1 1080
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427068
+#EXTINF:-1,PT: SPORT TV 2
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/161957
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/205667
+#EXTINF:-1,PT: SPORT TV 2 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427057
+#EXTINF:-1,PT: SPORT TV 2 1080
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427056
+#EXTINF:-1,PT: SPORT TV 3
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/161966
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/205668
+#EXTINF:-1,PT: SPORT TV 3 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427055
+#EXTINF:-1,PT: SPORT TV 3 1080
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427065
+#EXTINF:-1,PT: SPORT TV 4
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/161967
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1458
+#EXTINF:-1,PT: SPORT TV 4 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427054
+#EXTINF:-1,PT: SPORT TV 4 1080
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427064
+#EXTINF:-1,PT: SPORT TV 5
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/161968
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1459
+#EXTINF:-1,PT: SPORT TV 5 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427053
+#EXTINF:-1,PT: SPORT TV 6
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/374543
+#EXTINF:-1,PT: SPORT TV 6 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/367634
+#EXTINF:-1,PT: SPORT TV 6 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427061
+#EXTINF:-1,PT: SPORT TV 7
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/539338
+#EXTINF:-1,PT: SPORT TV 7 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/539421
+#EXTINF:-1,PT: SPORT TV 7 1080
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/539359
+#EXTINF:-1,PT: FUEL TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/546744
+#EXTINF:-1,PT: SPORT TV NBA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/178146
+#EXTINF:-1,PT: SPORT TV NBA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/252145
+#EXTINF:-1,PT: SPORT TV NBA H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/438351
+#EXTINF:-1,PT: BTV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/161970
+#EXTINF:-1,PT: BTV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/205659
+#EXTINF:-1,PT: BTV H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/271763
+#EXTINF:-1,PT: BTV 1080
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427052
+#EXTINF:-1,PT: PFC INTERNACIONAL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/277512
+#EXTINF:-1,PT: DAZN 1 SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/164977
+#EXTINF:-1,PT: DAZN 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/158069
+#EXTINF:-1,PT: DAZN 1 1080
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427063
+#EXTINF:-1,PT: DAZN 1 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427049
+#EXTINF:-1,PT: DAZN 2 SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/164978
+#EXTINF:-1,PT: DAZN 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/158902
+#EXTINF:-1,PT: DAZN 2 1080
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427062
+#EXTINF:-1,PT: DAZN 2 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/427048
+#EXTINF:-1,PT: DAZN 3 SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/164979
+#EXTINF:-1,PT: DAZN 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/159765
+#EXTINF:-1,PT: DAZN 3 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439164
+#EXTINF:-1,PT: DAZN 3 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439165
+#EXTINF:-1,PT: DAZN 4 SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/164980
+#EXTINF:-1,PT: DAZN 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/159766
+#EXTINF:-1,PT: DAZN 4 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439166
+#EXTINF:-1,PT: DAZN 5 SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/164981
+#EXTINF:-1,PT: DAZN 5 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439167
+#EXTINF:-1,PT: DAZN 5 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439168
+#EXTINF:-1,PT: EUROSPORT 1
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136682
+#EXTINF:-1,PT: EUROSPORT 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/252144
+#EXTINF:-1,PT: EUROSPORT 1 H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2231
+#EXTINF:-1,PT: EUROSPORT 2
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132911
+#EXTINF:-1,PT: EUROSPORT 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/534810
+#EXTINF:-1,PT: A BOLA TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136661
+#EXTINF:-1,PT: REAL MADRID TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136663
+#EXTINF:-1,PT: CAÇAVISION
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132899
+#EXTINF:-1,PT: SPORTING TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2232
+#EXTINF:-1,PT: TOROS TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136662
+#EXTINF:-1,PT: ----- MUSICA -----
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/139980
+#EXTINF:-1,PT: MCM TOP
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/374673
+#EXTINF:-1,PT: MCM POP
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132890
+#EXTINF:-1,PT: MTV PORTUGAL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136673
+#EXTINF:-1,PT: MTV 00S
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/374537
+#EXTINF:-1,PT: MEZZO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136675
+#EXTINF:-1,PT: TRACE URBAN
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136672
+#EXTINF:-1,PT: TRACE TOCA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/374535
+#EXTINF:-1,PT: AFRO MUSIC CHANNEL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136674
+#EXTINF:-1,PT: ----- CRIANCAS -----
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/139978
+#EXTINF:-1,PT: PANDA KIDS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/361078
+#EXTINF:-1,PT: CANAL PANDA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/440501
+#EXTINF:-1,PT: CANAL PANDA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2222
+#EXTINF:-1,PT: BIGGS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/180946
+#EXTINF:-1,PT: NICKELODEON
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136669
+#EXTINF:-1,PT: NICK JR.
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/181786
+#EXTINF:-1,PT: SIC K
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2217
+#EXTINF:-1,PT: BABY TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136667
+#EXTINF:-1,PT: CARTOON NETWORK
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132902
+#EXTINF:-1,PT: DISNEY CHANNEL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439320
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2223
+#EXTINF:-1,PT: DISNEY JUNIOR HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439319
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2224
+#EXTINF:-1,PT: ----- DOCUMENTARIOS -----
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/139979
+#EXTINF:-1,PT: NATIONAL GEO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/233871
+#EXTINF:-1,PT: NATIONAL GEO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/233872
+#EXTINF:-1,PT: NATIONAL GEO H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132920
+#EXTINF:-1,PT: NAT GEO WILD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2228
+#EXTINF:-1,PT: TRAVEL CHANNEL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/330929
+#EXTINF:-1,PT: TRAVEL CHANNEL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/330928
+#EXTINF:-1,PT: TRAVEL CHANNEL H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/330927
+#EXTINF:-1,PT: TRAVEL XP 1080
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439318
+#EXTINF:-1,PT: MOTORVISION
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132896
+#EXTINF:-1,PT: FOOD NETWORK
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/181785
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136266
+#EXTINF:-1,PT: ID INVESTIGATION DISCOVERY HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136671
+#EXTINF:-1,PT: ID INVESTIGATION H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/169310
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2226
+#EXTINF:-1,PT: DISCOVERY CHANNEL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/272331
+#EXTINF:-1,PT: DISCOVERY CHANNEL H.265/HEVC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/272332
+#EXTINF:-1,PT: CRIME + INVESTIGATION TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136629
+#EXTINF:-1,PT: CAÇA E PESCA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/132898
+#EXTINF:-1,PT: HISTORIA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2227
+#EXTINF:-1,PT: ODISSEIA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136678
+#EXTINF:-1,PT: AMC BREAK
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/158901
+#EXTINF:-1,PT: AMC BREAK 1080
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/439317
+#EXTINF:-1,PT: TLC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136681
+#EXTINF:-1,FR: TF1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1158
+#EXTINF:-1,FR: TF1 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/29961
+#EXTINF:-1,FR: TF1+1 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/208894
+#EXTINF:-1,FR: TF1+1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218641
+#EXTINF:-1,FR: FRANCE 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1941
+#EXTINF:-1,FR: FRANCE 2 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/29960
+#EXTINF:-1,FR: FRANCE 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1942
+#EXTINF:-1,FR: FRANCE 3 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/50900
+#EXTINF:-1,FR: FRANCE 3 NOA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/379577
+#EXTINF:-1,FR: FRANCE 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/343
+#EXTINF:-1,FR: FRANCE 4 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/50901
+#EXTINF:-1,FR: FRANCE 5 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1943
+#EXTINF:-1,FR: FRANCE 5 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/29959
+#EXTINF:-1,FR: M6 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1159
+#EXTINF:-1,FR: M6 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/29962
+#EXTINF:-1,FR: 6TER HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/366
+#EXTINF:-1,FR: 6TER FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/29954
+#EXTINF:-1,FR: TPMP HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1931
+#EXTINF:-1,FR: TPMP FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/134234
+#EXTINF:-1,FR: T18 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/611437
+#EXTINF:-1,FR: T18 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/611438
+#EXTINF:-1,FR: W9 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1947
+#EXTINF:-1,FR: W9 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384429
+#EXTINF:-1,FR: TMC HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1946
+#EXTINF:-1,FR: TMC FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/29955
+#EXTINF:-1,FR: TMC+1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/137937
+#EXTINF:-1,FR: TMC+1 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218644
+#EXTINF:-1,FR: PARIS PREMIERE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2546
+#EXTINF:-1,FR: TV BREIZH HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3805
+#EXTINF:-1,FR: TV BREIZH FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384431
+#EXTINF:-1,FR: E! ENTERTAINMENT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3999
+#EXTINF:-1,FR: E! ENTERTAINMENT FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218603
+#EXTINF:-1,FR: SYFY HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1238
+#EXTINF:-1,FR: SYFY FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218638
+#EXTINF:-1,FR: COMEDY CENTRAL  HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/165280
+#EXTINF:-1,FR: LUCKY JACK HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187836
+#EXTINF:-1,FR: LFM TV FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/288953
+#EXTINF:-1, FR: GOURMAND TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/490909
+#EXTINF:-1,FR: ----- CINEMA -----
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/135913
+#EXTINF:-1,FR: CANAL+ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/364
+#EXTINF:-1,FR: CANAL+ FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187547
+#EXTINF:-1,FR: CANAL+ GRAND ECRAN HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/485824
+#EXTINF:-1,FR: CANAL+ BOX OFFICE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/485823
+#EXTINF:-1,FR: CANAL+ CINÉMA(S) HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/355
+#EXTINF:-1,FR: CANAL+ CINÉMA(S) FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187544
+#EXTINF:-1,FR: CINE+ EMOTION HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1474
+#EXTINF:-1,FR: CINE+ EMOTION FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/145000
+#EXTINF:-1,FR: CINE+ FRISSON HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/524
+#EXTINF:-1,FR: CINE+ FRISSON FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/144998
+#EXTINF:-1,FR: CINE+ FAMIZ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/523
+#EXTINF:-1,FR: CINE+ FAMIZ FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/144999
+#EXTINF:-1,FR: CINE+ CLASSIC HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1480
+#EXTINF:-1,FR: CINE+ CLASSIC FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218670
+#EXTINF:-1,FR: CINE CLASSIC FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384828
+#EXTINF:-1,FR: ACTION HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2541
+#EXTINF:-1,FR: ACTION FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/473989
+#EXTINF:-1,FR: TCM CINEMA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2544
+#EXTINF:-1,FR: TCM CINEMA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/473990
+#EXTINF:-1,FR: PARAMOUNT CHANNEL FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/199988
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3807
+#EXTINF:-1,FR: PARAMOUNT DECALE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/199990
+#EXTINF:-1,FR: PARAMOUNT DECALE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/199989
+#EXTINF:-1,FR: NOLLYWOOD HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/94565
+#EXTINF:-1,FR: NOLLYWOOD EPIC HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/273291
+#EXTINF:-1,FR: NOLLYWOOD FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/208279
+#EXTINF:-1,FR: EUROCHANNEL FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/281215
+#EXTINF:-1,FR: A+ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/279603
+#EXTINF:-1,FR: CANAL+ GRAND ECRAN FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/461065
+#EXTINF:-1,FR: CANAL+ SERIES HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1444
+#EXTINF:-1,FR: CANAL+  SERIES FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/145002
+#EXTINF:-1,FR: TF1 SERIES FILMS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/359
+#EXTINF:-1,FR: TF1 SERIES FILMS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/29957
+#EXTINF:-1,FR: TFX HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1949
+#EXTINF:-1,FR: TFX FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/29956
+#EXTINF:-1,FR: COMEDIE+ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3813
+#EXTINF:-1,FR: COMEDIE+ FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384455
+#EXTINF:-1,FR: WARNER TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/130875
+#EXTINF:-1,FR: WARNER TV FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/188532
+#EXTINF:-1,FR: POLAR+ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/130874
+#EXTINF:-1,FR: POLAR+ FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384457
+#EXTINF:-1,FR:  DISNEY CINEMA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218571
+#EXTINF:-1,FR: BET HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/8652
+#EXTINF:-1,FR: BET FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218589
+#EXTINF:-1,FR: SERIE CLUB HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3803
+#EXTINF:-1,FR: SERIE CLUB FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218636
+#EXTINF:-1,FR: TEVA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2545
+#EXTINF:-1,FR: TEVA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/473988
+#EXTINF:-1,FR: AB1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/7443
+#EXTINF:-1,FR: AB1 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384791
+#EXTINF:-1,FR: AB3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/197281
+#EXTINF:-1,FR: AB3 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218585
+#EXTINF:-1,FR: CSTAR HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1950
+#EXTINF:-1,FR: CSTAR FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/134233
+#EXTINF:-1,FR: RTL 9 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2542
+#EXTINF:-1,FR: RTL 9 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218634
+#EXTINF:-1,FR: 13 EME RUE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1236
+#EXTINF:-1,FR: 13 EME RUE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218558
+#EXTINF:-1,FR: CLIQUE TV FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218596
+#EXTINF:-1,FR: NOVELAS TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/262678
+#EXTINF:-1,FR: CANAL+ FOOT SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/463933
+#EXTINF:-1,FR: CANAL+ FOOT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/463932
+#EXTINF:-1,FR: CANAL+ FOOT FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/461064
+#EXTINF:-1,FR: CANAL+ SPORT 360 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/365
+#EXTINF:-1,FR: CANAL+ SPORT 360 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187545
+#EXTINF:-1,FR: CANAL+ SPORT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/356
+#EXTINF:-1,FR: CANAL+ SPORT FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187549
+#EXTINF:-1,FR: DAZN LIGUE 1+ FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/622713
+#EXTINF:-1,FR: DAZN LIGUE 1+ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/622712
+#EXTINF:-1,FR: LIGUE 1+ HD ( VENDREDI MATCH )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548767
+#EXTINF:-1,FR: LIGUE 1+ FHD ( VENDREDI MATCH )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548766
+#EXTINF:-1,FR: LIGUE 1+ HD ( SAMEDI MATCH 1 )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548765
+#EXTINF:-1,FR: LIGUE 1+ FHD ( SAMEDI MATCH 1 )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548764
+#EXTINF:-1,FR: LIGUE 1+ HD ( SAMEDI MATCH 2 )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548763
+#EXTINF:-1,FR: LIGUE 1+ FHD ( SAMEDI MATCH 2 )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548762
+#EXTINF:-1,FR: LIGUE 1+ HD ( DIMANCHE 1ER MATCH )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548759
+#EXTINF:-1,FR: LIGUE 1+ FHD ( DIMANCHE 1ER MATCH )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548758
+#EXTINF:-1,FR: LIGUE 1+ HD ( DIMANCHE 2EME MATCH )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548757
+#EXTINF:-1,FR: LIGUE 1+ FHD ( DIMANCHE 2EME MATCH )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548756
+#EXTINF:-1,FR: LIGUE 1+ HD ( DIMANCHE 3ÈME MATCH )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548755
+#EXTINF:-1,FR: LIGUE 1+ FHD ( DIMANCHE 3EME MATCH )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548754
+#EXTINF:-1,FR: LIGUE 1+ HD ( DIMANCHE 4ÈME MATCH )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548753
+#EXTINF:-1,FR: LIGUE 1+ FHD ( DIMANCHE 4EME MATCH )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548752
+#EXTINF:-1,FR: LIGUE 1+ HD ( CANAL MULTIPLEX LIVE ONLY )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548761
+#EXTINF:-1,FR: DAZN LEAGUE 1 FHD ( CANAL MULTIPLEX LIVE ONLY )
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548760
+#EXTINF:-1,FR: LIGUE 1+ 1 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/622020
+#EXTINF:-1,FR: LIGUE 1+ 2 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/622015
+#EXTINF:-1,FR: LIGUE 1+ 3 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/622017
+#EXTINF:-1,FR: LIGUE 1+ 4 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/622019
+#EXTINF:-1,FR: LIGUE 1+ 5 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/622022
+#EXTINF:-1,FR: LIGUE 1+ 6 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/622021
+#EXTINF:-1,FR: LIGUE 1+ 7 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/622018
+#EXTINF:-1,FR: LIGUE 1+ 8 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/622016
+#EXTINF:-1,FR: LIGUE 1+ 9 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/622013
+#EXTINF:-1,FR: LIGUE 1+ 10 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/622014
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/595589
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/595588
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/595587
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/595586
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 5 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/595585
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 6 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/595584
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 7 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/595583
+#EXTINF:-1,FR: VIP DAZN LIGUE 1 PPV 8 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/595582
+#EXTINF:-1,FR: DAZN LIGUE 2 - 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/569630
+#EXTINF:-1,FR: DAZN LIGUE 2 - 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/569629
+#EXTINF:-1,FR: DAZN LIGUE 2 - 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/569628
+#EXTINF:-1,FR: DAZN LIGUE 2 - 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/569627
+#EXTINF:-1,FR: DAZN LIGUE 2 - 5 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/569626
+#EXTINF:-1,FR: DAZN LIGUE 2 - 6 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/569625
+#EXTINF:-1,FR: DAZN LIGUE 2 - 7 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/569624
+#EXTINF:-1,FR: DAZN LIGUE 2 - 8 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/569623
+#EXTINF:-1,FR: DAZN EVENT 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544978
+#EXTINF:-1,FR: DAZN EVENT 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544977
+#EXTINF:-1,FR: DAZN EVENT 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544976
+#EXTINF:-1,FR: DAZN EVENT 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544975
+#EXTINF:-1,FR: DAZN EVENT 5 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544974
+#EXTINF:-1,FR: DAZN EVENT 6 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544973
+#EXTINF:-1,FR: DAZN EVENT 7 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544972
+#EXTINF:-1,FR: DAZN EVENT 8 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/545476
+#EXTINF:-1,FR: DAZN EVENT 9 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/545475
+#EXTINF:-1,FR: DAZN EVENT 10 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/545474
+#EXTINF:-1,FR: DAZN EVENT 11 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/545473
+#EXTINF:-1,FR: DAZN EVENT 12 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548958
+#EXTINF:-1,FR: DAZN EVENT 13 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/549059
+#EXTINF:-1,FR: DAZN EVENT 14 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/552673
+#EXTINF:-1,FR: DAZN EVENT 15 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/552674
+#EXTINF:-1,FR: DAZN EVENT 16 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553734
+#EXTINF:-1,FR: DAZN EVENT 17 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553733
+#EXTINF:-1,FR: DAZN EVENT 18 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553732
+#EXTINF:-1,FR: DAZN EVENT 19 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553731
+#EXTINF:-1,FR: DAZN EVENT 20 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553730
+#EXTINF:-1,FR: CANAL+ LIVE 1 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544786
+#EXTINF:-1,FR: CANAL+ LIVE 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544785
+#EXTINF:-1,FR: CANAL+ LIVE 2 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544784
+#EXTINF:-1,FR: CANAL+ LIVE 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544783
+#EXTINF:-1,FR: CANAL+ LIVE 3 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544782
+#EXTINF:-1,FR: CANAL+ LIVE 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544781
+#EXTINF:-1,FR: CANAL+ LIVE 4 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544780
+#EXTINF:-1,FR: CANAL+ LIVE 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544779
+#EXTINF:-1,FR: CANAL+ LIVE 5 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544778
+#EXTINF:-1,FR: CANAL+ LIVE 5 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544777
+#EXTINF:-1,FR: CANAL+ LIVE 6 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544776
+#EXTINF:-1,FR: CANAL+ LIVE 6 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544775
+#EXTINF:-1,FR: CANAL+ LIVE 7 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544774
+#EXTINF:-1,FR: CANAL+ LIVE 7 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544773
+#EXTINF:-1,FR: CANAL+ LIVE 8 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544772
+#EXTINF:-1,FR: CANAL+ LIVE 8 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544771
+#EXTINF:-1,FR: CANAL+ LIVE 9 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544770
+#EXTINF:-1,FR: CANAL+ LIVE 9 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544769
+#EXTINF:-1,FR: CANAL+ LIVE 10 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544768
+#EXTINF:-1,FR: CANAL+ LIVE 10 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544767
+#EXTINF:-1,FR: CANAL+ LIVE 11 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544766
+#EXTINF:-1,FR: CANAL+ LIVE 11 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544765
+#EXTINF:-1,FR: CANAL+ LIVE 12 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544764
+#EXTINF:-1,FR: CANAL+ LIVE 12 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544763
+#EXTINF:-1,FR: CANAL+ LIVE 13 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544762
+#EXTINF:-1,FR: CANAL+ LIVE 13 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544761
+#EXTINF:-1,FR: CANAL+ LIVE 14 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544760
+#EXTINF:-1,FR: CANAL+ LIVE 14 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544759
+#EXTINF:-1,FR: CANAL+ LIVE 15 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544758
+#EXTINF:-1,FR: CANAL+ LIVE 15 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544757
+#EXTINF:-1,FR: CANAL+ LIVE 16 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544756
+#EXTINF:-1,FR: CANAL+ LIVE 16 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544755
+#EXTINF:-1,FR: CANAL+ LIVE 17 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544754
+#EXTINF:-1,FR: CANAL+ LIVE 17 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544753
+#EXTINF:-1,FR: CANAL+ LIVE 18 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544752
+#EXTINF:-1,FR: CANAL+ LIVE 18 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544751
+#EXTINF:-1,FR: CANAL+ LIVE 19 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544750
+#EXTINF:-1,FR: CANAL+ LIVE 19 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/544749
+#EXTINF:-1,FR: F1 TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/609938
+#EXTINF:-1,FR: FIBA 3X FESTIVAL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/607089
+#EXTINF:-1,FR: |VIP| CANAL+ SPORT 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516163
+#EXTINF:-1,FR: |VIP| CANAL+ SPORT 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516162
+#EXTINF:-1,FR: |VIP| CANAL+ SPORT 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516161
+#EXTINF:-1,FR: |VIP| CANAL+ SPORT 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516160
+#EXTINF:-1,FR: |VIP| CANAL+ SPORT 5 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516159
+#EXTINF:-1,FR: CANAL+ PREMIER LEAGUE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/546124
+#EXTINF:-1,FR: CANAL+ PREMIER LEAGUE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/339544
+#EXTINF:-1,FR: CANAL+ MOTO GP HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553250
+#EXTINF:-1,FR: CANAL+ TOP14 RUGBY HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553249
+#EXTINF:-1,FR: BEIN SPORT 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/361
+#EXTINF:-1,FR: BEIN SPORT 1 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187813
+#EXTINF:-1,FR: BEIN SPORT 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/362
+#EXTINF:-1,FR: BEIN SPORT 2 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187812
+#EXTINF:-1,FR: BEIN SPORT 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/363
+#EXTINF:-1,FR: BEIN SPORT 3 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187811
+#EXTINF:-1,FR: BEIN SPORTS MAX 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/8565
+#EXTINF:-1,FR: BEIN SPORT MAX 4 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187747
+#EXTINF:-1,FR: BEIN SPORT MAX 5 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187746
+#EXTINF:-1,FR: BEIN SPORT MAX HD 5
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/8566
+#EXTINF:-1,FR: BEIN SPORT MAX HD 6
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/8567
+#EXTINF:-1,FR: BEIN SPORT MAX 6 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187745
+#EXTINF:-1,FR: BEIN SPORT MAX HD 7
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/73482
+#EXTINF:-1,FR: BEIN SPORT MAX 7 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/604655
+#EXTINF:-1,FR: BEIN SPORT MAX HD 8
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/73483
+#EXTINF:-1,FR: BEIN SPORT MAX HD 9
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/73484
+#EXTINF:-1,FR: BEIN SPORT MAX  HD 10
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187741
+#EXTINF:-1,FR: TECH & CO FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/459821
+#EXTINF:-1,FR: L'EQUIPE 21 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384460
+#EXTINF:-1,FR: L'EQUIPE 21 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384461
+#EXTINF:-1,FR: INFOSPORT+ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384462
+#EXTINF:-1,FR: INFOSPORT+ FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/235058
+#EXTINF:-1,FR: RMC SPORT UHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/198241
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/7175
+#EXTINF:-1,FR: RMC SPORT 1 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187799
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/7176
+#EXTINF:-1,FR: RMC SPORT 2 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/174965
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/7434
+#EXTINF:-1,FR: RMC SPORT 3 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/176079
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/137934
+#EXTINF:-1,FR: RMC SPORT  4 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/176136
+#EXTINF:-1,FR: RMC SPORT 5 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/209453
+#EXTINF:-1,FR: RMC SPORT LIVE 6
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187797
+#EXTINF:-1,FR: RMC SPORT LIVE 7
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187796
+#EXTINF:-1,FR: RMC SPORT LIVE 10
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218540
+#EXTINF:-1,FR: RMC SPORT LIVE 13
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218543
+#EXTINF:-1,FR: RMC ACCESS  2 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/161707
+#EXTINF:-1,FR: |VIP| LIGUE 2 PRIME VIDEO MPLX HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516167
+#EXTINF:-1,FR: EUROSPORT 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1892
+#EXTINF:-1,FR: EUROSPORT 1 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384463
+#EXTINF:-1,FR: EUROSPORT 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3827
+#EXTINF:-1,FR: EUROSPORT 2 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384464
+#EXTINF:-1,FR: EUROSPORT 360 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/474775
+#EXTINF:-1,FR: EUROSPORT 360 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/474774
+#EXTINF:-1,FR: EUROSPORT 360 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/474773
+#EXTINF:-1,FR: EUROSPORT 360 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/474772
+#EXTINF:-1,FR: EUROSPORT 360 5 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/474771
+#EXTINF:-1,FR: EUROSPORT 360 6 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/474770
+#EXTINF:-1,FR: EUROSPORT 360 7 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/474769
+#EXTINF:-1,FR: EUROSPORT 360 8 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/474768
+#EXTINF:-1,FR:  AUTOMOTO TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/330470
+#EXTINF:-1,FR: AUTOMOTO LA CHAINE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/188511
+#EXTINF:-1,FR: EQUIDIA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1491
+#EXTINF:-1,FR: EQUIDIA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/188530
+#EXTINF:-1,FR: GOLF+  HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187808
+#EXTINF:-1,FR: GOLF CHANNEL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/8653
+#EXTINF:-1,FR: GOLF CHANNEL FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218687
+#EXTINF:-1,FR: EXTREME SPORTS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/188528
+#EXTINF:-1,FR: SPORT EN FRANCE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/288958
+#EXTINF:-1,FR: OL TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/202593
+#EXTINF:-1,FR: BFM GRAND LILLE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/88284
+#EXTINF:-1,FR: L EQUIPE CINE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1488
+#EXTINF:-1,FR: TRACE SPORTS STAR HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/490911
+#EXTINF:-1, FR: NAUTICAL TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/490910
+#EXTINF:-1,FR: |VIP| FIFA+ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516201
+#EXTINF:-1,FR: GOLF+ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516200
+#EXTINF:-1,FR: |VIP| EQUIDIA LIVE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516197
+#EXTINF:-1,FR: |VIP| HORSE TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516195
+#EXTINF:-1,FR: |VIP| MOTORVISION HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516194
+#EXTINF:-1,FR: |VIP| MOTORSPORT TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516193
+#EXTINF:-1,FR: |VIP| MOTOR RACING HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516192
+#EXTINF:-1,FR: |VIP| F1 TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516191
+#EXTINF:-1,FR: |VIP| MCS EXTREME HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516190
+#EXTINF:-1,FR: |VIP| ADVENTURE SPORTS TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516188
+#EXTINF:-1,FR: |VIP| THE BOAT SHOW HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516187
+#EXTINF:-1,FR: |VIP| FUEL TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516186
+#EXTINF:-1,FR: |VIP| WORLD BILLIARDS TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516185
+#EXTINF:-1,FR: |VIP| WWE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516184
+#EXTINF:-1,FR: |VIP| GLORY KICKBOXING HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516183
+#EXTINF:-1,FR: |VIP| MGG TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516182
+#EXTINF:-1,FR: |VIP| BOULISTENAUTE HD (EVENT ONLY)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516180
+#EXTINF:-1,FR: CANAL+ BOX OFFICE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/517424
+#EXTINF:-1,FR: |FR| L'ÉQUIPE LIVE FOOT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/557167
+#EXTINF:-1,FR: |FR| L'ÉQUIPE LIVE 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/557166
+#EXTINF:-1,FR: |FR| L'ÉQUIPE LIVE 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/557165
+#EXTINF:-1,FR: |FR| EQUIDIA LIVE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/557163
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 1 HD (EVENT ONLY)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516179
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 2 HD (EVENT ONLY)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516178
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 3 HD (EVENT ONLY)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516177
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 4 HD (EVENT ONLY)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516176
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 5 HD (EVENT ONLY)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516175
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 6 HD (EVENT ONLY)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516174
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 7 HD (EVENT ONLY)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516173
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 8 HD (EVENT ONLY)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516172
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 9 HD (EVENT ONLY)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516171
+#EXTINF:-1,FR: |VIP| L'ÉQUIPE LIVE 10 HD (EVENT ONLY)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516170
+#EXTINF:-1,FR: DAZN SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/485186
+#EXTINF:-1,FR: DAZN HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/485185
+#EXTINF:-1,FR: |VIP| DAZN 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516166
+#EXTINF:-1,FR: |VIP| DAZN PPV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/516165
+#EXTINF:-1,FR: PLUTO TV ANIMAUX
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610481
+#EXTINF:-1,FR: PLUTO TV AVENTURE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610480
+#EXTINF:-1,FR: PLUTO TV CATASTROPHE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610479
+#EXTINF:-1,FR: PLUTO TV CINÉ
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610478
+#EXTINF:-1,FR: PLUTO TV CINÉ D'ASIE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610477
+#EXTINF:-1,FR: PLUTO TV CINÉ RÉTRO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610476
+#EXTINF:-1,FR: PLUTO TV CINÉ+
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610475
+#EXTINF:-1,FR: PLUTO TV CLASSIC HIP-HOP
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610474
+#EXTINF:-1,FR: PLUTO TV CLASSIC ROCK
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610473
+#EXTINF:-1,FR: PLUTO TV CLASSIC TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610472
+#EXTINF:-1,FR: PLUTO TV COMÉDIE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610471
+#EXTINF:-1,FR: PLUTO TV CUISINE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610470
+#EXTINF:-1,FR: PLUTO TV EXTRÊME
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610469
+#EXTINF:-1,FR: PLUTO TV FRENCH COLLECTION
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610468
+#EXTINF:-1,FR: PLUTO TV HISTOIRE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610467
+#EXTINF:-1,FR: PLUTO TV INSIDE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610466
+#EXTINF:-1,FR: PLUTO TV INVESTIGATION
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610465
+#EXTINF:-1,FR: PLUTO TV JUNIOR
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610464
+#EXTINF:-1,FR: PLUTO TV KIDS ANIMATION
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610462
+#EXTINF:-1,FR: PLUTO TV KIDS CLASSICS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610461
+#EXTINF:-1,FR: PLUTO TV KIDS GAMING
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610460
+#EXTINF:-1,FR: PLUTO TV KIDS SÉRIES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610459
+#EXTINF:-1,FR: PLUTO TV KIDS UKRAINE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610458
+#EXTINF:-1,FR: PLUTO TV LOVE SONGS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610457
+#EXTINF:-1,FR: PLUTO TV MOTOR
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610456
+#EXTINF:-1,FR: PLUTO TV PARANORMAL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610455
+#EXTINF:-1,FR: PLUTO TV POLAR
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610454
+#EXTINF:-1,FR: PLUTO TV RAP
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610452
+#EXTINF:-1,FR: PLUTO TV REALITY
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610451
+#EXTINF:-1,FR: PLUTO TV RETRO TOONS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610450
+#EXTINF:-1,FR: PLUTO TV ROMANCE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610449
+#EXTINF:-1,FR: PLUTO TV SCI-FI
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610448
+#EXTINF:-1,FR: PLUTO TV SERIES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610447
+#EXTINF:-1,FR: PLUTO TV SÉRIES FANTASTIQUES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610446
+#EXTINF:-1,FR: PLUTO TV STAR TREK
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610444
+#EXTINF:-1,FR: PLUTO TV SUPER KIDS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610443
+#EXTINF:-1,FR: PLUTO TV TEEN SERIES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610442
+#EXTINF:-1,FR: PLUTO TV TELENOVELA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610441
+#EXTINF:-1,FR: PLUTO TV THRILLERS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610440
+#EXTINF:-1,FR: PLUTO TV WESTERN
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610439
+#EXTINF:-1,FR: PLUTO TV ACTION
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610482
+#EXTINF:-1,FR: 100% DOCS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610438
+#EXTINF:-1,FR: AFV FAMILY
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610437
+#EXTINF:-1,FR: MR BEAN ANIMÉ
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610436
+#EXTINF:-1,FR: BBC DOCTOR WHO FRANCE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610435
+#EXTINF:-1,FR: BELAIR TV (MUSEUM TV PARIS)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610434
+#EXTINF:-1,FR: BEYBLADE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610433
+#EXTINF:-1,FR: BIGTIME
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610432
+#EXTINF:-1,FR: BLOOMBERG ORIGINALS (QUICKTAKE)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610431
+#EXTINF:-1,FR: BLOOMBERG TELEVISION
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610430
+#EXTINF:-1,FR: BREF CINÉMA 100% COURT MÉTRAGE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610429
+#EXTINF:-1,FR: CAR CITY ADVENTURES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610428
+#EXTINF:-1,FR: CGTN FRANÇAIS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610427
+#EXTINF:-1,FR: DAZN COMBAT
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610426
+#EXTINF:-1,FR: DAZN WOMEN'S FOOTBALL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610425
+#EXTINF:-1,FR: EXPLORE BY TVPLAYER
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610422
+#EXTINF:-1,FR: FIFA+
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610421
+#EXTINF:-1,FR: FILM RISE BINGE WATCH FRANCE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610420
+#EXTINF:-1,FR: FILM RISE DEGRASSI LA NOUVELLE GÉNÉRATION
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610419
+#EXTINF:-1,FR: FILM RISE HOT ONES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610418
+#EXTINF:-1,FR: FILM RISE LES ROUTES DU PARADIS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610417
+#EXTINF:-1,FR: FILM RISE SÉRIES FRANCE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610416
+#EXTINF:-1,FR: FILM RISE Z NATION FRANCE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610415
+#EXTINF:-1,FR: GRJNGO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610414
+#EXTINF:-1,FR: HÉLÈNE ET LES GARÇONS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610413
+#EXTINF:-1,FR: HOMICIDE LA CHAÎNE DU FAIT DIVERS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610412
+#EXTINF:-1,FR: ITV UN VILLAGE FRANÇAIS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610411
+#EXTINF:-1,FR: L'EFFET PAPILLON
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610410
+#EXTINF:-1,FR: LE FIGARO IDF
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610409
+#EXTINF:-1,FR: LE MEILLEUR D'ARTHUR
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610408
+#EXTINF:-1,FR: LE MIRACLE DE L'AMOUR
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610407
+#EXTINF:-1,FR: LES 30 HISTOIRES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610406
+#EXTINF:-1,FR: LES ANGES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610405
+#EXTINF:-1,FR: LES ANNÉES FAC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610404
+#EXTINF:-1,FR: LES CORDIER
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610403
+#EXTINF:-1,FR: LES FILLES D'À CÔTÉ
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610402
+#EXTINF:-1,FR: LES NOUVEAUX DETECTIVES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610401
+#EXTINF:-1,FR: LES RAZMOKET
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610400
+#EXTINF:-1,FR: LES SECRETS DE NOS RÉGIONS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610399
+#EXTINF:-1,FR: LES Z'AMOURS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610398
+#EXTINF:-1,FR: LITTORAL FM
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610397
+#EXTINF:-1,FR: LOUIS LA BROCANTE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610396
+#EXTINF:-1,FR: MACGYVER
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610395
+#EXTINF:-1,FR: MOTORVISION TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610394
+#EXTINF:-1,FR: MOTUS LA CHAÎNE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610393
+#EXTINF:-1,FR: PASSION BOLLYWOOD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610392
+#EXTINF:-1,FR: PASSION NOVELAS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610391
+#EXTINF:-1,FR: RAKUTEN FAMILY
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610390
+#EXTINF:-1,FR: QUI VEUT GAGNER DES MILLIONS LA CHAÎNE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610389
+#EXTINF:-1,FR: RAKUTEN SPOTLIGHT FRANCE (720P)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610388
+#EXTINF:-1,FR: RAKUTEN TV ALERTE COBRA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610387
+#EXTINF:-1,FR: RAKUTEN TV BBC DRAMA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610386
+#EXTINF:-1,FR: RAKUTEN TV FILMS ACTION
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610385
+#EXTINF:-1,FR: RAKUTEN TV FILMS COMÉDIE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610384
+#EXTINF:-1,FR: RAKUTEN TV FILMS DRAMES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610383
+#EXTINF:-1,FR: RAKUTEN TV FILMS FAMILLE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610382
+#EXTINF:-1,FR: RAKUTEN TV FILMS FRANÇAIS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610381
+#EXTINF:-1,FR: RAKUTEN TV FILMS ROMANCE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610380
+#EXTINF:-1,FR: RAKUTEN TV FILMS THRILLER
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610379
+#EXTINF:-1,FR: RAKUTEN TV GUSTO TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610378
+#EXTINF:-1,FR: RAKUTEN TV SÉRIES CRIME
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610376
+#EXTINF:-1,FR: RAKUTEN TV SHOWS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610375
+#EXTINF:-1,FR: RAKUTEN TV THE GUARDIAN
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610374
+#EXTINF:-1,FR: RAKUTEN TV TOP FILMS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610373
+#EXTINF:-1,FR: RAKUTEN TV TRAILERS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610372
+#EXTINF:-1,FR: REUTERS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610371
+#EXTINF:-1,FR: TÉLÉNANTES
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610370
+#EXTINF:-1,FR: TELEVISA TELENOVELA CHANNEL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610369
+#EXTINF:-1,FR: ULTIMATE CLASSIC WRESTLING
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610368
+#EXTINF:-1,FR: UN GARS UNE FILLE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610367
+#EXTINF:-1,FR: UN VILLAGE FRANÇAIS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610366
+#EXTINF:-1,FR: UNIVERS CINÉ LE MEILLEUR DU CINÉMA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610364
+#EXTINF:-1,FR: VEVO HIP-HOP ET RNB
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610363
+#EXTINF:-1,FR: VEVO POP
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610362
+#EXTINF:-1,FR: VIÀ MATÉLÉ
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610361
+#EXTINF:-1,FR: VIÀ MOSELLETV [NOT 24/7]
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610360
+#EXTINF:-1,FR: VIÀ OCCITANIE [NOT 24/7]
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610359
+#EXTINF:-1,FR: WALKER TEXAS RANGER
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610358
+#EXTINF:-1,FR: WASABI LA CHAÎNE ANIME
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610357
+#EXTINF:-1,FR: Y'A QUE LA VÉRITÉ QUI COMPTE LA CHAÎNE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610356
+#EXTINF:-1,FR: YU-GI-OH 24/7
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610355
+#EXTINF:-1,FR: ZYLO CINÉ NANAR
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610354
+#EXTINF:-1,FR: ZYLO CINÉ WESTERN
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610353
+#EXTINF:-1,FR: ZYLO EMOTION' L
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610352
+#EXTINF:-1,FR: ZYLO FRÉQUENCE NOVELAS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610351
+#EXTINF:-1,FR: ZYLO SCREAMIN
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/610350
+#EXTINF:-1,FR: SOUVENIRS FROM EARTH HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/602089
+#EXTINF:-1,FR: SOUVENIRS FROM EARTH FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/602088
+#EXTINF:-1,FR: CANAL+ DOCS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/601375
+#EXTINF:-1,FR: CANAL+ DOCS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384412
+#EXTINF:-1,FR: PLANETE+ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1890
+#EXTINF:-1,FR: PLANETE+ FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384465
+#EXTINF:-1,FR: PLANETE+ AVENTURE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1445
+#EXTINF:-1,FR: PLANETE+ AVENTURE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/188538
+#EXTINF:-1,FR: PLANETE+ CI HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1235
+#EXTINF:-1,FR: PLANETE+ CI FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384467
+#EXTINF:-1,FR: ARTE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1496
+#EXTINF:-1,FR: ARTE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/134232
+#EXTINF:-1,FR: TV 5 MONDE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/8559
+#EXTINF:-1,FR: NAT GEO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1893
+#EXTINF:-1,FR: NAT GEO FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384477
+#EXTINF:-1,FR: NAT GEO WILD HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2548
+#EXTINF:-1,FR: NAT GEO WILD FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187801
+#EXTINF:-1,FR: USHUAIA TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2549
+#EXTINF:-1,FR: USHUAIA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187790
+#EXTINF:-1,FR: RMC MECANIC HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/601268
+#EXTINF:-1,FR: RMC MECANIC FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/601269
+#EXTINF:-1,FR: RMC DECOUVERTE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1486
+#EXTINF:-1,FR: RMC DECOUVERTE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/134237
+#EXTINF:-1,FR: RMC STORY HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1948
+#EXTINF:-1,FR: RMC STORY FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/134236
+#EXTINF:-1,FR: MUSEUM CHANNEL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/208280
+#EXTINF:-1,FR: SCIENCE ET VIE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/335
+#EXTINF:-1,FR: SCIENCE ET VIE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384479
+#EXTINF:-1,FR: TLC HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1233
+#EXTINF:-1,FR: DISCOVERY FRANCE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2547
+#EXTINF:-1,FR: DISCOVERY FRANCE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/199984
+#EXTINF:-1,FR: CRIME DISTRICT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/94538
+#EXTINF:-1,FR: CRIME DISTRICT FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218598
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/94564
+#EXTINF:-1,FR: DISCOVERY INVEST FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218561
+#EXTINF:-1,FR: TLC FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/199985
+#EXTINF:-1,FR: TREK HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3822
+#EXTINF:-1,FR: ABXPLORE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/205450
+#EXTINF:-1,FR: TREK TV FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218580
+#EXTINF:-1,FR: HISTOIRE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1484
+#EXTINF:-1,FR: HISTOIRE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218609
+#EXTINF:-1,FR: TOUTE L HISTOIRE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2550
+#EXTINF:-1,FR: TOUTE L'HISTOIRE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/188525
+#EXTINF:-1,FR: ANIMAUX HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384676
+#EXTINF:-1,FR: ANIMAUX FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/334
+#EXTINF:-1,FR: CHASSE ET PECHE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/337
+#EXTINF:-1,FR: CHASSE ET PÊCHE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/188518
+#EXTINF:-1,FR: SEASONS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3804
+#EXTINF:-1,FR: SEASONS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218578
+#EXTINF:-1,FR: ----- ENFANT -----
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/135914
+#EXTINF:-1,FR: CANAL+ KID HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/357
+#EXTINF:-1,FR: CANAL+ KID FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187546
+#EXTINF:-1,FR: DISNEY CHANNEL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1891
+#EXTINF:-1,FR: DISNEY CHANNEL FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218570
+#EXTINF:-1,FR: DISNEY CHANNEL+1  HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1952
+#EXTINF:-1,FR: DISNEY CHANNEL+1 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218601
+#EXTINF:-1,FR: DISNEY JUNIOR HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1954
+#EXTINF:-1,FR: DISNEY JUNIOR FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218565
+#EXTINF:-1,FR: BOOMERANG HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1500
+#EXTINF:-1,FR: BOOMERANG FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218569
+#EXTINF:-1,FR: CARTOONITO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/602086
+#EXTINF:-1,FR: CARTOONITO FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/602085
+#EXTINF:-1,FR: NICKELODEON HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3809
+#EXTINF:-1,FR: NICKELODEON FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218574
+#EXTINF:-1,FR: NICKELODEON +1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/161753
+#EXTINF:-1,FR: NICKELODEON +1 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/602079
+#EXTINF:-1,FR: NICK JUNIOR HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3808
+#EXTINF:-1,FR: NICK JUNIOR FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/602078
+#EXTINF:-1,FR: NICKELODEON TEEN HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/224548
+#EXTINF:-1,FR: NICKELODEON TEEN FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/602077
+#EXTINF:-1,FR: WARNER TV NEXT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/8562
+#EXTINF:-1,FR: WARNER TV NEXT FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218592
+#EXTINF:-1,FR: TELETOON+ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1501
+#EXTINF:-1,FR: TELETOON+ FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218579
+#EXTINF:-1,FR: TELETOON +1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/6035
+#EXTINF:-1,FR: TELETOON+1 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218639
+#EXTINF:-1,FR: TOONAMI HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/94560
+#EXTINF:-1,FR: TOONAMI FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/473991
+#EXTINF:-1,FR: CANAL J HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3828
+#EXTINF:-1,FR: CANAL J FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218594
+#EXTINF:-1,FR: J-ONE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/94561
+#EXTINF:-1,FR: J-ONE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384481
+#EXTINF:-1,FR: GULLI HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/347
+#EXTINF:-1,FR: GULLI FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187828
+#EXTINF:-1,FR: TIJI HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3823
+#EXTINF:-1,FR: TIJI FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/197279
+#EXTINF:-1,FR: PIWI+ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3824
+#EXTINF:-1,FR: PIWI + FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/197280
+#EXTINF:-1,FR: MANGAS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/329
+#EXTINF:-1,FR: MANGAS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218572
+#EXTINF:-1,FR: GAME ONE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3812
+#EXTINF:-1,FR: GAME ONE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218607
+#EXTINF:-1,FR: GAME ONE+1
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/134346
+#EXTINF:-1,FR: CARTOON NETWORK HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1502
+#EXTINF:-1,FR: CARTOON NETWORK FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218564
+#EXTINF:-1, FR: PITCHOUN TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/490908
+#EXTINF:-1,FR: PITCHOUN TV FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/602081
+#EXTINF:-1,FR: IDF1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212535
+#EXTINF:-1,FR: MONDE GUMBALL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/252132
+#EXTINF:-1,FR: DREAMWORKS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/250776
+#EXTINF:-1,FR: MONDE ET NATURE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/250737
+#EXTINF:-1,FR: DRAGON BALL SUPER
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/250449
+#EXTINF:-1,FR: TOM ET JERRY
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/250301
+#EXTINF:-1,FR: PEPPA PIG
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/250778
+#EXTINF:-1,FR: DORA L'EXPLORATRICE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/250300
+#EXTINF:-1,FR: DC COMICS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/250286
+#EXTINF:-1,FR: WWE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/249211
+#EXTINF:-1,FR: |FR| DRIVE TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/557164
+#EXTINF:-1,FR: |FR| RUGBY ZONE TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/557162
+#EXTINF:-1,FR: SL CINEMA ACTION HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/169318
+#EXTINF:-1,FR: SL CINEMA ACTION 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/169336
+#EXTINF:-1,FR: SL CINEMA ACTION 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/211958
+#EXTINF:-1,FR: SL CINEMA DRAME 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/169335
+#EXTINF:-1,FR: SL CINEMA COMEDY HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/169321
+#EXTINF:-1,FR: SL CINEMA COMEDY 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212616
+#EXTINF:-1,FR: SL CINEMA PREMIUM HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/169320
+#EXTINF:-1,FR: SL CINEMA GOLD HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/169319
+#EXTINF:-1,FR: SL CINEMA 2019 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/198913
+#EXTINF:-1,FR: SL CINEMA 1 2019 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/199459
+#EXTINF:-1,FR: SL CINEMA 2 2019 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/200745
+#EXTINF:-1,FR: CINE OFFICE 1 ACTION HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212571
+#EXTINF:-1,FR: CINE OFFICE 2 COMEDY HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212570
+#EXTINF:-1,FR: CINE OFFICE 3 ARTS MARCIAUX HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212572
+#EXTINF:-1,FR: CINE OFFICE 4 BIOPIC HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212610
+#EXTINF:-1,FR: CINE OFFICE 5 DOCUMENTAIRES HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212593
+#EXTINF:-1,FR: CINE OFFICE 6 GUERRE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212615
+#EXTINF:-1,FR: CINE OFFICE 7 WALT DISNEY HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212617
+#EXTINF:-1,FR: CINE OFFICE 8 POLICIER HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212625
+#EXTINF:-1,FR: CINE OFFICE 9 EPOUVANTE-HORREUR HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212765
+#EXTINF:-1,FR: CINE OFFICE 10 COMEDY 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212994
+#EXTINF:-1,FR: CINE OFFICE 11 ACTION 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/213004
+#EXTINF:-1,FR: CINE OFFICE 12 MANGAS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/237537
+#EXTINF:-1,FR: CINE OFFICE 13 DRAME HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/238029
+#EXTINF:-1,FR: CINE OFFICE 14 CONCERT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/247031
+#EXTINF:-1,FR: CANALPLAY 1
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2126
+#EXTINF:-1,FR: CANALPLAY 2
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2127
+#EXTINF:-1,FR: CANALPLAY 3
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2128
+#EXTINF:-1,FR: CANALPLAY 4
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2129
+#EXTINF:-1,FR: CANALPLAY 5
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/2130
+#EXTINF:-1,FR: A LA CARTE 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3830
+#EXTINF:-1,FR: A LA CARTE 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3831
+#EXTINF:-1,FR: A LA CARTE 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3832
+#EXTINF:-1,FR: A LA CARTE 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/208912
+#EXTINF:-1,FR: A LA CARTE 5 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3973
+#EXTINF:-1,FR: A LA CARTE 6 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3974
+#EXTINF:-1,FR: A LA CARTE 7 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3975
+#EXTINF:-1,FR: A LA CARTE 8 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/150671
+#EXTINF:-1,FR: A LA CARTE 9 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/150672
+#EXTINF:-1,FR: A LA CARTE 10 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/150673
+#EXTINF:-1,FR: PARIS PREMIERE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/384430
+#EXTINF:-1,FR: TVM 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/444916
+#EXTINF:-1,FR: FRANCE INFO FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218605
+#EXTINF:-1,FR: FRANCE INFO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1944
+#EXTINF:-1,FR: EURONEWS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/13239
+#EXTINF:-1,FR: EURONEWS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218604
+#EXTINF:-1,FR: RT FRANCE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/339182
+#EXTINF:-1,FR: FRANCE 24 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/789
+#EXTINF:-1,FR: CNEWS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1956
+#EXTINF:-1,FR: CNEWS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187827
+#EXTINF:-1,FR: BFM TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1958
+#EXTINF:-1,FR: BFM TV FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187826
+#EXTINF:-1,FR: BFM2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/548695
+#EXTINF:-1,FR: BFM PARIS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218631
+#EXTINF:-1,FR: BFM BUSINESS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/73486
+#EXTINF:-1,FR: BFM BUSINESS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218590
+#EXTINF:-1,FR: LCP HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1957
+#EXTINF:-1,FR: LCP FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187829
+#EXTINF:-1,FR: LCI HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/5564
+#EXTINF:-1,FR: LCI FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218615
+#EXTINF:-1,FR: I24 NEWS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/73490
+#EXTINF:-1,FR: I24 NEWS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218610
+#EXTINF:-1,FR: KTO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/1207
+#EXTINF:-1,FR: TV5 MONDE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218656
+#EXTINF:-1,FR: LA CHAINE METEO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218614
+#EXTINF:-1,FR: ----- MUSIQUE / NEWS -----
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/135916
+#EXTINF:-1,FR: M6 MUSIC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/13880
+#EXTINF:-1,FR: M6 MUSIC FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218617
+#EXTINF:-1,FR: NRJ HITS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/29906
+#EXTINF:-1,FR: NRJ HITS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218629
+#EXTINF:-1,FR: MCM HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/13903
+#EXTINF:-1,FR: MCM FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218619
+#EXTINF:-1,FR: MCM TOP
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/136164
+#EXTINF:-1,FR: MTV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/6038
+#EXTINF:-1,FR: MTV FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218623
+#EXTINF:-1,FR: MTV HITS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/172043
+#EXTINF:-1,FR: MTV HITS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218624
+#EXTINF:-1,FR: MTV DANCE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/3811
+#EXTINF:-1,FR: BRAVA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/65177
+#EXTINF:-1,FR: BRAVA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218593
+#EXTINF:-1,FR: MEZZO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/94549
+#EXTINF:-1,FR: MEZZO LIVE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218622
+#EXTINF:-1,FR: CSTAR HITS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/188521
+#EXTINF:-1,FR: TRACE URBAN
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/13215
+#EXTINF:-1,FR: TRACE URBAN FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218654
+#EXTINF:-1,FR: TRACE AFRICA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/94574
+#EXTINF:-1,FR: TRACE GOSPEL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/94573
+#EXTINF:-1,FR: TRACE MZIKI
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/94572
+#EXTINF:-1,FR: TRACE TOCA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/94570
+#EXTINF:-1,FR: TRACE SPORT AND STAR (MULTI LANGUAGE)
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/94568
+#EXTINF:-1,FR: TRACE LATINA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/288950
+#EXTINF:-1,FR: TRACE AFRIKORA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218648
+#EXTINF:-1,FR: TRACE KITOKO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/187965
+#EXTINF:-1,FR: MELODY TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218621
+#EXTINF:-1,FR: MELODY FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/188526
+#EXTINF:-1,FR: RT
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/194892
+#EXTINF:-1,FR: RFM TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/218632
+#EXTINF:-1,FR: DJAZZ TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/212532
+#EXTINF:-1,FR: GUADELOUPE 1ÈRE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/521021
+#EXTINF:-1,FR: VIP SKWEEK 1
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/555323
+#EXTINF:-1,FR: VIP SKWEEK 2
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/555322
+#EXTINF:-1,FR: VIP SKWEEK 3
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/555321
+#EXTINF:-1,FR: VIP SKWEEK 4
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/555320
+#EXTINF:-1,FR: VIP SKWEEK 5
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/555319
+#EXTINF:-1,FR: VIP SKWEEK 6
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/555318
+#EXTINF:-1,FR: VIP SKWEEK 7
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/555317
+#EXTINF:-1,FR: VIP SKWEEK 8
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/555316
+#EXTINF:-1,FR: F1 BATTLE
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/598165
+#EXTINF:-1,FR: F1 DRIVER TRACKER
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553669
+#EXTINF:-1,FR: F1 MULTI SCREEN - TEAM RADIO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553668
+#EXTINF:-1,FR: F1 ON BOARD MIX
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553667
+#EXTINF:-1,FR: F1 TIMING SCREEN
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553666
+#EXTINF:-1,FR: F1 ON BOARD ALEXANDER ALBON
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553665
+#EXTINF:-1,FR: F1 ON BOARD CARLOS SAINZ
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553664
+#EXTINF:-1,FR: F1 ON BOARD CHARLES LECLERC
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553663
+#EXTINF:-1,FR: F1 ON BOARD ANDREA KIMI ANTONELLI
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553662
+#EXTINF:-1,FR: F1 ON BOARD ESTEBAN OCON
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553661
+#EXTINF:-1,FR: F1 ON BOARD FERNANDO ALONSO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553660
+#EXTINF:-1,FR: F1 ON BOARD JACK DOOHAN
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553659
+#EXTINF:-1,FR: F1 ON BOARD GEORGE RUSSEL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553658
+#EXTINF:-1,FR: F1 ON BOARD LIAM LAWSON
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553657
+#EXTINF:-1,FR: F1 ON BOARD LANCE STROLL
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553656
+#EXTINF:-1,FR: F1 ON BOARD LANDO NORRIS
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553655
+#EXTINF:-1,FR: F1 ON BOARD LEWIS HAMILTON
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553654
+#EXTINF:-1,FR: F1 ON BOARD MAX VERSTAPPEN
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553653
+#EXTINF:-1,FR: F1 ON BOARD NICO HULKENBERG
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553652
+#EXTINF:-1,FR: F1 ON BOARD OSCAR PIASTRI
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553651
+#EXTINF:-1,FR: F1 ON BOARD PIERRE GASLY
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553650
+#EXTINF:-1,FR: F1 ON BOARD ISACK HADJAR
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553649
+#EXTINF:-1,FR: F1 ON BOARD GABRIEL BORTOLETO
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553648
+#EXTINF:-1,FR: F1 ON BOARD YUKI TSUNODA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553647
+#EXTINF:-1,FR: F1 ON BOARD OLIVER BEARMAN
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/553646
+#EXTINF:-1,BR:  GLOBO BRASILA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576683
+#EXTINF:-1,BR:  GLOOB HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576682
+#EXTINF:-1,BR:  GLOBO MINAS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576681
+#EXTINF:-1,BR:  GLOBO NEWS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576680
+#EXTINF:-1,BR:  GLOBO NORDESTE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576679
+#EXTINF:-1,BR:  GLOBO RBS PORTO ALEGRE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576678
+#EXTINF:-1,BR:  GLOBO RJ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576677
+#EXTINF:-1,BR:  GLOBOSAT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576676
+#EXTINF:-1,BR:  GLOBO SP HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576675
+#EXTINF:-1,BR:  GLOBO TV MIRANTE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576674
+#EXTINF:-1,BR:  GLOBO TV SERGIPE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576673
+#EXTINF:-1,BR:  RECORD HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576672
+#EXTINF:-1,BR:  RECORD NEWS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576671
+#EXTINF:-1,BR:  RECORD RJ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576670
+#EXTINF:-1,BR:  RECORD SP HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576669
+#EXTINF:-1,BR:  SBT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576668
+#EXTINF:-1,BR:  A&E HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576667
+#EXTINF:-1,BR:  ALL SPORTS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576666
+#EXTINF:-1,BR:  AMC HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576665
+#EXTINF:-1,BR:  ARTE 1 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576663
+#EXTINF:-1,BR:  AXN HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576662
+#EXTINF:-1,BR:  BABY HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576661
+#EXTINF:-1,BR:  BAND CAMPINAS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576660
+#EXTINF:-1,BR:  BAND NEWS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576659
+#EXTINF:-1,BR:  BAND SP HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576658
+#EXTINF:-1,BR:  BAND SPORTS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576657
+#EXTINF:-1,BR:  BIS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576656
+#EXTINF:-1,BR:  BOOMERANG HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576655
+#EXTINF:-1,BR:  CANAL BRASIL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576654
+#EXTINF:-1,BR:  CARTOON NETWORK HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576653
+#EXTINF:-1,BR:  CINEMAX HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576652
+#EXTINF:-1,BR:  COMBATE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576651
+#EXTINF:-1,BR:  COMEDY CENTRAL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576650
+#EXTINF:-1,BR:  CURTA! HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576649
+#EXTINF:-1,BR:  DISCOVERY H&H HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576648
+#EXTINF:-1,BR:  DISCOVERY HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576647
+#EXTINF:-1,BR:  DISCOVERY ID HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576646
+#EXTINF:-1,BR:  DISCOVERY KIDS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576645
+#EXTINF:-1,BR:  DISCOVERY SCIENCE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576644
+#EXTINF:-1,BR:  DISCOVERY THEATER HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576643
+#EXTINF:-1,BR:  DISCOVERY TURBO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576642
+#EXTINF:-1,BR:  DISCOVERY WORLD HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576641
+#EXTINF:-1,BR:  DISNEY CHANNEL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576640
+#EXTINF:-1,BR:  E! HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576639
+#EXTINF:-1,BR:  ESPN 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576638
+#EXTINF:-1,BR:  ESPN BRASIL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576637
+#EXTINF:-1,BR:  ESPN EXTRA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576636
+#EXTINF:-1,BR:  ESPN HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576635
+#EXTINF:-1,BR:  FOOD NETWORK HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576634
+#EXTINF:-1,BR:  FOX SPORTS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576633
+#EXTINF:-1,BR:  FX HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576632
+#EXTINF:-1,BR:  GNT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576631
+#EXTINF:-1,BR:  H2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576630
+#EXTINF:-1,BR:  HBO 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576629
+#EXTINF:-1,BR:  HBO FAMILY HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576628
+#EXTINF:-1,BR:  HBO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576627
+#EXTINF:-1,BR:  HBO MUNDI HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576626
+#EXTINF:-1,BR:  HBO PLUS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576625
+#EXTINF:-1,BR:  HBO POP HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576624
+#EXTINF:-1,BR:  HBO SIGNATURE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576623
+#EXTINF:-1,BR:  HBO XTREME HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576622
+#EXTINF:-1,BR:  HGTV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576621
+#EXTINF:-1,BR:  HISTORY HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576620
+#EXTINF:-1,BR:  LIFETIME HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576619
+#EXTINF:-1,BR:  MEGAPIX HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576618
+#EXTINF:-1,BR:  MTV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576617
+#EXTINF:-1,BR:  MULTISHOW HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576616
+#EXTINF:-1,BR:  NAT GEO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576615
+#EXTINF:-1,BR:  NICKELODEON HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576614
+#EXTINF:-1,BR:  NICK HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576613
+#EXTINF:-1,BR:  NICK JR HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576612
+#EXTINF:-1,BR:  NOVO TEMPO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576611
+#EXTINF:-1,BR:  OFF HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576610
+#EXTINF:-1,BR:  PARAMOUNT+ 01 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576609
+#EXTINF:-1,BR:  PARAMOUNT+ 02 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576608
+#EXTINF:-1,BR:  PARAMOUNT+ 03 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576607
+#EXTINF:-1,BR:  PARAMOUNT+ 04 FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576606
+#EXTINF:-1,BR:  PARAMOUNT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576605
+#EXTINF:-1,BR:  PREMIERE 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576604
+#EXTINF:-1,BR:  PREMIERE 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576603
+#EXTINF:-1,BR:  PREMIERE 4 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576602
+#EXTINF:-1,BR:  PREMIERE 5 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576601
+#EXTINF:-1,BR:  PREMIERE 6 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576600
+#EXTINF:-1,BR:  PREMIERE 7 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576599
+#EXTINF:-1,BR:  PREMIERE CLUBES HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576598
+#EXTINF:-1,BR:  PRIME BOX BRASIL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576597
+#EXTINF:-1,BR:  RA TIM BUM HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576596
+#EXTINF:-1,BR:  REDE TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576595
+#EXTINF:-1,BR:  SONY CHANNEL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576594
+#EXTINF:-1,BR:  SPACE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576593
+#EXTINF:-1,BR:  SPORTV 2 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576592
+#EXTINF:-1,BR:  SPORTV 3 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576591
+#EXTINF:-1,BR:  SPORTV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576590
+#EXTINF:-1,BR:  STUDIO UNIVERSAL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576589
+#EXTINF:-1,BR:  SYFY HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576588
+#EXTINF:-1,BR:  TBS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576587
+#EXTINF:-1,BR:  TCM HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576586
+#EXTINF:-1,BR:  TELECINE ACTION HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576585
+#EXTINF:-1,BR:  TELECINE CULT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576584
+#EXTINF:-1,BR:  TELECINE FUN HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576583
+#EXTINF:-1,BR:  TELECINE PIPOCA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576582
+#EXTINF:-1,BR:  TELECINE PREMIUM HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576581
+#EXTINF:-1,BR:  TELECINE TOUCH HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576580
+#EXTINF:-1,BR:  TLC HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576579
+#EXTINF:-1,BR:  TNT HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576578
+#EXTINF:-1,BR:  TNT SERIES HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576577
+#EXTINF:-1,BR:  TOONCAST HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576576
+#EXTINF:-1,BR:  UNIVERSAL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576575
+#EXTINF:-1,BR:  VIVA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576574
+#EXTINF:-1,BR:  WARNER CHANNEL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576573
+#EXTINF:-1,BR:  WOOHOO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576572
+#EXTINF:-1,BR:  ZOOMOO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576571
+#EXTINF:-1,BR:.GLOBO ALAGOAS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576569
+#EXTINF:-1,BR:.GLOBO BAHIA SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576568
+#EXTINF:-1,BR:.GLOBO BH FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576567
+#EXTINF:-1,BR:.GLOBO BH HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576566
+#EXTINF:-1,BR:.GLOBO BRASILIA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576565
+#EXTINF:-1,BR:.GLOBO BRASILIA SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576564
+#EXTINF:-1,BR:.GLOBO CENTRO AMÉRICA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576563
+#EXTINF:-1,BR:.GLOBO CENTRO AMÉRICA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576562
+#EXTINF:-1,BR:.GLOBO EPTV CAMPINAS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576561
+#EXTINF:-1,BR:.GLOBO EPTV RIBEIRÃƑO PRETO FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576560
+#EXTINF:-1,BR:.GLOBO EPTV RIBEIRÃO PRETO FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576559
+#EXTINF:-1,BR:.GLOBO EPTV RIBEIRÃO PRETO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576558
+#EXTINF:-1,BR:.GLOBO INTER TV LITORAL FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576557
+#EXTINF:-1,BR:.GLOBO NORDESTE SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576556
+#EXTINF:-1,BR:.GLOBO NSC BLUMENAU FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576555
+#EXTINF:-1,BR:.GLOBO NSC BLUMENAU HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576554
+#EXTINF:-1,BR:.GLOBO NSC CHAPECO FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576553
+#EXTINF:-1,BR:.GLOBO NSC CHAPECO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576552
+#EXTINF:-1,BR:.GLOBO NSC CRICIUMA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576551
+#EXTINF:-1,BR:.GLOBO NSC CRICIUMA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576550
+#EXTINF:-1,BR:.GLOBO NSC FLORIPA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576549
+#EXTINF:-1,BR:.GLOBO NSC JOINVILLE FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576548
+#EXTINF:-1,BR:.GLOBO NSC JOINVILLE HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576547
+#EXTINF:-1,BR:.GLOBO REDE AMAZONICA  RONDONIA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576546
+#EXTINF:-1,BR:.GLOBO REDE AMAZONICA MANAUS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576545
+#EXTINF:-1,BR:.GLOBO REDE AMAZONICA RONDONIA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576544
+#EXTINF:-1,BR:.GLOBO RJ SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576543
+#EXTINF:-1,BR:.GLOBO RPC CURITIBA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576542
+#EXTINF:-1,BR:.GLOBO RPC MARINGA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576541
+#EXTINF:-1,BR:.GLOBO RPC MARINGA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576540
+#EXTINF:-1,BR:.GLOBO RPC PARANAVAI FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576539
+#EXTINF:-1,BR:.GLOBO RPC PARANAVAI HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576538
+#EXTINF:-1,BR:.GLOBO TV BAHIA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576537
+#EXTINF:-1,BR:.GLOBO TV GAZETA SUL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576536
+#EXTINF:-1,BR:.GLOBO TV GAZETA VITORIA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576535
+#EXTINF:-1,BR:.GLOBO TV LIBERAL BELEM FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576534
+#EXTINF:-1,BR:.GLOBO TV MORENA MS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576533
+#EXTINF:-1,BR:.GLOBO TV MORENA MS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576532
+#EXTINF:-1,BR:.GLOBO TV S.FRANCISCO FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576531
+#EXTINF:-1,BR:.GLOBO TV S.FRANCISCO HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576530
+#EXTINF:-1,BR:.GLOBO TV TEM BAURU FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576529
+#EXTINF:-1,BR:.GLOBO TV TEM SÃO JOSÉ DO RIO PRETO FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576528
+#EXTINF:-1,BR:.GLOBO TV TEM SOROCABA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576527
+#EXTINF:-1,BR:.GLOBO TV VANGUARDA S. JOSE DOS CAMPOS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576526
+#EXTINF:-1,BR:.GLOBO VERDES MARES FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576525
+#EXTINF:-1,BR:.INTER TV DOS VALES FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576524
+#EXTINF:-1,BR:.INTER TV DOS VALES HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576523
+#EXTINF:-1,BR:.RBS TV CAXIAS DO SUL HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576522
+#EXTINF:-1,BR:.RBS TV CRUZ ALTA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576521
+#EXTINF:-1,BR:.RBS TV HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576520
+#EXTINF:-1,BR:.RBS TV PELOTAS FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576519
+#EXTINF:-1,BR:.RBS TV PELOTAS HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576518
+#EXTINF:-1,BR:.RBSTV POA FHD H.265
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576516
+#EXTINF:-1,BR:.RBSTV POA SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576515
+#EXTINF:-1,BR:.RPC FOZ DO IGUA  FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576514
+#EXTINF:-1,BR:.RPC FOZ DO IGUA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576513
+#EXTINF:-1,BR:.RPC PONTA GROSSA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576512
+#EXTINF:-1,BR:.RPC PONTA GROSSA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576511
+#EXTINF:-1,BR:.TV  GLOBO TRIBUNA SANTOS SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576510
+#EXTINF:-1,BR:.TV GLOBO CE SD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576509
+#EXTINF:-1,BR:.TV GLOBO INTEGRA JUIZ DE FORA FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576508
+#EXTINF:-1,BR:.TV GLOBO INTEGRA JUIZ DE FORA HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576507
+#EXTINF:-1,BR:.TV GLOBO INTEGRAÇÃO ARAXÁ FHD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576506
+#EXTINF:-1,BR:.TV GLOBO INTEGRAÇÃO ARAXÁ HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576505
+#EXTINF:-1,BR:.RECORD SP 4K
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576504
+#EXTINF:-1,BR:.PREMIER CLUBES 4K
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576503
+#EXTINF:-1,BR:.ESPN 4 4K
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576502
+#EXTINF:-1,BR:.DISCOVERY CHANNEL 4K
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576501
+#EXTINF:-1,BR:.JP NEWS 4K
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576499
+#EXTINF:-1,BR:.RECORD RS 4K
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576498
+#EXTINF:-1,BR:.SPORTV 4K
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576496
+#EXTINF:-1,BR:.DISCOVERY TURBO 4K
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576495
+#EXTINF:-1,BR:.CINE DISNEY
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576282
+#EXTINF:-1,BR:.CINE SKY 02
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576204
+#EXTINF:-1,BR:.CINE SKY 01
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576203
+#EXTINF:-1,BR:.CINE SKY 03
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576202
+#EXTINF:-1,BR:.CINE SKY 04
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576201
+#EXTINF:-1,BR:.CINE SKY 05
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576200
+#EXTINF:-1,BR:.CINE SKY 06
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576199
+#EXTINF:-1,BR:.CINE SKY 07
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576198
+#EXTINF:-1,BR:.CINE SKY 08
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576197
+#EXTINF:-1,BR:.CINE SKY 09
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576196
+#EXTINF:-1,BR:.CINE SKY 10
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576195
+#EXTINF:-1,BR:.CINE SKY LIGA DA JUSTIÇA
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576194
+#EXTINF:-1,BR:.DAZN | 720P
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576191
+#EXTINF:-1,BR:.FURACÃO-TV
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576186
+#EXTINF:-1,BR:.DAZN 1
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576185
+#EXTINF:-1,BR:.DAZN 2
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576184
+#EXTINF:-1,BR:.DAZN 04
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576183
+#EXTINF:-1,BR:.DAZN 02 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576182
+#EXTINF:-1,BR:.DAZN 03 HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576181
+#EXTINF:-1,BR:.AXN HD
+http://sonymax.org:8080/mfSGuFnMHq/RzonTeRVfj/576179
