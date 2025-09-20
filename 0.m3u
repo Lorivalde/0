@@ -1,3 +1,693 @@
 #EXTM3U
-#EXTINF:-1,PT: BENFICA CARALHO
-http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/94850
+#EXTINF:-1,RTP 1 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2710
+#EXTINF:-1,RTP 1 () PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75454
+#EXTINF:-1,RTP 1 HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/42409
+#EXTINF:-1,RTP 1 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2714
+#EXTINF:-1,RTP 2 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2709
+#EXTINF:-1,RTP 2 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2713
+#EXTINF:-1,RTP Memória PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2706
+#EXTINF:-1,RTP Internacional PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/5622
+#EXTINF:-1,RTP África PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2711
+#EXTINF:-1,RTP Madeira PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2707
+#EXTINF:-1,RTP Açores PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2712
+#EXTINF:-1,SIC PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2703
+#EXTINF:-1,SIC () PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75455
+#EXTINF:-1,SIC FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2696
+#EXTINF:-1,SIC Radical PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2700
+#EXTINF:-1,SIC Radical FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2699
+#EXTINF:-1,SIC Mulher PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2702
+#EXTINF:-1,SIC Mulher FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78328
+#EXTINF:-1,SIC Caras PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2705
+#EXTINF:-1,SIC Caras HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2697
+#EXTINF:-1,SIC Novelas FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/113018
+#EXTINF:-1,TVI PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/3845
+#EXTINF:-1,TVI () PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75456
+#EXTINF:-1,TVI FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/3840
+#EXTINF:-1,V+ PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/3846
+#EXTINF:-1,V+ () PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75457
+#EXTINF:-1,V+ FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78293
+#EXTINF:-1,TVI Reality PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/3842
+#EXTINF:-1,TVI Reality HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78294
+#EXTINF:-1,TVI Reality Mosaico PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/83594
+#EXTINF:-1,TVI Reality Camera 1 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/84359
+#EXTINF:-1,TVI Reality Camera 2 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/84360
+#EXTINF:-1,TVI Reality Camera 3 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/84361
+#EXTINF:-1,TVI Reality Camera 4 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/84362
+#EXTINF:-1,TV Globo PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/14232
+#EXTINF:-1,TV Globo FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/89710
+#EXTINF:-1,TV Globo NOW PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2736
+#EXTINF:-1,TV Record HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2680
+#EXTINF:-1,TV Record PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/62537
+#EXTINF:-1,CTC HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/62538
+#EXTINF:-1,GameToon PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/82785
+#EXTINF:-1,Ginx PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/90072
+#EXTINF:-1,S+ FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/94110
+#EXTINF:-1,CANAL 180 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/110119
+#EXTINF:-1,AZORES TV HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/110118
+#EXTINF:-1,TVCine Top PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2684
+#EXTINF:-1,TVCine Top HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78296
+#EXTINF:-1,TVCine Top FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2685
+#EXTINF:-1,TVCine Edition PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2683
+#EXTINF:-1,TVCine Edition HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78297
+#EXTINF:-1,TVCine Edition FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2686
+#EXTINF:-1,TVCine Emotion PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2682
+#EXTINF:-1,TVCine Emotion HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78298
+#EXTINF:-1,TVCine Emotion FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2687
+#EXTINF:-1,TVCine Action PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2681
+#EXTINF:-1,TVCine Action HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78299
+#EXTINF:-1,TVCine Action FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2688
+#EXTINF:-1,Syfy PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2692
+#EXTINF:-1,Syfy FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2693
+#EXTINF:-1,Hollywood PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2733
+#EXTINF:-1,Hollywood FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2734
+#EXTINF:-1,AMC PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2777
+#EXTINF:-1,AMC HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78300
+#EXTINF:-1,AMC FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2776
+#EXTINF:-1,AXN PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78301
+#EXTINF:-1,AXN FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2771
+#EXTINF:-1,AXN Movies PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78303
+#EXTINF:-1,AXN Movies FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2772
+#EXTINF:-1,AXN White PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78302
+#EXTINF:-1,AXN White FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2770
+#EXTINF:-1,Star Channel PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78306
+#EXTINF:-1,Star HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78305
+#EXTINF:-1,Star FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2743
+#EXTINF:-1,Star Comedy PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2745
+#EXTINF:-1,Star Comedy FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2740
+#EXTINF:-1,Star Crime PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/43689
+#EXTINF:-1,Star Crime FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2739
+#EXTINF:-1,Star Life PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/3843
+#EXTINF:-1,Star Life HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78307
+#EXTINF:-1,Star Life FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2741
+#EXTINF:-1,Star Movies PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2746
+#EXTINF:-1,Star Movies HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2742
+#EXTINF:-1,CineMundo PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2759
+#EXTINF:-1,CineMundo HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78309
+#EXTINF:-1,CineMundo FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78308
+#EXTINF:-1,Nos Studios PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/90949
+#EXTINF:-1,Nos Studios FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/73310
+#EXTINF:-1,========== Notícias ==========
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/13975
+#EXTINF:-1,SIC Notícias PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2701
+#EXTINF:-1,SIC Notícias FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2698
+#EXTINF:-1,CNN Portugal SD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/3844
+#EXTINF:-1,CNN Portugal () PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75459
+#EXTINF:-1,CNN Portugal HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78311
+#EXTINF:-1,CNN Portugal FHD () PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78310
+#EXTINF:-1,RTP 3 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2708
+#EXTINF:-1,RTP 3 HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75437
+#EXTINF:-1,RTP 3 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75436
+#EXTINF:-1,CMTV PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2758
+#EXTINF:-1,CMTV () PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75458
+#EXTINF:-1,CMTV HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75419
+#EXTINF:-1,CMTV FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75418
+#EXTINF:-1,NOW PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/120039
+#EXTINF:-1,NOW FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/122746
+#EXTINF:-1,Porto Canal PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2716
+#EXTINF:-1,Porto Canal FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75438
+#EXTINF:-1,Euronews PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/33162
+#EXTINF:-1,BBC World News PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2773
+#EXTINF:-1,S News PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/90061
+#EXTINF:-1,NHK World Japan PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/90062
+#EXTINF:-1,France 24 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/90066
+#EXTINF:-1,Fox News PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/90067
+#EXTINF:-1,CNN PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/90068
+#EXTINF:-1,CNBC Europe PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/90069
+#EXTINF:-1,TVE 24h PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/90071
+#EXTINF:-1,========== Desporto ==========
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/13976
+#EXTINF:-1,SportTV+ PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/3613
+#EXTINF:-1,SportTV+ FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/13248
+#EXTINF:-1,SportTV 1 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2678
+#EXTINF:-1,SportTV 1 SD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/7426
+#EXTINF:-1,SportTV 1 HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/7425
+#EXTINF:-1,SportTV 1 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/3618
+#EXTINF:-1,SportTV 2 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2677
+#EXTINF:-1,SportTV 2 HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78312
+#EXTINF:-1,SportTV 2 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/3617
+#EXTINF:-1,SportTV 3 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2676
+#EXTINF:-1,SportTV 3 HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78313
+#EXTINF:-1,SportTV 3 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/3616
+#EXTINF:-1,SportTV 4 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2675
+#EXTINF:-1,SportTV 4 HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78314
+#EXTINF:-1,SportTV 4 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/3615
+#EXTINF:-1,SportTV 5 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2674
+#EXTINF:-1,SportTV 5 () PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75452
+#EXTINF:-1,SportTV 5 HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/48359
+#EXTINF:-1,SportTV 5 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/3614
+#EXTINF:-1,SportTV 7 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/122446
+#EXTINF:-1,SportTV 7 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/122745
+#EXTINF:-1,SportTV NBA PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78315
+#EXTINF:-1,SportTV NBA HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/62545
+#EXTINF:-1,SportTV NBA FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/62546
+#EXTINF:-1,BTV 1 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/13247
+#EXTINF:-1,BTV 1 HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2767
+#EXTINF:-1,BTV 1 () PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75460
+#EXTINF:-1,BTV 1 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2766
+#EXTINF:-1,BTV 1 UHD 4k () PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/128383
+#EXTINF:-1,DAZN 1 SD VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/80223
+#EXTINF:-1,DAZN 1 HD VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/22714
+#EXTINF:-1,DAZN 1 FHD VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/22713
+#EXTINF:-1,DAZN 2 SD VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/80224
+#EXTINF:-1,DAZN 2 HD VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/22716
+#EXTINF:-1,DAZN 2 FHD VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/22715
+#EXTINF:-1,DAZN 2 FHD 4:3 VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/16065
+#EXTINF:-1,DAZN 3 HD VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/22718
+#EXTINF:-1,DAZN 3 FHD VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/22717
+#EXTINF:-1,DAZN 3 FHD 4:3 VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/16064
+#EXTINF:-1,DAZN 4 HD VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/22720
+#EXTINF:-1,DAZN 4 FHD VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/22719
+#EXTINF:-1,DAZN 4 FHD 4:3 VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/16063
+#EXTINF:-1,DAZN 5 HD VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/22722
+#EXTINF:-1,DAZN 5 FHD VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/22721
+#EXTINF:-1,DAZN 5 FHD 4:3 VIP PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/16062
+#EXTINF:-1,Canal 11 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/73313
+#EXTINF:-1,Canal 11 HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/73315
+#EXTINF:-1,Canal 11 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/73314
+#EXTINF:-1,W-Sport HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/113001
+#EXTINF:-1,Sporting TV PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2694
+#EXTINF:-1,Sporting TV FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2695
+#EXTINF:-1,A Bola TV PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2780
+#EXTINF:-1,A Bola TV HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78317
+#EXTINF:-1,A Bola TV FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78316
+#EXTINF:-1,Real Madrid TV PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2715
+#EXTINF:-1,Eurosport 1 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2753
+#EXTINF:-1,Eurosport 1 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2752
+#EXTINF:-1,Eurosport 2 PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2751
+#EXTINF:-1,Eurosport 2 FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/107484
+#EXTINF:-1,PFC PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2717
+#EXTINF:-1,Motorvision TV PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2727
+#EXTINF:-1,Kombat Sport PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2731
+#EXTINF:-1,Fight Network FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2749
+#EXTINF:-1,Fuel TV PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2738
+#EXTINF:-1,Fuel TV FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2747
+#EXTINF:-1,========== Documentários ==========
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/13978
+#EXTINF:-1,24 Kitchen HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/6237
+#EXTINF:-1,24 Kitchen FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2781
+#EXTINF:-1,ARTV PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/5619
+#EXTINF:-1,BBC Entertainment PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2775
+#EXTINF:-1,AMC Break PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2779
+#EXTINF:-1,AMC Break FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78319
+#EXTINF:-1,CBS Reality PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2760
+#EXTINF:-1,Canal Q PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/5618
+#EXTINF:-1,Caça Vision PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2764
+#EXTINF:-1,Caça e Pesca PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2765
+#EXTINF:-1,Caça e Pesca FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78320
+#EXTINF:-1,Discovery Channel PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2757
+#EXTINF:-1,Discovery Channel FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78321
+#EXTINF:-1,Investigation Discovery FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/72122
+#EXTINF:-1,E! PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2754
+#EXTINF:-1,E! FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78323
+#EXTINF:-1,Fashion TV PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2748
+#EXTINF:-1,História PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2735
+#EXTINF:-1,História FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78324
+#EXTINF:-1,LocalVisão TV HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2744
+#EXTINF:-1,Food Network PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/91124
+#EXTINF:-1,Food Network FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75231
+#EXTINF:-1,National Geographic PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78325
+#EXTINF:-1,National Geographic FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2720
+#EXTINF:-1,Nat Geo Wild PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2723
+#EXTINF:-1,Nat Geo Wild HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78326
+#EXTINF:-1,Nat Geo Wild FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2722
+#EXTINF:-1,TravelXP HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/110124
+#EXTINF:-1,Home & Garden TV HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/110123
+#EXTINF:-1,Unifé TV HD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/113000
+#EXTINF:-1,AMC Crime PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/62539
+#EXTINF:-1,Odisseia PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2718
+#EXTINF:-1,Odisseia FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78327
+#EXTINF:-1,TLC PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/2691
+#EXTINF:-1,Dog TV FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/73312
+#EXTINF:-1,Zap Viva FHD PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/73311
+#EXTINF:-1,TPA PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75229
+#EXTINF:-1,TCV International PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/75228
+#EXTINF:-1,TV Zimbo PT
+http://95.214.235.18:8080/PFCKDkzpDS/oh5G6fJU9i/78292
+#EXTINF:-1,FR: 6 TER HD 
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2893.ts
+#EXTINF:-1,FR: TF 1
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2894.ts
+#EXTINF:-1,FR: ARTE HD
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2896.ts
+#EXTINF:-1,FR: BFM TV
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2897.ts
+#EXTINF:-1,FR: BOOMERANG
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2898.ts
+#EXTINF:-1,FR: CANAL + SPORT HD
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2899.ts
+#EXTINF:-1,FR: CANAL + CINEMA
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2900.ts
+#EXTINF:-1,FR: CANAL + DECALE
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2901.ts
+#EXTINF:-1,FR: CANAL + FAMILY
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2902.ts
+#EXTINF:-1,FR: CANAL + SERIE
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2904.ts
+#EXTINF:-1,FR: CANAL J
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2903.ts
+#EXTINF:-1,FR: CHERIE 25 HD
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2905.ts
+#EXTINF:-1,FR: CINE + FRISSON
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2906.ts
+#EXTINF:-1,FR: COMEDIE +
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2908.ts
+#EXTINF:-1,FR: FRANCE 2
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2909.ts
+#EXTINF:-1,FR: FRANCE 3
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2911.ts
+#EXTINF:-1,FR: FRANCE 4
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2912.ts
+#EXTINF:-1,FR: FRANCE 5
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2913.ts
+#EXTINF:-1,FR: FRANCE 24
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2910.ts
+#EXTINF:-1,FR: GULLI
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2914.ts
+#EXTINF:-1,FR: MANGAS HD
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2915.ts
+#EXTINF:-1,FR: M6 
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2916.ts
+#EXTINF:-1,FR: TFX 
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2918.ts
+#EXTINF:-1,FR: RMC STORY 
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2919.ts
+#EXTINF:-1,FR: TMC
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2922.ts
+#EXTINF:-1,FR: V9
+http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2924.ts
+#EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN (M)(720)" tvg-logo="" group-title="BRASIL",BRA-ESPN (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10567
+#EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-ESPN 2 (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10564
+#EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN Brasil (M)(720)" tvg-logo="" group-title="BRASIL",BRA-ESPN Brasil (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10565
+#EXTINF:-1 tvg-id="" tvg-name="BRA-ESPN Extra (M)(720)" tvg-logo="" group-title="BRASIL",BRA-ESPN Extra (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10566
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Fox Premium 1 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Fox Premium 1 (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10568
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Fox Premium 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Fox Premium 2 (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10569
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Fox Sports (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Fox Sports (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10571
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Fox Sports 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Fox Sports 2 (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10570
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Premiere 4 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Premiere 4 (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10572
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Premiere 5 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Premiere 5 (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10573
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Premiere 6 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Premiere 6 (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10574
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Premiere 8 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Premiere 8 (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10575
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Premiere CLUBE (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Premiere CLUBE (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10632
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Prime Box Brasil (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Prime Box Brasil (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10633
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Sportv (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Sportv (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10641
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Sportv 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Sportv 2 (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10639
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Sportv 3 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Sportv 3 (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10640
+#EXTINF:-1 tvg-id="" tvg-name="BRA-A&E (M)(720)" tvg-logo="" group-title="BRASIL",BRA-A&E (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10576
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Animal Planet (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Animal Planet (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10577
+#EXTINF:-1 tvg-id="" tvg-name="BRA-AXN (M)(720)" tvg-logo="" group-title="BRASIL",BRA-AXN (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10578
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Band News (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Band News (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10580
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Band Sport (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Band Sport (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10579
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Band Sports (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Band Sports (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10581
+#EXTINF:-1 tvg-id="" tvg-name="BRA-BIS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-BIS (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10582
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Canal Brasil (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Canal Brasil (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10584
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoon Network (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoon Network (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10585
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cartoonito (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cartoonito (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10583
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cinemax (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cinemax (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10586
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Cinemax (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Cinemax (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10621
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Combate (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Combate (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10587
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Comedy Central (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Comedy Central (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10588
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery CH. (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery CH. (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10589
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery Civilization (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery Civilization (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10590
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery H&H (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery H&H (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10591
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery ID (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery ID (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10592
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery KIDS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery KIDS (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10593
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery SCIENCE (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery SCIENCE (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10594
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery THEATHER (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery THEATHER (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10595
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery TURBO (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery TURBO (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10596
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Discovery WORLD (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Discovery WORLD (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10597
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Channel (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Disney Channel (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10598
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Disney Junior (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Disney Junior (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10599
+#EXTINF:-1 tvg-id="" tvg-name="BRA-E! (M)(720)" tvg-logo="" group-title="BRASIL",BRA-E! (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10600
+#EXTINF:-1 tvg-id="" tvg-name="BRA-FISH TV (M)(720)" tvg-logo="" group-title="BRASIL",BRA-FISH TV (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10601
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Futura (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Futura (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10604
+#EXTINF:-1 tvg-id="" tvg-name="BRA-FX (M)(720)" tvg-logo="" group-title="BRASIL",BRA-FX (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10605
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Globo Brasilia (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Globo Brasilia (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10609
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Globo News (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Globo News (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10606
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Globo Rio (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Globo Rio (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10607
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Globo SP (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Globo SP (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10608
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Gloob (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Gloob (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10610
+#EXTINF:-1 tvg-id="" tvg-name="BRA-GNT (M)(720)" tvg-logo="" group-title="BRASIL",BRA-GNT (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10611
+#EXTINF:-1 tvg-id="" tvg-name="BRA-HBO (M)(720)" tvg-logo="" group-title="BRASIL",BRA-HBO (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10614
+#EXTINF:-1 tvg-id="" tvg-name="BRA-HBO 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-HBO 2 (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10612
+#EXTINF:-1 tvg-id="" tvg-name="BRA-HBO Family (M)(720)" tvg-logo="" group-title="BRASIL",BRA-HBO Family (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10613
+#EXTINF:-1 tvg-id="" tvg-name="BRA-HBO Signature (M)(720)" tvg-logo="" group-title="BRASIL",BRA-HBO Signature (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10615
+#EXTINF:-1 tvg-id="" tvg-name="BRA-History (M)(720)" tvg-logo="" group-title="BRASIL",BRA-History (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10617
+#EXTINF:-1 tvg-id="" tvg-name="BRA-History 2 (M)(720)" tvg-logo="" group-title="BRASIL",BRA-History 2 (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10616
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Lifetime (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Lifetime (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10618
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Mais Globosat (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Mais Globosat (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10619
+#EXTINF:-1 tvg-id="" tvg-name="BRA-MAX (M)(720)" tvg-logo="" group-title="BRASIL",BRA-MAX (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10620
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Megapix (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Megapix (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10623
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Multishow (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Multishow (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10624
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nat Geo Kids (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nat Geo Kids (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10625
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nat Geo Wild (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nat Geo Wild (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10626
+#EXTINF:-1 tvg-id="" tvg-name="BRA-National Geographic (M)(720)" tvg-logo="" group-title="BRASIL",BRA-National Geographic (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10627
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nick JR (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nick JR (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10628
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Nickelodeon (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Nickelodeon (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10629
+#EXTINF:-1 tvg-id="" tvg-name="BRA-OFF (M)(720)" tvg-logo="" group-title="BRASIL",BRA-OFF (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10630
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Paramount (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Paramount (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10631
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Record (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Record (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10634
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Record NEWS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Record NEWS (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10635
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Rede Vida (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Rede Vida (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10636
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Sony (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Sony (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10637
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Space (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Space (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10638
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Star Channel (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Star Channel (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10602
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Star Life (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Star Life (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10603
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Studio Universal (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Studio Universal (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10642
+#EXTINF:-1 tvg-id="" tvg-name="BRA-SYFY (M)(720)" tvg-logo="" group-title="BRASIL",BRA-SYFY (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10643
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TBS (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TBS (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10644
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TeleCine (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TeleCine (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10622
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Telecine Action (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Telecine Action (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10645
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Telecine Cult (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Telecine Cult (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10646
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Telecine Fun (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Telecine Fun (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10647
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Telecine Pipoca (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Telecine Pipoca (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10648
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Telecine Premium (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Telecine Premium (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10649
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Telecine Touch (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Telecine Touch (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10650
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TLC (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TLC (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10651
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TNT (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TNT (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10652
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TNT Series (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TNT Series (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10653
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Tooncast (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Tooncast (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10654
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TV Brasil (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TV Brasil (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10655
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TV Cultura (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TV Cultura (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10657
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TV Câmara (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TV Câmara (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10656
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TV Gazeta (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TV Gazeta (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10658
+#EXTINF:-1 tvg-id="" tvg-name="BRA-TV GAZETA (M)(720)" tvg-logo="" group-title="BRASIL",BRA-TV GAZETA (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10663
+#EXTINF:-1 tvg-id="" tvg-name="BRA-Universal Channel (M)(720)" tvg-logo="" group-title="BRASIL",BRA-Universal Channel (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10659
+#EXTINF:-1 tvg-id="" tvg-name="BRA-VIVA (M)(720)" tvg-logo="" group-title="BRASIL",BRA-VIVA (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10660
+#EXTINF:-1 tvg-id="" tvg-name="BRA-WARNER (M)(720)" tvg-logo="" group-title="BRASIL",BRA-WARNER (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10661
+#EXTINF:-1 tvg-id="" tvg-name="BRA-WOOHOO (M)(720)" tvg-logo="" group-title="BRASIL",BRA-WOOHOO (M)(720)
+http://tv.proyectox.vip:8080/AlexdraFlores/YKp3WhqsgX/10662
