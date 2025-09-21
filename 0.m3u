@@ -821,7 +821,6 @@ http://filex.me:8080//live/Home329/Sohailhome/316886.ts
 http://filex.me:8080//live/Home329/Sohailhome/316887.ts
 #EXTINF:-1,PT: 24 Kitchen HD
 http://filex.me:8080//live/Home329/Sohailhome/316896.ts#EXTINF:-1,FR: 6 TER HD 
-http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2893.ts
 #EXTINF:-1,FR: TF 1
 http://g-med.xyz:25461/live/Mirko@durbo@stevanovic@@@/XzRae662fg/2894.ts
 #EXTINF:-1,FR: ARTE HD
@@ -1354,12 +1353,6 @@ http://line.4k-soy.cc:80/557714/A9FC62/130837
 http://line.4k-soy.cc:80/557714/A9FC62/131216
 #EXTINF:-1 tvg-ID="cinepluspremier.fr" tvg-name="FR ▎CINE+ PREMIER SD" tvg-logo="http://img.logo-cdn.cc/cinepluspremier.png" group-title="FR ▎CANAL & CINÉMA ",FR ▎CINE+ PREMIER SD
 http://line.4k-soy.cc:80/557714/A9FC62/131217
-#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="FR ▎CINE+ CLUB HD 4ᴋ ◉ rec" tvg-logo="http://img.logo-cdn.cc/cineplusclub.png" group-title="FR ▎CANAL & CINÉMA ",FR ▎CINE+ CLUB HD 4ᴋ ◉ rec
-http://line.4k-soy.cc:80/557714/A9FC62/130841
-#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="FR ▎CINE+ CLUB HD" tvg-logo="http://img.logo-cdn.cc/cineplusclub.png" group-title="FR ▎CANAL & CINÉMA ",FR ▎CINE+ CLUB HD
-http://line.4k-soy.cc:80/557714/A9FC62/131225
-#EXTINF:-1 tvg-ID="cineplusclub.fr" tvg-name="FR ▎CINE+ CLUB SD" tvg-logo="http://img.logo-cdn.cc/cineplusclub.png" group-title="FR ▎CANAL & CINÉMA ",FR ▎CINE+ CLUB SD
-http://line.4k-soy.cc:80/557714/A9FC62/131226
 #EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="FR ▎CINE+ FAMIZ HD 4ᴋ ◉ rec" tvg-logo="http://img.logo-cdn.cc/cineplusfamiz.png" group-title="FR ▎CANAL & CINÉMA ",FR ▎CINE+ FAMIZ HD 4ᴋ ◉ rec
 http://line.4k-soy.cc:80/557714/A9FC62/130840
 #EXTINF:-1 tvg-ID="cineplusamiz.fr" tvg-name="FR ▎CINE+ FAMIZ HD" tvg-logo="http://img.logo-cdn.cc/cineplusfamiz.png" group-title="FR ▎CANAL & CINÉMA ",FR ▎CINE+ FAMIZ HD
@@ -1384,12 +1377,6 @@ http://line.4k-soy.cc:80/557714/A9FC62/130842
 http://line.4k-soy.cc:80/557714/A9FC62/131227
 #EXTINF:-1 tvg-ID="cineplusclassic.fr" tvg-name="FR ▎CINE+ CLASSIC SD" tvg-logo="https://img.logo-cdn.cc/cine%2BCLASSICHD.png" group-title="FR ▎CANAL & CINÉMA ",FR ▎CINE+ CLASSIC SD
 http://line.4k-soy.cc:80/557714/A9FC62/131228
-#EXTINF:-1 tvg-ID="" tvg-name="FR ▎CINE+ FESTIVAL HD 4ᴋ" tvg-logo="https://img.logo-cdn.cc/cineplusfestival.png" group-title="FR ▎CANAL & CINÉMA ",FR ▎CINE+ FESTIVAL HD 4ᴋ
-http://line.4k-soy.cc:80/557714/A9FC62/1455717
-#EXTINF:-1 tvg-ID="" tvg-name="FR ▎CINE+ FESTIVAL HD" tvg-logo="https://img.logo-cdn.cc/cineplusfestival.png" group-title="FR ▎CANAL & CINÉMA ",FR ▎CINE+ FESTIVAL HD
-http://line.4k-soy.cc:80/557714/A9FC62/1455716
-#EXTINF:-1 tvg-ID="" tvg-name="FR ▎CINE+ FESTIVAL SD" tvg-logo="https://img.logo-cdn.cc/cineplusfestival.png" group-title="FR ▎CANAL & CINÉMA ",FR ▎CINE+ FESTIVAL SD
-http://line.4k-soy.cc:80/557714/A9FC62/1455715
 #EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR ▎PARAMOUNT DECALE HD 4ᴋ ◉ rec" tvg-logo="https://img.logo-cdn.cc/paramountchannelhd.png" group-title="FR ▎CANAL & CINÉMA ",FR ▎PARAMOUNT DECALE HD 4ᴋ ◉ rec
 http://line.4k-soy.cc:80/557714/A9FC62/130869
 #EXTINF:-1 tvg-ID="paramountchannel.fr" tvg-name="FR ▎PARAMOUNT DECALE HD" tvg-logo="https://img.logo-cdn.cc/paramountchannelhd.png" group-title="FR ▎CANAL & CINÉMA ",FR ▎PARAMOUNT DECALE HD
@@ -2176,4 +2163,5 @@ http://line.4k-soy.cc:80/557714/A9FC62/1671666
 http://line.4k-soy.cc:80/557714/A9FC62/1671667
 #EXTINF:-1 tvg-ID="" tvg-name="BR ▎FILM & ARTS HD" tvg-logo="https://img.logo-cdn.cc/arts.png" group-title="BRAZIL",BR ▎FILM & ARTS HD
 http://line.4k-soy.cc:80/557714/A9FC62/1671672
+
 
