@@ -95,492 +95,186 @@ http://fortv.cc:8080/ymP38c/370843/164858
 http://fortv.cc:8080/ymP38c/370843/164859
 #EXTINF:-1,PT: TVI REALITY
 http://fortv.cc:8080/ymP38c/370843/164861
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: RTP 1 HD" tvg-logo="" group-title="",PT: RTP 1 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590060
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="",PT: RTP 1 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590061
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: RTP 2 HD" tvg-logo="" group-title="",PT: RTP 2 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590062
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: RTP 2 FHD" tvg-logo="" group-title="",PT: RTP 2 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590063
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: RTP 3 HD" tvg-logo="" group-title="",PT: RTP 3 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590064
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SIC HD" tvg-logo="" group-title="",PT: SIC HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590065
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SIC FHD" tvg-logo="" group-title="",PT: SIC FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590066
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVI HD" tvg-logo="" group-title="",PT: TVI HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590067
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVI FHD" tvg-logo="" group-title="",PT: TVI FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590068
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SIC Noticias FHD" tvg-logo="" group-title="",PT: SIC Noticias FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590069
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: CNN FHD" tvg-logo="" group-title="",PT: CNN FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590070
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: CMTV FHD" tvg-logo="" group-title="",PT: CMTV FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590071
-#EXTINF:-1 tvg-id="ext" tvg-name="PT : CMTV HD" tvg-logo="" group-title="",PT : CMTV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590072
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: CMTV HD" tvg-logo="" group-title="",PT: CMTV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590073
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SIC Mulher FHD" tvg-logo="" group-title="",PT: SIC Mulher FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590074
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TV Globo FHD" tvg-logo="" group-title="",PT: TV Globo FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590075
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Canal 11 FHD" tvg-logo="" group-title="",PT: Canal 11 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590076
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVI Ficcao HD" tvg-logo="" group-title="",PT: TVI Ficcao HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590077
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: A BOLA TV FHD" tvg-logo="" group-title="",PT: A BOLA TV FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590078
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Porto Canal FHD" tvg-logo="" group-title="",PT: Porto Canal FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590079
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: RTP Memoria HD" tvg-logo="" group-title="",PT: RTP Memoria HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590080
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: RTP Memoria FHD" tvg-logo="" group-title="",PT: RTP Memoria FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590081
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: RTP Acores HD" tvg-logo="" group-title="",PT: RTP Acores HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590082
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: RTP Madeira HD" tvg-logo="" group-title="",PT: RTP Madeira HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590083
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: RTP Africa HD" tvg-logo="" group-title="",PT: RTP Africa HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590084
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sporting TV FHD" tvg-logo="" group-title="",PT: Sporting TV FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590085
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sporting TV SD" tvg-logo="" group-title="",PT: Sporting TV SD
-http://195.66.210.10:80/Bluefox102/XYXNA/590086
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV + FHD" tvg-logo="" group-title="",PT: Sport TV + FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590087
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV HD" tvg-logo="" group-title="",PT: Sport TV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590088
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 1 SD" tvg-logo="" group-title="",PT: Sport TV 1 SD
-http://195.66.210.10:80/Bluefox102/XYXNA/590089
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 1 HD" tvg-logo="" group-title="",PT: Sport TV 1 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590090
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 1 FHD" tvg-logo="" group-title="",PT: Sport TV 1 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590091
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 2 SD" tvg-logo="" group-title="",PT: Sport TV 2 SD
-http://195.66.210.10:80/Bluefox102/XYXNA/590092
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 2 HD" tvg-logo="" group-title="",PT: Sport TV 2 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590093
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 2 FHD" tvg-logo="" group-title="",PT: Sport TV 2 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590094
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 3 SD" tvg-logo="" group-title="",PT: Sport TV 3 SD
-http://195.66.210.10:80/Bluefox102/XYXNA/590095
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 3 HD" tvg-logo="" group-title="",PT: Sport TV 3 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590096
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 3 FHD" tvg-logo="" group-title="",PT: Sport TV 3 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590097
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 4 SD" tvg-logo="" group-title="",PT: Sport TV 4 SD
-http://195.66.210.10:80/Bluefox102/XYXNA/590098
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 4 HD" tvg-logo="" group-title="",PT: Sport TV 4 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590099
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 4 FHD" tvg-logo="" group-title="",PT: Sport TV 4 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590100
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 5 SD" tvg-logo="" group-title="",PT: Sport TV 5 SD
-http://195.66.210.10:80/Bluefox102/XYXNA/590101
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 5 HD" tvg-logo="" group-title="",PT: Sport TV 5 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590102
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 5 FHD" tvg-logo="" group-title="",PT: Sport TV 5 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590103
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 6 HD" tvg-logo="" group-title="",PT: Sport TV 6 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590104
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 6 FHD" tvg-logo="" group-title="",PT: Sport TV 6 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590105
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV 7" tvg-logo="" group-title="",PT: Sport TV 7
-http://195.66.210.10:80/Bluefox102/XYXNA/590106
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Sport TV NBA HD" tvg-logo="" group-title="",PT: Sport TV NBA HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590107
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: NBA TV HD" tvg-logo="" group-title="",PT: NBA TV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590108
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: BTV HD" tvg-logo="" group-title="",PT: BTV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590109
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: BTV FHD" tvg-logo="" group-title="",PT: BTV FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590110
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="" group-title="",PT: Eleven Sports 1 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590111
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 1 HD" tvg-logo="" group-title="",PT: Eleven Sports 1 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590112
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 1 FHD" tvg-logo="" group-title="",PT: Eleven Sports 1 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590113
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="" group-title="",PT: Eleven Sports 2 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590114
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 2 HD" tvg-logo="" group-title="",PT: Eleven Sports 2 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590115
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 2 FHD" tvg-logo="" group-title="",PT: Eleven Sports 2 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590116
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="" group-title="",PT: Eleven Sports 3 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590117
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 3 HD" tvg-logo="" group-title="",PT: Eleven Sports 3 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590118
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 3 FHD" tvg-logo="" group-title="",PT: Eleven Sports 3 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590119
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="" group-title="",PT: Eleven Sports 4 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590120
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 4 HD" tvg-logo="" group-title="",PT: Eleven Sports 4 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590121
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 4 FHD" tvg-logo="" group-title="",PT: Eleven Sports 4 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590122
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="" group-title="",PT: Eleven Sports 5 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590123
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 5 HD" tvg-logo="" group-title="",PT: Eleven Sports 5 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590124
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 5 FHD" tvg-logo="" group-title="",PT: Eleven Sports 5 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590125
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="" group-title="",PT: Eleven Sports 6 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590126
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 6 HD" tvg-logo="" group-title="",PT: Eleven Sports 6 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590127
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eleven Sports 6 FHD" tvg-logo="" group-title="",PT: Eleven Sports 6 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590128
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: D4ZN 1 FHD" tvg-logo="" group-title="",PT: D4ZN 1 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590129
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: D4ZN 1 HD" tvg-logo="" group-title="",PT: D4ZN 1 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590130
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: D4ZN 2 FHD" tvg-logo="" group-title="",PT: D4ZN 2 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590131
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: D4ZN 2 HD" tvg-logo="" group-title="",PT: D4ZN 2 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590132
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: D4ZN 3 FHD" tvg-logo="" group-title="",PT: D4ZN 3 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590133
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: D4ZN 3 HD" tvg-logo="" group-title="",PT: D4ZN 3 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590134
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: D4ZN 4 FHD" tvg-logo="" group-title="",PT: D4ZN 4 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590135
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: D4ZN 4 HD" tvg-logo="" group-title="",PT: D4ZN 4 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590136
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: D4ZN 5 FHD" tvg-logo="" group-title="",PT: D4ZN 5 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590137
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: D4ZN 5 HD" tvg-logo="" group-title="",PT: D4ZN 5 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590138
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: D4ZN F1 FHD" tvg-logo="" group-title="",PT: D4ZN F1 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590139
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: EUROSPORT 1 FHD" tvg-logo="" group-title="",PT: EUROSPORT 1 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590140
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eurosport 2 FHD" tvg-logo="" group-title="",PT: Eurosport 2 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590141
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Eurosports 2 HD" tvg-logo="" group-title="",PT: Eurosports 2 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590142
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: MOTORVISION HD" tvg-logo="" group-title="",PT: MOTORVISION HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590143
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Motorvision FHD" tvg-logo="" group-title="",PT: Motorvision FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590144
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: W Sport FHD" tvg-logo="" group-title="",PT: W Sport FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590145
-#EXTINF:-1 tvg-id="ext" tvg-name="â­â­â­ PT -  Movies & Series â­â­â­" tvg-logo="" group-title="",â­â­â­ PT -  Movies & Series â­â­â­
-http://195.66.210.10:80/Bluefox102/XYXNA/590146
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: PFC HD" tvg-logo="" group-title="",PT: PFC HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590147
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Combat FHD" tvg-logo="" group-title="",PT: Combat FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590148
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: FUEL TV FHD" tvg-logo="" group-title="",PT: FUEL TV FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590149
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVcine TOP FHD" tvg-logo="" group-title="",PT: TVcine TOP FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590150
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVcine Edition FHD" tvg-logo="" group-title="",PT: TVcine Edition FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590151
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVCINE EDITION HD" tvg-logo="" group-title="",PT: TVCINE EDITION HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590152
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVcine Emotion FHD" tvg-logo="" group-title="",PT: TVcine Emotion FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590153
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVcine Action FHD" tvg-logo="" group-title="",PT: TVcine Action FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590154
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVCINE Action HD" tvg-logo="" group-title="",PT: TVCINE Action HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590155
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: NOS Studio HD" tvg-logo="" group-title="",PT: NOS Studio HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590156
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: NOS Studios HD" tvg-logo="" group-title="",PT: NOS Studios HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590157
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Cinemundo FHD" tvg-logo="" group-title="",PT: Cinemundo FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590158
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Hollywood FHD" tvg-logo="" group-title="",PT: Hollywood FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590159
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: AMC FHD" tvg-logo="" group-title="",PT: AMC FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590160
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: FOX Movies SD" tvg-logo="" group-title="",PT: FOX Movies SD
-http://195.66.210.10:80/Bluefox102/XYXNA/590161
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: FOX Movies FHD" tvg-logo="" group-title="",PT: FOX Movies FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590162
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: FOX FHD" tvg-logo="" group-title="",PT: FOX FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590163
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: FOX LIFE FHD" tvg-logo="" group-title="",PT: FOX LIFE FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590164
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: FOX LIFE HD" tvg-logo="" group-title="",PT: FOX LIFE HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590165
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: FOX Crime FHD" tvg-logo="" group-title="",PT: FOX Crime FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590166
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: FOX Comedy FHD" tvg-logo="" group-title="",PT: FOX Comedy FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590167
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: AXN FHD" tvg-logo="" group-title="",PT: AXN FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590168
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: AXN HD" tvg-logo="" group-title="",PT: AXN HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590169
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: AXN Movies HD" tvg-logo="" group-title="",PT: AXN Movies HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590170
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: AXN WHITE HD" tvg-logo="" group-title="",PT: AXN WHITE HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590171
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: AXN Movies FHD" tvg-logo="" group-title="",PT: AXN Movies FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590172
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: AXN White FHD" tvg-logo="" group-title="",PT: AXN White FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590173
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SYFY HD" tvg-logo="" group-title="",PT: SYFY HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590174
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SYFY SD" tvg-logo="" group-title="",PT: SYFY SD
-http://195.66.210.10:80/Bluefox102/XYXNA/590175
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Canal NOS HD" tvg-logo="" group-title="",PT: Canal NOS HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590176
-#EXTINF:-1 tvg-id="ext" tvg-name="â­â­â­ Documentaries â­â­â­" tvg-logo="" group-title="",â­â­â­ Documentaries â­â­â­
-http://195.66.210.10:80/Bluefox102/XYXNA/590177
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Discovery Channel FHD" tvg-logo="" group-title="",PT: Discovery Channel FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590178
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Historia FHD" tvg-logo="" group-title="",PT: Historia FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590179
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: HISTORIA SD" tvg-logo="" group-title="",PT: HISTORIA SD
-http://195.66.210.10:80/Bluefox102/XYXNA/590180
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: ODISSEIA SD" tvg-logo="" group-title="",PT: ODISSEIA SD
-http://195.66.210.10:80/Bluefox102/XYXNA/590181
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Odisseia FHD" tvg-logo="" group-title="",PT: Odisseia FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590182
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: National Geographic FHD" tvg-logo="" group-title="",PT: National Geographic FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590183
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: NAT GEO WILD FHD" tvg-logo="" group-title="",PT: NAT GEO WILD FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590184
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: National Geographic WILD HD" tvg-logo="" group-title="",PT: National Geographic WILD HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590185
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVI Reality FHD" tvg-logo="" group-title="",PT: TVI Reality FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590186
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVI Reality HD" tvg-logo="" group-title="",PT: TVI Reality HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590187
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVI Reality Mosaico HD" tvg-logo="" group-title="",PT: TVI Reality Mosaico HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590188
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Travelxp HD" tvg-logo="" group-title="",PT: Travelxp HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590189
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Canal Q HD" tvg-logo="" group-title="",PT: Canal Q HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590190
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SIC Radical HD" tvg-logo="" group-title="",PT: SIC Radical HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590191
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: AMC Crime FHD" tvg-logo="" group-title="",PT: AMC Crime FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590192
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: AMC Break FHD" tvg-logo="" group-title="",PT: AMC Break FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590193
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Gametoon FHD" tvg-logo="" group-title="",PT: Gametoon FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590194
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: ID Investigation Discovery FHD" tvg-logo="" group-title="",PT: ID Investigation Discovery FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590195
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TLC HD" tvg-logo="" group-title="",PT: TLC HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590196
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TLC FHD" tvg-logo="" group-title="",PT: TLC FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590197
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SIC CARAS HD" tvg-logo="" group-title="",PT: SIC CARAS HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590198
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SIC Caras TV FHD" tvg-logo="" group-title="",PT: SIC Caras TV FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590199
-#EXTINF:-1 tvg-id="ext" tvg-name="â­â­â­ PT - Entertainment â­â­â­" tvg-logo="" group-title="",â­â­â­ PT - Entertainment â­â­â­
-http://195.66.210.10:80/Bluefox102/XYXNA/590200
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: E! Entertainement FHD" tvg-logo="" group-title="",PT: E! Entertainement FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590201
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: CASA E Cozinha FHD" tvg-logo="" group-title="",PT: CASA E Cozinha FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590202
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: 24 Kitchen FHD" tvg-logo="" group-title="",PT: 24 Kitchen FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590203
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: FOOD Network HD" tvg-logo="" group-title="",PT: FOOD Network HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590204
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: FTV HD" tvg-logo="" group-title="",PT: FTV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590205
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: FTV FHD" tvg-logo="" group-title="",PT: FTV FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590206
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: MTV Portugal FHD" tvg-logo="" group-title="",PT: MTV Portugal FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590207
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: BBC Entertainement HD" tvg-logo="" group-title="",PT: BBC Entertainement HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590208
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TCV Internacional HD" tvg-logo="" group-title="",PT: TCV Internacional HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590209
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TPA" tvg-logo="" group-title="",PT: TPA
-http://195.66.210.10:80/Bluefox102/XYXNA/590210
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TPA INTERNACIONAL SD" tvg-logo="" group-title="",PT: TPA INTERNACIONAL SD
-http://195.66.210.10:80/Bluefox102/XYXNA/590211
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TPA Internacional" tvg-logo="" group-title="",PT: TPA Internacional
-http://195.66.210.10:80/Bluefox102/XYXNA/590212
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TV Galicia HD" tvg-logo="" group-title="",PT: TV Galicia HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590213
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TV Galicia FHD" tvg-logo="" group-title="",PT: TV Galicia FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590214
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TV Record FHD" tvg-logo="" group-title="",PT: TV Record FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590215
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TV5 Monde HD" tvg-logo="" group-title="",PT: TV5 Monde HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590216
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVE Internacional HD" tvg-logo="" group-title="",PT: TVE Internacional HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590217
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: ARTV FHD" tvg-logo="" group-title="",PT: ARTV FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590218
-#EXTINF:-1 tvg-id="ext" tvg-name="PT : ARTV HD" tvg-logo="" group-title="",PT : ARTV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590219
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Break HD" tvg-logo="" group-title="",PT: Break HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590220
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Cancao NOVA TV HD" tvg-logo="" group-title="",PT: Cancao NOVA TV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590221
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: CBS Reality HD" tvg-logo="" group-title="",PT: CBS Reality HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590222
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Globo NOW HD" tvg-logo="" group-title="",PT: Globo NOW HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590223
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Kuriakos TV HD" tvg-logo="" group-title="",PT: Kuriakos TV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590224
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Kuriakos TV FHD" tvg-logo="" group-title="",PT: Kuriakos TV FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590225
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: ZAP VIVA  HD" tvg-logo="" group-title="",PT: ZAP VIVA  HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590226
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: CACA E Pesca HD" tvg-logo="" group-title="",PT: CACA E Pesca HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590227
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Campo Pequeno HD" tvg-logo="" group-title="",PT: Campo Pequeno HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590228
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Toros TV  HD" tvg-logo="" group-title="",PT: Toros TV  HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590229
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: CACA Vision HD" tvg-logo="" group-title="",PT: CACA Vision HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590230
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Travel Channel FHD" tvg-logo="" group-title="",PT: Travel Channel FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590231
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: MCM TOP FHD" tvg-logo="" group-title="",PT: MCM TOP FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590232
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Canal 180 FHD" tvg-logo="" group-title="",PT: Canal 180 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590233
-#EXTINF:-1 tvg-id="ext" tvg-name="â­â­â­ PT - Music â­â­â­" tvg-logo="" group-title="",â­â­â­ PT - Music â­â­â­
-http://195.66.210.10:80/Bluefox102/XYXNA/590234
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: MTV LIVE HD" tvg-logo="" group-title="",PT: MTV LIVE HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590235
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Trace Urban HD" tvg-logo="" group-title="",PT: Trace Urban HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590236
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Trace TOCA FHD" tvg-logo="" group-title="",PT: Trace TOCA FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590237
-#EXTINF:-1 tvg-id="ext" tvg-name="PT : TRACE TOCA HD" tvg-logo="" group-title="",PT : TRACE TOCA HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590238
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: AFRO Music TV HD" tvg-logo="" group-title="",PT: AFRO Music TV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590239
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: MCM TOP HD" tvg-logo="" group-title="",PT: MCM TOP HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590240
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: MCM POP TV HD" tvg-logo="" group-title="",PT: MCM POP TV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590241
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Mezzo FHD" tvg-logo="" group-title="",PT: Mezzo FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590242
-#EXTINF:-1 tvg-id="ext" tvg-name="â­â­â­ PT - Kidsâ­â­â­" tvg-logo="" group-title="",â­â­â­ PT - Kidsâ­â­â­
-http://195.66.210.10:80/Bluefox102/XYXNA/590243
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: BABY TV FHD" tvg-logo="" group-title="",PT: BABY TV FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590244
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Biggs Panda HD" tvg-logo="" group-title="",PT: Biggs Panda HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590245
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Biggs TV HD" tvg-logo="" group-title="",PT: Biggs TV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590246
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Bloomberg HD" tvg-logo="" group-title="",PT: Bloomberg HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590247
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Canal Panda HD" tvg-logo="" group-title="",PT: Canal Panda HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590248
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Cartoon Network FHD" tvg-logo="" group-title="",PT: Cartoon Network FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590249
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Cartoonito FHD" tvg-logo="" group-title="",PT: Cartoonito FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590250
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Disney Channel FHD" tvg-logo="" group-title="",PT: Disney Channel FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590251
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Disney Channel HD" tvg-logo="" group-title="",PT: Disney Channel HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590252
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Disney Junior FHD" tvg-logo="" group-title="",PT: Disney Junior FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590253
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Lolly KIDS  HD" tvg-logo="" group-title="",PT: Lolly KIDS  HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590254
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: NICK Junior HD" tvg-logo="" group-title="",PT: NICK Junior HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590255
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Nickelodeon HD" tvg-logo="" group-title="",PT: Nickelodeon HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590256
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Panda FHD" tvg-logo="" group-title="",PT: Panda FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590257
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Panda KIDS FHD" tvg-logo="" group-title="",PT: Panda KIDS FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590258
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: PANDA KIDS HD" tvg-logo="" group-title="",PT: PANDA KIDS HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590259
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SIC K FHD" tvg-logo="" group-title="",PT: SIC K FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590260
-#EXTINF:-1 tvg-id="ext" tvg-name="â­â­â­ News TV â­â­â­" tvg-logo="" group-title="",â­â­â­ News TV â­â­â­
-http://195.66.210.10:80/Bluefox102/XYXNA/590261
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: CNBC HD" tvg-logo="" group-title="",PT: CNBC HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590262
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: BBC World NEWS HD" tvg-logo="" group-title="",PT: BBC World NEWS HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590263
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Euronews HD" tvg-logo="" group-title="",PT: Euronews HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590264
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SKY NEWS HD" tvg-logo="" group-title="",PT: SKY NEWS HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590265
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVE 24H FHD" tvg-logo="" group-title="",PT: TVE 24H FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/590266
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TVE 24H HD" tvg-logo="" group-title="",PT: TVE 24H HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590267
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: TV RECORD NEWS HD" tvg-logo="" group-title="",PT: TV RECORD NEWS HD
-http://195.66.210.10:80/Bluefox102/XYXNA/590268
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: Alma Lusa" tvg-logo="" group-title="",PT: Alma Lusa
-http://195.66.210.10:80/Bluefox102/XYXNA/590269
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SIC NOVELAS" tvg-logo="" group-title="",PT: SIC NOVELAS
-http://195.66.210.10:80/Bluefox102/XYXNA/590270
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: News Now" tvg-logo="" group-title="",PT: News Now
-http://195.66.210.10:80/Bluefox102/XYXNA/590271
-#EXTINF:-1 tvg-id="ext" tvg-name="PT: SIC Replay" tvg-logo="" group-title="",PT: SIC Replay
-http://195.66.210.10:80/Bluefox102/XYXNA/590272
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sic Caras HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt_caras.png" group-title="Portugal TV",PT: Sic Caras HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717098
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt.png" group-title="Portugal TV",PT: SIC FHD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717097
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sic_pt.png" group-title="Portugal TV",PT: SIC HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717096
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP3 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_3_pt.png" group-title="Portugal TV",PT: RTP3 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717095
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP2 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_2_pt.png" group-title="Portugal TV",PT: RTP2 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717094
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_1_pt.png" group-title="Portugal TV",PT: RTP 1 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717093
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/rr/rtp_1_pt.png" group-title="Portugal TV",PT: RTP 1 FHD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717092
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sporting TV HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sporting_tv_pt.png" group-title="Portugal TV",PT: Sporting TV HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717091
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal 11 HD (H.265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="Portugal TV",PT: Canal 11 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717090
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 2 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_2.png" group-title="Portugal TV",PT: Eurosport 2 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717089
-#EXTINF:-1 tvg-id="" tvg-name="PT: Eurosport 1 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eurosport_fr_1.png" group-title="Portugal TV",PT: Eurosport 1 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717088
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/benfica_tv.png" group-title="Portugal TV",PT: BTV HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717087
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV FHD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/benfica_tv.png" group-title="Portugal TV",PT: BTV FHD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717086
-#EXTINF:-1 tvg-id="" tvg-name="PT: BTV UHD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/bb/benfica_tv.png" group-title="Portugal TV",PT: BTV UHD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717085
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="Portugal TV",PT: ELEVEN SPORTS 3 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717084
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 UHD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="Portugal TV",PT: ELEVEN SPORTS 3 UHD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717083
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="Portugal TV",PT: ELEVEN SPORTS 2 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717082
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="Portugal TV",PT: ELEVEN SPORTS 2 FHD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717081
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="Portugal TV",PT: ELEVEN SPORTS 1 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717080
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ee/eleven_sports_network.png" group-title="Portugal TV",PT: ELEVEN SPORTS 1 FHD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717079
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD (H.265)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/300px-NBA_TV.svg.png" group-title="Portugal TV",PT: SPORT TV NBA HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717078
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 6 HD (H.265)" tvg-logo="https://uploads-eu-west-1.insided.com/meo-pt/attachment/f3f8b257-7ff1-453e-9e97-6dfec9118d9f_thumb.png" group-title="Portugal TV",PT: Sport TV 6 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717077
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 5 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sporttv5.png" group-title="Portugal TV",PT: Sport TV 5 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717076
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 4 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_4.png" group-title="Portugal TV",PT: Sport TV 4 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717075
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_3.png" group-title="Portugal TV",PT: SPORT TV 3 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717074
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_2.png" group-title="Portugal TV",PT: SPORT TV 2 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717073
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_2.png" group-title="Portugal TV",PT: SPORT TV 2 FHD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717072
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_1.png" group-title="Portugal TV",PT: SPORT TV 1 HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717071
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_1.png" group-title="Portugal TV",PT: SPORT TV 1 FHD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717070
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + HD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/ss/sport_tv_pt_mais.png" group-title="Portugal TV",PT: SPORT TV + HD (H.265)
-http://media.cloudbrit.com:8080/Raymond/Raymond12/1717069
+#EXTINF:-1,PT: 24 KITCHEN
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260297
+#EXTINF:-1,PT: AMC BREAK
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260308
+#EXTINF:-1,PT: AXN
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260300
+#EXTINF:-1,PT: AXN BLACK
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260301
+#EXTINF:-1,PT: BABY TV
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260303
+#EXTINF:-1,PT: BENFICA TV
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260304
+#EXTINF:-1,PT: BENFICA TV(opcao 2)
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260305
+#EXTINF:-1,PT: BENFICA TV(opcao 3)
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260306
+#EXTINF:-1,PT: BIGGS
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260307
+#EXTINF:-1,PT: CACA E PESCA
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260309
+#EXTINF:-1,PT: CACAVISION
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260310
+#EXTINF:-1,PT: CANAL 11
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260311
+#EXTINF:-1,PT: CANAL Q
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260312
+#EXTINF:-1,PT: CANCAO NOVA
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260313
+#EXTINF:-1,PT: CARTOON NETWORK
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260314
+#EXTINF:-1,PT: CINEMUNDO
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260315
+#EXTINF:-1,PT: CMTV
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260316
+#EXTINF:-1,PT: CNN
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260386
+#EXTINF:-1,PT: DISCOVERY CHANNEL
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260317
+#EXTINF:-1,PT: DISNEY CHANNEL
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260318
+#EXTINF:-1,PT: DISNEY JUNIOR
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260319
+#EXTINF:-1,PT: E!
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260320
+#EXTINF:-1,PT: ELEVEN SPORTS 1
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260321
+#EXTINF:-1,PT: ELEVEN SPORTS 2
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260322
+#EXTINF:-1,PT: ELEVEN SPORTS 3
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260323
+#EXTINF:-1,PT: ELEVEN SPORTS 4
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260324
+#EXTINF:-1,PT: ELEVEN SPORTS 5
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260325
+#EXTINF:-1,PT: ELEVEN SPORTS 6
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260326
+#EXTINF:-1,PT: EUROSPORT
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260327
+#EXTINF:-1,PT: EUROSPORT 2
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260328
+#EXTINF:-1,PT: FOOD NETWORK
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260329
+#EXTINF:-1,PT: FOX COMEDY
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260330
+#EXTINF:-1,PT: FOX CRIME
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260331
+#EXTINF:-1,PT: FOX LIFE
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260332
+#EXTINF:-1,PT: FOX TV
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260333
+#EXTINF:-1,PT: HISTORIA
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260334
+#EXTINF:-1,PT: HOLLYWOOD
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260335
+#EXTINF:-1,PT: INVESTIGATION DISCOVERY
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260336
+#EXTINF:-1,PT: LOCALVISAO
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260337
+#EXTINF:-1,PT: MCM POP
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260338
+#EXTINF:-1,PT: MEZZO
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260339
+#EXTINF:-1,PT: MTV
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260340
+#EXTINF:-1,PT: NAT GEO WILD
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260341
+#EXTINF:-1,PT: NATIONAL GEOGRAPHIC
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260342
+#EXTINF:-1,PT: NICK JR.
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260343
+#EXTINF:-1,PT: NICKELODEON
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260344
+#EXTINF:-1,PT: ODISSEIA
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260345
+#EXTINF:-1,PT: PANDA
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260346
+#EXTINF:-1,PT: PFC
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260347
+#EXTINF:-1,PT: PORTO CANAL
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260348
+#EXTINF:-1,PT: RTP 1
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260349
+#EXTINF:-1,PT: RTP 2
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260350
+#EXTINF:-1,PT: RTP 3
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260351
+#EXTINF:-1,PT: RTP Acores
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260352
+#EXTINF:-1,PT: RTP INTERNACIONAL
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260353
+#EXTINF:-1,PT: RTP MADEIRA
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260354
+#EXTINF:-1,PT: RTP MEMORIA
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260355
+#EXTINF:-1,PT: SIC
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260356
+#EXTINF:-1,PT: SIC CARAS
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260359
+#EXTINF:-1,PT: SIC INTERNACIONAL
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260358
+#EXTINF:-1,PT: SIC K
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260360
+#EXTINF:-1,PT: SIC MULHER
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260361
+#EXTINF:-1,PT: SIC NOTICIAS
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260362
+#EXTINF:-1,PT: SIC NOVELAS
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260389
+#EXTINF:-1,PT: SIC RADICAL
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260363
+#EXTINF:-1,PT: SIC(opcao 2)
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260357
+#EXTINF:-1,PT: SPORT TV 1
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260364
+#EXTINF:-1,PT: SPORT TV 1(opcao 2)
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260365
+#EXTINF:-1,PT: SPORT TV 1(opcao 3)
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260366
+#EXTINF:-1,PT: SPORT TV 2
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260367
+#EXTINF:-1,PT: SPORT TV 2(opcao 2)
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260368
+#EXTINF:-1,PT: SPORT TV 3
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260369
+#EXTINF:-1,PT: SPORT TV 4
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260370
+#EXTINF:-1,PT: SPORT TV 5
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260371
+#EXTINF:-1,PT: Sport TV 6
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260372
+#EXTINF:-1,PT: SPORT TV 7
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260373
+#EXTINF:-1,PT: SPORT TV+
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260374
+#EXTINF:-1,PT: SPORTING  TV
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260375
+#EXTINF:-1,PT: SYFY
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260376
+#EXTINF:-1,PT: TLC
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260377
+#EXTINF:-1,PT: TRAVEL CHANNEL
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260378
+#EXTINF:-1,PT: TV FATIMA
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260379
+#EXTINF:-1,PT: TV GLOBO
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260380
+#EXTINF:-1,PT: TV RECORD
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260381
+#EXTINF:-1,PT: TVCINE EDITION
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260383
+#EXTINF:-1,PT: TVCINE TOP
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260382
+#EXTINF:-1,PT: TVI
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260384
+#EXTINF:-1,PT: TVI FICCAO
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260387
+#EXTINF:-1,PT: TVI Internacional
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260385
+#EXTINF:-1,PT: TVI REALITY
+http://hardcoremedia.xyz:80/evhbaehp/4765328881/260388
 #EXTINF:-1 tvg-id="" tvg-name="FR: Top Santé FHD" tvg-logo="https://www.topsante.com/android-icon-192x192.png" group-title="FR Sports",FR: Top Santé FHD
 http://media.cloudbrit.com:8080/Raymond/Raymond12/1686558
 #EXTINF:-1 tvg-id="nauticalchannel.fr" tvg-name="FR: Nautical HD (1080P)" tvg-logo="https://w7.pngwing.com/pngs/14/981/png-transparent-television-channel-nautical-channel-logo-pay-television-others-miscellaneous-television-text.png" group-title="FR Sports",FR: Nautical HD (1080P)
@@ -1701,189 +1395,3 @@ http://media.cloudbrit.com:8080/Raymond/Raymond12/1685855
 http://media.cloudbrit.com:8080/Raymond/Raymond12/1685854
 #EXTINF:-1 tvg-id="mtvhitsfrance.fr" tvg-name="FR: MTV Hits FHD (H.265)" tvg-logo="http://109.238.11.8:25461/logo/tv/mm/mtv_hits_uk.png" group-title="FR Musique",FR: MTV Hits FHD (H.265)
 http://media.cloudbrit.com:8080/Raymond/Raymond12/1685853
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | ALL Sports" tvg-logo="" group-title="",BR | ALL Sports
-http://195.66.210.10:80/Bluefox102/XYXNA/236472
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Animal Planet HD" tvg-logo="" group-title="",BR | Animal Planet HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236470
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | AXN HD" tvg-logo="" group-title="",BR | AXN HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236473
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Band News HD" tvg-logo="" group-title="",BR | Band News HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236463
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Boomerang HD" tvg-logo="" group-title="",BR | Boomerang HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236501
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Canal Brasil SD" tvg-logo="" group-title="",BR | Canal Brasil SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236480
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Combate HD" tvg-logo="" group-title="",BR | Combate HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236507
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Discovery Kids HD" tvg-logo="" group-title="",BR | Discovery Kids HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236465
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Discovery Science HD" tvg-logo="" group-title="",BR | Discovery Science HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236490
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Discovery TLC HD" tvg-logo="" group-title="",BR | Discovery TLC HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236484
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Discovery World HD" tvg-logo="" group-title="",BR | Discovery World HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236520
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Discovery World SD" tvg-logo="" group-title="",BR | Discovery World SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236551
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Disney Junior HD" tvg-logo="" group-title="",BR | Disney Junior HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236508
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Disney XD HD" tvg-logo="" group-title="",BR | Disney XD HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236559
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | ESPN 2 HD" tvg-logo="" group-title="",BR | ESPN 2 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236464
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | ESPN Brasil HD" tvg-logo="" group-title="",BR | ESPN Brasil HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236456
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | ESPN EXtra HD" tvg-logo="" group-title="",BR | ESPN EXtra HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236466
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Food Network HD" tvg-logo="" group-title="",BR | Food Network HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236549
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | FOX Life HD" tvg-logo="" group-title="",BR | FOX Life HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236499
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | FOX Premium 2 HD" tvg-logo="" group-title="",BR | FOX Premium 2 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236488
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | FOX Sports 1" tvg-logo="" group-title="",BR | FOX Sports 1
-http://195.66.210.10:80/Bluefox102/XYXNA/236455
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Futura HD" tvg-logo="" group-title="",BR | Futura HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236515
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | FX HD" tvg-logo="" group-title="",BR | FX HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236493
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo Brasilia SD" tvg-logo="" group-title="",BR | Globo Brasilia SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236485
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo EPTV Campinas HD" tvg-logo="" group-title="",BR | Globo EPTV Campinas HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236498
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo EPTV Sao Carlos SD" tvg-logo="" group-title="",BR | Globo EPTV Sao Carlos SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236486
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo INTER TV Cabugi RN SD" tvg-logo="" group-title="",BR | Globo INTER TV Cabugi RN SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236527
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo Minas HD" tvg-logo="" group-title="",BR | Globo Minas HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236500
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo News HD" tvg-logo="" group-title="",BR | Globo News HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236535
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo Nordeste" tvg-logo="" group-title="",BR | Globo Nordeste
-http://195.66.210.10:80/Bluefox102/XYXNA/236562
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo Premium" tvg-logo="" group-title="",BR | Globo Premium
-http://195.66.210.10:80/Bluefox102/XYXNA/236494
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo RBS Porto Alegre" tvg-logo="" group-title="",BR | Globo RBS Porto Alegre
-http://195.66.210.10:80/Bluefox102/XYXNA/236557
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo RBS TV Pelotas HD" tvg-logo="" group-title="",BR | Globo RBS TV Pelotas HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236502
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo RPC Curitiba HD" tvg-logo="" group-title="",BR | Globo RPC Curitiba HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236522
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo RPC HD" tvg-logo="" group-title="",BR | Globo RPC HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236566
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo RPC TV SD" tvg-logo="" group-title="",BR | Globo RPC TV SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236496
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo SP FHD" tvg-logo="" group-title="",BR | Globo SP FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/236556
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo SP HD" tvg-logo="" group-title="",BR | Globo SP HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236476
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo TV Bahia SD" tvg-logo="" group-title="",BR | Globo TV Bahia SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236516
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo TV Morena FHD" tvg-logo="" group-title="",BR | Globo TV Morena FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/236570
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo TV Morena HD" tvg-logo="" group-title="",BR | Globo TV Morena HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236513
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo TV Tem Sorocaba HD" tvg-logo="" group-title="",BR | Globo TV Tem Sorocaba HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236525
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo TV Tem Sorocaba SD" tvg-logo="" group-title="",BR | Globo TV Tem Sorocaba SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236543
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Globo TV Tribuna Santos SD" tvg-logo="" group-title="",BR | Globo TV Tribuna Santos SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236529
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | GNT HD" tvg-logo="" group-title="",BR | GNT HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236509
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | HBO Family HD" tvg-logo="" group-title="",BR | HBO Family HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236489
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | HBO Pluse HD" tvg-logo="" group-title="",BR | HBO Pluse HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236487
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | HBO Pop HD" tvg-logo="" group-title="",BR | HBO Pop HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236504
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | HGTV HD" tvg-logo="" group-title="",BR | HGTV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236523
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | History Channel HD" tvg-logo="" group-title="",BR | History Channel HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236514
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | MTV HD" tvg-logo="" group-title="",BR | MTV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236503
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | MTV Live HD" tvg-logo="" group-title="",BR | MTV Live HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236506
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Multishow HD" tvg-logo="" group-title="",BR | Multishow HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236567
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Music BoX Brazil SD" tvg-logo="" group-title="",BR | Music BoX Brazil SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236544
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | NatGeo Wild SD" tvg-logo="" group-title="",BR | NatGeo Wild SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236561
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | National Geographic Kids HD" tvg-logo="" group-title="",BR | National Geographic Kids HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236497
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Nick Jr HD" tvg-logo="" group-title="",BR | Nick Jr HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236512
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Paramount Channel HD" tvg-logo="" group-title="",BR | Paramount Channel HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236548
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Premiere 1 HD" tvg-logo="" group-title="",BR | Premiere 1 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236524
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Premiere 3 HD" tvg-logo="" group-title="",BR | Premiere 3 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236568
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Record Campinas HD" tvg-logo="" group-title="",BR | Record Campinas HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236552
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Record MG SD" tvg-logo="" group-title="",BR | Record MG SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236521
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Record Nordeste HD" tvg-logo="" group-title="",BR | Record Nordeste HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236517
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Record RJ HD" tvg-logo="" group-title="",BR | Record RJ HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236518
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Record RJ SD" tvg-logo="" group-title="",BR | Record RJ SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236545
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Record SP HD" tvg-logo="" group-title="",BR | Record SP HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236481
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Rede Brasil" tvg-logo="" group-title="",BR | Rede Brasil
-http://195.66.210.10:80/Bluefox102/XYXNA/236546
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Rede Familia SD" tvg-logo="" group-title="",BR | Rede Familia SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236555
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Rede Gospel SD" tvg-logo="" group-title="",BR | Rede Gospel SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236532
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Rede TV HD" tvg-logo="" group-title="",BR | Rede TV HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236511
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Rede Vida HD" tvg-logo="" group-title="",BR | Rede Vida HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236528
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Rede Vida HD" tvg-logo="" group-title="",BR | Rede Vida HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236547
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | SBT TV Cidade Verde Piaui SD" tvg-logo="" group-title="",BR | SBT TV Cidade Verde Piaui SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236477
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Sony HD" tvg-logo="" group-title="",BR | Sony HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236479
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Space HD" tvg-logo="" group-title="",BR | Space HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236483
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | SporTV 1 HD" tvg-logo="" group-title="",BR | SporTV 1 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236460
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | SporTV 2 FHD" tvg-logo="" group-title="",BR | SporTV 2 FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/236461
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | SporTV 3" tvg-logo="" group-title="",BR | SporTV 3
-http://195.66.210.10:80/Bluefox102/XYXNA/236454
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | SporTV 3 HD" tvg-logo="" group-title="",BR | SporTV 3 HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236459
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | TCM SD" tvg-logo="" group-title="",BR | TCM SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236536
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Telecine Action HD" tvg-logo="" group-title="",BR | Telecine Action HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236491
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Telecine Fun SD" tvg-logo="" group-title="",BR | Telecine Fun SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236560
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Telecine Pipoca HD" tvg-logo="" group-title="",BR | Telecine Pipoca HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236492
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | TNT HD" tvg-logo="" group-title="",BR | TNT HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236458
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | TNT Series FHD" tvg-logo="" group-title="",BR | TNT Series FHD
-http://195.66.210.10:80/Bluefox102/XYXNA/236457
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | TNT SÃries HD" tvg-logo="" group-title="",BR | TNT SÃries HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236462
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Tooncast HD" tvg-logo="" group-title="",BR | Tooncast HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236542
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | TV Diario Do Sertao" tvg-logo="" group-title="",BR | TV Diario Do Sertao
-http://195.66.210.10:80/Bluefox102/XYXNA/236553
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | TV Gazeta SD" tvg-logo="" group-title="",BR | TV Gazeta SD
-http://195.66.210.10:80/Bluefox102/XYXNA/236537
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Universal Channel HD" tvg-logo="" group-title="",BR | Universal Channel HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236540
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Viva HD" tvg-logo="" group-title="",BR | Viva HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236531
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Woohoo HD" tvg-logo="" group-title="",BR | Woohoo HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236533
-#EXTINF:-1 tvg-id="ext" tvg-name="BR | Zoomoo HD" tvg-logo="" group-title="",BR | Zoomoo HD
-http://195.66.210.10:80/Bluefox102/XYXNA/236534
