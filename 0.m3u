@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1,PT: SPORT TV 1 FHD
-http://1tv41.icu:8080/dwsnow23@/338BPFc2R2/167742
-#EXTINF:-1,PT: SPORT TV 2 HD
-http://1tv41.icu:8080/dwsnow23@/338BPFc2R2/167743
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://1tv41.icu:8080/dwsnow23@/338BPFc2R2/167744
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV
+http://zerotwo.access.ly:2096/RonSmith23/9235167084/780260
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 2)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 2)
+http://zerotwo.access.ly:2096/RonSmith23/9235167084/780261
+#EXTINF:-1 tvg-id="" tvg-name="PT: BENFICA TV(opcao 3)" tvg-logo="" group-title="PORTUGAL",PT: BENFICA TV(opcao 3)
+http://zerotwo.access.ly:2096/RonSmith23/9235167084/780262
 #EXTINF:-1,PT: SPORT TV 4 FHD
 http://1tv41.icu:8080/dwsnow23@/338BPFc2R2/167745
 #EXTINF:-1,PT: ELEVEN SPORTS 3 HD
@@ -1297,3 +1297,4 @@ http://5678999.life:2082/live/annamusa/74968567/742794.ts
 http://5678999.life:2082/live/annamusa/74968567/742795.ts
 #EXTINF:-1,|BR| TNT SPORTS 02 HD
 http://5678999.life:2082/live/annamusa/74968567/742723.ts
+
